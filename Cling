@@ -14,27 +14,7 @@
 
 ==========================Radio===========================================
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BN1472NMwTYRUj9MfhhCo-BwNBM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7055/trax-fm-26ec95.jpg" group-title="Radio",Trax FM
-http://pencari.link/7055-vidio-hls-cetoell22.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24935g.png" group-title="Radio",Ardan FM
-http://pencari.link/7184-vidio-hls-cetoell22.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hcQfFCAAcoN-RAGsXokSDyYWIeM=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/52569888/gen987fm-4cde9f.jpg" group-title="Radio",Gen FM
-http://pencari.link/7443-vidio-hls-cetoell22.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.radioactive.sg/org-masima/0f437d87-ba64-4776-b2b4-3f039d28110c.png" group-title="Radio",Prambors FM
-http://pencari.link/7004-vidio-hls-cetoell22.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GsF7d63tDcS1FT6yMsfwknHuTw4=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7170/test-elmitra-284cd6.jpg" group-title="Radio",Elmitra FM
-http://pencari.link/7170-vidio-hls-cetoell22.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qXE3jMv4XTy5Vl6i14O4-EW9kIk=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7242/dahlia-fm-045618.jpg" group-title="Radio",Dahlia FM
-http://pencari.link/7242-vidio-hls-cetoell22.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/syO7m517yHtVMw7TS3DLiK0SoMA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8638/nagaswara-radiotemen-e4d295.jpg" group-title="Radio",Nagaswara FM
-http://pencari.link/8638-vidio-hls-cetoell22.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="724" ch-number="724" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",8FM 
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
@@ -136,29 +116,6 @@ http://astro1.rastream.com/hitz
 https://cdnmeraukepro1.rri.co.id/web-rrimeraukepro1.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio",PRAMBORS
 https://22253.live.streamtheworld.com/PRAMBORS_FM.mp3
-
-==========================Healing==========================================
-
-#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Beaches Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Mountains Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Rivers Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Tropics Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Lakes Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Animals Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Forests Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Sunsets Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Aurora Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Nature Live
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 ##########################TV Dunia####################################################
