@@ -11,6 +11,156 @@
 
 ##########################Channel Deddy Live ####################################################
 
+
+==========================Radio===========================================
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BN1472NMwTYRUj9MfhhCo-BwNBM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7055/trax-fm-26ec95.jpg" group-title="Radio",Trax FM
+http://pencari.link/7055-vidio-hls-cetoell22.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24935g.png" group-title="Radio",Ardan FM
+http://pencari.link/7184-vidio-hls-cetoell22.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hcQfFCAAcoN-RAGsXokSDyYWIeM=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/52569888/gen987fm-4cde9f.jpg" group-title="Radio",Gen FM
+http://pencari.link/7443-vidio-hls-cetoell22.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.radioactive.sg/org-masima/0f437d87-ba64-4776-b2b4-3f039d28110c.png" group-title="Radio",Prambors FM
+http://pencari.link/7004-vidio-hls-cetoell22.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GsF7d63tDcS1FT6yMsfwknHuTw4=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7170/test-elmitra-284cd6.jpg" group-title="Radio",Elmitra FM
+http://pencari.link/7170-vidio-hls-cetoell22.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qXE3jMv4XTy5Vl6i14O4-EW9kIk=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7242/dahlia-fm-045618.jpg" group-title="Radio",Dahlia FM
+http://pencari.link/7242-vidio-hls-cetoell22.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/syO7m517yHtVMw7TS3DLiK0SoMA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8638/nagaswara-radiotemen-e4d295.jpg" group-title="Radio",Nagaswara FM
+http://pencari.link/8638-vidio-hls-cetoell22.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="724" ch-number="724" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",8FM 
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
+#EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="722" ch-number="722" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",BULETIN FM 
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/BuletinFM.m3u8
+#EXTINF:-1 group-title="Radio" tvg-id="ERA" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ERA FM 
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/ERA.m3u8
+#EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="724" ch-number="723" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",FLY FM 
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/FlyFM.m3u8
+#EXTINF:-1 group-title="Radio" tvg-id="HITZ" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",HITZ FM 
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
+#EXTINF:-1 group-title="Radio" tvg-id="CHN" ch-number="958" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SURIA FM 
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
+#EXTINF:-1 group-title="Radio" tvg-id="SINAR" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",SINAR FM 
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SINAR.m3u8
+#EXTINF:-1 group-title="Radio" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", HOT FM 
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="7" tvg-name="Gegar FM" group-title="Radio" tvg-logo="https://m.media-amazon.com/images/I/71wZrXb9yzL.png",Gegar FM
+http://astro2.rastream.com/gegar
+
+#EXTINF:-1 tvg-id="" tvg-chno="12" tvg-name="India Beat FM" group-title="Radio" tvg-logo="https://m.media-amazon.com/images/I/71wZrXb9yzL.png",INDIA BEAT FM
+http://astro4.rastream.com/india
+
+#EXTINF:-1 tvg-id="" tvg-chno="13" tvg-name="Kool FM" group-title="Radio" tvg-logo="https://m.media-amazon.com/images/I/71wZrXb9yzL.png",KOOL FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 tvg-id="" tvg-chno="14" tvg-name="Lite FM" group-title="Radio" tvg-logo="https://m.media-amazon.com/images/I/71wZrXb9yzL.png",LITE FM
+http://astro1.rastream.com/lite
+
+#EXTINF:-1 tvg-id="" tvg-chno="15" tvg-name="Melody FM" group-title="Radio" tvg-logo="https://m.media-amazon.com/images/I/71wZrXb9yzL.png",MELODY FM
+https://astro3.rastream.com/melody
+
+#EXTINF:-1 tvg-id="" tvg-chno="16" tvg-name="Mix FM" group-title="Radio" tvg-logo="https://m.media-amazon.com/images/I/71wZrXb9yzL.png",MIX FM
+https://astro2.rastream.com/mix
+
+#EXTINF:-1 tvg-id="" tvg-chno="17" tvg-name="My FM" group-title="Radio" tvg-logo="https://m.media-amazon.com/images/I/71wZrXb9yzL.png",MY FM
+https://astro1.rastream.com/myfm
+
+#EXTINF:-1 tvg-id="" tvg-chno="18" tvg-name="My Sarawak FM" group-title="Radio" tvg-logo="https://m.media-amazon.com/images/I/71wZrXb9yzL.png",MY SARAWAK FM
+http://astro1.rastream.com/amp-myfm-kch
+
+#EXTINF:-1 tvg-id="" tvg-chno="19" tvg-name="My Sabah FM" group-title="Radio" tvg-logo="https://m.media-amazon.com/images/I/71wZrXb9yzL.png",MY SABAH FM
+http://astro1.rastream.com/amp-myfm-kk
+
+#EXTINF:-1 tvg-id="" tvg-chno="20" tvg-name="One FM" group-title="Radio" tvg-logo="https://m.media-amazon.com/images/I/71wZrXb9yzL.png",ONE FM
+https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1 tvg-id="" tvg-chno="21" tvg-name="Raaga FM" group-title="Radio" tvg-logo="https://m.media-amazon.com/images/I/71wZrXb9yzL.png",RAAGA FM
+https://astro3.rastream.com/raaga
+
+#EXTINF:-1 tvg-id="" tvg-chno="23" tvg-name="Sandakan FM" group-title="Radio" tvg-logo="https://m.media-amazon.com/images/I/71wZrXb9yzL.png",SANDAKAN FM
+http://192.111.140.6:8142
+
+#EXTINF:-1 tvg-id="" tvg-chno="24" tvg-name="Sinar FM" group-title="Radio" tvg-logo="https://m.media-amazon.com/images/I/71wZrXb9yzL.png",SINAR FM
+http://astro2.rastream.com/sinar
+
+#EXTINF:-1 tvg-id="" tvg-chno="25" tvg-name="Syok Bayu FM" group-title="Radio" tvg-logo="https://m.media-amazon.com/images/I/71wZrXb9yzL.png",SYOK BAYU FM
+https://astro4.rastream.com/bayu.web
+
+
+#EXTINF:-1 tvg-id="" tvg-chno="30" tvg-name="Syok Opus FM" group-title="Radio" tvg-logo="https://m.media-amazon.com/images/I/71wZrXb9yzL.png",SYOK OPUS FM
+http://astro4.rastream.com/opus
+
+
+#EXTINF:-1 tvg-id="" tvg-chno="104" tvg-name="" radio="false" catchup="default" group-title="Radio" tvg-logo="https://m.media-amazon.com/images/I/71wZrXb9yzL.png",ASYIK FM
+https://23693.live.streamtheworld.com/ASYIK_FMAAC
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYKtCMioZdG3g7GQQL_YVc-e3LSBXfz6EMQ&usqp=CAU" group-title="Radio",Trax FM Palembang
+http://stream.radiojar.com/qv4muvhswk8uv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ009zQpV4GKnwKcjkE381GtYYld1O8U_lIpA&usqp=CAU" group-title="Radio",Female Radio
+https://stream.cloudmu.id/listen/female/stream?icy=http
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c1/HARDROCK-FM-JAKARTA.png" group-title="Radio",Hard Rock 87.6 Jakarta
+https://stream.radiojar.com/7csmg90fuqruv.mp3?1678353316
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjvY3KWSjBKTGq0CPTSrZj2zEe0VgjLkh77w&usqp=CAU" group-title="Radio",Motion 97.5 Jakarta
+https://cast1.my-control-panel.com/proxy/radioso2/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnMIW7HTQVxFmcSEZp_VfKbSKO4PvTjclOfg&usqp=CAU" group-title="Radio",KKFI 90.1 FM
+https://nustream.pacificaservice.org:9000/kkfi_128
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnT9NNzC-UNXSpfX5-A_zvrlqVwaANsnCGZQ&usqp=CAU" group-title="Radio",Mentari FM Solo
+https://i.klikhost.com/9122/;stream.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ec/Rodja756am.png" group-title="Radio",Radio Rodja
+https://radioislamindonesia.com/rodja.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Nn86Vde50U7qmZmlwhTZ4Fqkoy9UdDr-aQ&usqp=CAU" group-title="Radio",SOLOPOS FM
+https://radio.solopos.com:8002/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio",EBS - Surabaya
+http://streaming.radiopanorama.net:8100/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio",TRAX DKI
+http://stream.radiojar.com/rrqf78p3bnzuv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio",HITZ BANDUNG
+http://hits.unikom.ac.id:9996/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio", Hitz
+https://github.com/AqFad2811/RadioYTLive/raw/main/Hitz.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio", I-RADIO
+http://stream.radiojar.com/4ywdgup3bnzuv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio",Hitz FM
+http://astro1.rastream.com/hitz
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio",RRI
+https://cdnmeraukepro1.rri.co.id/web-rrimeraukepro1.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio",PRAMBORS
+https://22253.live.streamtheworld.com/PRAMBORS_FM.mp3
+
+==========================Healing==========================================
+
+#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Beaches Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Mountains Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Rivers Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Tropics Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Lakes Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Animals Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Forests Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Sunsets Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Aurora Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Healing",Nature Live
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+
 ##########################TV Dunia####################################################
 
 #EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="TV Dunia",Sharjah 2 (1080p)
