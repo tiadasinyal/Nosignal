@@ -2060,7 +2060,7 @@ https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d58b4ece7dc97fd49ec94abc6bb326cf:60d980942265304b30e5d6038d6d8793
+#KODIPROP:inputstream.adaptive.license_key=3202fdcca01dc12b3d562574f8378b8d:d50f7c9ced01c121b831dc2b6074f911
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg",CH NBATV (V*)
 https://etslive-2-vidio-com.akamaized.net/drm/dash/6717_stream.mpd
 
