@@ -8226,6 +8226,53 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF: -1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Sony india",Sony BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Zee India
+http://103.120.172.74:1040
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Star India
+http://103.120.172.74:1060
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Colors
+http://103.120.172.74:1070
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Sony SAB
+http://103.120.172.74:1080
+#EXTINF:-1 group-title="Sony india" tvg-logo="",India news
+http://103.120.172.74:1090
+#EXTINF:-1 group-title="Sony india" tvg-logo="",StarPlus
+http://103.120.172.74:1120
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Zee TV
+http://103.120.172.74:1140
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Sony Max
+http://103.120.172.74:1150
+#EXTINF:-1 group-title="Sony india" tvg-logo="",DD news
+http://103.120.172.74:1170
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Zee TV
+http://103.120.172.74:4000
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Star sports1
+http://103.120.172.74:4100
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Star sports2
+http://103.120.172.74:4200
+#EXTINF:-1 group-title="Sony india" tvg-logo="",StarPlus
+http://103.120.172.74:4300
+#EXTINF:-1 group-title="Sony india" tvg-logo="",MTV
+http://103.120.172.74:4400
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Star sports1
+http://103.120.172.74:4600
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Star sports2
+http://103.120.172.74:4700
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Star sports2
+http://103.120.172.74:4800
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Star Gold
+http://103.120.172.74:5000
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Sony HD
+http://103.120.172.74:5100
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Star India
+http://103.120.172.74:5200
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Sony Sport5
+http://103.120.172.74:5300
+#EXTINF:-1 group-title="Sony india" tvg-logo="",Sony Sport1
+http://103.120.172.74:5400
+#EXTINF:-1 group-title="Sony india" tvg-logo="",NDTV
+http://103.120.172.74:5500
+
 -----Knowledge-----
 
 #EXTINF:0  tvg-id="" tvg-name="" group-title="Knowledge" tvg-logo="https://i.postimg.cc/LX77w7NY/rai-it.png", Rai Italia
@@ -8625,54 +8672,7 @@ http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
 
 
 
-/////INDIA/////
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee India
-http://103.120.172.74:1040
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star India
-http://103.120.172.74:1060
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Colors
-http://103.120.172.74:1070
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Sony SAB
-http://103.120.172.74:1080
-#EXTINF:-1 group-title="INDIA" tvg-logo="",India news
-http://103.120.172.74:1090
-#EXTINF:-1 group-title="INDIA" tvg-logo="",StarPlus
-http://103.120.172.74:1120
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee TV
-http://103.120.172.74:1140
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Sony Max
-http://103.120.172.74:1150
-#EXTINF:-1 group-title="INDIA" tvg-logo="",DD news
-http://103.120.172.74:1170
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Zee TV
-http://103.120.172.74:4000
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports1
-http://103.120.172.74:4100
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports2
-http://103.120.172.74:4200
-#EXTINF:-1 group-title="INDIA" tvg-logo="",StarPlus
-http://103.120.172.74:4300
-#EXTINF:-1 group-title="INDIA" tvg-logo="",MTV
-http://103.120.172.74:4400
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports1
-http://103.120.172.74:4600
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports2
-http://103.120.172.74:4700
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports2
-http://103.120.172.74:4800
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star Gold
-http://103.120.172.74:5000
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Sony HD
-http://103.120.172.74:5100
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Star India
-http://103.120.172.74:5200
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Sony Sport5
-http://103.120.172.74:5300
-#EXTINF:-1 group-title="INDIA" tvg-logo="",Sony Sport1
-http://103.120.172.74:5400
-#EXTINF:-1 group-title="INDIA" tvg-logo="",NDTV
-http://103.120.172.74:5500
 
 /////JAPAN/////
 
