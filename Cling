@@ -4140,10 +4140,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
-#########################
-######## HIBURAN ########
-#########################
-
 #EXTINF:-1 group-title="Pision" tvg-id="nadoo.kr" tvg-logo="https://iptv.urfan.web.id/logo/nadoo.png",Nadoo Korean
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
@@ -9525,7 +9521,7 @@ https://1117141481.vnns.net/VTC11/chunks.m3u8
 https://1117141481.vnns.net/VTC12/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc13hd" group-title="Thailand dan Vietnam" tvg-logo="https://i.imgur.com/wnNBcEo.png",VTC13 HD
 https://1117141481.vnns.net/VTC13/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" group-title="Hiburan" tvg-logo="https://i.imgur.com/xsCQpOz.png",VTC13 4K
+#EXTINF:-1 tvg-id="vtc13hd" group-title="Thailand dan Vietnam" tvg-logo="https://i.imgur.com/xsCQpOz.png",VTC13 4K
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
 #EXTINF:-1 tvg-id="vtc14hd" group-title="Thailand dan Vietnam" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 HD
 https://1117141481.vnns.net/VTC14/chunks.m3u8
