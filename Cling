@@ -3693,6 +3693,14 @@ https://sport.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
 =======================pision=================================
 
+#EXTINF:-1 group-title="Pision" tvg-id="vivatelevisi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV 
+https://delivery.ksa.my.id/stream/vtv/playlist.m3u8?token=ym1wtrp
+
+#EXTINF:0 tvg-id="AjwaTV.id" tvg-name="Ajwa TV" ch-id="7464"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Ajwa_TV.png" group-title="pision" ,Ajwa TV 
+https://iptvme.xyz:443/vid/hls.m3u8?id=7464 
+
+#EXTINF:-1 group-title="pision" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV 
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 group-title="Pision" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvri.png",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
