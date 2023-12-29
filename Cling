@@ -8038,7 +8038,7 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/466211162627915777/9IN6xYTd_400x400.png"group-title="Music", VEVO Pop 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/466211162627915777/9IN6xYTd_400x400.png" group-title="Music", VEVO Pop 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png",Clubbing TV
@@ -8574,7 +8574,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/OfficialMTATV/live
 
 
-#EXTINF:-1 tvg-id="AswajaTV.id" status="online"group-title="Religi" tvg-logo="https://play-lh.googleusercontent.com/9uWeddJOMkNHxbC4YIVpFxBNdzzB0kIyH5g3SuA-HvFN02_gEiyvsuckKTSynW8l2g",Aswaja TV 
+#EXTINF:-1 tvg-id="AswajaTV.id" status="online" group-title="Religi" tvg-logo="https://play-lh.googleusercontent.com/9uWeddJOMkNHxbC4YIVpFxBNdzzB0kIyH5g3SuA-HvFN02_gEiyvsuckKTSynW8l2g",Aswaja TV 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x748iuo
 
 
