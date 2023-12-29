@@ -7899,13 +7899,13 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 https://marine2.miplay.cl/kpop/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-logo="https://pakar.co.id/storage/2019/08/Musica-Studio.png" group-title="Music" , MUSICA Klasik
-https://youtube-hls-m3u8.nixiehai263.repl.co/video/ZONJYOxIhRY.m3u8
+https://youtube-hls-m3u8.nixiehai263.repl.co/video/5WHIxOgGctQ.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-logo="https://pakar.co.id/storage/2019/08/Musica-Studio.png" group-title="Music" , MUSICA Studios
-https://youtube-hls-m3u8.nixiehai263.repl.co/video/-aX6PQ92ZLo.m3u8
+https://youtube-hls-m3u8.nixiehai263.repl.co/video/VCdd-cJgENs.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-logo="https://pakar.co.id/storage/2019/08/Musica-Studio.png" group-title="Music" , MUSICA NOAH 
-https://youtube-hls-m3u8.nixiehai263.repl.co/video/8Z_aaVwXYmY.m3u8
+https://youtube-hls-m3u8.nixiehai263.repl.co/video/jw55W0JCsnY.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="musica.id" tvg-logo="https://iptv.urfan.web.id/logo/musica.png",Musica Studios
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -7914,6 +7914,10 @@ https://kister.net/mpl/yt2m3u8?w=@MusicaStudios
 #EXTINF:-1 group-title="Music" tvg-id="aquarius.id" tvg-logo="https://iptv.urfan.web.id/logo/aquarius.png",Aquarius Musikindo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://kister.net/mpl/yt2m3u8?w=@AquariusMusikindo
+
+#EXTINF:-1 group-title="Music" tvg-id="aquarius.id" tvg-logo="https://iptv.urfan.web.id/logo/aquarius.png",Aquarius Musikindo YT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://youtube-hls-m3u8.nixiehai263.repl.co/video/CNUedJo2ve0.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="nagaswara.id" tvg-logo="https://iptv.urfan.web.id/logo/nagaswara.png",Nagaswara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
