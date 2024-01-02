@@ -8247,6 +8247,9 @@ http://203.162.235.41:28107/
 http://203.162.235.41:29108/
 
 =======================LIVE EVENT===========================================
+#EXTINF: -1 tvg-logo="LOGO" group-title="LIVE EVENT",Indonesia vs libya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://etslive-2-vidio-com.akamaized.net/exp=1704213938~acl=/hls-p/ingest_16836_*/*~hmac=bb5c5e103ed9b0cbacc056eaddb00ba49db1955479517c48da36e2da8e4f5d1f/hls-p/ingest_16836_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
