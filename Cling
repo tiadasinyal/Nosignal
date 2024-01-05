@@ -7,7 +7,8 @@
 #EXTM3U x-url-tvg="https://strimz.my.id/epg"
 #EXTM3U url-tvg="https://strimz.my.id/ep
 ======================================================================
-
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://i.ibb.co/stL6b6b/INDOSIAR-PPI-IP-TV.png" group-title="LIVE EVENT",indo vs libya
+https://etslive-2-vidio-com.akamaized.net/exp=1704472269~acl=/hls-p/ingest_16836_*/*~hmac=ebb77cbf8136cc0575cf5fa874ca7fa79173d6f698c6371a0b2e0c8800e31a8d/hls-p/ingest_16836_720p/index.m3u8
 =========================================== SINGAPORE ===========================================
 
 #EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/cmWAYhj.png" group-title="TV Singapore",Channel 5
