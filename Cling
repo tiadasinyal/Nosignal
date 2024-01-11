@@ -7,7 +7,7 @@
 #EXTM3U x-url-tvg="https://strimz.my.id/epg"
 #EXTM3U url-tvg="https://strimz.my.id/ep
 ======================================================================
-
+test
 
 ============================================================================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
