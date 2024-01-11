@@ -10,11 +10,20 @@
 test
 
 ============================================================================
+AFC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/Piala_Asia_AFC_2023_logo.svg/1200px-Piala_Asia_AFC_2023_logo.svg.png" group-title="LIVE EVENT",AFC
 https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/Piala_Asia_AFC_2023_logo.svg/1200px-Piala_Asia_AFC_2023_logo.svg.png" group-title="LIVE EVENT",Qatar TV
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/Piala_Asia_AFC_2023_logo.svg/1200px-Piala_Asia_AFC_2023_logo.svg.png" group-title="LIVE EVENT",Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/Piala_Asia_AFC_2023_logo.svg/1200px-Piala_Asia_AFC_2023_logo.svg.png" group-title="LIVE EVENT",Sukan
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 =========================================== SINGAPORE ===========================================
 
 #EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/cmWAYhj.png" group-title="TV Singapore",Channel 5
@@ -9174,6 +9183,30 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
 https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
+
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 1 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9061
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 2 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9060
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 3 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9059
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 4 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9058
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 5 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9057
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 6 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9056
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 7 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9055
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 8 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9054
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 9 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9053
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 10 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9052
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 11 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9051
 
 
 ########################## RELIGI ##########################
