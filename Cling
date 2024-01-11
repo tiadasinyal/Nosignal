@@ -7,11 +7,7 @@
 #EXTM3U x-url-tvg="https://strimz.my.id/epg"
 #EXTM3U url-tvg="https://strimz.my.id/ep
 ======================================================================
-test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
-#EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="LIVE EVENT",BOO
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2407/default.mpd
+
 
 ============================================================================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
