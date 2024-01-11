@@ -8,7 +8,10 @@
 #EXTM3U url-tvg="https://strimz.my.id/ep
 ======================================================================
 test
-
+#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="LIVE EVENT", OPTUS SPORT 1 MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
+https://cors.lim.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 ============================================================================
 AFC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
