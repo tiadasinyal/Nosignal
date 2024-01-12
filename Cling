@@ -8,17 +8,22 @@
 #EXTM3U url-tvg="https://strimz.my.id/ep
 ======================================================================
 test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
-#EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="LIVE EVENT",BOO test2
-https://sange-astro.palat.workers.dev/2407/default.mpd
 
-#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="LIVE EVENT", OPTUS SPORT 1 MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
-https://cors.lim.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 ============================================================================
 AFC
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/Piala_Asia_AFC_2023_logo.svg/1200px-Piala_Asia_AFC_2023_logo.svg.png" group-title="LIVE EVENT",AFC (Soccer Channel)
+https://alpukat-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/Piala_Asia_AFC_2023_logo.svg/1200px-Piala_Asia_AFC_2023_logo.svg.png" group-title="LIVE EVENT",AFC (Sportstars)
+https://alpukat-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/Piala_Asia_AFC_2023_logo.svg/1200px-Piala_Asia_AFC_2023_logo.svg.png" group-title="LIVE EVENT",AFC
@@ -2788,6 +2793,41 @@ https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8|user-agent=okhttp/4.10.0
 https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8|user-agent=okhttp/4.10.0
 
 ########################## Olahraga 2 ##########################
+
+#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="LIVE EVENT", OPTUS SPORT 1 MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
+https://cors.lim.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="Olahraga 2", OPTUS SPORT 2 MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=127b26420b5343719a317dc6abc3099e:a859aa07a1a3a75eb6525195ca441488
+https://cors.lim.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="Olahraga 2", OPTUS SPORT 3 MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea0621118ecd46ff982ca4af8c2a9837:3146695d2eed75d4b1e8005adeb2ebc6
+https://cors.lim.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport3/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="Olahraga 2", OPTUS SPORT 4 MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbf70a6fc0bc4adb8bf777400ee12415:02b39b93bdeb41329fe32d9aae7d32d5
+https://cors.lim.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport4/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="Olahraga 2", OPTUS SPORT 5 MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ecaa9c5e14941d89281e932dcb5a91a:b3b74ce2a4fa1dd8135b566c939fc19f
+https://cors.lim.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="Olahraga 2", OPTUS SPORT 6 MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f95b305610c54ef0a2aae0647456c477:ad60099095daeb7d1181edb22c4af590
+https://cors.lim.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport6/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="Olahraga 2", OPTUS SPORT 7 MPD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7659939fbb44194acb82baff73af8fc:f165f4f2e81772c8faf7f95df0fbfef0
+https://cors.lim.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport7/xbtss/drm/avc/dash/plain/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Olahraga 2" , ZIGGO SPORT VOETBAL
 #EXTVLCOPT:network-caching=1000
