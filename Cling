@@ -29,8 +29,8 @@ https://alpukat-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-H
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/Piala_Asia_AFC_2023_logo.svg/1200px-Piala_Asia_AFC_2023_logo.svg.png" group-title="LIVE EVENT",AFC
 https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/Piala_Asia_AFC_2023_logo.svg/1200px-Piala_Asia_AFC_2023_logo.svg.png" group-title="LIVE EVENT",AFC (Qatar TV)
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/Piala_Asia_AFC_2023_logo.svg/1200px-Piala_Asia_AFC_2023_logo.svg.png" group-title="LIVE EVENT",AFC 2
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_ind_130124/mobile_master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/Piala_Asia_AFC_2023_logo.svg/1200px-Piala_Asia_AFC_2023_logo.svg.png" group-title="LIVE EVENT",AFC (Okey)
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
