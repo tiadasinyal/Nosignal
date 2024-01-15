@@ -4645,7 +4645,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="Channel Vision", MOJI (BU)
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://s.id/1YseN
-https://playlist-coffee.my.id/oxy/vtv.m3u8
 
 
 ############################
@@ -7959,7 +7958,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch26%29/index.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="TV National", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://playlist-coffee.my.id/oxy/vtv.m3u8
+https://playlist-coffee.my.id/oxy/moji.m3u8
 
 #EXTINF:-1 group-title="TV National" tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
