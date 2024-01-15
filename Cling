@@ -8,7 +8,10 @@
 #EXTM3U url-tvg="https://strimz.my.id/ep
 ======================================================================
 test
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
+#EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="Channel Astor",BOO
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2407/default.mpd
 ============================================================================
 AFC
 
@@ -3475,20 +3478,26 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://thumbor.prod.vidiocdn.com/325h1CgqikfL2T35OYA0SOBY3Co=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg",Bein 3 (IND)
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
-#EXTINF:-1 tvg-id="801" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Olahraga 2",ASTRO ARENA VPN
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+#EXTINF:-1 tvg-id="bein-sports-1-en" group-title="Olahraga 2" tvg-logo="https://i.imgur.com/Vtk2cGI.png",BeIN Sports 1 Thailand (English)
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 tvg-id="bein-sports-2-en" group-title="Olahraga 2" tvg-logo="https://i.imgur.com/vUJZSvs.png",BeIN Sports 2 Thailand (English)
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+#EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png", beIN SPORTS (My)
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/408/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
-#EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Olahraga 2",ASTRO ARENA 2 VPN
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+#EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png", beIN SPORTS 2 (My)
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5066/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2601
-#EXTINF:-1 tvg-id="823" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Olahraga 2",PREMIER SPORTS VPN
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/astro.php?id=2705
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+#EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png", bEIN SPORTS 3 (My)
+https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2705/default.mpd
 
 #EXTINF:-1 tvg-id="beINSports.qa" tvg-name="beIN Sports HD" tvg-logo="https://aqfadtv.xyz/logos/beINSports.png" group-title="Olahraga 2",Astro beIN Sports 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36 
@@ -3551,6 +3560,11 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2099115/hd_akamai_merged_avc_eng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://thumbor.prod.vidiocdn.com/SQycWiqqMK6FDAldu-upv21M56A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg",CH NBATV (V*)
 https://etslive-2-vidio-com.akamaized.net/drm/dash/6717_stream.mpd
+
+#EXTINF:-1 tvg-id="NBATVHD.us", tvg-logo="https://i.imgur.com/MpMtUlK.png", group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Olahraga 2", NBA TV (Indi)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",NBA TV DZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -7952,9 +7966,8 @@ https://bit.ly/3MeFJVc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://bit.ly/3Sc6EFk
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="TV National", MOJI (FM)
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch26%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="TV National",MOJI (Indi)
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="TV National", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -8003,6 +8016,20 @@ https://alpukat-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-id="VTVINDONESIA" tvg-logo="https://i.postimg.cc/tCSB1v0R/download-98.jpg" group-title="TV National",VTV Indonesia 
 https://playlist-coffee.my.id/oxy/vtv.m3u8
+
+#EXTINF:-1 tvg-id="VTVINDONESIA" tvg-logo="https://i.postimg.cc/tCSB1v0R/download-98.jpg" group-title="TV National",VTV Indonesia 
+https://playlist-coffee.my.id/oxy/vtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDONESIA",Oxygen TV
+https://cdn3-reg2.mm.oxygen.id/hls/oxygentv-web/index.m3u8
+
+#EXTINF:-1 group-title="TV National" tvg-id="" tvg-logo="https://i.postimg.cc/HLBFxHgP/20231111-164817.png",Maxstream 
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+#EXTINF:-1 group-title="TV National" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png", Bioskop Indonesia (Indi)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
