@@ -8378,57 +8378,81 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9263bf14-cd77
 ----Lifestyle----
 
 
-#EXTINF:-1 group-title="Lifestyle" tvg-id="asianfoodnetwork.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png",Asian Food Network 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png",TLC (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
 
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png",TLC (F*)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
 
-#EXTINF:-1 group-title="Lifestyle" tvg-id="biznetadventure.id" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png",Biznet Adventure 
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="",The Food Network (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
 
-#EXTINF:-1 group-title="Lifestyle" tvg-id="biznetlifestyle.id" tvg-logo="https://i.imgur.com/XqUfQKA.png",Biznet Lifestyle 
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0 
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="" ,The Food Network (F*)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
 
-#EXTINF:-1 group-title="Lifestyle" tvg-id="denslifenstyle.id" tvg-logo="https://i.imgur.com/EB1gdAT.png",Dens Life & Style 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://rr3.dens.tv/s/s101/live.m3u8 
- 
-#EXTINF:-1 group-title="Lifestyle" tvg-id="densplay.id" tvg-logo="https://i.imgur.com/MCammJD.png",Dens Play 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://rr3.dens.tv/s/s37/index.m3u8 
-	 
-#EXTINF:-1 group-title="Lifestyle" tvg-id="densfoodchannel.id" tvg-logo="https://i.imgur.com/IFdunTz.png",Dens Food Channel 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://rr3.dens.tv/s/s38/index.m3u8 
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="" ,Asian Food Network (F*)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
 
-#EXTINF:-1 group-title="Lifestyle" tvg-id="duniagames.id" tvg-logo="https://duniagames.co.id/assets/v2/images/components/logo.png",Dunia Games 
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_167.jpg",Lifetime (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Na1vGXR.png" group-title="Lifestyle",Fashion TV Midnight Secret(*)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png", HGTV (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 
-
-#EXTINF:-1 group-title="Lifestyle" tvg-id="hgtvasia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png",HGTV Asia 
-http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/index.m3u8
-
-#EXTINF:-1 group-title="Lifestyle" tvg-id="kbslife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/640px-KBS_Life.svg.png",KBS Life 
-http://mytv.dothome.co.kr/ch/catv/5.php 
-
-
-#EXTINF:-1 group-title="Lifestyle" tvg-id="lifetimeasia.us" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/4/2021/03/11131921/Lifetime_Logo_Rosex500.png",Lifetime 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8 
-
-#EXTINF:-1 group-title="Lifestyle" tvg-id=techstorm.id" tvg-logo="https://i.postimg.cc/WzHn678d/techstorm.png", Tech Storm 
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
-
-#EXTINF:-1 group-title="Lifestyle" tvg-id="tlcsoutheastasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",TLC 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
-
-#EXTINF:-1 tvg-id="BBCLifestyleAsia.uk" tvg-name="BBC Lifestyle" ch-number="717" group-title="Lifestyle" tvg-logo="https://weareratchet.com/web/wp-content/uploads/2019/04/10.-BBC-Lifestyle.png", BBC Lifestyle HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"https://api.thomasandi.my.id/api/cubmu.php"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
-https://1.yurend.xyz/dash-wv/linear/5050/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://auto.nyolong-lu-y.workers.dev
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be3daa5c58d6/073cb14d55e54ce58f028f2d74649f02.png" group-title="LIFESTYLE",Eat N Go
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lifestyle" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg", DENS Life & Style
+http://210.210.155.35/x6bnqe/s/s65/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=DENS_Life_n_Style
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lifestyle" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg", Dens Food Channel
+http://210.210.155.35/x6bnqe/s/s50/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_Food_Channel_Trial-
+
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Lifestyle", Bisnet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lifestyle" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg", DensPlay
+http://210.210.155.35/x6bnqe/s/s101/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=DensPlay
+http://210.210.155.35/x6bnqe/s/s101/live.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_90.png",Lifestyle & Fashion (V+)
+https://alpukat-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_79.jpg",M Shop Signature (V+)
+https://alpukat-live-cdn.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.jpg",M Shop Super Sale! (V+)
+https://alpukat-live-cdn.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
 
 
 #EXTINF:0 tvg-id="DWEnglish.de" tvg-name="dwtv" tvg-logo="https://i.imgur.com/0x1fWbw.png" group-title="Lifestyle",DW (English)
