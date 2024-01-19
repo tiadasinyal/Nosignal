@@ -8,6 +8,100 @@
 #EXTM3U url-tvg="https://strimz.my.id/ep
 ======================================================================
 test :
+#EXTINF:-1 tvg-id="Sky Sports Main Event" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",Sky Sports Main Event
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003c16cd15b85b5fb9e849c67e7a766:7865ecc481cb767dd4051bc5a5e38095
+http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsmainevent50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Premier League" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",Sky Sports PL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005588f470d6ffad9dfb866cae14137:47242613834db3b6e3e5bb76a999a26b
+http://linear010-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportspremierleague50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Football" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png",Sky Sports Football
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00051ec4671fcd3e8095f1e6118d9052:50304047eb0a462a4ba50add2596b215
+http://linear005-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsfootball50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Cricket" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png",Sky Sports Cricket
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005eb76b5de5febd0999f855af90a28:2590a172be1e9ac2c7e472b57b4fdccc
+http://linear003-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportscricket50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Golf" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-golf-uk.png",Sky Sports Golf
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003f683cdd69c3f5f5db214cdf6ba14:69d1f40ce760478e7a1802d46212610a
+http://linear006-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsgolf50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports F1" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",Sky Sports F1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003e175dc4d90a65a62c760931ca883:aebd7473b94b29991247682cb7db9fc3
+http://linear004-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsf150)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports NFL" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-nfl-uk.png",Sky Sports NFL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000308025caa65f961f4e23935920cb6:0e64e12e8cf018424050453a3a08ae5c
+http://linear030-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsaction50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Arena" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-arena-uk.png",Sky Sports Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005a7a4cf928dfc4a93e5d4de5c8142:76a7b979bf978f4ccddc83dcade58793
+http://linear031-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsarena50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports News HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb4049.png",Sky Sports News HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00052e70d545b18ea23dff28294d3232:a1ae2b890325fad4bdb68056809062c4
+http://linear033-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsnews50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Racing" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-racing-uk.png",Sky Sports Racing
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003c16cd15b85b5fb9e849c67e7a766:7865ecc481cb767dd4051bc5a5e38095
+http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsmainevent50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports PL HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb4010.png",Sky Sports PL HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005588f470d6ffad9dfb866cae14137:47242613834db3b6e3e5bb76a999a26b
+http://linear010-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportspremierleague50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Football HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb3939.png",Sky Sports Football HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00051ec4671fcd3e8095f1e6118d9052:50304047eb0a462a4ba50add2596b215
+http://linear005-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsfootball50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Cricket HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb4081.png",Sky Sports Cricket HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005eb76b5de5febd0999f855af90a28:2590a172be1e9ac2c7e472b57b4fdccc
+http://linear003-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportscricket50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Golf HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb4026.png",Sky Sports Golf HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003f683cdd69c3f5f5db214cdf6ba14:69d1f40ce760478e7a1802d46212610a
+http://linear006-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsgolf50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports F1 HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb3835.png",Sky Sports F1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003e175dc4d90a65a62c760931ca883:aebd7473b94b29991247682cb7db9fc3
+http://linear004-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsf150)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports NFL HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb4022.png",Sky Sports NFL HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000308025caa65f961f4e23935920cb6:0e64e12e8cf018424050453a3a08ae5c
+http://linear030-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsaction50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Arena HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb3940.png",Sky Sports Arena HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005a7a4cf928dfc4a93e5d4de5c8142:76a7b979bf978f4ccddc83dcade58793
+http://linear031-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsarena50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports News" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb1314.png",Sky Sports News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003f71a2070b23103d1fe75f671c3b5:9f95e0c8ed6311a94fe021221ecf4b99
+http://linear034-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsracing50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Mix" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png",Sky Sports Mix
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000368544ccd41b73876dc2a314a263e:6487040edb8767b8223b4eca79a20d42
+http://linear032-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsmix50)/manifest_mob.mpd
 
 ============================================================================
 AFC
@@ -166,192 +260,6 @@ https://mwmpos03.akamaized.net/out/v1/d5536f0898994112a118290f25e5648b/manifest.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af2dc6a1c9754ec7b0ff0377da872153:7af660ca428760dfbe99e10047e0e2e4
 https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.mpd
-
-
-
-==============================================Channel Viaplay=================================================
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 70
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f396558259365aab8b1f1502c4a1a168:842ca067717a32f8d142c467006010ac
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra70/xtra70.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 71
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7f6469c43db5876bfbc4446f4ebcf2e:cdc319032d2fe72ed1f6ab7891428494
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra71/xtra71.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 72
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbf9d297447754c8ab3c46e15e362128:32564291b3fad88a57e2f702c70fc1fe
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra72/xtra72.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 73
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a0c1ed5c545545697fbd68ca4751d5b:5e6faf300c09e230220d672e95915d6f
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra73/xtra73.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 74
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6c464b8e6a35c6c855f0794f3b59676:3394ad15e6b1a8880730360f38bb9c7f
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra74/xtra74.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 75
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae6701fa0a0f501e823d04337b94249e:2a24717173c36fdd00f6bcb61db61dac
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra75/xtra75.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 76
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=df607a45634f521d9f221047360d7db3:795c808177d6212aa80a5ab3f94fb55e
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra76/xtra76.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 77
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c33d0c6ad8258cca9f749ec2e412201:cf74279ac4d42bcd9b9503ed8551e940
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra77/xtra77.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 78
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e49d168a0d0a5b67899bfe876e2f13ae:16881418c8aebab513c37ef1f46a0dc9
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra78/xtra78.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 79
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56906807307516bbe7de1831a1a4e66:aec25f1b435d7a66f5636e0ca9de3bac
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra79/xtra79.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 80
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4f4763795b651c7b7308061aab429cb:10dd1e5c73efaa7529547e95b539489c
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra80/xtra80.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 81
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=04f8e26fe0c757bd934092ab79ad8a90:d4dab0008c9f41d7b40e13e919d462c7
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra81/xtra81.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 82
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=27400dec8356578baf595c70d3173959:eb823db12ef47c40f808e51c9b00dd72
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra82/xtra82.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 83
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53fb8fd37b095339982bc428adb271ae:0563a5f1df7f86469a247d35507ac358
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra83/xtra83.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",Viaplay SE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",Viaplay 1 UK
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d4ace310f235981bef56897fe94e766:06383cd4cdcc92bb3e83d8ea49245472
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/vpsports1uk.isml/index.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",Viaplay 2 UK
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 43
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6565b9a95bee5ccfbfee3f248df59610:79f596efb730cdb51ff5a83f04e94ba4
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra43/xtra43.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 44
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f9f46fc5ccb58db8d85b963c4af0b17:5de15709c503b9e2881613e5d1c4871a
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra44/xtra44.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 45
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=38e9d5c816f65e148a5ffe61fb9d3c7d:266cc12b3e98d48a15f8ffaefc0cc18c
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra45/xtra45.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 46
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e138256f98c5e628fe2a90225b93d91:478e7143e331fa4284c6373ffae3fb21
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra46/xtra46.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 47
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fde4b0dd77895f818b4a2d6eec75291c:91a7a8f680428ff44a5b9bfeb036d22f
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra47/xtra47.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 48
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=91a4e93ee9595b2395539d06dc5fd6a9:ef4fbcb241952789028248c0feda01cf
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra48/xtra48.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 49
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e5b890a468c5982a3048ed273cc4977:ec05b19aaf38cec225dafb0d3f52d7dc
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra49/xtra49.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 50
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dad12504756558e5ac7f677c8caedbc5:8de56c1629dc78277d782653cda7f9bf
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra50/xtra50.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 13
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=16a2d39eb1ab526491cb75bbcdd36c11:d4ac894a6f201ae733bbd49bc205c523
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra13/xtra13.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 14
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2639c53b83ab569ea7604f6d7254cf07:b71453d8ac148772851f075812cc4ff2
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra14/xtra14.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 15
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5069ccd6e77d5f09918744ab2a1e59bd:79afa7c076f08438d951b2b50655a633
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra15/xtra15.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 16
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=50bc507cbe9659beabcf6dcc66101337:e2e7f3b7f6754778ebbd5946915ba2f4
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra16/xtra16.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 17
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e482d02225d05cb68d8a0cd66bacee8b:f77b436d0893db1f70627c0ceac0553d
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra17/xtra17.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 18
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82e7f7bb461a57b9b1f83ec4cf9760c6:24aff08822e2632f25eaeb80178499b7
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra18/xtra18.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 19
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fc2fcb3779458d9a8789c54ee1bc7b0:6faead88837a154db20fddab0358a32f
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra19/xtra19.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 20
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5277738f1ea154ca9bd43e4e448f3951:8391d0701a3a7b724d48cb5a3f7c3e4a
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra20/xtra20.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 21
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5238eceaf0655fc8af760cdd636c7426:1176ce340c82b3f07299e9abff731b85
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra21/xtra21.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 22
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd58d2619a9057d3a48fcc0a0f271549:d3ad44278dc2cf752e49a3ba26b69c4f
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra22/xtra22.isml/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nkd0JBJ.png" group-title="Channel Viaplay",VIA| Viaplay Xtra 23
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6a3dbc917815dc7b6072a68d5a4f97d:547e9756fbf8ccccdc64b1302c606f48
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra23/xtra23.isml/index.mpd
-
 
 =========================================================Anak========================================
 
