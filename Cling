@@ -8,100 +8,149 @@
 #EXTM3U url-tvg="https://strimz.my.id/ep
 ======================================================================
 test :
-#EXTINF:-1 tvg-id="Sky Sports Main Event" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",Sky Sports Main Event
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003c16cd15b85b5fb9e849c67e7a766:7865ecc481cb767dd4051bc5a5e38095
-http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsmainevent50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT F1 IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master_stereo.mpd?decryption_key=58145ec5b35e7f62555c2ed5f3ef2342
 
-#EXTINF:-1 tvg-id="Sky Sports Premier League" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",Sky Sports PL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005588f470d6ffad9dfb866cae14137:47242613834db3b6e3e5bb76a999a26b
-http://linear010-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportspremierleague50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT UNO IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/skysportuno/master_stereo.mpd?decryption_key=02f27bd6caab7633d3083b94d3958b1c
 
-#EXTINF:-1 tvg-id="Sky Sports Football" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png",Sky Sports Football
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00051ec4671fcd3e8095f1e6118d9052:50304047eb0a462a4ba50add2596b215
-http://linear005-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsfootball50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT MAX IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31248/FHD/skysportmax/master_stereo.mpd?decryption_key=4fbb022704c9abcbb709484a5667fd79
 
-#EXTINF:-1 tvg-id="Sky Sports Cricket" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png",Sky Sports Cricket
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005eb76b5de5febd0999f855af90a28:2590a172be1e9ac2c7e472b57b4fdccc
-http://linear003-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportscricket50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT NBA IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31764/FHD/skysportnba/master_stereo.mpd?decryption_key=ea5626c0aa092c382ca58151b5f4b208
 
-#EXTINF:-1 tvg-id="Sky Sports Golf" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-golf-uk.png",Sky Sports Golf
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003f683cdd69c3f5f5db214cdf6ba14:69d1f40ce760478e7a1802d46212610a
-http://linear006-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsgolf50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT GOLF IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32768/FHD/skysportgolf/master_stereo.mpd?decryption_key=8708612971e3cfa8e03698996b1a3b7f
 
-#EXTINF:-1 tvg-id="Sky Sports F1" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",Sky Sports F1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003e175dc4d90a65a62c760931ca883:aebd7473b94b29991247682cb7db9fc3
-http://linear004-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsf150)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT ARENA IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master_stereo.mpd?decryption_key=77dee68a39366663755beb8fa62dcc1e
 
-#EXTINF:-1 tvg-id="Sky Sports NFL" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-nfl-uk.png",Sky Sports NFL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000308025caa65f961f4e23935920cb6:0e64e12e8cf018424050453a3a08ae5c
-http://linear030-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsaction50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT CALCIO IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31209/FHD/skysportseriea/master_stereo.mpd?decryption_key=0bc653d830837dceb13bd17169f0f8e2
 
-#EXTINF:-1 tvg-id="Sky Sports Arena" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-arena-uk.png",Sky Sports Arena
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005a7a4cf928dfc4a93e5d4de5c8142:76a7b979bf978f4ccddc83dcade58793
-http://linear031-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsarena50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT TENNIS IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/master_stereo.mpd?decryption_key=fa39fd500dc4e291801a710499634330
 
-#EXTINF:-1 tvg-id="Sky Sports News HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb4049.png",Sky Sports News HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00052e70d545b18ea23dff28294d3232:a1ae2b890325fad4bdb68056809062c4
-http://linear033-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsnews50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT MOTO GP IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31483/FHD/skysportmotogp/master_stereo.mpd?decryption_key=08e1ae9fa0ee4d9ec2b194c4908613ae
 
-#EXTINF:-1 tvg-id="Sky Sports Racing" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-racing-uk.png",Sky Sports Racing
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003c16cd15b85b5fb9e849c67e7a766:7865ecc481cb767dd4051bc5a5e38095
-http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsmainevent50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT 24 IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31035/FHD/skysport24/master_stereo.mpd?decryption_key=36e97f29ec5ea6126077cc040cc2ceeb
 
-#EXTINF:-1 tvg-id="Sky Sports PL HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb4010.png",Sky Sports PL HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005588f470d6ffad9dfb866cae14137:47242613834db3b6e3e5bb76a999a26b
-http://linear010-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportspremierleague50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT 251 IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master_stereo.mpd?decryption_key=8f84185910e18ae0ca8a45004625a000
 
-#EXTINF:-1 tvg-id="Sky Sports Football HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb3939.png",Sky Sports Football HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00051ec4671fcd3e8095f1e6118d9052:50304047eb0a462a4ba50add2596b215
-http://linear005-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsfootball50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT 252 IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master_stereo.mpd?decryption_key=1689af84b23f514005f9bb854da7667f
 
-#EXTINF:-1 tvg-id="Sky Sports Cricket HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb4081.png",Sky Sports Cricket HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005eb76b5de5febd0999f855af90a28:2590a172be1e9ac2c7e472b57b4fdccc
-http://linear003-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportscricket50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT 253 IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32233/FHD/skysport253/master_stereo.mpd?decryption_key=f68ab32a552e13509a8ee1c4d96204bc
 
-#EXTINF:-1 tvg-id="Sky Sports Golf HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb4026.png",Sky Sports Golf HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003f683cdd69c3f5f5db214cdf6ba14:69d1f40ce760478e7a1802d46212610a
-http://linear006-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsgolf50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT 254 IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31234/FHD/skysport254/master_stereo.mpd?decryption_key=e768767e2c7238d8069887bb36aed7fa
 
-#EXTINF:-1 tvg-id="Sky Sports F1 HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb3835.png",Sky Sports F1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003e175dc4d90a65a62c760931ca883:aebd7473b94b29991247682cb7db9fc3
-http://linear004-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsf150)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT 255 IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32910/FHD/skysport255/master_stereo.mpd?decryption_key=f309b94acfda720bf1ed5741489f8967
 
-#EXTINF:-1 tvg-id="Sky Sports NFL HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb4022.png",Sky Sports NFL HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000308025caa65f961f4e23935920cb6:0e64e12e8cf018424050453a3a08ae5c
-http://linear030-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsaction50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT 256 IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master_stereo.mpd?decryption_key=754ae922d113c54349002cd9a88694a4
 
-#EXTINF:-1 tvg-id="Sky Sports Arena HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb3940.png",Sky Sports Arena HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005a7a4cf928dfc4a93e5d4de5c8142:76a7b979bf978f4ccddc83dcade58793
-http://linear031-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsarena50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT 257 IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master_stereo.mpd?decryption_key=dbd41ee944243307d39b7b27f16615a8
 
-#EXTINF:-1 tvg-id="Sky Sports News" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb1314.png",Sky Sports News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003f71a2070b23103d1fe75f671c3b5:9f95e0c8ed6311a94fe021221ecf4b99
-http://linear034-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsracing50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT 258 IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd?decryption_key=dfd5c9d0f4ac6f3a1bd89803399e7026
 
-#EXTINF:-1 tvg-id="Sky Sports Mix" group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png",Sky Sports Mix
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000368544ccd41b73876dc2a314a263e:6487040edb8767b8223b4eca79a20d42
-http://linear032-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsmix50)/manifest_mob.mpd
+#EXTINF: -1, SKY SPORT 259 IT
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31613/skysport259/master.mpd?decryption_key=e5b0cebdc3edd7996d283041535fce9c
+
+> nothing happened:
+#EXTINF: -1, SKY SPORT F1 DE
+http://svc40.main.sl.t-online.de/LCID3221228660.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228660/3221228660.mpd?decryption_key=b4d7735cfc62869213816523b4c5ce5d
+
+#EXTINF: -1, SKY SPORT PL DE
+http://svc40.main.sl.t-online.de/LCID3221228697.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228697/3221228697.mpd?decryption_key=39f99cf43d67d8d00ed67a4cc50c911f
+
+#EXTINF: -1, SKY SPORT MIX DE
+http://svc40.main.sl.t-online.de/LCID3221228698.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228698/3221228698.mpd?decryption_key=9aa53ae4a69b99627d2cb2fffaeb92a2
+
+#EXTINF: -1, SKY SPORT GOLF DE
+http://svc40.main.sl.t-online.de/LCID3221228701.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228701/3221228701.mpd?decryption_key=8a62e4097e6b6b3f948a2860ca279005
+
+#EXTINF: -1, SKY SPORT NEWS DE
+http://svc40.main.sl.t-online.de/LCID3221228686.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228686/3221228686.mpd?decryption_key=ea9985bc79474d867a892bc762119bfe
+
+#EXTINF: -1, SKY SPORT TENNIS DE
+http://svc40.main.sl.t-online.de/LCID3221228653.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228653/3221228653.mpd?decryption_key=26d26f5481e5b9a2643cec596f4263cf
+
+#EXTINF: -1, SKY SPORT TOP EVENT DE
+http://svc40.main.sl.t-online.de/LCID3221228663.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228663/3221228663.mpd?decryption_key=6f26ab28007f2e04fae7e8d68da97618
+
+#EXTINF: -1, SKY SPORT 1 DE
+http://svc40.main.sl.t-online.de/LCID3221228648.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228648/3221228648.mpd?decryption_key=45c55842d69bce7e514e2c722fff13c7
+
+#EXTINF: -1, SKY SPORT 2 DE
+http://svc40.main.sl.t-online.de/LCID3221228649.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228649/3221228649.mpd?decryption_key=a219ee7e568545d44830be0d66a7c337
+
+#EXTINF: -1, SKY SPORT 3 DE
+http://svc40.main.sl.t-online.de/LCID3221228641.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228641/3221228641.mpd?decryption_key=a31c8823fc590d9dc7ab1daeb83ee79a
+
+#EXTINF: -1, SKY SPORT 4 DE
+http://svc40.main.sl.t-online.de/LCID3221228650.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228650/3221228650.mpd?decryption_key=cfd04d8d9346d5ee3d7f46c89ab2a928
+
+#EXTINF: -1, SKY SPORT 5 DE
+http://svc40.main.sl.t-online.de/LCID3221228643.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228643/3221228643.mpd?decryption_key=0206bd96296438f507c17938b668c4ef
+
+#EXTINF: -1, SKY SPORT 6 DE
+http://svc40.main.sl.t-online.de/LCID3221228646.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228646/3221228646.mpd?decryption_key=d2ae4c8f02ef1aa8b80d4d4ef69c5cf1
+
+#EXTINF: -1, SKY SPORT 7 DE
+http://svc40.main.sl.t-online.de/LCID3221228644.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228644/3221228644.mpd?decryption_key=3d3514638b77b11b4087a1134f888692
+
+#EXTINF: -1, SKY SPORT 8 DE
+http://svc40.main.sl.t-online.de/LCID3221228651.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228651/3221228651.mpd?decryption_key=ef352ef3011fecf6effdca1884d5e4de
+
+#EXTINF: -1, SKY SPORT 9 DE
+http://svc40.main.sl.t-online.de/LCID3221228647.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228647/3221228647.mpd?decryption_key=e80793f7afcb3fb702016a3076cedf07
+
+#EXTINF: -1, SKY SPORT 10 DE
+http://svc40.main.sl.t-online.de/LCID3221228699.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228699/3221228699.mpd?decryption_key=11e29200c39e3e672d7a5da85be65c4a
+
+#EXTINF: -1, SKY SPORT BUNDESLIGA 0 DE
+http://svc40.main.sl.t-online.de/LCID3221228664.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228664/3221228664.mpd?decryption_key=69727560d6c97932a854f619f80b4fc8
+
+#EXTINF: -1, SKY SPORT BUNDESLIGA 1 DE
+http://svc40.main.sl.t-online.de/LCID3221228661.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228661/3221228661.mpd?decryption_key=57818c3010a9201650675a56a97a82eb
+
+> nothing happened:
+#EXTINF: -1, SKY SPORT BUNDESLIGA 2 DE
+http://svc40.main.sl.t-online.de/LCID3221228655.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228655/3221228655.mpd?decryption_key=049dd9afe147a04d9de262d1bcfb3cbf
+
+#EXTINF: -1, SKY SPORT BUNDESLIGA 3 DE
+http://svc40.main.sl.t-online.de/LCID3221228662.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228662/3221228662.mpd?decryption_key=ebb85c34e07735bcb3e1d23b10da81ec
+
+#EXTINF: -1, SKY SPORT BUNDESLIGA 4 DE
+http://svc40.main.sl.t-online.de/LCID3221228652.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228652/3221228652.mpd?decryption_key=5e61deb533e4dbf9751312901bd4f23b
+
+#EXTINF: -1, SKY SPORT BUNDESLIGA 5 DE
+http://svc40.main.sl.t-online.de/LCID3221228656.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228656/3221228656.mpd?decryption_key=6d3285829d1700f60e899bb5367b04a3
+
+#EXTINF: -1, SKY SPORT BUNDESLIGA 6 DE
+http://svc40.main.sl.t-online.de/LCID3221228657.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228657/3221228657.mpd?decryption_key=f92e0d14a760d6f7e3cdd217ffaedfef
+
+#EXTINF: -1, SKY SPORT BUNDESLIGA 7 DE
+http://svc40.main.sl.t-online.de/LCID3221228658.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228658/3221228658.mpd?decryption_key=cfa906f1982748b5190ff5672b74066a
+
+#EXTINF: -1, SKY SPORT BUNDESLIGA 8 DE
+http://svc40.main.sl.t-online.de/LCID3221228654.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228654/3221228654.mpd?decryption_key=dc26f09f8757ed88ce8715d0e535f9b8
+
+#EXTINF: -1, SKY SPORT BUNDESLIGA 9 DE
+http://svc40.main.sl.t-online.de/LCID3221228659.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228659/3221228659.mpd?decryption_key=51c7a9131a3a02980e61163516c7556a
+
+#EXTINF: -1, SKY SPORT BUNDESLIGA 10 DE
+http://svc40.main.sl.t-online.de/LCID3221228700.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228700/3221228700.mpd?decryption_key=ac12f159ee9ae63b5e2a7976001b9931
+
 
 ============================================================================
 AFC
