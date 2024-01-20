@@ -2607,41 +2607,103 @@ https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8|user-agent=okhttp/4.10.0
 https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8|user-agent=okhttp/4.10.0
 
 ########################## Olahraga 2 ##########################
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bebawy6/EPG/master/ukEPG.xml" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="LIVE EVENT", OPTUS SPORT 1 MPD
+#EXTINF:-1 tvg-id="Sky Sports Main Event" group-title="Olahraga 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png",Sky Sports Main Event
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
-https://cors.lim.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=0003c16cd15b85b5fb9e849c67e7a766:7865ecc481cb767dd4051bc5a5e38095
+http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsmainevent50)/manifest_mob.mpd
 
-#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="Olahraga 2", OPTUS SPORT 2 MPD
+#EXTINF:-1 tvg-id="Sky Sports Premier League" group-title="Olahraga 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png",Sky Sports PL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=127b26420b5343719a317dc6abc3099e:a859aa07a1a3a75eb6525195ca441488
-https://cors.lim.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=0005588f470d6ffad9dfb866cae14137:47242613834db3b6e3e5bb76a999a26b
+http://linear010-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportspremierleague50)/manifest_mob.mpd
 
-#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="Olahraga 2", OPTUS SPORT 3 MPD
+#EXTINF:-1 tvg-id="Sky Sports Football" group-title="Olahraga 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png",Sky Sports Football
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea0621118ecd46ff982ca4af8c2a9837:3146695d2eed75d4b1e8005adeb2ebc6
-https://cors.lim.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport3/xbtss/drm/avc/dash/plain/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=00051ec4671fcd3e8095f1e6118d9052:50304047eb0a462a4ba50add2596b215
+http://linear005-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsfootball50)/manifest_mob.mpd
 
-#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="Olahraga 2", OPTUS SPORT 4 MPD
+#EXTINF:-1 tvg-id="Sky Sports Cricket" group-title="Olahraga 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png",Sky Sports Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbf70a6fc0bc4adb8bf777400ee12415:02b39b93bdeb41329fe32d9aae7d32d5
-https://cors.lim.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport4/xbtss/drm/avc/dash/plain/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=0005eb76b5de5febd0999f855af90a28:2590a172be1e9ac2c7e472b57b4fdccc
+http://linear003-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportscricket50)/manifest_mob.mpd
 
-#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="Olahraga 2", OPTUS SPORT 5 MPD
+#EXTINF:-1 tvg-id="Sky Sports Golf" group-title="Olahraga 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-golf-uk.png",Sky Sports Golf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ecaa9c5e14941d89281e932dcb5a91a:b3b74ce2a4fa1dd8135b566c939fc19f
-https://cors.lim.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=0003f683cdd69c3f5f5db214cdf6ba14:69d1f40ce760478e7a1802d46212610a
+http://linear006-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsgolf50)/manifest_mob.mpd
 
-#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="Olahraga 2", OPTUS SPORT 6 MPD
+#EXTINF:-1 tvg-id="Sky Sports F1" group-title="Olahraga 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png",Sky Sports F1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f95b305610c54ef0a2aae0647456c477:ad60099095daeb7d1181edb22c4af590
-https://cors.lim.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport6/xbtss/drm/avc/dash/plain/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=0003e175dc4d90a65a62c760931ca883:aebd7473b94b29991247682cb7db9fc3
+http://linear004-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsf150)/manifest_mob.mpd
 
-#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="Olahraga 2", OPTUS SPORT 7 MPD 
+#EXTINF:-1 tvg-id="Sky Sports NFL" group-title="Olahraga 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-nfl-uk.png",Sky Sports NFL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b7659939fbb44194acb82baff73af8fc:f165f4f2e81772c8faf7f95df0fbfef0
-https://cors.lim.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport7/xbtss/drm/avc/dash/plain/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=000308025caa65f961f4e23935920cb6:0e64e12e8cf018424050453a3a08ae5c
+http://linear030-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsaction50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Arena" group-title="Olahraga 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-arena-uk.png",Sky Sports Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005a7a4cf928dfc4a93e5d4de5c8142:76a7b979bf978f4ccddc83dcade58793
+http://linear031-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsarena50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports News HD" group-title="Olahraga 2" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb4049.png",Sky Sports News HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00052e70d545b18ea23dff28294d3232:a1ae2b890325fad4bdb68056809062c4
+http://linear033-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsnews50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Racing" group-title="Olahraga 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-racing-uk.png",Sky Sports Racing
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003c16cd15b85b5fb9e849c67e7a766:7865ecc481cb767dd4051bc5a5e38095
+http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsmainevent50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports PL HD" group-title="Olahraga 2" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb4010.png",Sky Sports PL HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005588f470d6ffad9dfb866cae14137:47242613834db3b6e3e5bb76a999a26b
+http://linear010-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportspremierleague50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Football HD" group-title="Olahraga 2" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb3939.png",Sky Sports Football HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00051ec4671fcd3e8095f1e6118d9052:50304047eb0a462a4ba50add2596b215
+http://linear005-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsfootball50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Cricket HD" group-title="Olahraga 2" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb4081.png",Sky Sports Cricket HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005eb76b5de5febd0999f855af90a28:2590a172be1e9ac2c7e472b57b4fdccc
+http://linear003-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportscricket50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Golf HD" group-title="Olahraga 2" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb4026.png",Sky Sports Golf HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003f683cdd69c3f5f5db214cdf6ba14:69d1f40ce760478e7a1802d46212610a
+http://linear006-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsgolf50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports F1 HD" group-title="Olahraga 2" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb3835.png",Sky Sports F1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003e175dc4d90a65a62c760931ca883:aebd7473b94b29991247682cb7db9fc3
+http://linear004-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsf150)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports NFL HD" group-title="Olahraga 2" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb4022.png",Sky Sports NFL HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000308025caa65f961f4e23935920cb6:0e64e12e8cf018424050453a3a08ae5c
+http://linear030-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsaction50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Arena HD" group-title="Olahraga 2" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb3940.png",Sky Sports Arena HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005a7a4cf928dfc4a93e5d4de5c8142:76a7b979bf978f4ccddc83dcade58793
+http://linear031-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsarena50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports News" group-title="Olahraga 2" tvg-logo="https://raw.githubusercontent.com/cubafile/logo/main/skychb1314.png",Sky Sports News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003f71a2070b23103d1fe75f671c3b5:9f95e0c8ed6311a94fe021221ecf4b99
+http://linear034-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsracing50)/manifest_mob.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports Mix" group-title="Olahraga 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png",Sky Sports Mix
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000368544ccd41b73876dc2a314a263e:6487040edb8767b8223b4eca79a20d42
+http://linear032-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsmix50)/manifest_mob.mpd
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Olahraga 2" , ZIGGO SPORT VOETBAL
 #EXTVLCOPT:network-caching=1000
