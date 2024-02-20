@@ -3638,12 +3638,33 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&userid=4r
 http://rr3.dens.tv/h/h114/index.m3u8
 
 =========================================== Olahraga 3 ===========================================
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 1 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9061
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 2 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9060
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 3 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9059
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 4 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9058
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 5 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9057
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 6 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9056
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 7 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9055
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 8 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9054
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 9 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9053
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 10 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9052
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 11 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/9051
 
 #EXTINF:-1 tvg-id="beIN SPORTS MAX 4.fr" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="Olahraga 3" , beIN Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ssudj4RaMVolmhKGe2eS5A","k":"nJgaml/4+5gUnWAhuWI6sw"},{"kty":"oct","kid":"LrsNNZsjhyVs0gxUevMq9w","k":"+udRObNMfJuPnNQHHYDBng"},{"kty":"oct","kid":"bfof/0SBOSIGmniwlD7LaQ","k":"CKf8e0d4lgszyA4m00E9mw"},{"kty":"oct","kid":"vm0egZi/k1JwslM9Vr0c/Q","k":"uIP7+bZSuYxTDGS8mofBUg"},{"kty":"oct","kid":"Y8BEn3INpLfVF59DcHbq3w","k":"5hFONrHRo5ADHlgtCz86Nw"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
-
 
 #EXTINF:-1 tvg-id="beIN SPORTS MAX 4.fr" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="Olahraga 3" , beIN Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9178,31 +9199,6 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
 https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
-
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 1 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9061
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 2 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9060
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 3 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9059
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 4 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9058
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 5 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9057
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 6 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9056
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 7 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9055
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 8 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9054
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 9 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9053
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 10 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9052
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 11 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9051
-
 
 ########################## RELIGI ##########################
 
