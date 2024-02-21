@@ -3240,32 +3240,6 @@ https://s.id/1V2Fg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="Olahraga 2", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff1730e2afa58e4a4b6c0be9d7f1d825:2a9f660aa7536eb513ca5900249d6add
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://thumbor.prod.vidiocdn.com/lvdgQtUIBH_iGasvsaziKgUnI14=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9430/world-cup-1-016904.jpg",ChampionsTV WWC 1 (V*)
-https://drm-wc-1-vidio-com.akamaized.net/out/v1/36cd2d7a8d154757bc4859104fe1ee61/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba2e12135e8d82738707f5a56d1cceaf:113a7ec168041707a10bfafc08387b40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://thumbor.prod.vidiocdn.com/lvdgQtUIBH_iGasvsaziKgUnI14=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9430/world-cup-1-016904.jpg",ChampionsTV WWC 1 (BU)
-https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dad26bed782d6991d64970ce3cb006da:2c8b3759afc68f6944089f5b4b7a1f50
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://thumbor.prod.vidiocdn.com/yTIuhy19WfFRcqF8Yl1rHvhiaCM=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9431/world-cup-2-9fa55f.jpg",ChampionsTV WWC 2 (V*)
-https://drm-wc-2-vidio-com.akamaized.net/out/v1/1694b2f77c404c3fa3cb40a8c7a85201/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1fdbf1b35bc0eedde38c349780878a4a:8fe1768cf996da13a08d01f6eb26e843
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://thumbor.prod.vidiocdn.com/yTIuhy19WfFRcqF8Yl1rHvhiaCM=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9431/world-cup-2-9fa55f.jpg",ChampionsTV WWC 2 (BU)
-https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd
-
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://thumbor.prod.vidiocdn.com/yTIuhy19WfFRcqF8Yl1rHvhiaCM=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9431/world-cup-2-9fa55f.jpg",WWC (BU)
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
