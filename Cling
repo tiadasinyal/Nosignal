@@ -9,6 +9,12 @@
 ======================================================================
 test :
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/Piala_Asia_AFC_2023_logo.svg/1200px-Piala_Asia_AFC_2023_logo.svg.png" group-title="LIVE EVENT",LFC VS Chealsea
+https://live.mocdn.tv/out/v1/e3b6cb27892d4466a522bf43fe92da1a/manifest_L1.mpd
+
+
 ============================================================================
 AFC
 
