@@ -8,7 +8,10 @@
 #EXTM3U url-tvg="https://strimz.my.id/ep
 ======================================================================
 Test
-
+#EXTM3U
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="sub1",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",NAME="English",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,LANGUAGE="en-US",URI="https://cc.2cdns.com/a1/a8/a1a8e83458b9a5b1b4fdf272d0da60a3/ind-20.vtt"
+#EXT-X-STREAM-INF:BANDWIDTH=678000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1152x720,SUBTITLES="sub1"
+https://g.pollllop.com/_v11/91486417b8ad0d5b4257d9b1cc8150a31fcbcade24e95acbe1962017723401c8e83aed9a4be3a0daf1d136affdc1509cf97e44e06bd26fffec40d436928c88efe33f10ab51ef6c733c46bdabfd00cf54374e9b5c8c10d0a9ef4d8da915e9c05a09c957b9a5f0e3c9392212a8d61e6e6b731f77a0f1a2f38b28f7acf1f7b51bf29c232f752630d03b189242325a986cb6/playlist.m3u8
 
 ============================================================================
 AFC
