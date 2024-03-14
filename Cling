@@ -2481,13 +2481,13 @@ https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8|user-agent=okhttp/4.10.0
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",Eurosport 1
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-031/stream.mpd
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-031/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id\u003d1088590917281_image-header_pDach_1661949223000\u0026quality\u003d70",Eurosport 2
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-032/stream.mpd
 
 #EXTINF:-1 group-title="Olahraga 2", Eurosport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
