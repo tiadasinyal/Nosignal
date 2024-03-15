@@ -2466,8 +2466,7 @@ https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_500000=10001-mp4a_64000_eng=20002.m3u8
-
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_64000_eng=20002.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
@@ -6378,15 +6377,12 @@ https://h1.intechmedia.net/intech/ch92.m3u8
 
 #EXTINF:-1 group-title="TV National" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvri.png",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8
 
 #EXTINF:-1 group-title="TV National" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvriworld.png",TVRI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
-#EXTINF:-1 group-title="TV National" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 
 
 
