@@ -1501,11 +1501,6 @@ https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.
 
 =========================================== ANAK ===========================================
 
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Anak" group-title="Anak" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/611%281%29.png/revision/latest?cb=20200521080605" , Astro Ceria 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
-https://sange-astro.palat.workers.dev/2606/default.mpd|Referer=I_Love_OnlyFans
-
 #EXTINF:-1 group-title="Anak" tvg-logo="https://i.imgur.com/MfogyNo.png",DEI Kids TV
 https://e.siar.us/live/deikidstv.m3u8
 
@@ -6195,15 +6190,11 @@ https://bit.ly/3MeFJVc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://bit.ly/3Sc6EFk
 
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="TV National",INDOSIAR (Htv)
-https://s.id/21ogW-indosiar|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="TV National",INDOSIAR (V*)
-http://startv365.com:80/D85A79B4/55A7743D/45098
+http://103.226.232.196:8000/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="TV National",SCTV (Htv)
-https://s.id/21ohu-sctv|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="TV National",SCTV (V*)
-http://startv365.com:80/D85A79B4/55A7743D/45099
+http://103.226.232.196:8000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="TV National",MOJI (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
@@ -6254,7 +6245,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTINF:-1 tvg-id="VTVINDONESIA" tvg-logo="https://i.postimg.cc/tCSB1v0R/download-98.jpg" group-title="TV National",VTV Indonesia 
 https://gachor99.my.id/play.m3u8?id=vtv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV National",Oxygen TV
-https://cdn3-reg2.mm.oxygen.id/hls/oxygentv-web/index.m3u8
+http://103.226.232.196:8000/play/a00p/index.m3u8
+##https://cdn3-reg2.mm.oxygen.id/hls/oxygentv-web/index.m3u8
 
 #EXTINF:-1 group-title="TV National" tvg-id="" tvg-logo="https://i.postimg.cc/HLBFxHgP/20231111-164817.png",Maxstream 
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
@@ -7304,8 +7296,13 @@ https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.m
 
 ########################## RELIGI ##########################
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ajwa_TV_logo.png", Ajwa TV (vidio)
+#https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=7464&type=hls
+
 #EXTINF:-1 group-title="Religi" tvg-logo="https://i.imgur.com/MfogyNo.png",DEI Kids TV
-https://h1.intechmedia.net/intech/ch80.m3u8
+https://e.siar.us/live/deikidstv.m3u8
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://mqtv.co.id/wp-content/uploads/2021/04/Logo_MQTV_Original-1024x258.png", MQTV
 https://5bf7b725107e5.streamlock.net:443/mqtv/mqtv/playlist.m3u8
