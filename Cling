@@ -6086,6 +6086,10 @@ http://203.162.235.41:28107/
 http://203.162.235.41:29108/
 
 =======================LIVE EVENT===========================================
+#EXTINF:0 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="LIVE EVENT",TNT/BT Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://cdn0-production-images-kly.akamaized.net/Vc-s_D9xNXNKJjeaibHoriMrlkA=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4798569/original/091827600_1712589882-Piala_Asia_U-23_-_Ilustrasi_Logo_Piala_Asia_U-23_copy.jpg" group-title="LIVE EVENT",RCTI 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
