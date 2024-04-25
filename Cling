@@ -2648,11 +2648,11 @@ https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.matnnews.com/UploadCache/libfiles/12/2/400x225o/92.png",SSC 4 HD
-https://ssc-4-on-prem-ak.akamaized.net/out/v1/3e442c7dad1b44b6a0914aa26b62a892/index.mpd
+https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -7433,67 +7433,46 @@ http://htvint.mada.ps:8889/orient/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://htvmada.mada.ps:8888/wattan/index.m3u8
 
-=========================================== Channel BeIN Sport ===========================================
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Channel BeIN Sport",BeIN Sports 1 AIS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+=========================================== Channel BeIN Sport AIS ===========================================
+#EXTINF:-1 group-title="Channel BeIN Sport AIS" tvg-id="beinsports1thailand.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",beIN Sports 1 TH
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="Channel BeIN Sport",BeIN Sports 2 AIS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd 
+
+
+#EXTINF:-1 group-title="Channel BeIN Sport AIS" tvg-id="beinsports2thailand.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",beIN Sports 2 TH
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="Channel BeIN Sport",BeIN Sports 3 AIS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+
+#EXTINF:-1 group-title="Channel BeIN Sport AIS" tvg-id="beinsports3thailand.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png",beIN Sports 3 TH 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="Channel BeIN Sport",BeIN Sports 4 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png" group-title="Channel BeIN Sport",BeIN Sports 5 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Channel BeIN Sport",BeIN Sports 6 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="Channel BeIN Sport",BeIN Sports 7 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Channel BeIN Sport",BeIN Sports Global SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330456&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Channel BeIN Sport",BeIN Sports 1 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330457&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="Channel BeIN Sport",BeIN Sports 2 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330458&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="Channel BeIN Sport",BeIN Sports 3 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330459&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="Channel BeIN Sport",BeIN Sports 4 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330460&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png" group-title="Channel BeIN Sport",BeIN Sports 5 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330461&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Channel BeIN Sport",BeIN Sports 6 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330462&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="Channel BeIN Sport",BeIN Sports 7 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330463&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="" group-title="Channel BeIN Sport",BeIN Sports 8 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330464&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="" group-title="Channel BeIN Sport",BeIN Sports 9 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330465&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 group-title="Channel BeIN Sport AIS" tvg-id="beinsports4ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN Sports 4 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
 
+#EXTINF:-1 group-title="Channel BeIN Sport AIS" tvg-id="beinsports5ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",beIN Sports 5 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
 
+#EXTINF:-1 group-title="Channel BeIN Sport AIS" tvg-id="beinsports6ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png",beIN Sports 6 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=517453862d4256fd8bad4f58422004d7:5b4b848eac0855d79165d05f3cf16d56
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
 
-
-
+#EXTINF:-1 group-title="Channel BeIN Sport AIS" tvg-id="beinsports7ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",beIN Sports 7 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
 =====================================TV Malaysia Astor======================================
 #EXTINF:-1, group-title="TV Malaysia Astor" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste Malaysia
