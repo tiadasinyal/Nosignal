@@ -7,6 +7,86 @@
 #EXTM3U x-url-tvg="https://strimz.my.id/epg"
 #EXTM3U url-tvg="https://strimz.my.id/ep
 ======================================================================
+=====================================Tes astro===================
+
+#EXTINF:-1 tvg-name="ASTRO ARENA" tvg-logo="https://i.ibb.co/tYYLtDK/Arena.jpg" group-title="Tes Astro",ASTRO ARENA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2604/
+https://kontol-kecil.cikgusuraya.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+
+#EXTINF:-1 tvg-name="ASTRO ARENA" tvg-logo="https://i.ibb.co/tYYLtDK/Arena.jpg" group-title="Tes Astro",ASTRO ARENA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=I_Love_OnlyFans
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5057/
+https://kontol-kecil.cikgusuraya.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqZzJZV0kyWWpndE1XRTRaQzAwTURrekxXRXdZbVV0TkdSbVpqaG1OVEJrTTJVeiIsIndtb3BpZCI6MzIsImV4cCI6MTcxNDIzNTE3MiwiaWF0IjoxNzEzNjMxMTcyfQ.E00AoLlxjyV2nxRPFQLGcAzkZj34zwwaelgso3tOn-k"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-name="Astro Arena Bola 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Astro_Arena_Bola_2.png" group-title="Tes Astro",804 Astro Arena Bola 2 
+https://kontol-kecil.cikgusuraya.workers.dev/https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqZzJZV0kyWWpndE1XRTRaQzAwTURrekxXRXdZbVV0TkdSbVpqaG1OVEJrTTJVeiIsIndtb3BpZCI6MzIsImV4cCI6MTcxNDIzNTE3MiwiaWF0IjoxNzEzNjMxMTcyfQ.E00AoLlxjyV2nxRPFQLGcAzkZj34zwwaelgso3tOn-k"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola3" ch-number="807" tvg-name="Astro Arena Bola 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Astro_Arena_Bola_3_logo.png/800px-Astro_Arena_Bola_3_logo.png" group-title="Tes Astro", 807 Astro Arena Bola 3 
+https://kontol-kecil.cikgusuraya.workers.dev/https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
+
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqZzJZV0kyWWpndE1XRTRaQzAwTURrekxXRXdZbVV0TkdSbVpqaG1OVEJrTTJVeiIsIndtb3BpZCI6MzIsImV4cCI6MTcxNDIzNTE3MiwiaWF0IjoxNzEzNjMxMTcyfQ.E00AoLlxjyV2nxRPFQLGcAzkZj34zwwaelgso3tOn-k"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/s1/
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="Tes Astro" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="811" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport.png",Astro SuperSport
+#https://staging-linearjitp02-playback.astro.com.my/dash-wv/linear/601/default.mpd
+#https://staging-linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+https://kontol-kecil.cikgusuraya.workers.dev/https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqZzJZV0kyWWpndE1XRTRaQzAwTURrekxXRXdZbVV0TkdSbVpqaG1OVEJrTTJVeiIsIndtb3BpZCI6MzIsImV4cCI6MTcxNDIzNTE3MiwiaWF0IjoxNzEzNjMxMTcyfQ.E00AoLlxjyV2nxRPFQLGcAzkZj34zwwaelgso3tOn-k"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/s2/
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="Tes Astro" group-logo="https://vip.bosiptv.com/public/img/jd.png" ch-number="812" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport2.png",Astro SuperSport 2
+https://kontol-kecil.cikgusuraya.workers.dev/https://live.aqfadtv.xyz/sooka/supersport2/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqZzJZV0kyWWpndE1XRTRaQzAwTURrekxXRXdZbVV0TkdSbVpqaG1OVEJrTTJVeiIsIndtb3BpZCI6MzIsImV4cCI6MTcxNDIzNTE3MiwiaWF0IjoxNzEzNjMxMTcyfQ.E00AoLlxjyV2nxRPFQLGcAzkZj34zwwaelgso3tOn-k"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/s3/
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="Tes Astro" group-logo="https://vip.bosiptv.com/public/img/jd.png" ch-number="813" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport3.png",Astro SuperSport 3 
+https://kontol-kecil.cikgusuraya.workers.dev/https://live.aqfadtv.xyz/sooka/supersport3/index.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Tes Astro",Astro SuperSport 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2506/
+https://kontol-kecil.cikgusuraya.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
+#EXTINF:0 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="Tes Astro",BEIN SPORTS 1 MY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+https://bintangstream.sahsiasahsia.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+
+#EXTINF:0 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="Tes Astro",BEIN SPORTS 2 MY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+https://bintangstream.sahsiasahsia.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
+
+#EXTINF:0 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Tes Astro",BEIN SPORTS 3 MY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+https://bintangstream.sahsiasahsia.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
 =======================Channel Vision=================================
 ###########################
@@ -3417,31 +3497,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="Olahraga 2",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
+================================================================================
 
 =========================================== Olahraga 3 ===========================================
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 1 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9061
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 2 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9060
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 3 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9059
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 4 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9058
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 5 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9057
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 6 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9056
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 7 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9055
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 8 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9054
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 9 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9053
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 10 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9052
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://lo1.in/uk/hubpr.png" ,PPV| HUB PREMIER 11 FHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/9051
+
 
 #EXTINF:-1 tvg-id="infinity+" tvg-logo="https://help.mediasetinfinity.mediaset.it/hc/article_attachments/17536162604817" group-title="Olahraga 3" , Infinity+ 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3531,53 +3590,7 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="Olahraga 3",STRO SPORTS 1 HD
-http://4ksuper.live:80/00112233/00112233/918986
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="Olahraga 3",ASTRO SPORTS 2 HD
-http://4ksuper.live:80/00112233/00112233/918985
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="Olahraga 3",ASTRO SPORTS 3 HD
-http://4ksuper.live:80/00112233/00112233/918984
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="Olahraga 3",ASTRO SPORTS 4 HD
-http://4ksuper.live:80/00112233/00112233/918983
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="Olahraga 3",ASTRO SPORTS 5 HD
-http://4ksuper.live:80/00112233/00112233/918982
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Olahraga 3",Astro SuperSport
-http://livein1.com:80/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186387
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Olahraga 3",Astro SuperSport 2
-http://livein1.com:80/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186388
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Olahraga 3",Astro SuperSport 3
-http://livein1.com:80/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186389
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Olahraga 3",Astro SuperSport 4
-http://livein1.com:80/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186390
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="Olahraga 3",SuperSport Action
-http://iptvtree.net:8080/F14995/a84c0963/194354
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Blitz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/0a52ab66352a2b8d466ccdb407570cad.jpg" group-title="Olahraga 3",SuperSport Blitz
-http://iptvtree.net:8080/F14995/a84c0963/281536
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="Olahraga 3",SuperSport Cricket
-http://iptvtree.net:8080/F14995/a84c0963/11637
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="Olahraga 3",SuperSport Golf
-http://iptvtree.net:8080/F14995/a84c0963/11641
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="Olahraga 3",SuperSport Grandstand
-http://iptvtree.net:8080/F14995/a84c0963/194353
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="Olahraga 3",SuperSport LaLiga
-http://iptvtree.net:8080/F14995/a84c0963/194358
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Motorsport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="Olahraga 3",SuperSport Motorsport
-http://iptvtree.net:8080/F14995/a84c0963/11638
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Rugby" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/55a7ac3c8cdd7718d94d29b8ebc99f2e.png" group-title="Olahraga 3",SuperSport Rugby
-http://iptvtree.net:8080/F14995/a84c0963/11639
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="Olahraga 3",SuperSport Tennis
-http://iptvtree.net:8080/F14995/a84c0963/15200
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png" group-title="Olahraga 3",SuperSport Variety 1
-http://iptvtree.net:8080/F14995/a84c0963/11633
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="Olahraga 3",SuperSport Variety 2
-http://iptvtree.net:8080/F14995/a84c0963/11634
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/712a4054a884ffbeb3cac1bd3d4700da.png" group-title="Olahraga 3",SuperSport Variety 3
-http://iptvtree.net:8080/F14995/a84c0963/11635
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png" group-title="Olahraga 3",SuperSport Variety 4
-http://iptvtree.net:8080/F14995/a84c0963/11636
 
 
 #EXTINF:-1 tvg-id="telekomsport1.ro" group-title="Olahraga 3" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport1.ro.png",Orange Sport 1
@@ -3608,157 +3621,6 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&e
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"zdOZhpBXvDTIJ/JX9WJkOg", "kid":"ICqSfNkTEB3nZbDluz9QDw"}], "type":"temporary"}
 https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 tvg-id="telekomsport1.ro" tvg-name="RO| ORANGE SPORT 1 HD" tvg-logo="https://lo1.in/rom/telkmsp1.png" group-title="Olahraga 3",RO| ORANGE SPORT 1 HD
-http://startv365.com:80/D85A79B4/55A7743D/17305
-#EXTINF:-1 tvg-id="telekomsport2.ro" tvg-name="RO| ORANGE SPORT 2 HD" tvg-logo="https://lo1.in/rom/telkmsp2.png" group-title="Olahraga 3",RO| ORANGE SPORT 2 HD
-http://startv365.com:80/D85A79B4/55A7743D/17304
-#EXTINF:-1 tvg-id="telekomsport3.ro" tvg-name="RO| ORANGE SPORT 3 HD" tvg-logo="https://lo1.in/rom/telkmsp3.png" group-title="Olahraga 3",RO| ORANGE SPORT 3 HD
-http://startv365.com:80/D85A79B4/55A7743D/17303
-#EXTINF:-1 tvg-id="telekomsport4.ro" tvg-name="RO| ORANGE SPORT 4 HD" tvg-logo="https://lo1.in/rom/telkmsp4.png" group-title="Olahraga 3",RO| ORANGE SPORT 4 HD
-http://startv365.com:80/D85A79B4/55A7743D/17302
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-#EXTINF:-1 tvg-chno="205" tvg-id="ESPN2.ar" tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="Olahraga 3", ESPN
-https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
-#EXTINF:-1 tvg-chno="206" tvg-id="ESPN.ar" tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="Olahraga 3", ESPN 2
-https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
-#EXTINF:-1 tvg-chno="207" tvg-id="ESPN3.ar" tvg-logo="https://static.wixstatic.com/media/b12542_5658d51d89ad4541a01770e4f80d953d~mv2.png" group-title="Olahraga 3", ESPN 3
-https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
-#EXTINF:-1 tvg-chno="208" tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_06/large.1321307982_ESPNExtra.png.dab30b1a6f200ecbb305435d36e06ee9.png" group-title="Olahraga 3", ESPN Extra
-https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
-#EXTINF:-1 tvg-chno="202" tvg-id="FoxSportsArgentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1447103524_Fox_Sports_Argentina_2023-copia.png.977f2acd0eaa731580e02c585096a9d9.png" group-title="Olahraga 3", FOX Sports
-https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
-#EXTINF:-1 tvg-chno="203" tvg-id="FoxSports2HDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png" group-title="Olahraga 3", FOX Sports 2
-https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
-#EXTINF:-1 tvg-chno="204" tvg-id="FoxSports3Argentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/Fox_Sports_3_Argentina_2023.png.baa9fb8a642232d4d6733c958a64ce8a.png" group-title="Olahraga 3", FOX Sports 3
-https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
-
-
-#EXTINF: -1 tvg-logo="https://seeklogo.com/images/T/tnt-sport-go-logo-EB1F6D6C40-seeklogo.com.png" group-title="Olahraga 3", TNT Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://corsproxy.plentygram.com/https://247b.mrgamingstreams.com/mrgamingbtsport1.m3u8
-
-#EXTINF: -1 tvg-logo="https://seeklogo.com/images/T/tnt-sport-go-logo-EB1F6D6C40-seeklogo.com.png" group-title="Olahraga 3", TNT Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://corsproxy.plentygram.com/https://247b.mrgamingstreams.com/mrgamingbtsport2.m3u8
-
-#EXTINF: -1 tvg-logo="https://seeklogo.com/images/T/tnt-sport-go-logo-EB1F6D6C40-seeklogo.com.png" group-title="Olahraga 3", TNT Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://corsproxy.plentygram.com/https://247b.mrgamingstreams.com/mrgamingbtsport3.m3u8
-
-#EXTINF: -1 tvg-logo="https://seeklogo.com/images/T/tnt-sport-go-logo-EB1F6D6C40-seeklogo.com.png" group-title="Olahraga 3", TNT Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://corsproxy.plentygram.com/https://247b.mrgamingstreams.com/mrgamingbtsport4.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="Olahraga 3", Sky Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005f05c21a77f9475e05b177e70111a:ca009f546f9348a3659d877e3f67ee19
-##https://linear003-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportspremierleague)/manifest_sd.mpd
-https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd
-
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="Olahraga 3", Sky Sports Cricket
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003f2a72d21efd159d45a3a74decd84:df0ec40586d641f3d4728ab5fd62adc3
-https://linear003-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportscricket)/manifest_sd.mpd
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="Olahraga 3", Sky Sports Cricket HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005df1c2cec030d109e1065494982aa:4a2cc5a8a6a097f8ff4468faeca046f9
-https://linear003-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportscricket50)/manifest_hd.mpd
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="Olahraga 3", Sky Sports Mix
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003a6c61c2b2f7f0a9d760ac83c06d8:7305fa96d356316f2d544bfc78a6922c
-https://linear032-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmix50)/manifest_hd.mpd
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="Olahraga 3", Sky Sports Main Event
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00034d0b4c47a219e93d880b4610d197:a5dcfa9627379c6928567092b6e5ce40
-https://linear011-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmainevent50)/manifest_hd.mpd
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="Olahraga 3", Sky Sports F1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003e68c20290ea35eec1e3bceafa5b:bc799e40dd3e4e3257d746ebc036c992
-#https://linear004-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsf150)/manifest_hd.mpd
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="Olahraga 3", Sky Sports Football
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00033a7801c324b97dd9997d15cd1e6d:da90342266ae32a331a83bd05d6308bd
-https://linear016-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportsfootball)/manifest_sd.mpd
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="Olahraga 3", Sky Sports Football HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00051ec4671fcd3e8095f1e6118d9052:50304047eb0a462a4ba50add2596b215
-http://linear005-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsfootball50)/manifest_mob.mpd
-
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.imgur.com/jM1FeOX.png" ,Sky Sports NFL 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0005fbae047ef478db08e38cdb6152fc:26434f7b66bbb9edcec958759164c2b3
-https://linear001-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportsaction)/manifest_sd.mpd
-
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.imgur.com/eZwExGu.png" ,Sky Sports Darts 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00051d383f4b7035278058d6c15f7681:7f51be41496a29cd1bd1a2179b2b2da4
-http://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsarena)/manifest_sd.mpd
-
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.imgur.com/J8zzS2v.png" ,Sky Sports Cricket 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0003f2a72d21efd159d45a3a74decd84:df0ec40586d641f3d4728ab5fd62adc3
-https://linear002-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportscricket)/manifest_sd.mpd
-
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.imgur.com/2kPW5qw.png" ,Sky Sports F1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0003cbfae95b7b788879af8addd77635:c3510d26e94e19c65f73f0f57fa045f3
-http://linear028-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_720_30/Live/channel(sportsf150)/manifest_mob.mpd
-
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.imgur.com/Q2ztKWZ.png" ,Sky Sports Golf 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0003276bbe0b7f5c9c05ec201bddf545:a3546a8bd8d03e6f3ca48629ea45ebb8
-https://linear006-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsgolf)/manifest_sd.mpd
-
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.imgur.com/PRF0DsV.png" ,Sky Sports Mix
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AAOmxhwrL38KnXYKyDwG2A","k":"cwX6ltNWMW8tVEv8eKaSLA"}]}
-https://linear032-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmix50)/manifest_hd.mpd
 
 #EXTINF:-1 group-title="Olahraga 3" tvg-id="skysport.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png",Sky Sport Motogp (IT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -3807,7 +3669,6 @@ https://linear301-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/mas
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
 https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/master.mpd
-
 
 ######################## OLAHRAGA Urfan ###############################
 
