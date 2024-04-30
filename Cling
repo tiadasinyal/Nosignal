@@ -2048,8 +2048,6 @@ https://webhdrus.onlinehdhls.ru/lb/premium383/index.m3u8
 
 ######################## OLAHRAGA###############################
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJHf59oz2M2izDirwFOR7qWpC887xiCfCf13J-vvE_Q&s" group-title="Olahraga" ,Thairath 32
-https://streaming-web.thairath.co.th/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="" group-title="Olahraga" , DAZN COMBAT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
