@@ -4592,6 +4592,15 @@ https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Musik Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7e_wmjPTrnc3gimWefUzBc-Nl4jillgHvMj-o-aM1gw&s" group-title="Music",Maleo
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Musik" tvg-id="mictv.id" tvg-logo="https://iptv.urfan.web.id/logo/mictv.png",MIC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://v2.siar.us/mic/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Musik" tvg-id="tvkesehatan.id" tvg-logo="https://iptv.urfan.web.id/logo/imtv.png",IMTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Music" tvg-id="musictv.id" tvg-logo="https://iptv.urfan.web.id/logo/musictv.png",Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
