@@ -215,10 +215,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-id="VTVINDONESIA" tvg-logo="https://i.postimg.cc/tCSB1v0R/download-98.jpg" group-title="TV National",VTV Indonesia 
 #EXTVLCOPT:http-user-agent=Oxygen TV/3.8 (Linux;Android 9) ExoPlayerLib/2.16.1
-https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV National",Oxygen TV
-http://103.226.232.196:8000/play/a00p/index.m3u8
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
 #EXTINF:-1 group-title="TV National" tvg-id="" tvg-logo="https://i.postimg.cc/HLBFxHgP/20231111-164817.png",Maxstream 
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
@@ -4592,11 +4592,11 @@ https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Musik Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7e_wmjPTrnc3gimWefUzBc-Nl4jillgHvMj-o-aM1gw&s" group-title="Music",Maleo
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Musik" tvg-id="mictv.id" tvg-logo="https://iptv.urfan.web.id/logo/mictv.png",MIC TV
+#EXTINF:-1 group-title="Music" tvg-id="mictv.id" tvg-logo="https://iptv.urfan.web.id/logo/mictv.png",MIC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://v2.siar.us/mic/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Musik" tvg-id="tvkesehatan.id" tvg-logo="https://iptv.urfan.web.id/logo/imtv.png",IMTV
+#EXTINF:-1 group-title="Music" tvg-id="tvkesehatan.id" tvg-logo="https://iptv.urfan.web.id/logo/imtv.png",IMTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
