@@ -3035,22 +3035,6 @@ https://linear301-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/mas
 #KODIPROP:inputstream.adaptive.license_key=00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
 https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/master.mpd
 
-
-#EXTINF:0 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="Olahraga 3",BEIN SPORTS 1 MY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-https://bintangstream.sahsiasahsia.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
-
-#EXTINF:0 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="Olahraga 3",BEIN SPORTS 2 MY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-https://bintangstream.sahsiasahsia.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
-
-#EXTINF:0 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Olahraga 3",BEIN SPORTS 3 MY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-https://bintangstream.sahsiasahsia.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
-
 ========================================Olahraga 4 VPN============================
 #EXTINF:-1 tvg-id="" tvg-name="EPL TEST  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rhqnB06_5MAnKZyjaBHJj3b15GSUuvpw6g&usqp=CAU" group-title="Olahraga 4 VPN",HUB 1 (VPN SG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
