@@ -8,18 +8,6 @@
 #EXTM3U url-tvg="https://strimz.my.id/ep
 
 =======================LIVE EVENT===========================================
-#EXTINF:-1 tvg-name="ASTRO ARENA" tvg-logo="https://i.ibb.co/tYYLtDK/Arena.jpg" group-title="LIVE EVENT",ASTRO ARENA 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2604/
-https://kontol-kecil.cikgusuraya.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default.mpd
-
-#EXTINF:-1 tvg-name="ASTRO ARENA" tvg-logo="https://i.ibb.co/tYYLtDK/Arena.jpg" group-title="LIVE EVENT",ASTRO ARENA 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=I_Love_OnlyFans
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5057/
-https://kontol-kecil.cikgusuraya.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default.mpd
-
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://cdn0-production-images-kly.akamaized.net/Vc-s_D9xNXNKJjeaibHoriMrlkA=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4798569/original/091827600_1712589882-Piala_Asia_U-23_-_Ilustrasi_Logo_Piala_Asia_U-23_copy.jpg" group-title="LIVE EVENT",AFC U23 | RCTI+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-rcti.rctiplus.id/rcti-sdi.mpd
@@ -193,14 +181,13 @@ https://bit.ly/3MeFJVc
 https://bit.ly/3Sc6EFk
 
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="TV National",INDOSIAR (V*)
-http://103.226.232.196:8000/play/a00l/index.m3u8
+https://cikgusuraya.tech/vidio/index.php?id=205|user-agent=mozilla/89 ExoPlayerLib
 
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="TV National",SCTV (V*)
-http://103.226.232.196:8000/play/a013/index.m3u8
+https://cikgusuraya.tech/vidio/index.php?id=204|user-agent=mozilla/89 ExoPlayerLib
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="TV National",MOJI (Indi)
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
 
 #EXTINF:-1 group-title="TV National" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV 
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
@@ -2001,40 +1988,6 @@ http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Olahraga" tvg-logo="https://i.imgur.com/fXESG0l.png",Viju+ Sport HD
 https://ucdn.beetv.kz/btv/live/hls/000000135.m3u8
 
-#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://i.imgur.com/JGXzw5v.png",True Sports 1 laotv
-https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://i.imgur.com/l11xhF2.png",True Sports 2 laotv
-https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://i.imgur.com/rsAqjtw.png",True Sports 3 laotv
-https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/TrueSport3/index.m3u8
-
-#EXTINF:-1 group-title="Olahraga" tvg-id="truesports1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1 laotv
-https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/THD1/index.m3u8
-
-#EXTINF:-1 group-title="Olahraga" tvg-id="truesports2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sports 2 laotv
-https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/THD2/index.m3u8
-
-#EXTINF:-1 group-title="Olahraga" tvg-id="truesports3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp",True Sports 3 laotv
-https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/THD3/index.m3u8
-
-#EXTINF:-1 group-title="Olahraga" tvg-id="truesports4.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_original.png",True Sports 4 laotv
-https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/THD4/index.m3u8
-
-#EXTINF:-1 group-title="Olahraga" tvg-id="truesports5.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",True Sports 5 laotv
-https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/THD5/index.m3u8
-
-#EXTINF:-1 group-title="Olahraga" tvg-id="truesports5.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",True Sports 6 laotv
-https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/THD6/index.m3u8
-
-#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://i.imgur.com/bW79Nal.png",True Sports 7 laotv
-https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/THD7/index.m3u8
-
-#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://i.imgur.com/goTVVel.png",True Premier Football 1 laotv
-https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="Olahraga" tvg-id="" tvg-logo="https://i.imgur.com/EodqrAZ.png",True Premier Football 2 laotv
-https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/TSport2/index.m3u8
-
-
 #EXTINF:-1 group-title="Olahraga" tvg-id="EDGE Sport ช่อง403" tvg-logo="https://i.imgur.com/yQJqeiF.png",EDGE Sport
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
 
@@ -2413,20 +2366,29 @@ http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=185037893736_image-header_pRow_1688020143000&quality=70",Play Sports 3
 http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-053/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsNetwork_Logo_CLR.png" group-title="Olahraga 2",Sony Ten 1
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:-1 tvg-id="81" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Olahraga 2", SONY SPORTS TEN 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d8cc6ee3c9a5a82a0071779f351a9a5:1d4d52698080d453b032ca44277fd274
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpweb5.lanciau.workers.dev/bpk-tv/irdeto_com_Channel_256/output/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsNetwork_Logo_CLR.png" group-title="Olahraga 2",Sony Ten 2
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:-1 tvg-id="462" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="Olahraga 2", SONY SPORTS TEN 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cc361e170845936aea7b95c6efb478e:dc78eab46264d457a5db0f0c429ce4a6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpweb5.lanciau.workers.dev/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsNetwork_Logo_CLR.png" group-title="Olahraga 2",Sony Ten 3
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF:-1 tvg-id="464" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="Olahraga 2", SONY SPORTS TEN 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4428be7aacfb557492c7fa552c3ecbf1:fd86b49ad205dec6b52be48e174e5192
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpweb5.lanciau.workers.dev/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsNetwork_Logo_CLR.png" group-title="Olahraga 2",Sony Ten 4
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsNetwork_Logo_CLR.png" group-title="Olahraga 2",Sony Ten 5
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTINF:-1 tvg-id="35" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="Olahraga 2", SONY SPORTS TEN 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c71dd63f411a5099844a73fbe850c9fd:6d99d08dd98ddbe01176e09eb77e0296
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpweb5.lanciau.workers.dev/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
@@ -6170,11 +6132,6 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://i.ibb.co/d75VShH/daznxbein1.png" group-title="Channel Bein Sports" , BEIN SPORTS 1 🇲🇾
 #KODIPROP:inputstreamaddon=inputstream.adaptive
