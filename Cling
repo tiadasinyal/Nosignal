@@ -3007,7 +3007,7 @@ https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/
 https://tobrukecil.combilolo.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="EPL TEST  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rhqnB06_5MAnKZyjaBHJj3b15GSUuvpw6g&usqp=CAU" group-title="Olahraga 4 VPN",HUB 2 (VPN SG)
+#EXTINF:-1 tvg-id="" tvg-name="EPL TEST  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rhqnB06_5MAnKZyjaBHJj3b15GSUuvpw6g&usqp=CAU" group-title="Olahraga 4 VPN",HUB 2 4K (VPN SG)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
 ###https://ucdn.starhubgo.com/bpk-tv/HubPremier2_4K/output/manifest.mpd|X-Forwarded-For=13.249.39.91
@@ -3037,6 +3037,25 @@ https://tobrukecil.combilolo.workers.dev/bpk-tv/HubPremier4/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
 ###https://ucdn.starhubgo.com/bpk-tv/HubPremier5/output/manifest.mpd|X-Forwarded-For=13.249.39.91
 https://tobrukecil.combilolo.workers.dev/bpk-tv/HubPremier5/output/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EPL TEST  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rhqnB06_5MAnKZyjaBHJj3b15GSUuvpw6g&usqp=CAU" group-title="Olahraga 4 VPN",HUB 6 (VPN SG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecd1e866cc4e4bb1a230dda645081865:edaf41fe7af1249eef03bfac6e9ab632
+https://tobrukecil.combilolo.workers.dev/bpk-tv/HubPremier6/output/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EPL TEST  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rhqnB06_5MAnKZyjaBHJj3b15GSUuvpw6g&usqp=CAU" group-title="Olahraga 4 VPN",HUB 7 (VPN SG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec361b73771546b3b42aadbd847d4ad6:bcb5a85c2236d319aff588fe280e0a35
+https://tobrukecil.combilolo.workers.dev/bpk-tv/HubPremier7/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="EPL TEST  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rhqnB06_5MAnKZyjaBHJj3b15GSUuvpw6g&usqp=CAU" group-title="Olahraga 4 VPN",HUB 8 (VPN SG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
+https://tobrukecil.combilolo.workers.dev/bpk-tv/HubPremier8/output/manifest.mpd
+
+
 -----------------------
 
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://images2.imgbox.com/18/d4/XWnNAq9y_o.jpg" group-title="Olahraga 4 VPN",OPTUS SPORT 1 (VPN AUS)
