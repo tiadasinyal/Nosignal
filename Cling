@@ -3007,8 +3007,8 @@ https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-###https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd|X-Forwarded-For=13.249.39.91
-https://tobrukecil.combilolo.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd
+https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd|X-Forwarded-For=49.231.37.237
+###https://tobrukecil.combilolo.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="EPL TEST  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rhqnB06_5MAnKZyjaBHJj3b15GSUuvpw6g&usqp=CAU" group-title="Olahraga 4 VPN",HUB 2 4K (VPN SG)
@@ -4695,6 +4695,10 @@ https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/i
 #EXTINF:-1 tvg-id="Musik Indonesia" tvg-logo="https://iptv.urfan.web.id/logo/musikid.png" group-title="Music",Musik Indonesia (Indi)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+
+#EXTINF:-1 tvg-id="Musik Indonesia" tvg-logo="https://iptv.urfan.web.id/logo/musikid.png" group-title="Music",Musik Indonesia (Indi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(1a609789-8ed7-fe39-431b-e91799907f55)/manifest.mpd
 
 #EXTINF:-1 tvg-id="Musik Indonesia" tvg-logo="https://w7.pngwing.com/pngs/707/217/png-transparent-logo-pop-music-radio-disc-jockey-pop-electronics-text-musical-ensemble.png" group-title="Music",Pop Musik
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
@@ -7094,6 +7098,9 @@ https://cikgusuraya.tech/vidio/index.php?id=7464|user-agent=mozilla/89 ExoPlayer
 #EXTINF:-1 group-title="Religi" tvg-logo="https://i.imgur.com/MfogyNo.png",DEI Kids TV
 https://e.siar.us/live/deikidstv.m3u8
 
+#EXTINF:-1 tvg-id="AswajaTV.id" status="online" group-title="Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png",TV Alhijrah
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/index.m3u8
+
 #EXTINF:-1 group-title="Religi" tvg-logo="https://mqtv.co.id/wp-content/uploads/2021/04/Logo_MQTV_Original-1024x258.png", MQTV
 https://5bf7b725107e5.streamlock.net:443/mqtv/mqtv/playlist.m3u8
 
@@ -7139,7 +7146,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/Officia
 
 
 #EXTINF:-1 tvg-id="AswajaTV.id" status="online" group-title="Religi" tvg-logo="https://play-lh.googleusercontent.com/9uWeddJOMkNHxbC4YIVpFxBNdzzB0kIyH5g3SuA-HvFN02_gEiyvsuckKTSynW8l2g",Aswaja TV 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x748iuo
+https://qreatifku.my.id/test/dailymotion.php?id=x748iuo
+
+
 
 
 
