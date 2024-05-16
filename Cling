@@ -12,11 +12,17 @@
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-id="RCTI.id" tvg-logo="https://cdn0-production-images-kly.akamaized.net/Vc-s_D9xNXNKJjeaibHoriMrlkA=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4798569/original/091827600_1712589882-Piala_Asia_U-23_-_Ilustrasi_Logo_Piala_Asia_U-23_copy.jpg",AFC U23 | Sportstars Vision+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="RCTI.id" tvg-logo="https://cdn0-production-images-kly.akamaized.net/Vc-s_D9xNXNKJjeaibHoriMrlkA=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4798569/original/091827600_1712589882-Piala_Asia_U-23_-_Ilustrasi_Logo_Piala_Asia_U-23_copy.jpg",AFC U23 | Sportstars 4 Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/VPlusLIVE/sa_dash_vmx/VPlusLIVE.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="RCTI.id" tvg-logo="https://cdn0-production-images-kly.akamaized.net/Vc-s_D9xNXNKJjeaibHoriMrlkA=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4798569/original/091827600_1712589882-Piala_Asia_U-23_-_Ilustrasi_Logo_Piala_Asia_U-23_copy.jpg",AFC U23 | Sportstars 3 Vision+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://cdn0-production-images-kly.akamaized.net/Vc-s_D9xNXNKJjeaibHoriMrlkA=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4798569/original/091827600_1712589882-Piala_Asia_U-23_-_Ilustrasi_Logo_Piala_Asia_U-23_copy.jpg" group-title="LIVE EVENT",AFC U23 | VTV 5
 http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
@@ -180,14 +186,12 @@ https://bit.ly/3MeFJVc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://bit.ly/3Sc6EFk
 
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="TV National",INDOSIAR (V*)
-https://cikgusuraya.tech/vidio/index.php?id=205|user-agent=mozilla/89 ExoPlayerLib
-
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="TV National",SCTV (V*)
-https://cikgusuraya.tech/vidio/index.php?id=204|user-agent=mozilla/89 ExoPlayerLib
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="TV National",MOJI (Indi)
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="TV National",MOJI (Dens)
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 
 #EXTINF:-1 group-title="TV National" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV 
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
