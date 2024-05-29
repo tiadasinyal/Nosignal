@@ -8,9 +8,24 @@
 #EXTM3U url-tvg="https://strimz.my.id/ep
 
 =======================LIVE EVENT===========================================
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://cdn0-production-images-kly.akamaized.net/Vc-s_D9xNXNKJjeaibHoriMrlkA=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4798569/original/091827600_1712589882-Piala_Asia_U-23_-_Ilustrasi_Logo_Piala_Asia_U-23_copy.jpg" group-title="LIVE EVENT",AFC U23 | RCTI+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://1a-rcti.rctiplus.id/rcti-sdi.mpd
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1
+https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test1.m3u8
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 2
+https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test2.m3u8
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 3
+https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test3.m3u8
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 4
+https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test4.m3u8
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 5
+https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test5.m3u8
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 6
+https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test6.m3u8
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 7
+https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test7.m3u8
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 8
+https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test8.m3u8
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 9
+https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test9.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="RCTI.id" tvg-logo="https://cdn0-production-images-kly.akamaized.net/Vc-s_D9xNXNKJjeaibHoriMrlkA=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4798569/original/091827600_1712589882-Piala_Asia_U-23_-_Ilustrasi_Logo_Piala_Asia_U-23_copy.jpg",AFC U23 | Sportstars 4 Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4703,7 +4718,6 @@ https://v2.siar.us/mic/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Music" tvg-id="musictv.id" tvg-logo="https://iptv.urfan.web.id/logo/musictv.png",Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -4723,15 +4737,16 @@ https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="musica.id" tvg-logo="https://iptv.urfan.web.id/logo/musica.png",Musica Studios
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://kister.net/mpl/yt2m3u8?w=@MusicaStudios
+https://ythls.urfan.web.id/stream/UCNlU3oSU8UnJ_V9uMB-cPOg/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="aquarius.id" tvg-logo="https://iptv.urfan.web.id/logo/aquarius.png",Aquarius Musikindo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://kister.net/mpl/yt2m3u8?w=@AquariusMusikindo
+https://ythls.urfan.web.id/stream/UCpJRmMTfdv0iPbnjo6qBw_g/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="nagaswara.id" tvg-logo="https://iptv.urfan.web.id/logo/nagaswara.png",Nagaswara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://kister.net/mpl/yt2m3u8?w=@nagaswarafmbgr
+https://ythls.urfan.web.id/stream/UCw9QaspFztufNcEBFlwb5iw/master.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -7076,8 +7091,15 @@ https://webhdrus.onlinehdhls.ru/lb/premium383/index.m3u8
 
 ########################## RELIGI ##########################
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:0 tvg-id="ID" tvg-name="Khazanah" ch-number="798" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f557be28131b9/80b42c2601c64bd69db44ebfde005981.png" group-title="Religi",Khazanah
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gSSRDf6Bszz7uI7Fgo5a-92-kis=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-9e9e9e.jpg" group-title="Religi", Ajwa Tv
-https://cikgusuraya.tech/vidio/index.php?id=7464|user-agent=mozilla/89 ExoPlayerLib
+https://cuass-0b97ee29d0c4.herokuapp.com/pid/index.m3u8?id=7464&type=hls&token=ee
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -7118,13 +7140,8 @@ https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png" group-title="Religi",Al Quran Al Kareem TV (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
-
-
-
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/84nqj99.png" group-title="Religi",Al Sunnah Al Nabawiyah TV (Medina) 
 https://edge.taghtia.com/sa/6.m3u8
-
-
 
 #EXTINF:-1  tvg-id="MTATV.id" group-title="Religi" tvg-logo="http://mtatv.net/v2/wp-content/uploads/2020/07/headeratas_logo_mtatv.png",MTATV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
@@ -7196,30 +7213,108 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
 EXTINF:0 tvg-id="Khazanah.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Khazanah_Transvision.png" group-title="Religi",Khazanah (T*) 
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
 =================Religi (Sunnah)==========================
-
-#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="sunnahtv.sa" tvg-logo="https://iptv.urfan.web.id/logo/sunnahtv.png",Sunnah TV
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-logo="https://iptv.urfan.web.id/logo/muitv.png",MUI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls-v2.onrender.com/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
+https://mui.siar.us/mui/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://iptv.urfan.web.id/logo/qurantv.png",Qur'an TV
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="insantv.id" tvg-logo="https://iptv.urfan.web.id/logo/insantv.png",Insan TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch1.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="ashiiltv.id" tvg-logo="https://iptv.urfan.web.id/logo/ashiiltv.png",Ashiil TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch2.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="ahsantv.id" tvg-logo="https://iptv.urfan.web.id/logo/ahsantv.png",Ahsan TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch4.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="muadztv.id" tvg-logo="https://iptv.urfan.web.id/logo/muadztv.png",Muadz TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch5.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="rasyaadtv.id" tvg-logo="https://iptv.urfan.web.id/logo/rasyaadtv.png",Rasyaad TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch6.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="izzahtv.id" tvg-logo="https://iptv.urfan.web.id/logo/izzahtv.png",Izzah TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch28.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="hijrahtv.id" tvg-logo="https://iptv.urfan.web.id/logo/hijrahtv.png",Hijrah TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch8.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="alimantv.id" tvg-logo="https://iptv.urfan.web.id/logo/alimantv.png",Al Iman TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch9.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="niagatv.id" tvg-logo="https://iptv.urfan.web.id/logo/niagatv.png",Niaga TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch10.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="binbaztv.id" tvg-logo="https://iptv.urfan.web.id/logo/binbaztv.png",BinBaz TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch22.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="salamtv.id" tvg-logo="https://iptv.urfan.web.id/logo/salamtv.png",Salam TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch12.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="tvsunnah.id" tvg-logo="https://iptv.urfan.web.id/logo/tvsunnah.png",TV Sunnah
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch16.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="sjptv.id" tvg-logo="https://iptv.urfan.web.id/logo/sjptv.png",SunnahJalanPasti TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch17.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="medstv.id" tvg-logo="https://iptv.urfan.web.id/logo/medstv.png",MedSTV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch23.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="naajiyatv.id" tvg-logo="https://iptv.urfan.web.id/logo/naajiyatv.png",Naajiya TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch7.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="madinahtv.id" tvg-logo="https://iptv.urfan.web.id/logo/madinahtv.png",Madinah TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch13.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="mekahtv.id" tvg-logo="https://iptv.urfan.web.id/logo/mekahtv.png",Mekah TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch14.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="alfurqontv.id" tvg-logo="https://iptv.urfan.web.id/logo/alfurqontv.png",Al Furqon TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch24.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="RodjaTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rodjatv.png",Rodja TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch26.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="mgitv.id" tvg-logo="https://iptv.urfan.web.id/logo/mgitv.png",MGI TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch25.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="puldapiitv.id" tvg-logo="https://iptv.urfan.web.id/logo/puldapiitv.png",PULDAPII TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch15.m3u8
+
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="surautv.id" tvg-logo="https://iptv.urfan.web.id/logo/surautv.png",Surau TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls-v2.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
 #EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="deikids.id" tvg-logo="https://iptv.urfan.web.id/logo/deikids.png",DeiKids TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://e.siar.us/live/deikidstv.m3u8
-
-#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="salamtv.id" tvg-logo="https://iptv.urfan.web.id/logo/salamtv.png",Salam TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls-v2.onrender.com/channel/UCFWSeoGcqvCYiItMuWof0qg.m3u8
 
 #EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="madanitv.id" tvg-logo="https://iptv.urfan.web.id/logo/madanitv.png",Madani TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -7227,99 +7322,31 @@ https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="tv10.id" tvg-logo="https://iptv.urfan.web.id/logo/tv10.png",TV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://video1.earthcam.com/myearthcam/4eb5879494741d9fc24ff8203976697c.flv/playlist.m3u8
-
-#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="tarbiyahsunnahtv.id" tvg-logo="https://iptv.urfan.web.id/logo/tarbiyahsunnahtv.png",Tarbiyah Sunnah TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls-v2.onrender.com/channel/UCM73P3XvOfj0HjC97KKYW5g.m3u8
-
-#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="tvannasihah.id" tvg-logo="https://iptv.urfan.web.id/logo/tvannasihah.png",TV An-Nashihah
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls-v2.onrender.com/channel/UCuFC59Zh7N1Hw45arhoMpCw.m3u8
-
-#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="marhabantv.id" tvg-logo="https://iptv.urfan.web.id/logo/marhabantv.png",Marhaban TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls-v2.onrender.com/channel/UC7ijSJ_SyRqg_MqoGedoZTA.m3u8
-
-#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="RodjaTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rodjatv.png",Rodja TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://rodjatv.com/rodjatv/live.m3u8
+https://video1.earthcam.com/myearthcam/d5ef1d7b87b8ac461e3d26b6cd525a60.flv/playlist.m3u8
 
 #EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="khbtv.id" tvg-logo="https://iptv.urfan.web.id/logo/khbtv.png",KHB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls-v2.onrender.com/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
-
-#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="sjptv.id" tvg-logo="https://iptv.urfan.web.id/logo/sjptv.png",SunnahJalanPasti TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls-v2.onrender.com/channel/UCoPO7QD-HlBn7B02OMOsJJQ.m3u8
+https://ythls.urfan.web.id/stream/UCJHC3VbFsp7kJ2NxPGltwiw/master.m3u8
 
 #EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="rifqantv.id" tvg-logo="https://iptv.urfan.web.id/logo/rifqantv.png",Rifqan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls-v2.onrender.com/channel/UCkrLd1cy4AUOp1pAdu1Ru7Q.m3u8
-
-#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="albinaatv.id" tvg-logo="https://iptv.urfan.web.id/logo/albinaatv.png",Albinaa TV
-#EXTVLCOPT:http-user-https://www.youtube.com/@RifqanTVagent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls-v2.onrender.com/channel/UCdq-DJ5MS7qjd1aXPFg71Yg.m3u8
+https://ythls.urfan.web.id/stream/UCkrLd1cy4AUOp1pAdu1Ru7Q/master.m3u8
 
 #EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="srbtv.id" tvg-logo="https://iptv.urfan.web.id/logo/srbtv.png",SRB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls-v2.onrender.com/channel/UC3_QdDQnRVRDJzq56JTO_Zw.m3u8
-
-#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="gazwahtv.id" tvg-logo="https://iptv.urfan.web.id/logo/gazwahtv.png",Gazwah TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls-v2.onrender.com/channel/UCD2OdkHPO_t0MZEbmb3cioQ.m3u8
-
-#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="medstv.id" tvg-logo="https://iptv.urfan.web.id/logo/medstv.png",MedSTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls-v2.onrender.com/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
+https://ythls.urfan.web.id/stream/UC3_QdDQnRVRDJzq56JTO_Zw/master.m3u8
 
 #EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="artvisi.id" tvg-logo="https://iptv.urfan.web.id/logo/artvisi.png",ARTVISI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.yufid.com/hls/artvisi.m3u8
 
-#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="tvsunnah.id" tvg-logo="https://iptv.urfan.web.id/logo/tvsunnah.png",TV Sunnah
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="sunnahtv.sa" tvg-logo="https://iptv.urfan.web.id/logo/sunnahtv.png",Sunnah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streaming.yufid.com/hls/radiokitatv.m3u8
+https://ythls.urfan.web.id/stream/UCROKYPep-UuODNwyipe6JMw/master.m3u8
 
-#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="surautv.id" tvg-logo="https://iptv.urfan.web.id/logo/surautv.png",Surau TV
+#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://iptv.urfan.web.id/logo/qurantv.png",Qur'an TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
-
-#EXTINF:-1 group-title="Religi (Sunnah)" tvg-id="izzahtv.id" tvg-logo="https://iptv.urfan.web.id/logo/izzahtv.png",Izzah TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streaming.radiosalamjambi.com/izzahtv.m3u8
-
-#EXTINF:-1 group-title="Religi (Sunnah)" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXWckSEKhmdQTtfZm4IOdAE6iv_tRN53p66jaa9=s900-c-k-c0x00ffffff-no-rj",Artvisi
-https://streaming.yufid.com/hls/artvisi.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/radiokitatv.png" group-title="Religi (Sunnah)",TV Sunnah
-https://streaming.yufid.com/hls/radiokitatv.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Robbani TV" tvg-logo="https://i.ibb.co/Q8pbNCM/Robbani.png" group-title="Religi (Sunnah)",Robbani TV
-https://etus.link/iptvsunnah_robbanitv
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-103 group-title="Religi (Sunnah)" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Religi (Sunnah)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Wesal_TV.png/revision/latest?cb=20180922124258", Wesaltv
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-104 group-title="Religi (Sunnah)" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-105 group-title="Religi (Sunnah)" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV
-https://tv.aliman.id/aliman/live.m3u8
+https://ythls.urfan.web.id/stream/UCos52azQNBgW63_9uDJoPDA/master.m3u8
 
 -----------------------------------Murottal--------------------------------
 
