@@ -8,6 +8,12 @@
 #EXTM3U url-tvg="https://strimz.my.id/ep
 
 =======================LIVE EVENT===========================================
+
+#EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="Astro Cricket" group-title="LIVE EVENT" ch-number="824" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", Astro Cricket
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2504/default_primary.mpd
+
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1
 https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test1.m3u8
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 2
