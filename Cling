@@ -2197,6 +2197,10 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH
 https://sport.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
 ########################## Olahraga 2 ##########################
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e1474f1f7c349caad839ab39d4388fb:6ccc60a8e33e182e09810a12df3b4d33
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Astro_2016_logo.svg/1200px-Astro_2016_logo.svg.png" group-title="Olahraga 2" tvg-logo="https://archive.org/download/astro-super-sport/Astro_SuperSport.png",Astro SuperSport UHD 1
+http://ch.qtvch.pw/astrouhd//CH1/masterCH1.mpd
 
 #EXTINF:0 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="Olahraga 2",TNT Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2491,27 +2495,32 @@ https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="tsn1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/640px-TSN1.svg.png",TSN 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
-https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd 
+###https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd 
+http://45.41.213.34:70/TSN1/index.m3u8
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="tsn2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/640px-TSN2.svg.png",TSN 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
-https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
+###https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
+http://45.41.213.34:70/TSN2/index.m3u8
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="tsn3.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/640px-TSN3.svg.png",TSN 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
-https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
+###https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
+http://45.41.213.34:70/TSN3/index.m3u8
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="tsn4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/640px-TSN4.svg.png",TSN 4 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
-https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
+###https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
+http://45.41.213.34:70/TSN4/index.m3u8
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="tsn5.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/640px-TSN5.svg.png",TSN 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
-https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
+###https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
+http://45.41.213.34:70/TSN5/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Olahraga 2",CANAL+ SPORT 1
 http://146.59.70.61:8880/297/token=0e318668ba9b1d41dd3333/video.m3u8
