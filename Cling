@@ -8,9 +8,11 @@
 #EXTM3U url-tvg="https://strimz.my.id/ep
 
 =======================LIVE EVENT===========================================
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE Persib VS Madura
-https://nobarcdn-allusports.us-east-1.playback.live-video.net/api/video/v1/us-east-1.906981349885.channel.SP5Yx6OTlc4x.m3u8
-
+####https://nobarcdn-allusports.us-east-1.playback.live-video.net/api/video/v1/us-east-1.906981349885.channel.SP5Yx6OTlc4x.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97a2eab1196c4399306ff49619ad404f:1466c7f4c47eb3474077b6243411060e
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE Indo VS Tanzania
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17400_stream.mpd?hdntl=exp=1717331052~acl=%2f*~id=158258972~data=hdntl~hmac=2b89493e528aa815e18b0f042c1c9fe71869b4be2945466d2bd373b8982dc653
 
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1
 https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test1.m3u8
