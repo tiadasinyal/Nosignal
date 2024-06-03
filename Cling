@@ -2330,28 +2330,24 @@ https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-025/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",Eurosport 1
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-031/stream.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id\u003d1088590917281_image-header_pDach_1661949223000\u0026quality\u003d70",Eurosport 2
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-032/stream.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcOBnVPQx9X72D7OraZYIRKPIguq28mHRB1jd_GFqyg&s",Dazn De 1
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxEKA5ZclM4JFycvICaVZe0dNE4UvoqzrArr9We6hw7Q&s",Dazn De 2
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd
 
@@ -2400,34 +2396,31 @@ https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-059/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm5pydqDWiSCKQXGY__amm8hIXCaD65ZJ4ONOSPSAU_Q&s",Dazn F1
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png",Dazn Laliga
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-043/stream.mpd
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://insidegolf.ca/images/18.01.27-PGATour-DAZN.jpg",Dazn PGA Tour
 https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-505/stream.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTINF:0 group-title="Olahraga 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVqIgwi6AmcVsXnX6PgQypD0wj0_xK6UwqZw&usqp=CAU",DAZN 1 direct
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-037/stream.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTINF:0 group-title="Olahraga 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY21DOtOCObcSBrQf_-9WoZ9gYcbFzPEyrsA&usqp=CAU",DAZN 2 direct
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
@@ -2435,29 +2428,24 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQQS373AGBUz5ssGF_1x9MVCgHn8vuosRjJAg\u0026usqp\u003dCAU",Digital Sports
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=185037893738_image-header_pRow_1688019824000&quality=70",Play Sports 1
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-024/stream.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=185038405651_image-header_pRow_1688020142000&quality=70",Play Sports 2
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=185037893736_image-header_pRow_1688020143000&quality=70",Play Sports 3
 https://dcj-ac-live.cdn.indazn.com/dazn-linear-053/stream.mpd
 
