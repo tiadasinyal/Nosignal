@@ -1893,7 +1893,7 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 ######################## OLAHRAGA###############################
 
 
-#EXTINF:-1 tvg-id="extreme-sports" group-title="Olahraga" tvg-logo="https://i.imgur.com/m7IC01U.png",Extreme Sports
+#EXTINF:-1 tvg-id="extreme-sports" group-logo="https://png.pngtree.com/png-clipart/20230320/original/pngtree-sport-logo-png-image_8997602.png" group-title="Olahraga" tvg-logo="https://i.imgur.com/m7IC01U.png",Extreme Sports
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 #EXTINF:-1 tvg-id="fastfunbox-hd" tvg-logo="https://i.imgur.com/XLBfoed.png" group-title="Olahraga",Fast&Fun Box
