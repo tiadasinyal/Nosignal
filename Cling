@@ -2389,27 +2389,6 @@ http://45.41.213.34:70/TSN4/index.m3u8
 ###https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
 http://45.41.213.34:70/TSN5/index.m3u8
 
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="tsn1.ca" tvg-type="live" group-title="Olahraga 2" tvg-logo="https://media.tv4.live/tsn1.ca.png",TSN 1 CA
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn1.ca.m3u8
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="tsn2.ca" tvg-type="live" group-title="Olahraga 2" tvg-logo="https://media.tv4.live/tsn2.ca.png",TSN 2 CA
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn2.ca.m3u8
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="tsn3.ca" tvg-type="live" group-title="Olahraga 2" tvg-logo="https://media.tv4.live/tsn3.ca.png",TSN 3 CA
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn3.ca.m3u8
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="tsn4.ca" tvg-type="live" group-title="Olahraga 2" tvg-logo="https://media.tv4.live/tsn4.ca.png",TSN 4 CA
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn4.ca.m3u8
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="tsn5.ca" tvg-type="live" group-title="Olahraga 2" tvg-logo="https://media.tv4.live/tsn5.ca.png",TSN 5 CA
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn5.ca.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Olahraga 2",CANAL+ SPORT 1
-http://146.59.70.61:8880/297/token=0e318668ba9b1d41dd3333/video.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Olahraga 2",CANAL+ SPORT 2
-http://146.59.70.61:8880/298/token=0e318668ba9b1d41dd3333/video.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Olahraga 2",CANAL+ SPORT 3
-http://146.59.70.61:8880/340/token=0e318668ba9b1d41dd3333/video.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Olahraga 2",CANAL+ SPORT 4
-http://146.59.70.61:8880/341/token=0e318668ba9b1d41dd3333/video.m3u8
-
-
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="jsports1.jp" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png",J Sports 1 
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -2712,21 +2691,21 @@ https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dash/S
 ####https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Olahraga 4 VPN",Sony Sports 2 (VPN India)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cc361e170845936aea7b95c6efb478e:dc78eab46264d457a5db0f0c429ce4a6
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3HjqtGJk1Fel2w8MQpzkpg","kid":"HMNh4XCEWTaup7lcbvtHjg"}],"type":"temporary"}
 https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_2_HD.mpd|X-Forwarded-For=35.200.162.127
 ####https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd|X-Forwarded-For=35.200.162.127
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Olahraga 4 VPN",Sony Sports 3 (VPN India)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4428be7aacfb557492c7fa552c3ecbf1:fd86b49ad205dec6b52be48e174e5192
 https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_3_HD.mpd|X-Forwarded-For=35.200.162.127
 ####https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd|X-Forwarded-For=35.200.162.127
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Olahraga 4 VPN",Sony Sports 52 (VPN India)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bZnQjdmN2+ARduCet34Clg","kid":"xx3WP0EaUJmESnP76FDJ/Q"}],"type":"temporary"}
 https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_5_HD.mpd|X-Forwarded-For=35.200.162.127
