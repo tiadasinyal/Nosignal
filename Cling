@@ -3025,9 +3025,9 @@ https://sport.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8yZr7GB/JYefSGQPMPHIiA","kid":"6k1RreAbvzlG4N6XMFG6EA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://cors.lim.workers.dev/https://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="Olahraga 4 VPN" ch-number="404",404 BOO FHD
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://cors.lim.workers.dev/https://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="Olahraga 4 VPN" ch-number="404",404 BOO HD
 #EXTVLCOPT:http-referrer=https://cors.lim.workers.dev/https://astrogo.astro.com.my
-https://cors.lim.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2407/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2407/default_primary.mpd
 
 =================== Movies ========================
 
