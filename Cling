@@ -2389,6 +2389,17 @@ http://45.41.213.34:70/TSN4/index.m3u8
 ###https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
 http://45.41.213.34:70/TSN5/index.m3u8
 
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="tsn1.ca" tvg-type="live" group-title="Olahraga 2" tvg-logo="https://media.tv4.live/tsn1.ca.png",TSN 1 CA
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn1.ca.m3u8
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="tsn2.ca" tvg-type="live" group-title="Olahraga 2" tvg-logo="https://media.tv4.live/tsn2.ca.png",TSN 2 CA
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn2.ca.m3u8
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="tsn3.ca" tvg-type="live" group-title="Olahraga 2" tvg-logo="https://media.tv4.live/tsn3.ca.png",TSN 3 CA
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn3.ca.m3u8
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="tsn4.ca" tvg-type="live" group-title="Olahraga 2" tvg-logo="https://media.tv4.live/tsn4.ca.png",TSN 4 CA
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn4.ca.m3u8
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="tsn5.ca" tvg-type="live" group-title="Olahraga 2" tvg-logo="https://media.tv4.live/tsn5.ca.png",TSN 5 CA
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn5.ca.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Olahraga 2",CANAL+ SPORT 1
 http://146.59.70.61:8880/297/token=0e318668ba9b1d41dd3333/video.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Olahraga 2",CANAL+ SPORT 2
