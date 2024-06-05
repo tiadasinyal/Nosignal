@@ -13,6 +13,9 @@
 ####https://cdn1-allusport.us-east-1.playback.live-video.net/api/video/v1/us-east-1.906981349885.channel.txuE7gcMULgL.m3u8
 http://203.205.136.11/play.cbalive.weibisai.com/live/3599785015949061_AiSD.m3u8?txSecret=bf108cdb4e9ace6600401d31e048b9e6&txTime=6660FC00
 
+#EXTINF:-1 tvg-id="ss.football.ze" tvg-name="ss.football.ze" tvg-type="live" group-title="LIVE EVENT" tvg-logo="https://media.tv4.live/ss.football.ze.png",SuperSport Football
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/ss.football.ze.m3u8
+
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1
 https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test1.m3u8
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 2
