@@ -2847,12 +2847,12 @@ https://optuspunyathedream.nixiehai263.workers.dev/v7/OptusSport11/xbtss/drm/avc
 ###https://linear.aws.optusvideo.tv/v7/OptusSport12/xbtss/drm/avc/dash/plain/manifest.mpd
 https://optuspunyathedream.nixiehai263.workers.dev/v7/OptusSport12/xbtss/drm/avc/dash/plain/manifest.mpd|X-Forwarded-For=116.90.73.11
 
-#EXTINF:-1 group-title="Olahraga 4 VPN" tvg-id="pltvpck" tvg-logo="https://cors.lim.workers.dev/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",Premier League TV
+#EXTINF:-1 group-title="Olahraga 4 VPN" tvg-id="pltvpck" tvg-logo="https://cors.lim.workers.dev/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",Premier League TV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://cors.lim.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #EXTINF:-1 tvg-id="skypl98" group-title="Olahraga 4 VPN" ch-number="814" tvg-logo="https://cors.lim.workers.dev/https://aqfadtv.astradamy.com/logos/AstroSuperSport4.png",NOWTV Italy SkySport Premier League 50
 #KODIPROP:inputstream.adaptive.license_type=clearkey
