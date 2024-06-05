@@ -2715,7 +2715,7 @@ https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dash/S
 https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_3_HD.mpd|X-Forwarded-For=35.200.162.127
 ####https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd|X-Forwarded-For=35.200.162.127
 
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Olahraga 4 VPN",Sony Sports 52 (VPN India)
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Olahraga 4 VPN",Sony Sports 53 (VPN India)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bZnQjdmN2+ARduCet34Clg","kid":"xx3WP0EaUJmESnP76FDJ/Q"}],"type":"temporary"}
