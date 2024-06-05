@@ -9,8 +9,9 @@
 
 =======================LIVE EVENT===========================================
 
-#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE
-https://cdn1-allusport.us-east-1.playback.live-video.net/api/video/v1/us-east-1.906981349885.channel.txuE7gcMULgL.m3u8
+#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE Indonesia Open
+####https://cdn1-allusport.us-east-1.playback.live-video.net/api/video/v1/us-east-1.906981349885.channel.txuE7gcMULgL.m3u8
+http://203.205.136.11/play.cbalive.weibisai.com/live/3599785015949061_AiSD.m3u8?txSecret=bf108cdb4e9ace6600401d31e048b9e6&txTime=6660FC00
 
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1
 https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test1.m3u8
@@ -30,6 +31,9 @@ https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test7.m3u8
 https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test8.m3u8
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 9
 https://raw.githubusercontent.com/Arrasyid22/testchannel/comoters/test9.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="RCTI.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUNV5JEUexIqXm_h_4FZ1dsFxyiIxPXt8XTAkjbJGupUupYEaLIp1-ica0Nw_XxmKMCw0&usqp=CAU",Live Sportstars 1 Vision+
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="RCTI.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUNV5JEUexIqXm_h_4FZ1dsFxyiIxPXt8XTAkjbJGupUupYEaLIp1-ica0Nw_XxmKMCw0&usqp=CAU",Live Sportstars 4 Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2693,15 +2697,15 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manife
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HU1SaYCA1FOwMspEJ3/SdA", "kid":"fYzG7jyaWoKgBxd581GppQ" } ], "type":"temporary" }
-####https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_1_HD.mpd
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd|X-Forwarded-For=35.200.162.127
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_1_HD.mpd|X-Forwarded-For=35.200.162.127
+####https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Olahraga 4 VPN",Sony Sports 2 (VPN India)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cc361e170845936aea7b95c6efb478e:dc78eab46264d457a5db0f0c429ce4a6
-####https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_2_HD.mpd|X-Forwarded-For=35.200.162.127
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd|X-Forwarded-For=35.200.162.127
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_2_HD.mpd|X-Forwarded-For=35.200.162.127
+####https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd|X-Forwarded-For=35.200.162.127
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Olahraga 4 VPN",Sony Sports 3 (VPN India)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
