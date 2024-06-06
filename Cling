@@ -2958,11 +2958,11 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
 #EXTINF:-1 group-title="Olahraga 4 VPN" tvg-id="boohd.my" tvg-logo="https://i.postimg.cc/fLTLsmxR/boo.png",Boo 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8yZr7GB/JYefSGQPMPHIiA","kid":"6k1RreAbvzlG4N6XMFG6EA"}],"type":"temporary"}
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2407/default_primary.mpd
+https://cors-katrok.cikgusuraya.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2407/default_primary.mpd
 
-#EXTINF:-1 group-title="Olahraga 4 VPN"  tvg-id="skysport.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png",Sky Sport Tennis (VPN UK)
+#EXTINF:-1 group-title="Olahraga 4 VPN"  tvg-id="skysport.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png",Sky Sport Sportsmix (VPN UK)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0003c6076ebc58846b205e9bae01bf9a:97a42ba20dd18bb2a11ecffad1d48177
+#KODIPROP:inputstream.adaptive.license_key=0005e45fa30990ec5882e5fa45a699be:47b1f736f67679c47f913aa3a5fcea36
 https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportstennis)/manifest_720.mpd
 
 
