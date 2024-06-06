@@ -37,8 +37,9 @@ http://203.205.136.11/play.cbalive.weibisai.com/live/3599785015949061_AiSD.m3u8?
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE Indonesia VS IRAK
 https://lebo.huminbird.cn/live/ballbar_10110.m3u8
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE Indonesia VS IRAK 2
-https://cors-proxy.elfsight.com/https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lH_uoy2tYANquAiJIkCoGC2inhpvNwXcKAdvqKmQ7Akno=s160-c-k-c0x00ffffff-no-rj" group-title="LIVE EVENT",LIVE Indonesia VS IRAK 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ythls.armelin.one/channel/UCZ8zJO04KF6RD2VqZaWFkxg.m3u8
 
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE Indonesia VS IRAK 3
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717687996/ei/XIJhZr6sBvmnvcAP0tnyyAM/ip/103.189.201.178/id/tMRD5rbY4pw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/maudio/1/spc/UWF9f_URYrzrYBzTlo5r8lRV3X4GCyNALDasXMBFFMt4SHZvLzAASnpQ5lZgZfk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZk5QBPact2dX5mSP3XB2F1JFQSh7Pl3W1Z06qy07E1gCIFVYBT8NzobtbNOGXtwm34KYkO8zO6rgu-DmricWHP6z/file/index.m3u8
