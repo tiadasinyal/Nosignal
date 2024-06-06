@@ -2705,32 +2705,25 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manife
 https://cikgusuraya.tech/proxy/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_1_HD.mpd
 ####https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
 
-
-#EXTINF:0 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/1G9HmR8/testing-channel.png" group-title="Olahraga 4 VPN",sony 1 xforward
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d8cc6ee3c9a5a82a0071779f351a9a5:1d4d52698080d453b032ca44277fd274
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd?begin=20240530T010000&end=20240606T160000|X-Forwarded-For=103.101.92.105
-
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Olahraga 4 VPN",Sony Sports 2 (VPN India)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3HjqtGJk1Fel2w8MQpzkpg","kid":"HMNh4XCEWTaup7lcbvtHjg"}],"type":"temporary"}
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_2_HD.mpd|X-Forwarded-For=35.200.162.127
+#KODIPROP:inputstream.adaptive.license_key=1cc361e170845936aea7b95c6efb478e:dc78eab46264d457a5db0f0c429ce4a6
+https://cikgusuraya.tech/proxy/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_2_HD.mpd
 ####https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd|X-Forwarded-For=35.200.162.127
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Olahraga 4 VPN",Sony Sports 3 (VPN India)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4428be7aacfb557492c7fa552c3ecbf1:fd86b49ad205dec6b52be48e174e5192
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_3_HD.mpd|X-Forwarded-For=35.200.162.127
+https://cikgusuraya.tech/proxy/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_3_HD.mpd
 ####https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd|X-Forwarded-For=35.200.162.127
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Olahraga 4 VPN",Sony Sports 53 (VPN India)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bZnQjdmN2+ARduCet34Clg","kid":"xx3WP0EaUJmESnP76FDJ/Q"}],"type":"temporary"}
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_5_HD.mpd|X-Forwarded-For=35.200.162.127
+#KODIPROP:inputstream.adaptive.license_key=c71dd63f411a5099844a73fbe850c9fd:6d99d08dd98ddbe01176e09eb77e0296
+https://cikgusuraya.tech/proxy/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_5_HD.mpd
 ####https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd|X-Forwarded-For=35.200.162.127
 
 #EXTINF:-1 tvg-id="" tvg-name="EPL TEST  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rhqnB06_5MAnKZyjaBHJj3b15GSUuvpw6g&usqp=CAU" group-title="Olahraga 4 VPN",HUB 1 (VPN SG)
@@ -2738,7 +2731,7 @@ https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dash/S
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://bintangin.lanciau.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd|X-Forwarded-For=49.231.37.237
+https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd|X-Forwarded-For=49.231.37.237
 ###https://tobrukecil.combilolo.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd
 
 
