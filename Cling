@@ -2697,7 +2697,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d8cc6ee3c9a5a82a0071779f351a9a5:1d4d52698080d453b032ca44277fd274
-#EXTINF:0 tvg-id="testingchannel" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-logo="https://i.ibb.co.com/1G9HmR8/testing-channel.png" group-title="Olahraga 4 VPN",Sony 1 (VPN India)
+#EXTINF:0 tvg-id="testingchannel" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646" group-title="Olahraga 4 VPN",Sony 1 (VPN India)
 https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_1_HD.mpd|X-Forwarded-For=35.200.162.127
 ####https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
 
@@ -2707,7 +2707,8 @@ https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dash/S
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cc361e170845936aea7b95c6efb478e:dc78eab46264d457a5db0f0c429ce4a6
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Olahraga 4 VPN",Sony Sports 2 (VPN India)
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/dash/SONY_TEN_2_HD.mpd|X-Forwarded-For=35.200.162.127
+https://tataliv.transvision.workers.dev/bpk-tv/irdeto_com_Channel_726/output/dash/SONY_TEN_2_HD.mpd
+####https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/dash/SONY_TEN_2_HD.mpd|X-Forwarded-For=35.200.162.127
 ####https://cikgusuraya.tech/proxy/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TEN_2_HD.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
