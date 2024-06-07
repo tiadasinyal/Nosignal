@@ -2706,23 +2706,25 @@ https://cikgusuraya.tech/proxy/bpk-tv/irdeto_com_Channel_256/output/dash/SONY_TE
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cc361e170845936aea7b95c6efb478e:dc78eab46264d457a5db0f0c429ce4a6
-https://bw-king-of-cors.myiptv.workers.dev/bpk-tv/irdeto_com_Channel_726/output/dash/SONY_TEN_2_HD.mpd
+https://tataplay-mddns.xyssatuu.workers.dev/bpk-tv/irdeto_com_Channel_726/output/dash/SONY_TEN_2_HD.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#EXTINF:-1 group-title="Olahraga 4 VPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dT5bbbl4NXIMO_HTr7MEfg1Tof9mL22ypw&s", Ai Sony Teen 3
+#EXTINF:-1 group-title="Olahraga 4 VPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dT5bbbl4NXIMO_HTr7MEfg1Tof9mL22ypw&s",Sony Ten 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4428be7aacfb557492c7fa552c3ecbf1:fd86b49ad205dec6b52be48e174e5192
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/dash/SONY_TEN_3_HD.mpd|X-Forwarded-For=35.200.162.127
+https://tobrukjahatz.combilolo.workers.dev/bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/dash/SONY_TEN_3_HD.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#EXTINF:-1 group-title="Olahraga 4 VPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dT5bbbl4NXIMO_HTr7MEfg1Tof9mL22ypw&s", Ai Sony Teen 5
+#EXTINF:-1 group-title="Olahraga 4 VPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dT5bbbl4NXIMO_HTr7MEfg1Tof9mL22ypw&s",Sony Ten 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c71dd63f411a5099844a73fbe850c9fd:6d99d08dd98ddbe01176e09eb77e0296
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/dash/SONY_TEN_5_HD.mpd|X-Forwarded-For=35.200.162.127
+https://tataliv.transvision.workers.dev/bpk-tv/irdeto_com_Channel_254/output/dash/SONY_TEN_5_HD.mpd
+
+
 #EXTINF:-1 tvg-id="" tvg-name="EPL TEST  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rhqnB06_5MAnKZyjaBHJj3b15GSUuvpw6g&usqp=CAU" group-title="Olahraga 4 VPN",HUB 1 (VPN SG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
