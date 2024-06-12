@@ -8,6 +8,12 @@
 #EXTM3U url-tvg="https://strimz.my.id/ep
 
 =======================LIVE EVENT===========================================
+#EXTINF:-1 tvg-id="SkySportsGolfHD.uk" tvg-logo="https://i.ibb.co/yWrbQgT/skygolf.png" group-title="LIVE EVENT", Sky SPORTS GOLF 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00059e65ef792d6cfcb2a2300abdc687:043c818ab0e02389446b0cd3b89072fb
+https://api.tooooo.lol/dash/linear008-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsgolf)/manifest_720-120.mpd
 
 #EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" group-title="LIVE EVENT" tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_RCTI%2B.png",Live Sportstars 1 RCTI+
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
@@ -7061,86 +7067,7 @@ http://203.162.235.41:28107/
 #EXTINF:-1 group-title="Channel Japan", BS Asahi
 http://203.162.235.41:29108/
 
-==================================Channel Sony India====================================
 
-#EXTINF:-1 tvg-id="MBCBollywood.ae" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Channel Sony India",MBC Bollywood (1080p) [Geo-blocked]
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Channel Sony India",Bollywood Classic (1080p)
-https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
-#EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Channel Sony India",Bollywood HD (1080p)
-https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
-
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Channel Sony India",SET HD
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Channel Sony India",Sony SAB HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Channel Sony India",Sony PAL
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Channel Sony India",Sony YAY
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="Channel Sony India",Sony Marathi
-https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Channel Sony India",Sony AATH
-https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Channel Sony India",Sony MAX HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Channel Sony India",Sony MAX
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Channel Sony India",Sony WAH
-https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Channel Sony India",Sony MAX2
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Channel Sony India",Sony PIX HD
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF: -1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Channel Sony India",Sony BBC Earth HD
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Zee India
-http://103.120.172.74:1040
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Star India
-http://103.120.172.74:1060
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Colors
-http://103.120.172.74:1070
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Sony SAB
-http://103.120.172.74:1080
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",India news
-http://103.120.172.74:1090
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",StarPlus
-http://103.120.172.74:1120
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Zee TV
-http://103.120.172.74:1140
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Sony Max
-http://103.120.172.74:1150
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",DD news
-http://103.120.172.74:1170
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Zee TV
-http://103.120.172.74:4000
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Star sports1
-http://103.120.172.74:4100
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Star sports2
-http://103.120.172.74:4200
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",StarPlus
-http://103.120.172.74:4300
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",MTV
-http://103.120.172.74:4400
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Star sports1
-http://103.120.172.74:4600
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Star sports2
-http://103.120.172.74:4700
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Star sports2
-http://103.120.172.74:4800
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Star Gold
-http://103.120.172.74:5000
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Sony HD
-http://103.120.172.74:5100
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Star India
-http://103.120.172.74:5200
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Sony Sport5
-http://103.120.172.74:5300
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",Sony Sport1
-http://103.120.172.74:5400
-#EXTINF:-1 group-title="Channel Sony India" tvg-logo="",NDTV
-http://103.120.172.74:5500
 
 ########################## RELIGI ##########################
 
