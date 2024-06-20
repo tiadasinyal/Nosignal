@@ -14,6 +14,15 @@
 #EXTINF:-1 group-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" tvg-id="464" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png" group-title="LIVE EURO 2024",PPTV FHD
 https://pptv-7jdibe.cdn.byteark.com/live/drmwv/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE EURO 2024", SPOTV 1 tes worker
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+https://3roda.radiolama.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
+
 #EXTINF:-1 group-title="LIVE EURO 2024" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8
