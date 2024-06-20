@@ -116,7 +116,7 @@ https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
+#KODIPROP:inputstream.adaptive.license_key=0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
 https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
 
 #EXTINF:-1 group-title="LIVE EURO 2024" tvg-id="HERE" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",EURO 🇮🇹
@@ -2156,7 +2156,7 @@ https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/ma
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
+#KODIPROP:inputstream.adaptive.license_key=0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
 https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
 
 
@@ -2896,12 +2896,19 @@ http://103.47.210.244:8080/https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.m
 http://103.47.210.244:8080/https://d1fk7kbmz4il3.cloudfront.net/CH2/masterCH2.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="AstroUHD.my" tvg-logo="https://img.fcbayern.com/image/upload/t_cms-2x1/f_auto/w_1600%2Cc_fill/q_auto/v1633517118/cms/public/images/allianz-arena/europameisterschaft/UEFA-EURO2024-KV_UEFA.png" group-title="Olahraga 2", SPOTV Stadia My
+#EXTINF:-1 tvg-id="AstroUHD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/533_144.png" group-title="Olahraga 2", SPOTV Stadia (Astro)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
 http://103.47.210.244:8080/https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTM2NTk5NSwiaWF0IjoxNzE4NzYxOTk1fQ.C4o4scs7CVvLO_8l4Ks8y1NIfHJ4UmsrVL_uixbh_Q4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VYm6JmXI2v2p+5fz1+9Sbg","kid":"bxWpsvJ7StqpWQUNtgPAjw"}],"type":"temporary"}
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/533_144.png" tvg-id="808.astro",SPOTV Stadia (Sooka)
+http://103.47.210.244:8080/https://d3pjpbn7s5952i.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
