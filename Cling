@@ -23,6 +23,11 @@ https://pptv-7jdibe.cdn.byteark.com/live/drmwv/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
 https://3roda.radiolama.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
 
+#EXTINF:-1 group-title="LIVE EURO 2024" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_PremierLeagueBeta.png/revision/latest?cb=20200321214704", Canal Premier League
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VO1_xwiBVgxsFW1VLUSblg","kid":"FSPw24h3TYWKVGfggW4uzQ"},{"kty":"oct","k":"SY_JiB5rVYxSUVAMhtZvig","kid":"OeOfss-DRNCBW6uvmNoSSQ"},{"kty":"oct","k":"BGP3Qkv84e_XvG04p11_Sg","kid":"c9cIHr6ZQHC-mxxMzMzBvw"},{"kty":"oct","k":"o-Cyb0Ocy8EbaLyMPDFAzw","kid":"zxRISkhWRku_s4OErn8c8g"}],"type":"temporary"}
+https://hls-m006-live-aka-canalplus.akamaized.net/live/disk/canalpluspremierleague-hd/dash-fhddvr/canalpluspremierleague-hd.mpd
+
 #EXTINF:-1 group-title="LIVE EURO 2024" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8
