@@ -509,6 +509,14 @@ https://d2uty8832jppwn.cloudfront.net/out/v1/d0b6763e1b4d4b71869601bfb6ded8da/in
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1 VNL
 https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-bp2.rumsport.com%2Fstream%2F39%2Findex.fmp4.m3u8&token=9bb208a3c20b2015657a3df93b4f4e8ea8ca9c88&is_vip=false&verify=1718863200-gx4eG0cZGqGMFGhAJ0nUwC83xE3ngb%2F9Mn6yIctEIXs%3D
 
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 2 Copa America
+https://directes3-tv-int.3cat.cat/live-content/tvi-hls/master.m3u8?maxres=1080
+
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 3 Copa America
+https://sportsleading.online/live/stream_1.m3u8%7Creferer&origin=https://streambtw.com
+
+
 #EXTINF:-1 group-logo="https://c.clc2l.com/t/F/I/FIFA-Le-plaisir-du-football-3KxM2W.jpg" tvg-id="" tvg-name="LIVE EVENT" tvg-logo="https://c.clc2l.com/t/F/I/FIFA-Le-plaisir-du-football-3KxM2W.jpg?download=true" group-title="LIVE EVENT",Server 1A
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT" tvg-logo="https://c.clc2l.com/t/F/I/FIFA-Le-plaisir-du-football-3KxM2W.jpg?download=true" group-title="LIVE EVENT",Server 1B
