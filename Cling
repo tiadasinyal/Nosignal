@@ -1754,26 +1754,6 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:1, group-title="Olahraga 1" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",Hub Premier 1 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://starhub.udine.workers.dev/HubPremier1.mpd
-
-#EXTINF:-1, group-title="Olahraga 1" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=272",Hub Premier 2 4K
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c53632234231eb:b6c80055ee20cf222d792ce702b3644a
-https://starhub.udine.workers.dev/HubPremier2_4K.mpd
-
-#EXTINF:-1, group-title="Olahraga 1" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=272",Hub Premier 2 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inpustream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-https://starhub.udine.workers.dev/HubPremier12.mpd
 
 #EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-logo="https://i.ibb.co/vB7bXFy/skysportarena.png" group-title="Olahraga 1", Sky SPORT ARENA 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
