@@ -517,14 +517,6 @@ https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/ligabri100.m3u8
 #EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/294/2024/06/20/Copa-America-787213917.jpg" group-title="LIVE EVENT", LIVE 3 Copa America
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/294/2024/06/20/Copa-America-787213917.jpg" group-title="LIVE EVENT", LIVE 4 Copa America
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe52519365e441d0889cdc69fec07f7e:80f725e569fa945a69574f373fc59022
-https://p-cdn4-806-cg14-linear-cbd46b77.movetv.com/clipslist/560/20240620T220000Z/20240621T230000Z/spanning_ads.mpd
-
-
 #EXTINF:-1 group-logo="https://c.clc2l.com/t/F/I/FIFA-Le-plaisir-du-football-3KxM2W.jpg" tvg-id="" tvg-name="LIVE EVENT" tvg-logo="https://c.clc2l.com/t/F/I/FIFA-Le-plaisir-du-football-3KxM2W.jpg?download=true" group-title="LIVE EVENT",Server 1A
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT" tvg-logo="https://c.clc2l.com/t/F/I/FIFA-Le-plaisir-du-football-3KxM2W.jpg?download=true" group-title="LIVE EVENT",Server 1B
