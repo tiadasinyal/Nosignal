@@ -509,12 +509,19 @@ https://d2uty8832jppwn.cloudfront.net/out/v1/d0b6763e1b4d4b71869601bfb6ded8da/in
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1 VNL
 https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-bp2.rumsport.com%2Fstream%2F39%2Findex.fmp4.m3u8&token=9bb208a3c20b2015657a3df93b4f4e8ea8ca9c88&is_vip=false&verify=1718863200-gx4eG0cZGqGMFGhAJ0nUwC83xE3ngb%2F9Mn6yIctEIXs%3D
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 2 Copa America
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/294/2024/06/20/Copa-America-787213917.jpg" group-title="LIVE EVENT", LIVE 2 Copa America
 https://directes3-tv-int.3cat.cat/live-content/tvi-hls/master.m3u8?maxres=1080
 
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 3 Copa America
-https://sportsleading.online/live/stream_1.m3u8%7Creferer&origin=https://streambtw.com
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/294/2024/06/20/Copa-America-787213917.jpg" group-title="LIVE EVENT", LIVE 3 Copa America
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/294/2024/06/20/Copa-America-787213917.jpg" group-title="LIVE EVENT", LIVE 4 Copa America
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe52519365e441d0889cdc69fec07f7e:80f725e569fa945a69574f373fc59022
+https://p-cdn4-806-cg14-linear-cbd46b77.movetv.com/clipslist/560/20240620T220000Z/20240621T230000Z/spanning_ads.mpd
 
 
 #EXTINF:-1 group-logo="https://c.clc2l.com/t/F/I/FIFA-Le-plaisir-du-football-3KxM2W.jpg" tvg-id="" tvg-name="LIVE EVENT" tvg-logo="https://c.clc2l.com/t/F/I/FIFA-Le-plaisir-du-football-3KxM2W.jpg?download=true" group-title="LIVE EVENT",Server 1A
