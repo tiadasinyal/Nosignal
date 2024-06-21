@@ -2915,7 +2915,7 @@ http://103.47.210.244:8080/https://linearjitp02-playback.astro.com.my/dash-wv/da
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VYm6JmXI2v2p+5fz1+9Sbg","kid":"bxWpsvJ7StqpWQUNtgPAjw"}],"type":"temporary"}
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/533_144.png" tvg-id="808.astro",SPOTV Stadia (Sooka)
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/533_144.png" group-title="Olahraga 2" tvg-id="808.astro",SPOTV Stadia (Sooka)
 http://103.47.210.244:8080/https://d3pjpbn7s5952i.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
