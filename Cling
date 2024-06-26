@@ -6,6 +6,17 @@
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 #EXTM3U x-url-tvg="https://strimz.my.id/epg"
 #EXTM3U url-tvg="https://strimz.my.id/ep
+
+
+#EXTINF:-1 ch-number="312" tvg-name="CHANNEL | SPORTS" tvg-id="beIN SPORTS 2.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/Roland-Garros_CatchUp_NEW_layer-Bein2-SFs.jpg" group-title="tes",beIN SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=58.64.60.73
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+#KODIPROP::http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 =======================LIVE EURO 2024======================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
