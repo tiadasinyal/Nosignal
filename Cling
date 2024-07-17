@@ -471,8 +471,8 @@ https://fhlsport18.1mv.xyz/by07scpx/s2001/v3b/1o8308qpnUE0pQbiY3EmAmphZ3umqT0ho2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE Vidio 2 (Online)
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdntl=exp=1721231585~acl=%2F*~id=105378382~data=hdntl~hmac=82ad20dd4546ea268f168e0960bf821f493025b1bfc3e1b2a7f8b28b668228af
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE Vidio 2 (Online 2)
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdnts=exp=1721231584~acl=/drm/dash/*~id=105378382~hmac=59becca562ae654a625388dcaef685f8866083b6575fd44e51847bce1b00c4bc
 
 
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE FIFA+ (Offline)
