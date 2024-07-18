@@ -4409,23 +4409,31 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 
 #EXTINF:0 tvg-name="HBO ㊰Family" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/03/25/1569547806.jpg" group-title="HBO GROUP",HBO Family max
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e0b88044bbb3512a3d0027764314783:52843f20db4bbf45d594b6be310f81c1 
+#KODIPROP:inputstream.adaptive.license_key=1e8a85788af361c95ecac8462f1f860:cbb1e08321457eb6ddaebc9c76bda13
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
 #EXTINF:0 tvg-name="HBO ㊰Hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv9HADx58LwlEOZiVEXdOjszzt4uaRTqjGMg&usqp=CAU" group-title="HBO GROUP",HBO Hits max
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1e570be4c63326aa95ea53eb5be2699:f9d709f24054472ab7f53c758cf45c94 
+#KODIPROP:inputstream.adaptive.license_key=ed75c909e9ba3d1403224997dd04d71:7b2bcd66d9b3352f52bacff954330f3
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 
 #EXTINF:0 tvg-name="HBO ㊰Signature" tvg-logo="https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/08/02/169353198.jpg" group-title="HBO GROUP",HBO Signature max
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90674eee11703150bc2df4bc9a2cbae5:c4b574fa201da00d54bcea4901bb4171
+#KODIPROP:inputstream.adaptive.license_key=6aca3b895d773c2db709166b0db3441:974b879c842cc9530c91700cc358c3f
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad90306387ee369eb2a6de02869c7653:4b17755fdea3ca0277bb64a1e9fbecef
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="HBO GROUP",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a83d8d7d2b73892debec1d1ee0dc8:ab19a065893314fff9fd9a52aec0094
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
 
 =========================================== HBOGO VOD ===========================================
