@@ -164,6 +164,70 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
 =======================LIVE EVENT OLYMPIC GAMES PARIS 2024======================================
+#EXTINF:-1 group-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",780
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94fae17e4d15e1cd0bdc7ced096fa510:e19b697fdedc5b0cf0ad5068de13d0a9
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://124.217.248.213:8080/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5150/default.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",781
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1604ec11358c6c88102bef8ab5bdca10:c6a09b1d801d3631cd77da486578ddf6
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://124.217.248.213:8080/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5151/default.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",782
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6afe246b3db067df837fafc06778d10:7c7a98236c7dcce43f1269190060b8a0
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://124.217.248.213:8080/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5152/default.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",783
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64a8f08490d91ded89f977d85878d110:a1c391c1ea515756d5272972d6bbd729
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://124.217.248.213:8080/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5153/default.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",784
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8cb67b7fa34de61532947254309d4d10:288e7f89c9c8726d880753ddaf9e70ed
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://124.217.248.213:8080/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5154/default.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", 811 Claro Sports 1 
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8 
+ 
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", 812 Claro Sports 2 
+https://pubads.g.doubleclick.net/ssai/event/erhZGvvqQdmR8xTfFO3MZw/master.m3u8 
+ 
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", 813 Claro Sports 3 
+https://pubads.g.doubleclick.net/ssai/event/6DSQ8CGURXew6V-oYhN27Q/master.m3u8 
+ 
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", 814 Claro Sports 4 
+https://pubads.g.doubleclick.net/ssai/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" , CH 1 
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" , CH 2 
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", CCTV5 HD 
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", CCTV5+ HD 
+https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", CCTV16 HD 
+https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024",EUROSPORT2 
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2285 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DffCxP8/jerux-2024-paris-2024.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024",EUROSPORT 
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2286
+
+#EXTINF:-1 group-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/09/IMG_1849.jpg" tvg-logo="https://lo1.in/olym/oly.png" 
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e087df5967440fda576ce63e59b39a7:35fe170ba9aebfb0769b0a15c0b862e9
+https://d10snd9om7537l.cloudfront.net/out/v1/834d9787987f4912963e9e82048c17d6/manifest.mpd
 
 #EXTINF:-1 group-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/09/IMG_1849.jpg" tvg-logo="https://lo1.in/olym/oly.png" 
 #EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 1
@@ -240,6 +304,160 @@ https://mwmpos01.akamaized.net/out/v1/a9e54b70137743d3b94f57272486d981/manifest.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2115349ba4d44a6aa9e19eeaab13e79f:c7fb6eac174c53dafe3d25c7562c0e6b
 https://mwmpos02.akamaized.net/out/v1/5b52a13f709640b587bc825b4683fbd6/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bz8qa/oa6iDDLWp1JilvEg", "kid":"xu6TWllxT2GLglyC1rsJJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ParisCH17.sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=100&ImageId='7908783'&Width=1280&Height=720" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024",LIVE 17
+https://mwmpos04.akamaized.net/out/v1/9a0f8933d9d745ba8b12cbf05d9a3b58/manifest.mpd
+
+
+
+#EXTINF:-1 group-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/09/IMG_1849.jpg" tvg-logo="https://lo1.in/olym/oly.png" 
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE Now Sport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c236ef44730935c5a25b470be0b8231d:35cc1579b2b3944baf79db7e339d2161
+https://ewcdn04.nowe.com/session/10-4f4661b2210901a8da3188a4bfdab/Content/DASH_VOS3/Live/channel(VOS_CH331)/manifest.mpd?token=6bd95f794ea1c7ad2bc11499b5aa0189_1720800679
+
+#EXTINF:-1 group-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/09/IMG_1849.jpg" tvg-logo="https://lo1.in/olym/oly.png" 
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE Now Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49ff30e51bf33182b3e4f596dc2ff281:515f1eb8c957f8c65b7909eefbeb360c
+https://ewcdn03.nowe.com/session/10-419e44afd3f7d430a38e5df4c4db0/Content/DASH_VOS3/Live/channel(VOS_CH333)/manifest.mpd?token=9ecdb1792259e391d5376e971e2437d6_1720803999
+
+#EXTINF:-1 group-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/09/IMG_1849.jpg" tvg-logo="https://lo1.in/olym/oly.png" 
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE Now Sport Prime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b91265093169312da08607e9c5628445:0fd51a305a44323b2ce1371a3a6fd1aa
+https://ewcdn101.nowe.com/session/10-015724c28fc7a2431195173573223/Content/DASH_VOS3/Live/channel(VOS_CH332)/manifest.mpd?token=7c672d5577d514abadd70e152ed68e0e_1720800717
+
+#EXTINF:-1 group-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/09/IMG_1849.jpg" tvg-logo="https://lo1.in/olym/oly.png" 
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE Now Sport Prime 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f110eeb7ef23edf9a6200e253da8f9c:3d30412a844dfcc7cc01fce01692c130
+https://ewcdn102.nowe.com/session/10-77ce67ee6ee9b9db44bb915d8c30a/Content/DASH_VOS3/Live/channel(VOS_CH630)/manifest.mpd?token=f0125df8b3c96250539aa311131e6191_1720800543
+
+
+#EXTINF:-1 group-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/09/IMG_1849.jpg" tvg-logo="https://lo1.in/olym/oly.png" 
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE One Sports +
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f85589e412b11edb8780242ac120002:69e8f7927207afe25929d149507386c8
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+
+#EXTINF:-1 group-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/09/IMG_1849.jpg" tvg-logo="https://lo1.in/olym/oly.png" 
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE One Sports HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f855ed4412b11edb8780242ac120002:b3a22e869d401b9cf556298c3d5d16c6
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+
+
+#EXTINF:-1 group-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/09/IMG_1849.jpg" tvg-logo="https://lo1.in/olym/oly.png" 
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE USA East
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://g001-live-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 group-logo="https://cdn.antaranews.com/cache/1200x800/2021/08/09/IMG_1849.jpg" tvg-logo="https://lo1.in/olym/oly.png" 
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE USA West
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE Olimpik
+https://cdn.jwplayer.com/live/events/k64Vrj10.m3u8
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZBfCZe7/U326G8VBjwB60g", "kid":"QdoJWBnHSzCqlNryuDzjeQ" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="780.astro",Astro OLY 1 (SOOKA)
+http://124.217.248.213:8080/https://linear14-playback.sooka.my/CH2/masterCH2.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hV2W/lySIxPPIcLVAPQebw", "kid":"Pi2FlBffQYG0nisy3Prrtg" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="781.astro",Astro OLY 2 (SOOKA)
+http://124.217.248.213:8080/https://linear14-playback.sooka.my/CH3/masterCH3.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"j/KykdywNJ2P2555oRWMQg", "kid":"4eJFv3h+SzSOPhURn0L00w" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="782.astro",Astro OLY 3 (SOOKA)
+http://124.217.248.213:8080/https://linear14-playback.sooka.my/CH4/masterCH4.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nc0GFjQF/wTaJrkvU21BRg", "kid":"0LGqh4x5SuiPxqWThIQdRA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="783.astro",Astro OLY 4 (SOOKA)
+http://124.217.248.213:8080/https://linear15-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rO4p/Y7DMX0aZmrLD04djw", "kid":"4SVTc2giSjSp/xxW8dnLFA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="784.astro",Astro OLY 5 (SOOKA)
+http://124.217.248.213:8080/https://linear15-playback.sooka.my/CH2/masterCH2.mpd
+
+
+#EXTINF:-1 tvg-logo="https://images.nbcolympics.com/sites/default/files/2024-05/USA-1920x1080_0.jpg?impolicy=rect_small_384_216" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024",Intro to Paris
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://images.nbcolympics.com/sites/default/files/2024-05/1920x1080__men_soccer_arg_mar_stream_Paris.jpg?impolicy=rect_small_384_216" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Olympic  1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://images.nbcolympics.com/sites/default/files/2024-05/1920x1080__men_soccer_uzb_esp_stream_Paris.jpg?impolicy=rect_small_384_216" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Olympic  2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://images.nbcolympics.com/sites/default/files/2024-05/1920x1080__men_soccer_egy_dom_stream_Paris.jpg?impolicy=rect_small_384_216" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Olympic  3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95919b598c8435bb94fe46276139f900:84dc19a90c2f6ecf77fdfb7b73112dbd
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://images.nbcolympics.com/sites/default/files/2024-05/1920x1080__men_soccer_gui_nzl_stream_Paris.jpg?impolicy=rect_small_384_216" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024",Olympic  4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+
+#EXTINF:-1 tvg-logo="https://images.nbcolympics.com/sites/default/files/2024-05/1920x1080__men_soccer_jpn_par_stream_Paris.jpg?impolicy=rect_small_384_216" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024",Olympic  5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://images.nbcolympics.com/sites/default/files/2024-05/1920x1080__men_soccer_irq_urk_stream_Paris.jpg?impolicy=rect_small_384_216" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024",Olympic  6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://images.nbcolympics.com/sites/default/files/2024-05/1920x590_men_soccer_fra_usa_stream_Paris.jpg?impolicy=rect_small_384_216" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024",Olympic  7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://images.nbcolympics.com/sites/default/files/2024-05/1920x1080_men_soccer_mli_isr_stream_Paris.jpg?impolicy=rect_small_384_216" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024",Olympic  8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
 =======================LIVE EURO 2024======================================
 
@@ -2589,6 +2807,11 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
 #EXTVLCOPT:network-caching=1000
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Olahraga 2",STC SPORT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HgcZ2mU8K0ZS8LC/hNlsdA", "kid":"R/CrWPWoHCC1tp3ElMvhAg" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://uselector.cdn.intigral-ott.net:443/STC/STC.isml/manifest.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -4129,8 +4352,19 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-
 #EXTINF:-1 group-title="Movies" tvg-id="boohd.my" tvg-logo="https://i.postimg.cc/fLTLsmxR/boo.png",Boo 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8yZr7GB/JYefSGQPMPHIiA","kid":"6k1RreAbvzlG4N6XMFG6EA"}],"type":"temporary"}
-http://103.47.210.244:8080/https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2407/default_primary.mpd
+http://124.217.248.213:8080/https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2407/default_primary.mpd
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",STC FAMILY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xaHhoSmCX2z1JSHFIXEmpA", "kid":"W3Q9KjcvgR8Jx/pVufhC3w" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://uselector.cdn.intigral-ott.net:443/STCF/STCF.isml/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",STC DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6BIjxmpG76zZW4PJ67uMHA", "kid":"QwfVETaVbnjdF/5IhLpm0Q" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://uselector.cdn.intigral-ott.net:443/STCD/STCD.isml/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -6025,6 +6259,8 @@ http://91.224.190.66:4263/bysid/26624
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml"
 #EXTM3U url-tvg="https://azimabid00.github.io/epg/astro_epg.xml"
 
+
+
 #EXTINF:-1 group-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="Channel Astro MY"tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
@@ -6649,17 +6885,19 @@ http://124.217.248.213:8080/https://linears-playback.astro.com.my/vsg/41W9CerGIQ
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
 http://124.217.248.213:8080/https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSportUHD.png",SuperSport UHD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSportUHD.png",Astro SuperSport UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ], "type":"temporary" }
-http://124.217.248.213:8080/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
+##https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
+http://124.217.248.213:8080/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5150/default.mpd
 
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" } 
 http://124.217.248.213:8080/https://linears-playback.astro.com.my/vsg/41JpWADi6WU_jVc8PqEw8eqW7O8L8jxNW4kl2shxwmUuM=JgSF/dash-wv/jitp-linearwm/601/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5151/default.mpd
 
-#EXTINF:-1  group-title="Channel Astro MY"tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport
+#EXTINF:-1  group-title="Channel Astro MY"tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport sooka
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllURmhNbU5pWXpRdE5EUTJPUzAwWXpnMUxXRmxOalV0TVdaak5UaGhZMkprTjJRNCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMDMyMjQyNCwiaWF0IjoxNzE5NzE4NDI0fQ.bn6qWTdBKIWsG0dkCxGEcLnsXcge78sLnljKw6gLgqc"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&amp;user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
