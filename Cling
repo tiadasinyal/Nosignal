@@ -14,17 +14,17 @@
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://fhlsport18.1mv.xyz/by07scpx/s2001/v3b/1o8308qpnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_570738.m3u8
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1 (Online AFF)
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1 (Offline AFF)
 https://buat-script-sendiri-goblok.starlive.workers.dev/live/stream-478026_lsd.m3u8
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 2 (Online AFF)
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 2 (Offline AFF)
 https://bf.shandongjnsd.com/live/322693_hd01.m3u8?txSecret=7c2dac394208362e8c61a49650a9f506&txTime=669fa3ee
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE Vidio 2 (Online AFF)
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE Vidio 2 (Offline AFF)
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdnts=exp=1721751018~acl=/drm/dash/*~id=116165107~hmac=ec237d9188d6f59ff3b1326fb6382e0397f05109b0366ed88073c944c636362b&ck=YjU4NzQwMjFlMzNmNDlkNGRhYzVjZDU1MzQ0YjBkNzQ6N2I0OWYzZWVjZjRlOTMzNmZmZGI5YTU0OWQyZWU3ODE=
 
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE FIFA+ (Offline)
