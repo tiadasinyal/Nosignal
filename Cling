@@ -14,6 +14,12 @@
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://fhlsport18.1mv.xyz/by07scpx/s2001/v3b/1o8308qpnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_570738.m3u8
 
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE Liverpool Tour 1
+https://shls-live-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE Liverpool Tour 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1 (Offline AFF)
 https://buat-script-sendiri-goblok.starlive.workers.dev/live/stream-478026_lsd.m3u8
 
@@ -162,6 +168,13 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
 https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="EPL TEST  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rhqnB06_5MAnKZyjaBHJj3b15GSUuvpw6g&usqp=CAU" group-title="LIVE EVENT",HUB 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
+https://starhub.firefigther48.workers.dev/HubSports2HD.mpd
 
 =======================LIVE EVENT OLYMPIC GAMES PARIS 2024======================================
 
@@ -3621,6 +3634,7 @@ https://tataplay-mddns.xyssatuu.workers.dev/bpk-tv/irdeto_com_Channel_254/output
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
 https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd|X-Forwarded-For=49.231.37.237
 
+
 #EXTINF:-1 tvg-id="" tvg-name="EPL TEST  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rhqnB06_5MAnKZyjaBHJj3b15GSUuvpw6g&usqp=CAU" group-title="Olahraga 4 VPN",HUB 2 4K (VPN SG)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
@@ -3628,7 +3642,7 @@ https://ucdn.starhubgo.com/bpk-tv/HubPremier2_4K/output/manifest.mpd|X-Forwarded
 
 #EXTINF:-1 tvg-id="" tvg-name="EPL TEST  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rhqnB06_5MAnKZyjaBHJj3b15GSUuvpw6g&usqp=CAU" group-title="Olahraga 4 VPN",HUB 12 (VPN SG)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=17e9c5d34f514dd3bce90fcc7deaeaa6&key=ab86716fe05961647a3713243e95dcd2
+#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6&key=ab86716fe05961647a3713243e95dcd2
 https://ucdn.starhubgo.com/bpk-tv/HubPremier12/output/manifest.mpd|X-Forwarded-For=13.249.39.91
 
 
