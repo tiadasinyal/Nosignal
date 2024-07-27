@@ -23,8 +23,12 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1 (Offline AFF)
 https://buat-script-sendiri-goblok.starlive.workers.dev/live/stream-478026_lsd.m3u8
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 2 (Offline AFF)
-https://bf.shandongjnsd.com/live/322693_hd01.m3u8?txSecret=7c2dac394208362e8c61a49650a9f506&txTime=669fa3ee
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://channel-vidio.atv-live.workers.dev/?id=17609&type=drm
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTINF:-1 tvg-logo="https://andoridev.github.io/qihan/logo/sctv.jpg" group-title="LIVE EVENT", SCTV Indo vs Malay
+https://channel-vidio.atv-live.workers.dev/index.mpd?id=17609&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
