@@ -51,7 +51,7 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 #KODIPROP:inputstream.adaptive.license_key=ae45e9ae2f2244c18f804195213a495c:00421dca102c69f8432b48626348a989
 https://d2uty8832jppwn.cloudfront.net/out/v1/d0b6763e1b4d4b71869601bfb6ded8da/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
 
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
