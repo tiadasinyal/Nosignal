@@ -221,109 +221,83 @@ https://pubads.g.doubleclick.net/ssai/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5e087df5967440fda576ce63e59b39a7:35fe170ba9aebfb0769b0a15c0b862e9
 https://d10snd9om7537l.cloudfront.net/out/v1/834d9787987f4912963e9e82048c17d6/manifest.mpd
 
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 01
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-logo="https://lo1.in/olym/oly.png" tvg-logo="https://lo1.in/olym/oly.png" 
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo= tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
+https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
 
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 02
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo= tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e087df5967440fda576ce63e59b39a7:35fe170ba9aebfb0769b0a15c0b862e9
-https://mwmpos02.akamaized.net/out/v1/834d9787987f4912963e9e82048c17d6/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
+https://mwmpos03.akamaized.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
 
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 03
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo= tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
-https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
+https://do2ibj89ih8kz.cloudfront.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 04
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo= tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bab0067b5744dca11920002226d429:8941026b108040f7bafce260145c19c4
-https://mwmpos04.akamaized.net/out/v1/0084d9780a854a03aceade6da36ea9d1/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
+https://mwmpos01.akamaized.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
 
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 05
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo= tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7aace826bd5d48d0bbf330ad1ec16f5c:88b44df0ab0831d1bd2fdb3d23cb7e8f
-https://mwmpos03.akamaized.net/out/v1/34786af906004c77814e5bc098595bb4/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
+https://d2q3zea8ff7bj4.cloudfront.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
 
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 06
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo= tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5b34732f10148b9a9de022bb91a1eab:1e59c2a09be4d537aa04bec805bed64e
-https://mwmpos01.akamaized.net/out/v1/11d366d059b24b4780c86e4894e35b11/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
+https://mwmpos01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
 
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 07
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo= tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26a0cfcc4ff445858360d41ef02e7e0f:cd01c0254f2615bfca9eb23e62f2dbdc
-https://mwmpos02.akamaized.net/out/v1/10bacd45a9d8417a8ef01747e60eb3af/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
+https://d2q3zea8ff7bj4.cloudfront.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
 
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 08
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo= tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=013ff1929ddb41a186d9ec63912a5670:73da97902887735edd5cf2a04c2a4bd6
-https://mwmpos03.akamaized.net/out/v1/571cf7ef16284d65aefc2cd92adebd39/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=19d5aaa09468437db25426ae88d3f731:c6a9f2629abdfcce6e1e2bb19970dc86
+https://mwmpos04.akamaized.net/out/v1/1b7d7fe5d8224ec5b751f2d0d0ae3006/manifest.mpd
 
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 09
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo= tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56dce91a7a504f7c909f41daa67e17e5:096eefa3c85aff704265eef51171ec3a
-https://mwmpos02.akamaized.net/out/v1/affe3e52f7db4ee2ae69d2fa4dac76b5/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=f47b719efa4d4cd58e60815d8e9fec0e:252d44b5ee7d17dcbfb7d4ff74d23c5e
+https://mwmpos03.akamaized.net/out/v1/d5536f0898994112a118290f25e5648b/manifest.mpd
 
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 10
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo= tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 10
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9434173a763e423fbc8dca7b27d393e4:8fff3a0b245b8b837126ade3348b8720
-https://mwmpos02.akamaized.net/out/v1/629b58ad3a734deea8c2267a261665af/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=af2dc6a1c9754ec7b0ff0377da872153:7af660ca428760dfbe99e10047e0e2e4
+https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.mpd
 
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 11
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo= tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ffd62c517de4fc29887c3410ceb8d0b:e71be77c8149a1aa1dd09c5667700bfb
-https://mwmpos04.akamaized.net/out/v1/7858540d66b44c0583c19e6b90efdb0b/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=244d7d9e08a2487ea8045c5243c179ec:741239729ef1bea894998cd480e82762
+https://mwmpos03.akamaized.net/out/v1/847a8f82ffa74be392bd7771fcfe63c3/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 12
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo= tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 12
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e47d842706c048c98cde16f41c8c1f3f:ce46d2eeb1d648a18185023b7d772913
-https://mwmpos01.akamaized.net/out/v1/b37aba4f022f4cab973d80282c616904/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=b335a051208440c78f882bfc88bb436f:7ec283409853d2970df0c3dfbfb3509f
+https://mwmpos02.akamaized.net/out/v1/a48c8faa03494d3c9267a246624425a2/manifest.mpd
 
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 13
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo= tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a47d851deaae4504b0fedf842d2db9ef:943a9749cb54b17d9d0fc7c3ab5b7375
-https://mwmpos02.akamaized.net/out/v1/fce653c6a7d44a0288533b7a03e8dd00/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=d31e0ee60e034e228e7f219650c0d6e2:c50c247d5a34c1fbd565ad31886287cb
+https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd
 
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 14
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo= tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 14
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56439911482e4ea29baf9086250d17eb:4ede19976f7b9f3aba13b572fe193b62
-https://mwmpos01.akamaized.net/out/v1/5d9d4e9cc6154bea81321230403e319f/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=e88098727fdd4373b69e823492ae620a:b8e5bda4102c9cca4dfa443aaaa337f0
+https://mwmpos01.akamaized.net/out/v1/a9e54b70137743d3b94f57272486d981/manifest.mpd
 
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 15
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo= tvg-id="" tvg-logo="https://lo1.in/olym/oly.png",LIVE 15
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f32acdabea64b93bfacaa4dc2ccf7fa:1ca53b84806b4e3d57fa8febafe62656
-https://mwmpos03.akamaized.net/out/v1/43062599f633463688e28e331f7f0e47/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=2115349ba4d44a6aa9e19eeaab13e79f:c7fb6eac174c53dafe3d25c7562c0e6b
+https://mwmpos02.akamaized.net/out/v1/5b52a13f709640b587bc825b4683fbd6/manifest.mpd
 
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 16
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9be41becbf94d169d451b87275d3220:d8e6327c108a0fda737df0e33b62a0d9
-https://mwmpos01.akamaized.net/out/v1/9d59f6e5e1f84631a9ebd228739a2d4f/manifest.mpd
 
-#EXTINF:-1 tvg-id="mewach" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 17
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6ee935a59714f618b825c82d6bb0927:6f3f2a6bfa1aea20c32d6a7526296f12
-https://mwmpos04.akamaized.net/out/v1/9a0f8933d9d745ba8b12cbf05d9a3b58/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
