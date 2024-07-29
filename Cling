@@ -27,8 +27,15 @@ https://buat-script-sendiri-goblok.starlive.workers.dev/live/stream-478026_lsd.m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://channel-vidio.atv-live.workers.dev/?id=17609&type=drm
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
-#EXTINF:-1 tvg-logo="https://andoridev.github.io/qihan/logo/sctv.jpg" group-title="LIVE EVENT", SCTV Indo vs Malay
+EXTINF:-1 tvg-logo="https://andoridev.github.io/qihan/logo/sctv.jpg" group-title="LIVE EVENT", SCTV Indo vs Malay
 https://channel-vidio.atv-live.workers.dev/index.mpd?id=17609&type=dash
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=VidioPlayer/4.0.9-WITH_ADS
+#EXTINF:-1 tvg-logo="https://andoridev.github.io/qihan/logo/sctv.jpg" group-title="LIVE EVENT", SCTV Final Indo VS Thai
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722260671~acl=/drm/dash/*~id=116165107~hmac=d21e7b95718624a1f2ff4a5c95903bf2499a0e6a4766b06565923c69189b167d&ck=YTcwYzZlM2ViNGY2NTI4NWViMTBlMzI2YWM2NmMwOTI6NTcyMjJiMWJkMjY2MmMwZjI5M2FjNDI0Nzc4MDlmNTc=
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
