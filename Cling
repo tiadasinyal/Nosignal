@@ -3223,6 +3223,13 @@ https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 ###https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd 
 http://45.41.213.34:70/TSN1/index.m3u8
 
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="tsn1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/640px-TSN1.svg.png",TSN 1 (BU)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8df41512092240d38550e83dc05e157e:f29f106ec9f58b41c7c8391b64f3bb25;
+696d73aeb2a55ba99874b3937bec4eb3:f29f106ec9f58b41c7c8391b64f3bb25;
+3e1b5ce75f9f51888f68fcc88e00a424:f29f106ec9f58b41c7c8391b64f3bb25
+https://live-cito.9c9media.ca/d29e2f69491577266e85c2fc5dbc991948f0c2571720084104850/f/tsn1/manifest.mpd
+
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="tsn2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/640px-TSN2.svg.png",TSN 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
