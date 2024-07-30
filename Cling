@@ -188,7 +188,7 @@ https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.m
 https://starhub.firefigther48.workers.dev/HubSports2HD.mpd
 
 =======================LIVE EVENT OLYMPIC GAMES PARIS 2024======================================
-#EXTINF:-1 tvg-id="" tvg-logo="https://press.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Badminton Feed Court 01
+#EXTINF:-1 tvg-id="" group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" tvg-logo="https://press.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Badminton Feed Court 01
 https://livealiop-5club.cctv.cn/hls/CCTV5746e035efb064043863e21797bebe504M/playlist.m3u8?wsSecret=34892858aebd815dadbfdaddb6881652&wsTime=1722320885
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://press.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Badminton Feed Court 02
@@ -233,7 +233,7 @@ https://wkeke.lanciau.workers.dev/hls/live/2112595/uhd_akamai_ctv_avc_eng_olympi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 https://wkeke.lanciau.workers.dev/hls/live/2112595/uhd_akamai_ctv_avc_eng_olympic_feed9_270724/master.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://press.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif" group-title="JIOPARIS 2024", Jio Feed 10 
+#EXTINF:-1 tvg-id="" tvg-logo="https://press.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Jio Feed 10 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 https://wkeke.lanciau.workers.dev/hls/live/2112596/uhd_akamai_ctv_avc_eng_olympic_feed10_270724/master.m3u8 
 
@@ -526,140 +526,140 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5165/default_primary.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ziIx1GE1Wkt6KMKhfwEUSw", "kid":"GpugxBOZSIKkh0YcczYccw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH01.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH01
+#EXTINF:-1 tvg-id="ParisCH01.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH01
 https://mwmpos03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bRWU9jnqXeZoukGhkdHCFQ", "kid":"1rYNTbbwRuu4ALkL2dCK0w" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH02.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH02
+#EXTINF:-1 tvg-id="ParisCH02.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH02
 https://mwmpos01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L+0Vk4VcRoc3MTefOrLWaQ", "kid":"TSt7ci9WRSaAD9fLBYMDtQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH03.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH03
+#EXTINF:-1 tvg-id="ParisCH03.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH03
 https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0fZwXgKPgWFSIban2iyRrg", "kid":"OwW8sR9mRzaZP9XH3cCgzw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH04.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH04
+#EXTINF:-1 tvg-id="ParisCH04.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH04
 https://mwmpos04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Wrrg47W9Q5zDh6UmoOunDQ", "kid":"YNIfm9K8Te+BtxlqTzdbvQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH05.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH05
+#EXTINF:-1 tvg-id="ParisCH05.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH05
 https://mwmpos03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OLlCmCv6o4zQMaZWqwyPPA", "kid":"w9HKvJusS7eFT3qYq+4hsg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH06.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH06
+#EXTINF:-1 tvg-id="ParisCH06.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH06
 https://mwmpos01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ofMo3Z7G6aunbDV14W8mBw", "kid":"xj61+LFBQmu9UzBzs0F2UA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH07.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH07
+#EXTINF:-1 tvg-id="ParisCH07.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH07
 https://mwmpos02.akamaized.net/out/v1/3b1dd652def14c0d88ad4d65b8a63103/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/aNFr0nP6Xh//ukaYASj1Q", "kid":"bjWVVP2uTGebBc27EtYEhQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH08.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH08
+#EXTINF:-1 tvg-id="ParisCH08.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH08
 https://mwmpos03.akamaized.net/out/v1/757f68f7d04b464d8ba433865b04adcd/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FEZUPOPWLvCNDB6toueACg", "kid":"mFSPEmvLRQWkfUATOsfQ7Q" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH09.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH09
+#EXTINF:-1 tvg-id="ParisCH09.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH09
 https://mwmpos02.akamaized.net/out/v1/c7968554079946679615c275e0e5d155/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Gi7q8hk+yKPb1mdFDk/10A", "kid":"90OlOkzPSHKdz48g5sh4sw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH10.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH10
+#EXTINF:-1 tvg-id="ParisCH10.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH10
 https://mwmpos02.akamaized.net/out/v1/ff22f8d0966549a595ef1b32536a7044/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0Ub0XsPlo3sJauypSoVW1Q", "kid":"gX6VmF+TQYOdT7CCUnlQ7A" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH11.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH11
+#EXTINF:-1 tvg-id="ParisCH11.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH11
 https://mwmpos04.akamaized.net/out/v1/c51d077e70d44638a9cbf99968e1491d/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uhxcI/2qnll/UIbaG+uO+w", "kid":"tfd4+R2pStO633lXHbasLw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH12.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH12
+#EXTINF:-1 tvg-id="ParisCH12.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH12
 https://mwmpos01.akamaized.net/out/v1/5c607c72d136423ab639168c101ad964/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vXL4f/kRyucL2p4w06Bvfg", "kid":"UI/sh1EhSgGRsrRsl/iRvw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH13.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH13
+#EXTINF:-1 tvg-id="ParisCH13.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH13
 https://mwmpos02.akamaized.net/out/v1/abd629d1565f47dab234e85f5ce2a6b7/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZOsdsbjB7ab9rv0GF8chAg", "kid":"tG4o22kAQlSq0DTdCcDeqg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH14.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH14
+#EXTINF:-1 tvg-id="ParisCH14.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH14
 https://mwmpos01.akamaized.net/out/v1/5f4a01d67c374c05987ef5175315ae32/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BxfnAtyymYPPqnSoiuImNw", "kid":"+h7/Q5R5R5++14yobJLEDw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH15.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH15
+#EXTINF:-1 tvg-id="ParisCH15.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH15
 https://mwmpos03.akamaized.net/out/v1/4987288922884ee581e31c09d9d3432f/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"16hi7L4SP2Yjnbda2pyXBg", "kid":"nG7Cy1CHSsOVTi1qypkxjA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH16.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH16
+#EXTINF:-1 tvg-id="ParisCH16.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH16
 https://mwmpos01.akamaized.net/out/v1/d25d6ac6065747579cc0336ed2d540a8/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xjWdKbd1JyXeIKd4Og3J6g", "kid":"3h+PjXcqS2m136DREPPydA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH17.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH17
+#EXTINF:-1 tvg-id="ParisCH17.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH17
 https://mwmpos04.akamaized.net/out/v1/dbd2ba3639db4d61b6543856e815b1cc/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RAj89v2gk8qU3r7/cLcH2Q", "kid":"RhCXykSyR9m19XLutnlOtQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH18.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH18
+#EXTINF:-1 tvg-id="ParisCH18.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH18
 https://mwmpos01.akamaized.net/out/v1/7600d156a41348ba807e0903f4182781/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UOFaZHbjprlwimnfu/Lqtg", "kid":"CXwHNv7tRIibtVTL1c73uw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParisCH19.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH19
+#EXTINF:-1 tvg-id="ParisCH19.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH19
 https://mwmpos02.akamaized.net/out/v1/7b8d435cc3ef421ea90f437143547133/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null
-#EXTINF:-1 tvg-id="ParisCH20.sg" tvg-logo="isisendiri" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH20
+#EXTINF:-1 tvg-id="ParisCH20.sg" tvg-logo="https://www.abu.org.my/wp-content/uploads/2024/07/Mediacorp-Paris-2024-logo.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Paris 2024 CH20
 null
 
 #KODIPROP:inputstream=inputstream.adaptive
