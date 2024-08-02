@@ -270,8 +270,8 @@ https://wkeke.lanciau.workers.dev/hls/live/2112599/uhd_akamai_ctv_avc_eng_olympi
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZBfCZe7/U326G8VBjwB60g", "kid":"QdoJWBnHSzCqlNryuDzjeQ" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="780.astro",Astro OLY 1 
-https://linear14-playback.sooka.my/CH2/masterCH2.mpd
+#EXTINF:-1 group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png" tvg-id="780.astro",Astro OLY 1a 
+https://linear14-playback.sooka.my/CH2/masterCH2.mpd|X-Forwarded-For=202.150.221.170
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
