@@ -4651,7 +4651,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-
 #EXTINF:-1 group-title="Movies" tvg-id="boohd.my" tvg-logo="https://i.postimg.cc/fLTLsmxR/boo.png",Boo 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8yZr7GB/JYefSGQPMPHIiA","kid":"6k1RreAbvzlG4N6XMFG6EA"}],"type":"temporary"}
-http://38.47.176.138:4083/https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2407/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2407/default_primary.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",STC FAMILY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
