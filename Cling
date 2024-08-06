@@ -188,14 +188,23 @@ https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.m
 https://starhub.firefigther48.workers.dev/HubSports2HD.mpd
 
 =======================LIVE EVENT OLYMPIC GAMES PARIS 2024======================================
-#EXTINF:-1 tvg-id="" group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" tvg-logo="https://press.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Badminton Feed Court 01
-https://livealiop-5club.cctv.cn/hls/CCTV5746e035efb064043863e21797bebe504M/playlist.m3u8?wsSecret=34892858aebd815dadbfdaddb6881652&wsTime=1722320885
+#EXTINF:-1 tvg-id="" group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" tvg-logo="https://press.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", RTM Olimpic 1
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://press.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Badminton Feed Court 02
-https://livealiop-5club.cctv.cn/hls/CCTV5000c57f324924bfba2913c0dc961f49bM/playlist.m3u8?wsSecret=611a5ffab69922a092dbab709b8693eb&wsTime=1722320973
+#EXTINF:-1 tvg-id="" group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" tvg-logo="https://press.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", RTM Olimpic 2
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://press.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Badminton Feed Court 03
-https://livealiop-5club.cctv.cn/hls/CCTV56f04b90c97244c8a8da53e97bf606545M/playlist.m3u8?wsSecret=b58ef3d9551d7f27d797737826b582f0&wsTime=1722321024
+#EXTINF:-1 tvg-id="" group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" tvg-logo="https://press.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", RTM Olimpic 3
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
+
+#EXTINF:-1 tvg-id="" group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" tvg-logo="https://press.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", RTM Olimpic 4
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag3/playlist.m3u8?id=14
+
+#EXTINF:-1 tvg-id="" group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" tvg-logo="https://press.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", RTM Olimpic 5
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
+
+#EXTINF:-1 tvg-id="" group-logo="https://telegra.ph/file/22a62651fd13eacdcdaaf.png" tvg-logo="https://press.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", RTM Olimpic 6
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://press.paris2024.org/themes/redcurrentsredcurrents/olympics-games/images/assets/paris2024_logo_v2.gif" group-title="LIVE EVENT OLYMPIC GAMES PARIS 2024", Jio Feed 01 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
