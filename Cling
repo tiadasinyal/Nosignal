@@ -45,8 +45,6 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 #KODIPROP:inputstream.adaptive.license_key=ae45e9ae2f2244c18f804195213a495c:00421dca102c69f8432b48626348a989
 https://d2uty8832jppwn.cloudfront.net/out/v1/d0b6763e1b4d4b71869601bfb6ded8da/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
 
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/294/2024/06/20/Copa-America-787213917.jpg" group-title="LIVE EVENT", LIVE 2 Copa America (Splus HD)
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 group-logo="https://c.clc2l.com/t/F/I/FIFA-Le-plaisir-du-football-3KxM2W.jpg" tvg-id="" tvg-name="LIVE EVENT" tvg-logo="https://c.clc2l.com/t/F/I/FIFA-Le-plaisir-du-football-3KxM2W.jpg?download=true" group-title="LIVE EVENT",Server 1A
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
@@ -1626,6 +1624,11 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" group-title="TV Arabic",Abu Dhabi Emirates (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" group-title="TV Arabic",Bahrain TV 1 (1080p)
+https://shls-live-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" group-title="TV Arabic",Bahrain TV 1 (1080p)
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
 #EXTINF:-1 tvg-id="3eeshAlAanTV.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://qanawat.taghtia.com/assets/channels/palestine-today.png" group-title="TV Arabic",Palestine Today
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
@@ -1635,7 +1638,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x74wje5
 
 #EXTINF:-1 tvg-id="AlEkhbariya.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NciF5rO.png" group-title="TV Arabic",Al Ekhbariya (1080p)
 https://edge.taghtia.com/sa/4.m3u8
-
 
 #EXTINF:-1 tvg-id="AlKhalij.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://www.alkhalij.tv/wp-content/uploads/2021/12/logo4.png" group-title="TV Arabic",Al Khalij (720p) 
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
