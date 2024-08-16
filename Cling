@@ -2194,6 +2194,96 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
+#EXTINF:-1 tvg-id="1" tvg-name="Star Sports 1 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/QM22x0Qj/Star-Sports-1-HD.png" tvg-chno="1" group-title="Olahraga 1",Star Sports 1 HD 
+https://teachub.fun/S1/stream.m3u8?id=1&e=.m3u8 
+#EXTINF:-1 tvg-id="2" tvg-name="Star Sports 1 Hindi HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/MZbCq0v8/Star-Sports-1-HD-Hindi.png" tvg-chno="2" group-title="Olahraga 1",Star Sports 1 Hindi HD 
+https://teachub.fun/S1/stream.m3u8?id=2&e=.m3u8 
+#EXTINF:-1 tvg-id="3" tvg-name="Sky Sports Cricket" tvg-country="IN" tvg-logo="https://i.postimg.cc/13TTJJYD/Sky-Sports-Cricket.png" tvg-chno="3" group-title="Olahraga 1",Sky Sports Cricket 
+https://teachub.fun/S1/stream.m3u8?id=3&e=.m3u8 
+#EXTINF:-1 tvg-id="4" tvg-name="A Sports HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/4dR0TnGd/A-Sports-HD.png" tvg-chno="4" group-title="Olahraga 1",A Sports HD 
+https://teachub.fun/S1/stream.m3u8?id=4&e=.m3u8 
+#EXTINF:-1 tvg-id="5" tvg-name="Sky Sport 3 NewZealand" tvg-country="IN" tvg-logo="https://i.postimg.cc/8Pz0Gq2h/Sky-Sports-New-Zealand.png" tvg-chno="5" group-title="Olahraga 1",Sky Sport 3 NewZealand 
+https://teachub.fun/S1/stream.m3u8?id=5&e=.m3u8 
+#EXTINF:-1 tvg-id="6" tvg-name="PTV Sports HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/cLV9Q6rm/PTV-Sports.png" tvg-chno="6" group-title="Olahraga 1",PTV Sports HD 
+https://teachub.fun/S1/stream.m3u8?id=6&e=.m3u8 
+#EXTINF:-1 tvg-id="7" tvg-name="Ten Sports HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/mDVy6r2K/Ten-Sports-HD.png" tvg-chno="7" group-title="Olahraga 1",Ten Sports HD 
+https://teachub.fun/S1/stream.m3u8?id=7&e=.m3u8 
+#EXTINF:-1 tvg-id="8" tvg-name="TNT Sports 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/qRLxZxGk/TNT-Sports-1.png" tvg-chno="8" group-title="Olahraga 1",TNT Sports 1 
+https://teachub.fun/S1/stream.m3u8?id=8&e=.m3u8 
+#EXTINF:-1 tvg-id="9" tvg-name="Willow by Cricbuzz" tvg-country="IN" tvg-logo="https://i.postimg.cc/1tJDK59X/Willow-by-Cricbuzz.png" tvg-chno="9" group-title="Olahraga 1",Willow by Cricbuzz 
+https://teachub.fun/S1/stream.m3u8?id=9&e=.m3u8 
+#EXTINF:-1 tvg-id="10" tvg-name="Sky Sports Mix" tvg-country="IN" tvg-logo="https://i.postimg.cc/kXkKsHdQ/Sky-Sports-Mix.png" tvg-chno="10" group-title="Olahraga 1",Sky Sports Mix 
+https://teachub.fun/S1/stream.m3u8?id=10&e=.m3u8 
+#EXTINF:-1 tvg-id="11" tvg-name="ESPN" tvg-country="IN" tvg-logo="https://i.postimg.cc/cHbrHKxR/ESPN.png" tvg-chno="11" group-title="Olahraga 1",ESPN 
+https://teachub.fun/S1/stream.m3u8?id=11&e=.m3u8 
+#EXTINF:-1 tvg-id="12" tvg-name="Super Sport Cricket" tvg-country="IN" tvg-logo="https://i.postimg.cc/YCMDkDHs/Super-Cricket.png" tvg-chno="12" group-title="Olahraga 1",Super Sport Cricket 
+https://teachub.fun/S1/stream.m3u8?id=12&e=.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="Olahraga 1",Super Sport 1
+http://yesimes.oknirvana.club:8880/D12m2083/das2321sa452/1722
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="Olahraga 1",Super Sport 2
+http://yesimes.oknirvana.club:8880/D12m2083/das2321sa452/1721
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="Olahraga 1",Super Sport 3
+http://yesimes.oknirvana.club:8880/D12m2083/das2321sa452/1720
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="Olahraga 1",Super Sport 4
+http://yesimes.oknirvana.club:8880/D12m2083/das2321sa452/1719
+#EXTINF:-1 tvg-id="" tvg-name="MY022:Super Sport 5" tvg-logo="" group-title="Olahraga 1",Super Sport 5
+http://yesimes.oknirvana.club:8880/D12m2083/das2321sa452/1713
+#EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="" group-title="Olahraga 1",ASTRO ASSP4 HD
+http://yesimes.oknirvana.club:8880/D12m2083/das2321sa452/59217
+#EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO ASSP3 HD" tvg-logo="" group-title="Olahraga 1",ASTRO ASSP3 HD
+http://yesimes.oknirvana.club:8880/D12m2083/das2321sa452/59218
+#EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="" group-title="Olahraga 1",ASTRO ASSP HD
+http://yesimes.oknirvana.club:8880/D12m2083/das2321sa452/59220
+#EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="" group-title="Olahraga 1",ASTRO ASSP2 HD
+http://yesimes.oknirvana.club:8880/D12m2083/das2321sa452/59219
+#EXTINF:-1 tvg-id="" tvg-name="MY107:Astro SuperSport Events 6" tvg-logo="" group-title="Olahraga 1",Astro SuperSport Events 6
+http://yesimes.oknirvana.club:8880/D12m2083/das2321sa452/71079
+#EXTINF:-1 tvg-id="" tvg-name="MY133:Astro Premier 2" tvg-logo="" group-title="Olahraga 1",Astro Premier 2
+http://yesimes.oknirvana.club:8880/D12m2083/das2321sa452/71105
+#EXTINF:-1 tvg-id="" tvg-name="MY136:ASTRO Rugby Pass" tvg-logo="" group-title="Olahraga 1",ASTRO Rugby Pass
+http://yesimes.oknirvana.club:8880/D12m2083/das2321sa452/71108
+#EXTINF:-1 tvg-id="" tvg-name="MY137:ASTRO Cricket" tvg-logo="" group-title="Olahraga 1",ASTRO Cricket
+http://yesimes.oknirvana.club:8880/D12m2083/das2321sa452/71109
+#EXTINF:-1 tvg-id="" tvg-name="MY177:Astro SuperSport Events 3" tvg-logo="" group-title="Olahraga 1",Astro SuperSport Events 3
+
+
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport Action
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14963&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport Blitz
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14962&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport Cricket
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14961&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport Football
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport Golfh
+ttp://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14959&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport Motorsport
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14957&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport LaLiga
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14956&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport Premier League
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport Grandstand
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14954&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport Rugby
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14953&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport PSL
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18532&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport Tennis
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18533&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport MaXimo
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18534&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport Variety 1
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18684&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport Variety 2
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18685&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport Variety 3
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18916&extension=ts
+#EXTINF:-1 tvg-logo="https://dp-supersport-cms-prod.azurewebsites.net/media/uidn1hzf/ss_logo_slogan.png" group-title="Olahraga 1",SuperSport Variety 4
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18917&extension=ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="Olahraga 1", SPLUS HD
@@ -2542,27 +2632,6 @@ http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/ou
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Olahraga 2",Astro Supersport 1
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#EXTVLCOPT:network-caching=1000
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
-
-#EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Olahraga 2",Astro Supersport 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#EXTVLCOPT:network-caching=1000
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1721
-
-#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Olahraga 2",Astro Supersport 3
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#EXTVLCOPT:network-caching=1000
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
-
-#EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Olahraga 2",Astro Supersport 4
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#EXTVLCOPT:network-caching=1000
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Olahraga 2",STC SPORT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
