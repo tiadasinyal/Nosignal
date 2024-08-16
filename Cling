@@ -3428,7 +3428,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manife
 
 
 ========================================Olahraga 4 VPN============================
-#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="Canal + Sport HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="Olahraga 4 VPN",Canal + Sport HD 
+#EXTINF:-1 tvg-id="canalplussport.pl" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-name="Canal + Sport HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="Olahraga 4 VPN",Canal + Sport HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
