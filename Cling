@@ -747,11 +747,11 @@ https://cdn.jwplayer.com/live/events/k64Vrj10.m3u8
 
 =======================TV National=============================
 
+#EXTINF:-1 group-title="Nasional" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-name="" group-logo="https://png.pngtree.com/png-vector/20221202/ourmid/pngtree-indonesia-flag-waving-vector-png-image_6494937.png" tvg-logo="https://e7.pngegg.com/pngimages/499/465/png-clipart-rcti-logo-streaming-media-television-media-nusantara-citra-televisi-indonesia-television-blue.png" group-title="TV National" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",RCTI HD
+#EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
