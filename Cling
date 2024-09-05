@@ -14,8 +14,11 @@
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://fhlsport18.1mv.xyz/by07scpx/s2001/v3b/1o8308qpnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_570738.m3u8
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 2 (Offline)
-https://buat-script-sendiri-goblok.starlive.workers.dev/live/stream-478026_lsd.m3u8
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 2 (Online)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
+https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -39,7 +42,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?h
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdnts=exp=1721751018~acl=/drm/dash/*~id=116165107~hmac=ec237d9188d6f59ff3b1326fb6382e0397f05109b0366ed88073c944c636362b&ck=YjU4NzQwMjFlMzNmNDlkNGRhYzVjZDU1MzQ0YjBkNzQ6N2I0OWYzZWVjZjRlOTMzNmZmZGI5YTU0OWQyZWU3ODE=
 
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE FIFA+ (Offline)
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae45e9ae2f2244c18f804195213a495c:00421dca102c69f8432b48626348a989
