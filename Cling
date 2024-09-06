@@ -2040,7 +2040,7 @@ https://stream.smg.my/live/tvs.m3u8
 
 =========================================== ANAK ===========================================
 
-#EXTINF:-1 group-title="Anak" group-logo="https://www.shutterstock.com/image-vector/vector-colorful-banner-kids-channel-260nw-1465312766.jpg" tvg-logo="https://i.imgur.com/MfogyNo.png",DEI Kids TV
+#EXTINF:-1 group-title="Anak" group-logo="https://png.pngtree.com/png-clipart/20190520/original/pngtree-kids-channel-logo-vector-template-design-illustration-png-image_4138149.jpg" tvg-logo="https://i.imgur.com/MfogyNo.png",DEI Kids TV
 https://e.siar.us/live/deikidstv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
