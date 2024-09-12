@@ -13,11 +13,6 @@
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 http://iptvtree.net:8080/AmirBilali/76448035/162138
 
-#EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-logo="https://iili.io/Jmny4iG.png" group-title="LIVE EVENT",IMC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/bri.png" group-title="LIVE EVENT", BRI Liga 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
