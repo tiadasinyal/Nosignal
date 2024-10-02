@@ -1720,12 +1720,6 @@ https://akam.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
-#EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-logo="https://ambontv.my.id/logotv/skysport.png" group-title="Olahraga 1", Sky Sport Calcio
-http://152.89.62.76:8880/DAALM2792/WM4X7tNsEk/2687
-
-#EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/skysport.png" group-title="Olahraga 1", Sky Sport Premier League
-http://152.89.62.76:8880/DAALM2792/WM4X7tNsEk/2877
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/CBC_Sports_Logo.png" group-title="Olahraga 1", CBC Sports
 https://bozztv.com/dvrfl05/gin-cbc-sport/index.m3u8
 
