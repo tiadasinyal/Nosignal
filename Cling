@@ -16,7 +16,6 @@ http://iptvtree.net:8080/AmirBilali/76448035/162138
 #EXTINF:-1 tvg-name="RCTI" group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4c/Deadpool_%26_Wolverine_poster.jpg" group-title="LIVE EVENT",wolverine vs deadpool (Movie)
 https://gdriveplayer.to/hlsplaylist.php?idhls=TDFRSVlVcHQveWJaK1ZkVnRaK25rMmZJM1FDVjIxdjFuaUEyTmlNcUpOUnV4aFNrZWthMDVNakI5eDhLZUhvNg==.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/bri.png" group-title="LIVE EVENT", BRI Liga 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
@@ -39,7 +38,7 @@ https://linear-627.frequency.stream/dist/distrotv/627/hls/master/playlist.m3u8
 ==============================================
 
 #EXTHTTP:{"Origin": "https://ben.quietlywheat23.shop", "Referer": "https://ben.quietlywheat23.shop/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"}
-#EXTINF:-1  tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1 (Online RedSparks)
+#EXTINF:-1  tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1 (Offline)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/va8wwvvcdambwwvicbf09efgwqaswmve3l/playlist.m3u8?hdnts=st=1727691670~exp=1727724080~acl=*/va8wwvvcdambwwvicbf09efgwqaswmve3l/*~hmac=aad9e3f7bdc7b4aa195f9e88e8f858abe4c9f3ac28fcd48f68b3e2c4d2929898
 
@@ -1811,6 +1810,27 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_key=e4515ae969cb46ae89997c8308b70e4d:bdc640533aac8955a6293158210e0a7d
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
 
+#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3j2E_03stnGZ-wdAeHxDZhqk4N1P9jihGTQ&s",SportKlub 1
+http://89.187.191.99:8080/sk1/index.m3u8
+#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3j2E_03stnGZ-wdAeHxDZhqk4N1P9jihGTQ&s",SportKlub 2
+http://89.187.191.99:8080/sk2/index.m3u8
+#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3j2E_03stnGZ-wdAeHxDZhqk4N1P9jihGTQ&s",SportKlub 3
+http://89.187.191.99:8080/sk3/index.m3u8
+#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3j2E_03stnGZ-wdAeHxDZhqk4N1P9jihGTQ&s",SportKlub 4
+http://89.187.191.99:8080/sk4/index.m3u8
+
+#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 1 BR
+https://cdn-5.nxplay.com.br/ESPN/index.m3u8
+
+#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 2 BR
+https://cdn-5.nxplay.com.br/ESPN_2/index.m3u8
+
+#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 3 BR
+https://cdn-5.nxplay.com.br/ESPN_3/index.m3u8
+
+#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 4 BR
+https://cdn-5.nxplay.com.br/ESPN_4/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
@@ -2565,20 +2585,6 @@ https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV 5+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
-
-#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 1 BR
-https://cdn-3.nxplay.com.br/ESPN/index.m3u8
-
-#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 2 BR
-https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
-
-#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 3 BR
-https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
-
-#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 4 BR
-https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
-
-
 
 ########################## Olahraga 2 ##########################
 
@@ -5894,7 +5900,19 @@ https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dass
 https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-id="sonypix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png",Sony Pix
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-pix-hd/index.ts
+http://103.49.69.156:8000/play/a02o/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="sonypix.in" tvg-logo="https://seeklogo.com/images/1/flix-hd-logo-D0B321DA6F-seeklogo.com.png",&Flix
+http://103.84.57.155:8000/play/a033/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="sonypix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/800px-%26priv%C3%A9_HD.svg.png",&Prive
+http://103.84.57.155:8000/play/a0a6/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="sonypix.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest/scale-to-width-down/300?cb=20231217022312",&Picture
+http://103.84.57.155:8000/play/a09u/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="sonypix.in" tvg-logo="https://w7.pngwing.com/pngs/648/291/png-transparent-star-movies-television-channel-fox-movies-logo-star-movie-television-text-film.png",Star Movies HD
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-MOVIES-HD/live.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Yjc1MDA5ZmQtOTk4Zi0zZmZlLTliMzUtOWM1NTU4ZGY2MmJh
@@ -7356,6 +7374,8 @@ https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://hometv.pw/logo/knowledge/discovery.png" group-title="Knowledge",DISCOVERY CHANNEL (F*)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
 
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://hometv.pw/logo/knowledge/discovery.png" group-title="Knowledge",DISCOVERY CHANNEL
+https://dplus.gammacdn.workers.dev/videos/95.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Yjc1MDA5ZmQtOTk4Zi0zZmZlLTliMzUtOWM1NTU4ZGY2MmJh
@@ -11013,7 +11033,7 @@ http://203.162.235.41:29108/
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gSSRDf6Bszz7uI7Fgo5a-92-kis=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-9e9e9e.jpg" group-title="Religi", Ajwa Tv
-https://cuass-0b97ee29d0c4.herokuapp.com/pid/index.m3u8?id=7464&type=hls&token=ee
+https://sweet-night-1d1d.worst.workers.dev/?id=7464&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
