@@ -47,6 +47,9 @@ https://cikgusuraya.tech/YtLive/index.m3u8?id=E9MWpb5gIEM
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cikgusuraya.tech/YtLive/index.m3u8?id=HMnM9HCXQK4
 
+#EXTINF:-1 tvg-id="Local" group-title="LIVE EVENT" tvg-logo="https://sports-phinf.pstatic.net/liveThumbnail/20241002822F22.jpg?type=f640_360", IBK ALTOS Live
+https://naver-kr.atv-live.workers.dev/index.m3u8?id=20241002822F22
+
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 2  (Offline)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
