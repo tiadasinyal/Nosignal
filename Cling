@@ -11092,6 +11092,19 @@ http://203.162.235.41:29108/
 #EXTINF:0 tvg-id="ID" tvg-name="Khazanah" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxx6dAbT9ljxEyMwmUF3JPJ4rRzty-8NMaKA&s"  ch-number="798" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f557be28131b9/80b42c2601c64bd69db44ebfde005981.png" group-title="Religi",Khazanah
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:0 tvg-id="ID" tvg-name="TV9" ch-number="702" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685730a4243017321f12b4d2d08/582dae09301e46e79548c7df2c4ac957.jpg" group-title="Religi",TV 9 Nusantara (C)
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Yjc1MDA5ZmQtOTk4Zi0zZmZlLTliMzUtOWM1NTU4ZGY2MmJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png",TV 9 Nusantara
+https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gSSRDf6Bszz7uI7Fgo5a-92-kis=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-9e9e9e.jpg" group-title="Religi", Ajwa Tv
 https://sweet-night-1d1d.worst.workers.dev/?id=7464&type=hls
 
@@ -11200,18 +11213,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuran
 #EXTINF:-1 group-title="Religi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png",Tawaf TV
 https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Yjc1MDA5ZmQtOTk4Zi0zZmZlLTliMzUtOWM1NTU4ZGY2MmJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png",TV 9 Nusantara
-https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-EXTINF:0 tvg-id="Khazanah.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Khazanah_Transvision.png" group-title="Religi",Khazanah (T*) 
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+
+
 
 =================Religi (Sunnah)==========================
 
