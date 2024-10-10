@@ -7075,7 +7075,7 @@ https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Yjc1MDA5ZmQtOTk4Zi0zZmZlLTliMzUtOWM1NTU4ZGY2MmJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://hometv.pw/logo/knowledge/history.png" group-title="Knowledge",HISTORY (V+)
-https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/Historynew/sa_dash_vmx/Historynew.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Yjc1MDA5ZmQtOTk4Zi0zZmZlLTliMzUtOWM1NTU4ZGY2MmJh
