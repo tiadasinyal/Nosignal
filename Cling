@@ -9,9 +9,8 @@
 
 =======================LIVE EVENT===========================================
 
-#EXTINF:-1 tvg-name="RCTI" group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://ambontv.my.id/logotv/bri.png" group-title="LIVE EVENT", BRI Liga 1 (EVENT ONLY)
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-http://iptvtree.net:8080/AmirBilali/76448035/162138
+#EXTINF:-1 tvg-name="RCTI" group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://riaunews.com/wp-content/uploads/2024/09/bahrain-vs-indonesia.jpg" group-title="LIVE EVENT",Bahrain VS Indo (LIVE)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="RCTI" group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4c/Deadpool_%26_Wolverine_poster.jpg" group-title="LIVE EVENT",wolverine vs deadpool (Movie)
 https://gdriveplayer.to/hlsplaylist.php?idhls=TDFRSVlVcHQveWJaK1ZkVnRaK25rMmZJM1FDVjIxdjFuaUEyTmlNcUpOUnV4aFNrZWthMDVNakI5eDhLZUhvNg==.m3u8
@@ -41,19 +40,19 @@ https://vebo.yanbelasan.workers.dev/vwJu7M0ZZ6M01sw-qCqVdg/Fv2lucGIbhPi2caWYvF5L
 ==============================================
 
 #EXTHTTP:{"Origin": "https://ben.quietlywheat23.shop", "Referer": "https://ben.quietlywheat23.shop/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"}
-#EXTINF:-1  tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1 Voli (Online)
+#EXTINF:-1  tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1 Voli (Off)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cikgusuraya.tech/YtLive/index.m3u8?id=E9MWpb5gIEM
 
 #EXTHTTP:{"Origin": "https://ben.quietlywheat23.shop", "Referer": "https://ben.quietlywheat23.shop/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"}
-#EXTINF:-1  tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 2 Voli (Online)
+#EXTINF:-1  tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 2 Voli (Off)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cikgusuraya.tech/YtLive/index.m3u8?id=HMnM9HCXQK4
 
 #EXTINF:-1 tvg-id="Local" group-title="LIVE EVENT" tvg-logo="https://sports-phinf.pstatic.net/liveThumbnail/20241002822F22.jpg?type=f640_360", IBK ALTOS Live
 https://naver-kr.atv-live.workers.dev/index.m3u8?id=20241002822F22
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 2  (Offline)
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 2  (Off)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
