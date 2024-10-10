@@ -1547,6 +1547,34 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries//abcnews.png" group-title="TV Berita",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/uk/foxnews.png" group-title="TV Berita",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png" group-title="TV Berita",Newsmax 2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/1f/8c/vA9CqYr4_o.jpeg" group-title="TV Berita",One America News
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png group-title="TV Berita",USA Today
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" group-title="TV Berita",NBC News (Samsung TV)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_nbcnewsnow_001.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/660/660-LOGO-m.png" group-title="TV Berita",BBC World News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51JsdJR/africanews.png" group-title="TV Berita",Africanews
+https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
+
 #EXTINF:-1 group-title=" TV Berita" tvg-id="euronewsenglish.fr" tvg-logo="https://iptv.urfan.id/logo/euronewstv.png",EuroNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
