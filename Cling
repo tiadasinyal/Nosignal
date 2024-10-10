@@ -12,6 +12,9 @@
 #EXTINF:-1 tvg-name="RCTI" group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://riaunews.com/wp-content/uploads/2024/09/bahrain-vs-indonesia.jpg" group-title="LIVE EVENT",Bahrain VS Indo (LIVE)
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
 
+#EXTINF:-1 tvg-name="RCTI" group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://riaunews.com/wp-content/uploads/2024/09/bahrain-vs-indonesia.jpg" group-title="LIVE EVENT",Bahrain VS Indo (LIVE 2)
+https://wtf.pstvlive.xyz/live/ps_fc_ww/hls/index.m3u8?id=e4052e64960a483e94fa3532d9d1bb8a32122196d082156f34c2df53db559ff049ca80c1e4e72bffe32ee804c34870d3201255784e1831ded1e03552d40899f31c462f3097084bd09fb52db0595cae9f
+
 #EXTINF:-1 tvg-name="RCTI" group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4c/Deadpool_%26_Wolverine_poster.jpg" group-title="LIVE EVENT",wolverine vs deadpool (Movie)
 https://gdriveplayer.to/hlsplaylist.php?idhls=TDFRSVlVcHQveWJaK1ZkVnRaK25rMmZJM1FDVjIxdjFuaUEyTmlNcUpOUnV4aFNrZWthMDVNakI5eDhLZUhvNg==.m3u8
 
