@@ -6,6 +6,7 @@
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 #EXTM3U x-url-tvg="https://strimz.my.id/epg"
 #EXTM3U url-tvg="https://strimz.my.id/epg"
+#EXTM3U url-tvg="https://s.urfan.id/epg" refresh="3600"
 
 =======================LIVE EVENT===========================================
 
