@@ -13,6 +13,13 @@
 #EXTINF:-1 tvg-name="RCTI" group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://riaunews.com/wp-content/uploads/2024/09/bahrain-vs-indonesia.jpg" group-title="LIVE EVENT",Bahrain VS Indo (LIVE)
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
 
+#EXTINF:0 tvg-id=""  tvg-name="INFO" tvg-logo="https://images2.imgbox.com/18/d4/XWnNAq9y_o.jpg" group-title="LIVE EVENT",OPTUS SPORT 1 (VPN AUS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2db8ec9fcc1bf1cebb260800bbff5d1d":"31d4a7d5a32bb635b11bbc929f75bcba","03b47c8e5bdf41cbbbef29be6a18de9e":"3e13b4627eed3885cb58818fdc39d66f","aef018e360e048a985957c5894dbef22":"1c9372716605866863f0af26642acf63"}
+https://linear-a.fastly.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd|X-Forwarded-For=122.151.54.147
+
 #EXTINF:-1 tvg-name="RCTI" group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://riaunews.com/wp-content/uploads/2024/09/bahrain-vs-indonesia.jpg" group-title="LIVE EVENT",Bahrain VS Indo (LIVE 2)
 https://wtf.pstvlive.xyz/live/ps_fc_ww/hls/index.m3u8?id=e4052e64960a483e94fa3532d9d1bb8a32122196d082156f34c2df53db559ff049ca80c1e4e72bffe32ee804c34870d3201255784e1831ded1e03552d40899f31c462f3097084bd09fb52db0595cae9f
 
