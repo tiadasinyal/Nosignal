@@ -1871,7 +1871,7 @@ https://cdn1.pishow.tv/live/187/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"2db8ec9fcc1bf1cebb260800bbff5d1d":"31d4a7d5a32bb635b11bbc929f75bcba","03b47c8e5bdf41cbbbef29be6a18de9e":"3e13b4627eed3885cb58818fdc39d66f","aef018e360e048a985957c5894dbef22":"1c9372716605866863f0af26642acf63"}
 https://linear-a.fastly.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://tvtvtv.ru/icons/bahrain_sport_1.png" group-title="LIVE EVENT",Bahrain Sports 1
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://tvtvtv.ru/icons/bahrain_sport_1.png" group-title="Olahraga 1",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.br" tvg-logo="https://ambontv.my.id/logotv/premiere1.png" group-title="Olahraga 1", Premiere 1
