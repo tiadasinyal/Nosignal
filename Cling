@@ -1833,8 +1833,9 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=0045afccbe17b08dc663dafecd72675c:739f48fc959e9944981a043e86f76913
+###https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(vc1021n07j)/master_2min.mpd
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/02/58/63fd3bad3057c.png" group-title="Olahraga 1" , NBC Sports ᴴᴰ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
