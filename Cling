@@ -7544,6 +7544,7 @@ http://91.224.190.66:4263/bysid/26624
 ==============================Channel Firstmedia=================================
 
 #EXTINF:-1 group-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="Channel Firstmedia" tvg-name="" tvg-country="ID" tvg-logo="",ID | Jiangsu ᶠᶦʳˢᵗ
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
 https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd
@@ -7561,7 +7562,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
 
-#EXTINF:-1 group-title="Channel Firstmedia" tvg-name="TV Sports" tvg-country="ID" tvg-logo="",ID | SPOTV HD ᶠᶦʳˢᵗ
+#EXTINF:-1 group-title="Channel Firstmedia" tvg-name="TV Sports" tvg-country="ID" tvg-logo="",ID | SPOTV 1 HD ᶠᶦʳˢᵗ
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
