@@ -227,6 +227,9 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-88-SINDONEWSTV.png" group-title="TV National", SindoNews
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
+#EXTINF:-1 group-title="TV National" tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/wzccBbC/SMI-TV2023-jpg.jpg",Sukabumi TV
+https://livesubitv.com:5443/LiveApp/streams/cekas123AB.m3u8
+
 #EXTINF:-1 tvg-logo="https://iili.io/JmFZtFs.png" group-title="TV National",TVR Parlemen
 http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
 
