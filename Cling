@@ -14,9 +14,10 @@
 https://linear-627.frequency.stream/dist/distrotv/627/hls/master/playlist.m3u8
 
 #EXTHTTP:{"Origin": "https://ben.quietlywheat23.shop", "Referer": "https://ben.quietlywheat23.shop/", "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"}
-#EXTINF:-1  tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1 (Off)
+#EXTINF:-1  tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 1 Indo vs japan
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://cikgusuraya.tech/YtLive/index.m3u8?id=E9MWpb5gIEM
+https://output.unregister.xyz/euro/inavsjapan2024/abr.m3u8
+####https://cikgusuraya.tech/YtLive/index.m3u8?id=E9MWpb5gIEM
 
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE EVENT", LIVE 2  (Off)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
