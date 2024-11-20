@@ -7,6 +7,8 @@
 #EXTM3U x-url-tvg="https://strimz.my.id/epg"
 #EXTM3U url-tvg="https://strimz.my.id/epg"
 #EXTM3U url-tvg="https://s.urfan.id/epg" refresh="3600"
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
 
 =======================LIVE EVENT===========================================
 
@@ -9554,6 +9556,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 #EXTINF:-1 group-title="Channel IndiTV"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_davinci_big1.png",DAVINCI[INDIHOME]
 https://cdn09jtedge.indihometv.com/joss/134/davinci/index.m3u8
+
+https://linear-627.frequency.stream/dist/distrotv/627/hls/master/playlist.m3u8
+
 
 ============================== Channel Astro MY =============================================
 
