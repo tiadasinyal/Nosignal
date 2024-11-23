@@ -340,10 +340,10 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h108/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-cdn-flr.visionplus.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
-#EXTINF:-1 tvg-id="Channel Jowo" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685910daca60191a8636d706700/20240831122537.jpg" group-title="TV National", Channel Jowo
+EXTINF:-1 tvg-id="Channel Jowo" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685910daca60191a8636d706700/20240831122537.jpg" group-title="TV National", Channel Jowo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.cikgusuraya.workers.dev/
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
+##https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://www.psjtv.id/wp-content/uploads/2023/06/PSJTV-Tagline-Hitam.png" group-title="TV National",PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
@@ -1852,9 +1852,10 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0045afccbe17b08dc663dafecd72675c:739f48fc959e9944981a043e86f76913
-###https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(vc1021n07j)/master_2min.mpd
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+####https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(vc1021n07j)/master_2min.mpd
+
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/02/58/63fd3bad3057c.png" group-title="Olahraga 1" , NBC Sports ᴴᴰ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2869,7 +2870,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportst
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 RCTI+
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2-avc1_1000000=4.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -5647,7 +5648,7 @@ https://d3d9ae4yefa76z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png" group-title="Movies",Movie Sphere
 https://dxazj2uf8uiwf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ra9rjcmiktyz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBB2900001P9" tvg-logo="https://seeklogo.com/images/C/cj-enm-logo-EE17CA9B0F-seeklogo.com.png" group-title="Korea",K-Stories by CJ
+#EXTINF:-1 tvg-id="USBB2900001P9" tvg-logo="https://seeklogo.com/images/C/cj-enm-logo-EE17CA9B0F-seeklogo.com.png" group-title="Movies",K-Stories by CJ
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HiYAH.us" group-title="Movies" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png﻿-image_673701.jpg" tvg-logo="https://i.imgur.com/sOYAnTB.png",Hi-YAH! 
