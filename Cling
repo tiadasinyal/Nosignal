@@ -2960,8 +2960,8 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/o
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
 
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="" group-title="Olahraga 2" , DAZN FAST+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="" group-title="Olahraga 2" , DAZN FAST+ new
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
