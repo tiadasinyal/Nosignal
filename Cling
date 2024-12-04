@@ -1896,12 +1896,40 @@ https://bozztv.com/dvrfl05/gin-cbc-sport/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCgAcK4ZTRbNt8_OOwP3eY7QSZS_yvu8RwNg&s" group-title="Olahraga 1", Fanatec GT world
 https://cdn1.pishow.tv/live/187/master.m3u8
 
-#EXTINF:0 tvg-id=""  tvg-name="INFO" tvg-logo="https://images2.imgbox.com/18/d4/XWnNAq9y_o.jpg" group-title="Olahraga 1",OPTUS SPORT 1 (VPN AUS)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2db8ec9fcc1bf1cebb260800bbff5d1d:31d4a7d5a32bb635b11bbc929f75bcba,03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f,aef018e360e048a985957c5894dbef22:1c9372716605866863f0af26642acf63
-https://linear-a.fastly.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 1-AR
+http://gcp-dash.ngslbs.com:80/TVD4001/index.mpd
+
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 2-AR
+http://gcp-dash.ngslbs.com:80/TVD4002/index.mpd
+
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 3-AR
+http://gcp-dash.ngslbs.com:80/TVD4003/index.mpd
+
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 4-AR
+http://gcp-dash.ngslbs.com:80/TVD4004/index.mpd
+
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 5-AR
+http://gcp-dash.ngslbs.com:80/TVD4005/index.mpd
+
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 6-AR
+http://gcp-dash.ngslbs.com:80/TVD4006/index.mpd
+
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 7-AR
+http://gcp-dash.ngslbs.com:80/TVD4007/index.mpd
+
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 8
+http://gcp-dash.ngslbs.com:80/TVD4062/index.mpd
+
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 9
+http://gcp-dash.ngslbs.com:80/TVD4063/index.mpd
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://tvtvtv.ru/icons/bahrain_sport_1.png" group-title="Olahraga 1",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
@@ -3036,10 +3064,17 @@ https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-018/stream.mpd
 https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-038/stream.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.0.4; Sky Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="daznf1.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",DAZN F1
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="daznf1.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",DAZN F1 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-016/stream.mpd
+https://dck-de-livedazn.daznedge.net/dashdrm/dazn-linear-016/stream.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.0.4; Sky Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="daznf1.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",DAZN F1 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.0.4; Sky Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="daznlaliga.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-laliga-2784.png",DAZN LaLiga
