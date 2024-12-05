@@ -1879,7 +1879,7 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8?uri=eroz
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 ######################## OLAHRAGA 1 ###############################
-#EXTINF:-1 group-title="Olahraga 1" tvg-id="pltvpck" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-id="skysport.it" tvg-logo="https://cors.lim.workers.dev/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",Premier League TV (Peacock)
+#EXTINF:-1 group-title="Olahraga 1" tvg-id="pltvpck" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-id="skysport.it" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2021/06/09/518036539.jpg",Premier League TV (Peacock)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
