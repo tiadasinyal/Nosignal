@@ -17,31 +17,31 @@
 #EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://ambontv.my.id/logotv/bwf.png" group-title="LIVE EVENT", BWF
 https://linear-627.frequency.stream/dist/distrotv/627/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="LIVE EVENT", EPL Live 1
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://logodownload.org/wp-content/uploads/2022/12/peacock-logo-3.png" group-title="LIVE EVENT", EPL Live 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0022ca3789da1fdce2edf177f57aea8e:8c3c520ebbca91d78c5213d3470bc728
 https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5015358-716813-48fbaacbb8d)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="LIVE EVENT", EPL Live 2
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://logodownload.org/wp-content/uploads/2022/12/peacock-logo-3.png" group-title="LIVE EVENT", EPL Live 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002296bc5cc063f08ea46dffe401d40a:ff62cd56fc3b04ffd566fb38c12b7891
 https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5015354-716809-48fba6fb289)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="LIVE EVENT", EPL Live 3
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://logodownload.org/wp-content/uploads/2022/12/peacock-logo-3.png" group-title="LIVE EVENT", EPL Live 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00225d2330ef026294dc7ac45ea54268:5f15a57af12bab73cca267d9a52bb863
 https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5015356-716811-48fba8e370b)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="LIVE EVENT", EPL Live 4
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://logodownload.org/wp-content/uploads/2022/12/peacock-logo-3.png" group-title="LIVE EVENT", EPL Live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002206df77fdf1a821e228e526904835:e9c6a4361a199fa6244e22177a16abfb
 https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5015357-716812-48fba9d794c)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="LIVE EVENT", EPL Live 5
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://logodownload.org/wp-content/uploads/2022/12/peacock-logo-3.png" group-title="LIVE EVENT", EPL Live 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0022c8b70920f9a849005b02263a24d8:f5f9e13ca40d83b4862c1a3b6a87926d
@@ -1921,40 +1921,52 @@ https://bozztv.com/dvrfl05/gin-cbc-sport/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCgAcK4ZTRbNt8_OOwP3eY7QSZS_yvu8RwNg&s" group-title="Olahraga 1", Fanatec GT world
 https://cdn1.pishow.tv/live/187/master.m3u8
 
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 1-AR
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 1 AR
 http://gcp-dash.ngslbs.com:80/TVD4001/index.mpd
 
 
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 2-AR
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 2 AR
 http://gcp-dash.ngslbs.com:80/TVD4002/index.mpd
 
 
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 3-AR
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 3 AR
 http://gcp-dash.ngslbs.com:80/TVD4003/index.mpd
 
 
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 4-AR
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 4 AR
 http://gcp-dash.ngslbs.com:80/TVD4004/index.mpd
 
 
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 5-AR
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 5 AR
 http://gcp-dash.ngslbs.com:80/TVD4005/index.mpd
 
 
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 6-AR
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 6 AR
 http://gcp-dash.ngslbs.com:80/TVD4006/index.mpd
 
 
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 7-AR
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 7 AR
 http://gcp-dash.ngslbs.com:80/TVD4007/index.mpd
 
 
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 8
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 8
 http://gcp-dash.ngslbs.com:80/TVD4062/index.mpd
 
 
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sport HD 9
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 9
 http://gcp-dash.ngslbs.com:80/TVD4063/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sports AFC
+http://gcp-dash.ngslbs.com:80/TVD4064/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sports AFC 1
+http://gcp-dash.ngslbs.com:80/TVD4065/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sports AFC 2
+http://gcp-dash.ngslbs.com:80/TVD4066/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sports AFC 3
+http://gcp-dash.ngslbs.com:80/TVD4067/index.mpd
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://tvtvtv.ru/icons/bahrain_sport_1.png" group-title="Olahraga 1",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
@@ -2397,7 +2409,7 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ad
 #KODIPROP:inputstream.adaptive.license_key=0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
 #https://skytest.starlive.workers.dev/https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
 
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://ambontv.my.id/logotv/beinsports.png" group-title="Olahraga 1",beIN Sports USA
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sports USA
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://ambontv.my.id/logotv/beinextra.png" group-title="Olahraga 1",beIN Sports Xtra en Español
