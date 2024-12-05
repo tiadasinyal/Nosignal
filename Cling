@@ -1926,51 +1926,50 @@ https://bozztv.com/dvrfl05/gin-cbc-sport/index.m3u8
 https://cdn1.pishow.tv/live/187/master.m3u8
 
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 1 AR
-http://gcp-dash.ngslbs.com:80/TVD4001/index.mpd
-
+http://gcf.nrslist.com:80/TVD4001/index.mpd
 
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 2 AR
-http://gcp-dash.ngslbs.com:80/TVD4002/index.mpd
+http://gcf.nrslist.com:80/TVD4002/index.mpd
 
 
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 3 AR
-http://gcp-dash.ngslbs.com:80/TVD4003/index.mpd
+http://gcf.nrslist.com:80/TVD4003/index.mpd
 
 
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 4 AR
-http://gcp-dash.ngslbs.com:80/TVD4004/index.mpd
+http://gcf.nrslist.com:80/TVD4004/index.mpd
 
 
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 5 AR
-http://gcp-dash.ngslbs.com:80/TVD4005/index.mpd
+http://gcf.nrslist.com:80/TVD4005/index.mpd
 
 
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 6 AR
-http://gcp-dash.ngslbs.com:80/TVD4006/index.mpd
+http://gcf.nrslist.com:80/TVD4006/index.mpd
 
 
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 7 AR
-http://gcp-dash.ngslbs.com:80/TVD4007/index.mpd
+http://gcf.nrslist.com:80/TVD4007/index.mpd
 
 
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 8
-http://gcp-dash.ngslbs.com:80/TVD4062/index.mpd
+http://gcf.nrslist.com:80/TVD4062/index.mpd
 
 
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sport HD 9
-http://gcp-dash.ngslbs.com:80/TVD4063/index.mpd
+http://gcf.nrslist.com:80/TVD4063/index.mpd
 
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sports AFC
-http://gcp-dash.ngslbs.com:80/TVD4064/index.mpd
+http://gcf.nrslist.com:80/TVD4064/index.mpd
 
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sports AFC 1
-http://gcp-dash.ngslbs.com:80/TVD4065/index.mpd
+http://gcf.nrslist.com:80/TVD4065/index.mpd
 
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sports AFC 2
-http://gcp-dash.ngslbs.com:80/TVD4066/index.mpd
+http://gcf.nrslist.com:80/TVD4066/index.mpd
 
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sports AFC 3
-http://gcp-dash.ngslbs.com:80/TVD4067/index.mpd
+http://gcf.nrslist.com:80/TVD4067/index.mpd
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://tvtvtv.ru/icons/bahrain_sport_1.png" group-title="Olahraga 1",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist.m3u8
