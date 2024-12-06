@@ -17,10 +17,11 @@
 #EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://ambontv.my.id/logotv/bwf.png" group-title="LIVE EVENT", BWF
 https://linear-627.frequency.stream/dist/distrotv/627/hls/master/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTINF:-1 group-title="LIVE EVENT" tvg-id="daznf1.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",DAZN F1 ua ns
-https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd|user-agent=Dalvik/2.1.0 (Linux; U; Android 14; Redmi Note 9S Build/AP2A.240905.003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769 
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT 
+#EXTINF:-1 tvg-id="" group-title="LIVE EVENT",DAZN F1 nw
+https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd|user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 
 #EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="" group-title="LIVE EVENT", AFF Final Woman Indo VS Kambo
 https://livehd.us.malimarcdn.com/hdliveedge00/tvkhd.stream/playlist.m3u8?verify=1733412373_TGtqmyuDrg9WxxQP7cGNcIOY%2B%2BaevxaQlvWtxnosnrM%3D
