@@ -1920,8 +1920,8 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Olahraga 1" , WWE Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=004550430960a007086598cd043fe9cd:2b461f1e12a9ab670494a32630ec15ee
-https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(vc106wh3yw)/master_2min.mpd
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/CBC_Sports_Logo.png" group-title="Olahraga 1", CBC Sports
 https://bozztv.com/dvrfl05/gin-cbc-sport/index.m3u8
@@ -1974,24 +1974,6 @@ http://gcf.nrslist.com:80/TVD4066/index.mpd
 
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://w7.pngwing.com/pngs/926/67/png-transparent-bein-sports-united-states-bein-media-group-al-jazeera-bein-sport-purple-violet-text-thumbnail.png" group-title="Olahraga 1",beIN Sports AFC 3
 http://gcf.nrslist.com:80/TVD4067/index.mpd
-
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Olahraga 1",Starzplay Sports 1
-http://gcf.nrslist.com:80/TVN0036/index.mpd
-
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Olahraga 1",Starzplay Sports 2
-http://gcf.nrslist.com:80/TVN0037/index.mpd
-
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Olahraga 1",Starzplay Sports 3
-http://gcf.nrslist.com:80/TVN0038/index.mpd
-
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Olahraga 1",Starzplay Sports 4
-http://gcf.nrslist.com:80/TVN0033/index.mpd
-
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Olahraga 1",Starzplay Sports 5
-http://gcf.nrslist.com:80/TVN0034/index.mpd
-
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Olahraga 1",Starzplay Sports 6
-http://gcf.nrslist.com:80/TVN0035/index.mpd
 
 
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://seeklogo.com/images/C/cosmote-logo-8D795825DF-seeklogo.com.png" group-title="Olahraga 1",COSMOTE Sport 1 HD
@@ -9637,6 +9619,121 @@ https://cdn09jtedge.indihometv.com/joss/134/davinci/index.m3u8
 
 https://linear-627.frequency.stream/dist/distrotv/627/hls/master/playlist.m3u8
 
+------------------------------------------- Channel Starzplay -----------------------------------------------------------
+
+#EXTINF:-1 tvg-id="beIN Sport USA" group-logo="https://yt3.googleusercontent.com/LDJD5I48vVVEPNgMlqQCYLLLpHb4Cu2_6G0ir17ZAhK5D7E7dasKvCc0_A36-dK1_Fepxw6J=s900-c-k-c0x00ffffff-no-rj" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 1
+http://gcf.nrslist.com:80/TVN0001/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 2
+http://gcf.nrslist.com:80/TVN0002/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 3
+http://gcf.nrslist.com:80/TVN0003/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 4
+http://gcf.nrslist.com:80/TVN0004/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 5
+http://gcf.nrslist.com:80/TVN0005/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 6
+http://gcf.nrslist.com:80/TVN0006/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 7
+http://gcf.nrslist.com:80/TVN0007/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 8
+http://gcf.nrslist.com:80/TVN0008/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 9
+http://gcf.nrslist.com:80/TVN0009/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 10
+http://gcf.nrslist.com:80/TVN0010/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 11
+http://gcf.nrslist.com:80/TVN0011/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 12
+http://gcf.nrslist.com:80/TVN0012/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 13
+http://gcf.nrslist.com:80/TVN0013/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 14
+http://gcf.nrslist.com:80/TVN0014/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 15
+http://gcf.nrslist.com:80/TVN0015/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 16
+http://gcf.nrslist.com:80/TVN0016/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 17
+http://gcf.nrslist.com:80/TVN0017/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 18
+http://gcf.nrslist.com:80/TVN0018/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 19
+http://gcf.nrslist.com:80/TVN0019/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 20
+http://gcf.nrslist.com:80/TVN0020/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 21
+http://gcf.nrslist.com:80/TVN0021/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 22
+http://gcf.nrslist.com:80/TVN0022/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 23
+http://gcf.nrslist.com:80/TVN0023/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 24
+http://gcf.nrslist.com:80/TVN0024/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 25
+http://gcf.nrslist.com:80/TVN0025/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 26
+http://gcf.nrslist.com:80/TVN0026/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 27
+http://gcf.nrslist.com:80/TVN0027/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 28
+http://gcf.nrslist.com:80/TVN0028/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 29
+http://gcf.nrslist.com:80/TVN0029/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 30
+http://gcf.nrslist.com:80/TVN0030/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 31
+http://gcf.nrslist.com:80/TVN0031/index.mpd
+ 
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 32
+http://gcf.nrslist.com:80/TVN0032/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 33
+http://gcf.nrslist.com:80/TVN0033/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 34
+http://gcf.nrslist.com:80/TVN0034/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 35
+http://gcf.nrslist.com:80/TVN0035/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 36
+http://gcf.nrslist.com:80/TVN0036/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 37
+http://gcf.nrslist.com:80/TVN0037/index.mpd
+
+#EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://pbs.twimg.com/profile_images/1720114339430989831/xqfrPKNR_400x400.jpg" group-title="Channel Starzplay",Starzplay 38
+http://gcf.nrslist.com:80/TVN0038/index.mpd
 
 
 ×××××××××××××××××××××××××××××××××××××××××× Channel AIRTEL ×××××××××××××××××××××××××××××××××××××××××××××
