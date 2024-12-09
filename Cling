@@ -213,6 +213,100 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
+===============================AFF Asean CUP 2024==================================
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/ASEAN_Mitsubishi_Electric_Cup_2024_logo.svg/1200px-ASEAN_Mitsubishi_Electric_Cup_2024_logo.svg.png" group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",7. AFF Asean CUP 2024 (SG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",8. AFF Asean CUP 2024 (SG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271 
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",9. AFF Asean CUP 2024 (SG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
+https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",10. AFF Asean CUP 2024 (SG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
+https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",11. AFF Asean CUP 2024 (SG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71 
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",12. AFF Asean CUP 2024 (SG) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",13. AFF Asean CUP 2024 (MY) https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",14. AFF Asean CUP 2024 (MY) 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",15. AFF Asean CUP 2024 (MY) 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",16. AFF Asean CUP 2024 (MY) 
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",17. AFF Asean CUP 2024 (VIET) https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8?|Referer=http://sctvonline.vn
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",18. AFF Asean CUP 2024 (VIET) https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv5/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",19. AFF Asean CUP 2024 (THAI) 
+http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",20. AFF Asean CUP 2024 (THAI) 
+#EXTVLCOPT:http-referrer=https://www.thairath.co.th/https://streaming-web.thairath.co.th/live/playlist_hd/index.m3u8
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",0. AFF Asean CUP 2024 (INDO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",0. AFF Asean CUP 2024 (INDO)
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",1. AFF Asean CUP 2024 (INDO)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",1. AFF Asean CUP 2024 (INDO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",2. AFF Asean CUP 2024 (INDO)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",2. AFF Asean CUP 2024 (INDO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",3. AFF Asean CUP 2024 (INDO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd
+
+
 =======================TV National=============================
 
 #EXTINF:-1 group-logo="https://w1.pngwing.com/pngs/627/602/png-transparent-indonesia-flag-flag-of-indonesia-flag-of-belgium-alamy-red-thumbnail.png" group-title="TV National" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI
@@ -2809,8 +2903,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSport
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2-avc1_1000000=4.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visdrm.tauogikoe.workers.dev/?id=1002
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d5dd2520b2e4ba4a0cc0b5a268920eb:5390394c702c957867552bd08b2e76bb
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
@@ -5916,38 +6010,39 @@ https://cdnjktbpid22.transvision.co.id/live/master/4/4028c6856c3db2cc016d055927f
 #EXTINF:0 tvg-id="ID" tvg-name="Cinemax" ch-number="109" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="HBO Channel",Cinemax
 https://cdnjktbpid22.transvision.co.id/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/cubmu/drm.php
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=http://udinlaw.sytes.net:8000/scripts/cubmu-gen2/drm.php 
 #EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="HBO Channel", HBO HD BU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnjktbpid22.transvision.co.id/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/cubmu/drm.php
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=http://udinlaw.sytes.net:8000/scripts/cubmu-gen2/drm.php 
 #EXTINF:-1 tvg-id="cinemax.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="HBO Channel", Cinemax BU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnjktbpid22.transvision.co.id/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/cubmu/drm.php
-#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="HBO Channel", HBO Family BU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnjktbpid22.transvision.co.id/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=http://udinlaw.sytes.net:8000/scripts/cubmu-gen2/drm.php 
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="HBO Channel", HBO Family BU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/cubmu/drm.php
-#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="HBO Channel", HBO Signature BU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnjktbpid22.transvision.co.id/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=http://udinlaw.sytes.net:8000/scripts/cubmu-gen2/drm.php 
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="HBO Channel", HBO Signature BU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/cubmu/drm.php
-#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="HBO Channel", HBO Hits BU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://cdnjktbpid22.transvision.co.id/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=http://udinlaw.sytes.net:8000/scripts/cubmu-gen2/drm.php 
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="HBO Channel", HBO Hits BU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=http://udinlaw.sytes.net:8000/scripts/cubmu-gen2/drm.php 
+#EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png" group-title="HBO Channel", AXN BU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=http://udinlaw.sytes.net:8000/scripts/cubmu-gen2/drm.php #EXTINF:-1 tvg-id="WarnerTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner-tv-us.png" group-title="HBO Channel", Warner TV BU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 ======================================================================================
 
