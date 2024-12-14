@@ -23,8 +23,9 @@ https://output.unregister.xyz/euro/myanmarvsina/abr.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://logodownload.org/wp-content/uploads/2022/12/peacock-logo-3.png" group-title="LIVE EVENT", EPL Live 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022ca3789da1fdce2edf177f57aea8e:8c3c520ebbca91d78c5213d3470bc728
-https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5015358-716813-48fbaacbb8d)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=00224cd383e9182089710f20e4f305e3:189eefbb460682d0934814f504c4c078
+https://absuashqaabcaaayaaaaaaaaaaaaa.e693b67d00e42.cbr.cloudfront.net/co01/Content/CMAF_S2-CTR-4s-v2/Live/channel(5015415-716877-48fbe127c0d)/master_2hr.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://logodownload.org/wp-content/uploads/2022/12/peacock-logo-3.png" group-title="LIVE EVENT", EPL Live 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
