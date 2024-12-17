@@ -233,7 +233,7 @@ https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.m
 #EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",10. AFF Asean CUP 2024 (SG)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp04.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 #EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",11. AFF Asean CUP 2024 (SG)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -245,7 +245,8 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
-#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",13. AFF Asean CUP 2024 (MY) https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",13. AFF Asean CUP 2024 (MY) 
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",14. AFF Asean CUP 2024 (MY) 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -258,15 +259,18 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
 #EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",16. AFF Asean CUP 2024 (MY) 
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",17. AFF Asean CUP 2024 (VIET) https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8?|Referer=http://sctvonline.vn
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",17. AFF Asean CUP 2024 (VIET) 
+https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8?|Referer=http://sctvonline.vn
 
-#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",18. AFF Asean CUP 2024 (VIET) https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv5/index.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",18. AFF Asean CUP 2024 (VIET) 
+https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv5/index.m3u8?|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",19. AFF Asean CUP 2024 (THAI) 
 http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",20. AFF Asean CUP 2024 (THAI) 
-#EXTVLCOPT:http-referrer=https://www.thairath.co.th/https://streaming-web.thairath.co.th/live/playlist_hd/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.thairath.co.th/
+https://streaming-web.thairath.co.th/live/playlist_hd/index.m3u8
 
 #EXTINF:-1 group-title="AFF Asean CUP 2024" tvg-id="" tvg-logo="https://statik.tempo.co/data/2024/03/03/id_1284438/1284438_720.jpg",0. AFF Asean CUP 2024 (INDO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
