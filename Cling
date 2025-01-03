@@ -562,6 +562,18 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://63b2dc7196c38.streamlock.net:1937/GTV2/myStream/playlist.m3u8
 
+#EXTINF:-1 group-title="TV National" tvg-id="JAYATV" tvg-logo="https://cdn.urfan.id/logo/jayatv.png",JAYA TV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.11-prod.release+6cf529e1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch52.m3u8
+
+#EXTINF:-1 group-title="TV National" tvg-id="DMTV" tvg-logo="https://cdn.urfan.id/logo/dmtv.png",DMTV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.11-prod.release+6cf529e1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch51.m3u8
+
+#EXTINF:-1 group-title="TV National" tvg-id="DMTV" tvg-logo="https://cdn.urfan.id/logo/dmtv.png",DMTV HD
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://e.siar.us/live/dmtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/1706756492_JAWAPOSTV-88-HD.png" group-title="TV National", JAWAPOS TV ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/playlist.m3u8
