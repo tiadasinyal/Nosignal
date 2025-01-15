@@ -1863,11 +1863,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
 #EXTINF:-1 tvg-id="Horee" tvg-logo="https://i.ibb.co.com/KhL4zbH/20241229-193549.jpg" group-title="Anak", Horee
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
-https://thedream.biz.id/Kusakudakes/rooih.php/.m3u8?id=6397
+https://thedream.biz.id/Kusakudakes/puqimaianjh.php/.m3u8?id=6397
 
 #EXTINF:-1 tvg-id="Horee" tvg-logo="https://i.ibb.co.com/GFj8XV1/20241229-193808.jpg" group-title="Anak",Hip Hip Horee
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
-https://thedream.biz.id/Kusakudakes/rooih.php/.m3u8?id=7052
+https://thedream.biz.id/Kusakudakes/puqimaianjh.php/.m3u8?id=7052
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Yjc1MDA5ZmQtOTk4Zi0zZmZlLTliMzUtOWM1NTU4ZGY2MmJh
@@ -10697,10 +10697,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/TV9/sa_dash_vmx/TV9.mpd
 https://sweet-night-1d1d.worst.workers.dev/?id=7464&type=hls
 
 
-#EXTINF:-1 group-title="Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ajwa_TV_logo.png", Ajwa TV (vidio)
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://sritv.serv00.net/red/play.m3u8?id=7464&type=hls
+#EXTINF:-1 group-title="Religi" tvg-id="" tvg-logo="https://i.ibb.co.com/pzkTRKY/ajwatv.jpg", Ajwa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://thedream.biz.id/Kusakudakes/puqimaianjh.php?id=7464&=.m3u8?app_type=web&userid=jjj&chname=Ajwa_TV
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://i.imgur.com/MfogyNo.png",DEI Kids TV
 https://e.siar.us/live/deikidstv.m3u8
