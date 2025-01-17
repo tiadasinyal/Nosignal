@@ -30,7 +30,13 @@ https://hlslive-tx-cdn.ysp.cctv.cn/eastmantv/2026157701.m3u8
 
 
 #EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1736526757/67814ba4e0d631001d9a8f28.jpg" group-title="LIVE EVENT", Tennis Australia Open 1
-https://play1nm.hnyongshun.cn/live/ballbar_31250.m3u8
+https://play1nm.hnyongshun.cn/live/ballbar_5980.m3u8
+
+
+#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1736526757/67814ba4e0d631001d9a8f28.jpg" group-title="LIVE EVENT", Tennis Australia Open 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://play1nm.hnyongshun.cn/live/ballbar_28860.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 1
@@ -54,11 +60,6 @@ https://thedream.biz.id/Kusakudakes/rooid.php/.m3u8?id=18251
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
 https://thedream.biz.id/Kusakudakes/rooid.php/.mpd?id=18252
-
-
-#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://res.cloudinary.com/jerrick/image/upload/v1736526757/67814ba4e0d631001d9a8f28.jpg" group-title="LIVE EVENT", Tennis Australia Open 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://play1nm.hnyongshun.cn/live/ballbar_20920.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/Y2fpH7p/20241230-032250.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", KBSNSports Women V-League Korean
@@ -3292,10 +3293,8 @@ https://uselector.cdn.intigral-ott.net:443/STC/STC.isml/manifest.mpd
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
 
-#EXTINF:0 tvg-id="LFCTV.uk" tvg-logo="none" group-title="Olahraga 2", LFC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.108 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://player.goupnow.net/
-https://vipgoodlive-tvs.starcdn.live/LFC_TV_Live_TV/index.m3u8?tokenkey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcGNsaWVudCI6IjQ5LjEzLjE4LjU2IiwidXJsc3RyZWFtIjoiaHR0cHM6Ly9saXZlX3R2LnN0YXJjZG51cC5jb20vTEZDX1RWX0xpdmVfVFYvaW5kZXgubTN1OCIsIndlYnNpdGUiOiJodHRwczovL2JlZXNwb3J0Lm5ldC9hdXRob3JpemUtY2hhbm5lbCIsImlzVklQIjoiMCIsImV4cCI6MTcyMjQ0OTMzN30.5DXn0DW3aUW3ocCuzQlreoQZPaKRtGG_mgvYfQ4stwc&ref=https://beesport.net/
+#EXTINF:0 tvg-id="LFCTV.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT91hUdBfxhdreOvR0iGlxjfTY_QTiyBfRBOj_k4OEjgHyiaUFUjKSl6qUojMOw4YJ_X_U&usqp=CAU" group-title="Olahraga 2", LFC TV
+https://rr2---sn-npoe23nsr.creativehub.sbs/LFC_TV_Live_TV/index.m3u8
 
 #EXTINF:-1 group-title="Olahraga 2", Eurosport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3599,43 +3598,43 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnSportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports 1 
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonyten1.in" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png",Sony Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
 https://why.biz.id/restream/ten1.m3u8|Referer=https://why.biz.id/
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnSportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports 1 
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonyten1.in" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png",Sony Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://mhdstream.com/sliv/play.php
 https://mhdstream.com/sliv/stream.php?id=7541236&=.m3u8
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonyten2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnSportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Sports 2 
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonyten2.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500",Sony Sports 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
 https://why.biz.id/restream/ten2.m3u8|Referer=https://why.biz.id/
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonyten2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnSportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Sports 2 
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonyten2.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500",Sony Sports 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://mhdstream.com/sliv/play.php
 https://mhdstream.com/sliv/stream.php?id=96585698&=.m3u8
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnSportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports 3 
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonyten3.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433",Sony Sports 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
 https://why.biz.id/restream/ten3.m3u8|Referer=https://why.biz.id/
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnSportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports 3 
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonyten3.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433",Sony Sports 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://mhdstream.com/sliv/play.php
 https://mhdstream.com/sliv/stream.php?id=36523652&=.m3u8
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonyten4.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnSportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Sports 4 
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonyten4.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS909-VqZBFABeK9-36C5nj4z84UEbo296ROg&s",Sony Sports 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
 https://why.biz.id/restream/ten4.m3u8|Referer=https://why.biz.id/
 
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonysix.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnSportsindia/channel_logos/SONY_SportsTen5_HD.png",Sony Sports 5
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonysix.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902",Sony Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
 https://why.biz.id/restream/ten5.m3u8|Referer=https://why.biz.id/
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonysix.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnSportsindia/channel_logos/SONY_SportsTen5_HD.png",Sony Sports 5
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="sonysix.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902",Sony Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://mhdstream.com/sliv/play.php
 https://mhdstream.com/sliv/stream.php?id=985663256&=.m3u8
