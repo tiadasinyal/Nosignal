@@ -2693,26 +2693,7 @@ https://embedcanaistv.site/espn5/playlist.m3u8
 https://embedcanaistv.site/espn6/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png",FOX Sports 1 ARG
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net:443/?deviceId=OTAyMjRlY2YtOTg4NC0zYWQ1LWIwYzktZmNjMTNlOTMzNmEy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-http://csc-nod-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
 
-#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1024px-Fox_Sports_2_Argentina_2023.svg.png",FOX Sports 2 ARG
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net:443/?deviceId=OTAyMjRlY2YtOTg4NC0zYWQ1LWIwYzktZmNjMTNlOTMzNmEy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-http://csc-nod-edge01.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd
-
-#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1024px-Fox_Sports_3_Argentina_2023.svg.png",FOX Sports 3 ARG
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net:443/?deviceId=OTAyMjRlY2YtOTg4NC0zYWQ1LWIwYzktZmNjMTNlOTMzNmEy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-http://csc-nod-edge01.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd
 
 #EXTINF:-1 group-title="Olahraga 1" tvg-id="spotvprime.kr" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/7e36da649acf52299449f70a1412fdbf.png",SPOTV Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
