@@ -3958,6 +3958,21 @@ https://fadhillah.serv00.net/vidiomadebyemtekuntukdash.php?id=9182
 https://fadhillah.serv00.net/vidiomadebyemtekuntukdash.php?id=9183
 
 
+#EXTINF:-1 tvg-logo="https://iili.io/2iAIK8l.png" group-title="Olahraga 2",Juara Golf 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac331ce257155a0963c477ff065fa693:429963f60aa0157a87b67beac01b538b
+https://thedream.biz.id/Kusakudakes/rooid.php/.mpd?id=18189
+
+#EXTINF:-1 tvg-logo="https://iili.io/2iAIFa4.png" group-title="Olahraga 2",Juara Golf 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd04d04f7cac7ac4a26c43e90dfbd4b7:3d93dd66d9f6534323a77ebb6139d1f7
+https://thedream.biz.id/Kusakudakes/rooid.php/.mpd?id=18190
 
 EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/epl.png" group-title="Olahraga 2", EPL TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -3994,6 +4009,11 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6717&type=drm 
 https://luck.openwindows038.workers.dev/play.mpd?id=6717&type=dash
 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", group-title="Olahraga 2", NBA Philippines Full HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd  
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="beinSports1indonesia.id" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-1-1.png",beIN F1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
