@@ -19,11 +19,17 @@
 https://linear-627.frequency.stream/dist/distrotv/627/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 1
-https://040a321a284e77b5bc3a69efbc34b942.v.smtcdns.net/203.205.136.11/play.cbalive.weibisai.com/live/3821806425922061_AiSD.m3u8?txSecret=af6237109d02a203f8936ddab086f3b9&txTime=67AE7970
+https://5ca4f52c935edfcf07404a620c03d12a.v.smtcdns.net/203.205.136.12/play.cbalive.weibisai.com/live/3836511870947061_AiSD.m3u8?txSecret=54a2c61d59f6c79a0104c23ba4f8b1e2&txTime=67C939E0
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 2
-https://040a321a284e77b5bc3a69efbc34b942.v.smtcdns.net/203.205.136.11/play.cbalive.weibisai.com/live/3821807169462061_AiSD.m3u8?txSecret=3ce4cf6a1344479f70cbed5d9cfff5c0&txTime=67AE7970
+https://5ca4f52c935edfcf07404a620c03d12a.v.smtcdns.net/203.205.136.12/play.cbalive.weibisai.com/live/3836512069623061_AiSD.m3u8?txSecret=79649e7c5ec71cb31e77ac74dd9d78e1&txTime=67C939E0
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 3
+https://5ca4f52c935edfcf07404a620c03d12a.v.smtcdns.net/203.205.136.12/play.cbalive.weibisai.com/live/3836512318216061_AiSD.m3u8?txSecret=3351a4de44beddb39eea21fce0eff777&txTime=67C939E0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 4
+https://5ca4f52c935edfcf07404a620c03d12a.v.smtcdns.net/203.205.136.12/play.cbalive.weibisai.com/live/3836512527768061_AiSD.m3u8?txSecret=bc5469c9cb4ae539f48bc1e8a6342555&txTime=67C939E0
 
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 1
