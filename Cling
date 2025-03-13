@@ -19,7 +19,7 @@
 https://linear-627.frequency.stream/dist/distrotv/627/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 1
-https://hlslive-tx-cdn.ysp.cctv.cn/2026686501.m3u8
+https://hlslive-tx-cdn.ysp.cctv.cn/2026641201.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 1 (komentator)
@@ -27,14 +27,17 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 2
-https://hlslive-tx-cdn.ysp.cctv.cn/eastmantv/2026640801.m3u8
+https://hlslive-tx-cdn.ysp.cctv.cn/eastmantv/2026641301.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 3
-https://hlslive-tx-cdn.ysp.cctv.cn/eastmantv/2026641801.m3u8
+https://hlslive-tx-cdn.ysp.cctv.cn/eastmantv/2026641401.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 4
-https://hlslive-tx-cdn.ysp.cctv.cn/eastmantv/2026641901.m3u8
+https://hlslive-tx-cdn.ysp.cctv.cn/eastmantv/2026641501.m3u8
+
 
 
 
