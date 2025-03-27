@@ -11783,15 +11783,31 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuham
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0aMNwQa.png" group-title="Religi",Al Quran Al Kareem TV (Mecca) 
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
+#EXTINF:-1 group-title="Religi" tvg-id="AlQuran Kareem.id" tvg-logo="https://urfan.id/logo/mekahtv.png",Mekah TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+
+
+#EXTINF:-1 group-title="Religi" tvg-name="" tvg-country="ID" tvg-logo="",Alquran Alkareem TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
+https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.mpd
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Yjc1MDA5ZmQtOTk4Zi0zZmZlLTliMzUtOWM1NTU4ZGY2MmJh
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png" group-title="Religi",Al Quran Al Kareem TV (V+)
 https://dsgtq5sngxkde.cloudfront.net/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/84nqj99.png" group-title="Religi",Al Sunnah Al Nabawiyah TV (Medina) 
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-id="sunnahtv.sa" tvg-logo="https://urfan.id/logo/sunnahtv.png",Sunnah TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+
 
 #EXTINF:-1  tvg-id="MTATV.id" group-title="Religi" tvg-logo="http://mtatv.net/v2/wp-content/uploads/2020/07/headeratas_logo_mtatv.png",MTATV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
