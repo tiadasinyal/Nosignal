@@ -634,7 +634,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 
 #EXTINF:-1 group-title="TV National" tvg-id="GARUDATV.id" tvg-logo="https://cdn.urfan.id/logo/garudatv.png",Garuda TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
