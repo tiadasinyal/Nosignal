@@ -3951,7 +3951,7 @@ https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.m
 https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/miss-v/drm.php?id=112
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/kvdrm.php?id=112&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
@@ -3960,13 +3960,16 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://event-vplus.city-vision.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/kvdrm.php?id=113&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1  group-title="Olahraga 2" tvg-id="RCTI.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 RCTI+
+#EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 versi 2
 https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
+
+#EXTINF:-1  group-title="Olahraga 2" tvg-id="RCTI.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 RCTI+
+https://midcache5.rctiplus.id/hdlive2/korselvsina20250404.m3u8
 
 
 EXTINF:-1 group-title="Olahraga 2" tvg-id="mncSports3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png",Sportstars 3 HD
@@ -3988,7 +3991,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 https://dsgtq5sngxkde.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://event-vplus.city-vision.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/kvdrm.php?id=119&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -4008,7 +4011,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://event-vplus.city-vision.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/kvdrm.php?id=120&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 #EXTVLCOPT:http-referrer=https://visionplus.id
