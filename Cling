@@ -3951,7 +3951,7 @@ https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.m
 https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Yjc1MDA5ZmQtOTk4Zi0zZmZlLTliMzUtOWM1NTU4ZGY2MmJh
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/miss-v/drm.php?id=112
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
@@ -3960,13 +3960,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Yjc1MDA5ZmQtOTk4Zi0zZmZlLTliMzUtOWM1NTU4ZGY2MmJh
+#KODIPROP:inputstream.adaptive.license_key=https://event-vplus.city-vision.workers.dev/
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 RCTI+
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2-avc1_1000000=4.m3u8
 
 
 EXTINF:-1 group-title="Olahraga 2" tvg-id="mncSports3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png",Sportstars 3 HD
@@ -3987,18 +3984,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
 https://dsgtq5sngxkde.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_RCTI%2B.png",Soccer Channel RCTI+
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Yjc1MDA5ZmQtOTk4Zi0zZmZlLTliMzUtOWM1NTU4ZGY2MmJh
+#KODIPROP:inputstream.adaptive.license_key=https://event-vplus.city-vision.workers.dev/
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_RCTI%2B.png",SPOTV RCTI+
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-logo="https://ambontv.my.id/logotv/spotv.png" group-title="Olahraga 2",SPOTV ᴴᴰ
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -4013,7 +4005,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Yjc1MDA5ZmQtOTk4Zi0zZmZlLTliMzUtOWM1NTU4ZGY2MmJh
+#KODIPROP:inputstream.adaptive.license_key=https://event-vplus.city-vision.workers.dev/
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -4674,22 +4666,22 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-505/stream.mpd|user-agent
 ###dazn alternatif,https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-520/stream.mpd
 
 
-#EXTINF:-1 tvg-chno="31" tvg-id="ElevenSports1(src01).pt" tvg-name="Eleven1_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-1.png" group-title="Desporto",Eleven 1
+#EXTINF:-1 tvg-chno="31" tvg-id="ElevenSports1(src01).pt" tvg-name="Eleven1_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-1.png" group-title="Olahraga 2",DAZN 1
 http://lb2_s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports1.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-id="ElevenSports2(src01).pt" tvg-name="Eleven2_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-2.png" group-title="Olahraga 2",Eleven 2
+#EXTINF:-1 tvg-chno="32" tvg-id="ElevenSports2(src01).pt" tvg-name="Eleven2_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-2.png" group-title="Olahraga 2",DAZN 2
 http://lb2_s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports2.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-id="ElevenSports3(src01).pt" tvg-name="Eleven3_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-3.png" group-title="Olahraga 2",Eleven 3
+#EXTINF:-1 tvg-chno="33" tvg-id="ElevenSports3(src01).pt" tvg-name="Eleven3_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-3.png" group-title="Olahraga 2",DAZN 3
 http://lb2_s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports3.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-id="ElevenSports4(src01).pt" tvg-name="Eleven4_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-4.png" group-title="Olahraga 2",Eleven 4
+#EXTINF:-1 tvg-chno="34" tvg-id="ElevenSports4(src01).pt" tvg-name="Eleven4_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-4.png" group-title="Olahraga 2",DAZN 4
 http://lb2_s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports4.m3u8
 
-#EXTINF:-1 tvg-chno="35" tvg-id="ElevenSports5(src01).pt" tvg-name="Eleven5_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-5.png" group-title="Olahraga 2",Eleven 5
+#EXTINF:-1 tvg-chno="35" tvg-id="ElevenSports5(src01).pt" tvg-name="Eleven5_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-5.png" group-title="Olahraga 2",DAZN 5
 http://lb2_s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports5.m3u8
 
-#EXTINF:-1 tvg-chno="36" tvg-id="ElevenSports6(src01).pt" tvg-name="Eleven6_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-6.png" group-title="Olahraga 2",Eleven 6
+#EXTINF:-1 tvg-chno="36" tvg-id="ElevenSports6(src01).pt" tvg-name="Eleven6_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-6.png" group-title="Olahraga 2",DAZN 6
 http://lb2_s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports6.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name=""  tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-1-sa.png" group-title="Olahraga 2" ,SSC 1
