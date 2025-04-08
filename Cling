@@ -4164,9 +4164,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash/soccerchannel-test.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="Soccer Channel.id" tvg-logo="https://urfan.id/logo/soccer.png",Soccer Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=115&type=drm
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=115&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://terabit.web.id/media.mpd?id=115&type=dash
 
