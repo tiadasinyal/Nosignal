@@ -3986,12 +3986,12 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-
 #KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=112&type=drm
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://terabit.web.id/media.mpd?id=112&type=dash
+#https://terabit.web.id/media.mpd?id=112&type=dash
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="Sportstars.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sportstars
-#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=112&type=drm
-#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=112&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1  group-title="Olahraga 2" tvg-id="RCTI.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars 1 R+
