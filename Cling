@@ -13,105 +13,6 @@
 
 --------------trial---------------------
 
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg", TIMNAS INDONESIA DAY M
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY B
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY C
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://tvshare.ottrast.com/iptv/SU2U2T2VQLFQ4Q/19202/index.m3u8
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY D
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://windnew.iosplayer.ru/wind/premium468/mono.m3u8
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY 0
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY 1
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/157591.ts
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
-
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://tvshare.ottrast.com/iptv/SU2U2T2VQLFQ4Q/19201/index.m3u8
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY 5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY 6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY 7
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://dokko1new.iosplayer.ru/dokko1/premium93/mono.m3u8
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://tvshare.ottrast.com/iptv/SU2U2T2VQLFQ4Q/19202/index.m3u8
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://zekonew.iosplayer.ru/zeko/premium379/mono.m3u8
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY 11
-http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6123/index.m3u8
-
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://tvshare.ottrast.com/iptv/SU2U2T2VQLFQ4Q/6127/index.m3u8
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY 13
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY 14
-https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Timnas day " tvg-logo="https://cdn.rri.co.id/berita/Mamuju/o/1724896380175-IMG_20240829_094937/jvl1bk4wuufzn62.jpeg",TIMNAS INDONESIA DAY 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://zekonew.iosplayer.ru/zeko/premium386/mono.m3u8
-
 =======================LIVE EVENT===========================================
 
 #EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/800px-2012_BWF_logo.svg.png" group-title="LIVE EVENT", BWF
@@ -120,21 +21,24 @@ https://linear-627.frequency.stream/dist/distrotv/627/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/K7N-dsLFg-YUvY0c2_KKOMrTW24=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/523/voli-korea-bd1f0a.png" group-title="LIVE EVENT", Final VLeague
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/rdio0m8ilozeex3piog7d2jled1knc1uu6/playlist.m3u8?hdnts=st=1744105350~exp=1744137760~acl=*/rdio0m8ilozeex3piog7d2jled1knc1uu6/*~hmac=a5f2eac257590706743a642e6417fef8c3918420941918aaa6f678246cdcfbef
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ncjHWgC/20250124-185931.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", Timnas Senior
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ncjHWgC/20250124-185931.jpg" group-logo="https://cdn1-production-images-kly.akamaized.net/k_IXNhEefd-D9ly3W2KXHW7FzS4=/1x250:1080x858/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4610061/original/098944100_1697206423-Timnas_Indonesia_-_Kerasnya_Persaingan_Kualifikasi_Piala_Duniapsd_copy.jpg", group-title="LIVE EVENT", TIMNAS INDONESIA DAY 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://d37nf5n4fr3338.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmRH7-hi_LQG7HBTXjL_BsovX7TwNrrkigA&usqp=CAU" group-title="LIVE EVENT",Timnas U17
+#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/k_IXNhEefd-D9ly3W2KXHW7FzS4=/1x250:1080x858/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4610061/original/098944100_1697206423-Timnas_Indonesia_-_Kerasnya_Persaingan_Kualifikasi_Piala_Duniapsd_copy.jpg" group-title="LIVE EVENT",TIMNAS INDONESIA DAY 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://av-cdn.rakuda.online/memfs/111cc22c-a1d4-42fd-8f24-df9137c550a8.m3u8
 
-#EXTINF:-1 tvg-name="" group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmRH7-hi_LQG7HBTXjL_BsovX7TwNrrkigA&usqp=CAU", Timnas U17
+#EXTINF:-1 tvg-name="" group-title="LIVE EVENT" tvg-logo="https://cdn1-production-images-kly.akamaized.net/k_IXNhEefd-D9ly3W2KXHW7FzS4=/1x250:1080x858/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4610061/original/098944100_1697206423-Timnas_Indonesia_-_Kerasnya_Persaingan_Kualifikasi_Piala_Duniapsd_copy.jpg", TIMNAS INDONESIA DAY 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2ece95a31c64536ad42f10d84f1afda:20a60f51c14c4c6fd80cdd05aef0c5d4
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn1-production-images-kly.akamaized.net/k_IXNhEefd-D9ly3W2KXHW7FzS4=/1x250:1080x858/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4610061/original/098944100_1697206423-Timnas_Indonesia_-_Kerasnya_Persaingan_Kualifikasi_Piala_Duniapsd_copy.jpg",TIMNAS INDONESIA DAY 4
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/tracks-v1a1/mono.m3u8
 
 
 
@@ -155,7 +59,7 @@ https://89eef889586de52fd5caceec0e167ca8.v.smtcdns.net/203.205.136.13/play.cbali
 https://89eef889586de52fd5caceec0e167ca8.v.smtcdns.net/203.205.136.13/play.cbalive.weibisai.com/live/3861530912813061_AiSD.m3u8?txSecret=08a9680ae1e60b1f81a3e25a7b5d155c&txTime=67F6FBF0
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 1
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8a8158dfb4a4a0d85dbee672e11c7e4:4ca940fd2caabe479d2feef34c63d851
@@ -7094,8 +6998,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63426f3ed940521074b
 
 ======================VOD MOVIE 2024======================================
 
-
-#EXTINF:-1 group-title="VOD Movie 2024" tvg-logo="https://i.imgur.com/pK67EmR.png",1.INFO-GABUNG GROUP
+#EXTINF:-1 group-title="VOD Movie 2024" group-logo="https://www.hathway.com/blog-images/Video-on-Demand.jpg" tvg-logo="https://i.imgur.com/pK67EmR.png",1.INFO-GABUNG GROUP
 https://dl.dropboxusercontent.com/scl/fi/loibzh31apysr3gtv0qm3/Gabung-GroupTele.mp4?rlkey=vfezlgwrcrz4oyv4puvtf5i0u&st=wkpofibh&dl=0       
   
 #EXTINF:-1 tvg-name="Carry-On" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/sjMN7DRi4sGiledsmllEw5HJjPy.jpg" group-title="VOD Movie 2024", Carry-On
@@ -11807,6 +11710,9 @@ http://203.162.235.41:29108/
 #EXTVLCOPT:http-referrer=http://cubmu.com
 #EXTINF:0 tvg-id="ID" tvg-name="Khazanah" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxx6dAbT9ljxEyMwmUF3JPJ4rRzty-8NMaKA&s"  ch-number="798" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f557be28131b9/80b42c2601c64bd69db44ebfde005981.png" group-title="Religi",Khazanah
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://makkahtv.tv/assets/images/0.png-714x367.png",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/chunklist_w1800146176.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
