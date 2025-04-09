@@ -21,7 +21,7 @@ https://linear-627.frequency.stream/dist/distrotv/627/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/K7N-dsLFg-YUvY0c2_KKOMrTW24=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/523/voli-korea-bd1f0a.png" group-title="LIVE EVENT", Final VLeague
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/rdio0m8ilozeex3piog7d2jled1knc1uu6/playlist.m3u8?hdnts=st=1744105350~exp=1744137760~acl=*/rdio0m8ilozeex3piog7d2jled1knc1uu6/*~hmac=a5f2eac257590706743a642e6417fef8c3918420941918aaa6f678246cdcfbef
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ncjHWgC/20250124-185931.jpg" group-logo="https://cdn1-production-images-kly.akamaized.net/k_IXNhEefd-D9ly3W2KXHW7FzS4=/1x250:1080x858/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4610061/original/098944100_1697206423-Timnas_Indonesia_-_Kerasnya_Persaingan_Kualifikasi_Piala_Duniapsd_copy.jpg", group-title="LIVE EVENT", TIMNAS INDONESIA DAY 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/k_IXNhEefd-D9ly3W2KXHW7FzS4=/1x250:1080x858/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4610061/original/098944100_1697206423-Timnas_Indonesia_-_Kerasnya_Persaingan_Kualifikasi_Piala_Duniapsd_copy.jpg" group-logo="https://cdn1-production-images-kly.akamaized.net/k_IXNhEefd-D9ly3W2KXHW7FzS4=/1x250:1080x858/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4610061/original/098944100_1697206423-Timnas_Indonesia_-_Kerasnya_Persaingan_Kualifikasi_Piala_Duniapsd_copy.jpg", group-title="LIVE EVENT", TIMNAS INDONESIA DAY 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://d37nf5n4fr3338.cloudfront.net/index.m3u8
 
@@ -41,23 +41,17 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/tracks-v1a1/mono.m3u8
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 1
-https://89eef889586de52fd5caceec0e167ca8.v.smtcdns.net/203.205.136.13/play.cbalive.weibisai.com/live/3861530503234061_AiSD.m3u8?txSecret=856adc6cc0df91f5b7ab8b49f7e95f5b&txTime=67F6FBF0
-
+http://play.cbalive.weibisai.com/live/3861530503234061_AiHD.m3u8?txSecret=51f00b2c91ddd89127cccf750c225b42&txTime=67F6FBF0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 2
-https://89eef889586de52fd5caceec0e167ca8.v.smtcdns.net/203.205.136.13/play.cbalive.weibisai.com/live/3861530634455061_AiSD.m3u8?txSecret=5897f9e992937cb97bf1ea57e9f9ef37&txTime=67F6FBF0
-
-
+http://play.cbalive.weibisai.com/live/3861530634455061_AiHD.m3u8?txSecret=23e3dd2e68cc312bb3cd4e0dffbab4e5&txTime=67F6FBF0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 3
-https://89eef889586de52fd5caceec0e167ca8.v.smtcdns.net/203.205.136.13/play.cbalive.weibisai.com/live/3861530765942061_AiSD.m3u8?txSecret=ea53221a2336fc6a4456ecc717ceea47&txTime=67F6FBF0
-
+http://play.cbalive.weibisai.com/live/3861530765942061_AiHD.m3u8?txSecret=024a67a36a3a580366cd36d35edd6579&txTime=67F6FBF0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 4
-https://89eef889586de52fd5caceec0e167ca8.v.smtcdns.net/203.205.136.13/play.cbalive.weibisai.com/live/3861530912813061_AiSD.m3u8?txSecret=08a9680ae1e60b1f81a3e25a7b5d155c&txTime=67F6FBF0
-
+http://play.cbalive.weibisai.com/live/3861530912813061_AiHD.m3u8?txSecret=b8d2a047de9b95b033df658a8cedbe13&txTime=67F6FBF0
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
