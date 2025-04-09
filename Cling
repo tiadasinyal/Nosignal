@@ -4080,16 +4080,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="SPOTV.id" tvg-logo="https://urfan.id/logo/spotv.png",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=119&type=drm
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=119&type=drm
 https://terabit.web.id/media.mpd?id=119&type=dash
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="SPOTV 2.id" tvg-logo="https://urfan.id/logo/spotv2.png",SPOTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=120&type=drm
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=120&type=drm
 https://terabit.web.id/media.mpd?id=120&type=dash
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
