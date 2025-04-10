@@ -11730,7 +11730,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/TV9/sa_dash/TV9.mpd
 #EXTINF:-1 group-title="Religi" tvg-id="" tvg-logo="https://i.ibb.co.com/pzkTRKY/ajwatv.jpg", Ajwa TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 ####https://fadhillah.serv00.net/vidiomadebyemtekuntukhls.php?id=7464&=.m3u8?app_type=web&userid=jjj&chname=Ajwa_TV
-https://sweet-night-1d1d.worst.workers.dev/?id=7464&&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=7464&&type=hls
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://i.imgur.com/MfogyNo.png",DEI Kids TV
 https://e.siar.us/live/deikidstv.m3u8
