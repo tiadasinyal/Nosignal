@@ -74,11 +74,12 @@ https://fadhillah.serv00.net/vidiomadebyemtekuntukdash.php?id=18250
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18250&type=drm
-https://sweet-night-1d1d.worst.workers.dev/?id=18250&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/?id=18250&type=hls
 
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://fadhillah.serv00.net/vidiomadebyemtekuntukhls.php/.m3u8?id=18251
+####https://fadhillah.serv00.net/vidiomadebyemtekuntukhls.php/.m3u8?id=18251
+https://sweet-night-1d1d.worst.workers.dev/?id=18251&type=hls
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -305,9 +306,6 @@ https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
-#EXTINF:-1 group-title="TV National" tvg-logo="https://cdn.urfan.id/logo/rcti.png",RCTI T2
-https://phdown.serv00.net/Smartv.php?id=Rcti
-
 #EXTINF:-1 group-title="TV National" tvg-id="RCTI.id" tvg-logo="https://cdn.urfan.id/logo/rcti.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -319,6 +317,9 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTINF:-1 group-title="TV National" tvg-logo="https://cdn.urfan.id/logo/rcti.png",RCTI T2
+https://phdown.serv00.net/Smartv.php?id=Rcti
 
 
 #EXTINF:-1 group-title="TV National" tvg-id="GTV.id" tvg-logo="https://cdn.urfan.id/logo/gtv.png",GTV HD
@@ -475,7 +476,9 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 https://cdn09jtedge.indihometv.com/joss/134/ochannel720/index.m3u8
 
 #EXTINF:-1 group-title="TV National" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV 
-https://fadhillah.serv00.net/vidiomadebyemtekuntukhls.php/.m3u8?id=8237
+https://sweet-night-1d1d.worst.workers.dev/?id=8237&type=hls
+####https://fadhillah.serv00.net/vidiomadebyemtekuntukhls.php/.m3u8?id=8237
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -1913,7 +1916,8 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BabyTV-NewHD/sa_dash/BabyTV-NewHD.mp
 https://cempedak-cdn-fly.mncnow.id/live/eds/MiaoMi/sa_dash/MiaoMi.mpd
 
 #EXTINF:-1 tvg-name="MENTARI TV" tvg-logo="https://hometv.pw/logo/kids/mentari.png" group-title="Anak",MENTARI TV
-https://fadhillah.serv00.net/vidiomadebyemtekuntukhls.php/.m3u8?id=8237
+https://sweet-night-1d1d.worst.workers.dev/?id=8237&type=hls
+####https://fadhillah.serv00.net/vidiomadebyemtekuntukhls.php/.m3u8?id=8237
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
@@ -1923,11 +1927,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
 #EXTINF:-1 tvg-id="Horee" tvg-logo="https://i.ibb.co.com/KhL4zbH/20241229-193549.jpg" group-title="Anak", Horee
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
-https://fadhillah.serv00.net/vidiomadebyemtekuntukhls.php/.m3u8?id=6397
+https://sweet-night-1d1d.worst.workers.dev/?id=6397&&type=hls
+####https://fadhillah.serv00.net/vidiomadebyemtekuntukhls.php/.m3u8?id=6397
 
 #EXTINF:-1 tvg-id="Horee" tvg-logo="https://i.ibb.co.com/GFj8XV1/20241229-193808.jpg" group-title="Anak",Hip Hip Horee
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
-https://fadhillah.serv00.net/vidiomadebyemtekuntukhls.php/.m3u8?id=7052
+###https://fadhillah.serv00.net/vidiomadebyemtekuntukhls.php/.m3u8?id=7052
+https://sweet-night-1d1d.worst.workers.dev/?id=7052&&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
