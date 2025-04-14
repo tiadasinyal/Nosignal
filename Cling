@@ -304,13 +304,13 @@ https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#https://cempedak-cdn-fly.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
+https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="TV National" group-logo="https://w1.pngwing.com/pngs/627/602/png-transparent-indonesia-flag-flag-of-indonesia-flag-of-belgium-alamy-red-thumbnail.png" tvg-id="RCTI.id" tvg-logo="https://cdn.urfan.id/logo/rcti.png",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:-1 group-title="TV National" tvg-id="RCTI.id" tvg-logo="https://cdn.urfan.id/logo/rcti.png",RCTI R+
 #EXTVLCOPT:http-user-agent=android-R+
