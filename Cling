@@ -4542,29 +4542,67 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB1assacrecDVBnsY14S9ConccbRO82kOUguuW7HzON6BD9vm2bzh1QLXuur0&s" group-title="Olahraga 2",BEIN 1 (V)
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQscft8ASQYWWQYqxp7QVLusp9I14i43bisw3jEuarHHOqrpDw8yPkWnsE0JaQ&s" group-title="Olahraga 2",BEIN 2 (V)
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaVMq84ej1iJRX6IwpTb385QYWwDp6BxJhubaWB6Y20B-0qLRUvTGVfOdmYTY&s" group-title="Olahraga 2",BEIN 3 (V)
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="beinSports4indonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1599px-Bein_sport_logo.svg.png?20160411124004",BEIN 4 (V)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="beinSports5indonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1599px-Bein_sport_logo.svg.png?20160411124004",BEIN 5 (V)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="beinsports1.id" tvg-logo="https://urfan.id/logo/beinsports.png",Bein Sports 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=122&type=drm
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=122&type=dash
+
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="beinsports2.id" tvg-logo="https://urfan.id/logo/beinsports.png",Bein Sports 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=123&type=drm
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=123&type=dash
+
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="beinsports3.id" tvg-logo="https://urfan.id/logo/beinsports.png",Bein Sports 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=124&type=drm
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=124&type=dash
+
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="beinsport4s.id" tvg-logo="https://urfan.id/logo/beinsports.png",Bein Sports 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=125&type=drm
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=125&type=dash
+
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="beinsport4s.id" tvg-logo="https://urfan.id/logo/beinsports.png",Bein Sports 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=126&type=drm
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=126&type=dash
+
+
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/f0hnphlntjhkcm7/bein%20sport.png?dl=1" group-title="Olahraga 2",BeIN Xtra
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
