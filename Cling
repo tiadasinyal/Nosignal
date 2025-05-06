@@ -298,13 +298,12 @@ https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd
 #KODIPROP:inputstream.adaptive.license_key=e0cae84fe54d477f97b400b1e04646c7:dba64cb36b8ed1e759744efa93b00498
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-
-#EXTINF:-1 group-title="TV National"  tvg-id="RCTI.id" tvg-logo="https://cdn.urfan.id/logo/rcti.png",RCTI
+#EXTINF:-1 group-title="TV National" group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/1d/56/5c135d3be1df35c891185c15bf57-bcp.jpg?x-oss-process=style/mq200" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI n
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
+
 
 #EXTINF:-1 group-title="TV National" group-logo="https://w1.pngwing.com/pngs/627/602/png-transparent-indonesia-flag-flag-of-indonesia-flag-of-belgium-alamy-red-thumbnail.png" tvg-id="RCTI.id" tvg-logo="https://cdn.urfan.id/logo/rcti.png",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -4055,17 +4054,17 @@ https://terabit.web.id/media.mpd?id=1014&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="Sportstars.id" tvg-logo="https://urfan.id/logo/sportstars.png",Sportstars
+#EXTINF:-1 group-title="Olahraga - urfan.id" tvg-id="Sportstars.id" tvg-logo="https://urfan.id/logo/sportstars.png",Sportstars
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=112&type=drm
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=112&type=drm&token=CZuuTtVXrSY9Z3S7nWakY3ZbnOMwcI9y
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://terabit.web.id/media.mpd?id=112&type=dash
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="Sportstars 2.id" tvg-logo="https://urfan.id/logo/sportstars2.png",Sportstars 2
+#EXTINF:-1 group-title="Olahraga - urfan.id" tvg-id="Sportstars 2.id" tvg-logo="https://urfan.id/logo/sportstars2.png",Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=113&type=drm
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=113&type=drm&token=CZuuTtVXrSY9Z3S7nWakY3ZbnOMwcI9y
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://terabit.web.id/media.mpd?id=113&type=dash
 
@@ -4212,6 +4211,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="Soccer Channel.id" tvg-logo="https://urfan.id/logo/soccer.png",Soccer Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=115&type=drm&token=CZuuTtVXrSY9Z3S7nWakY3ZbnOMwcI9y
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=115&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -4566,38 +4572,40 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="beinsports1.id" tvg-logo="https://urfan.id/logo/beinsports.png",Bein Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=122&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=122&type=drm&token=CZuuTtVXrSY9Z3S7nWakY3ZbnOMwcI9y
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://terabit.web.id/media.mpd?id=122&type=dash
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="beinsports2.id" tvg-logo="https://urfan.id/logo/beinsports.png",Bein Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=123&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=123&type=drm&token=CZuuTtVXrSY9Z3S7nWakY3ZbnOMwcI9y
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://terabit.web.id/media.mpd?id=123&type=dash
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="beinsports3.id" tvg-logo="https://urfan.id/logo/beinsports.png",Bein Sports 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=124&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=124&type=drm&token=CZuuTtVXrSY9Z3S7nWakY3ZbnOMwcI9y
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://terabit.web.id/media.mpd?id=124&type=dash
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="beinsport4s.id" tvg-logo="https://urfan.id/logo/beinsports.png",Bein Sports 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=125&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=125&type=drm&token=CZuuTtVXrSY9Z3S7nWakY3ZbnOMwcI9y
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://terabit.web.id/media.mpd?id=125&type=dash
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="beinsport4s.id" tvg-logo="https://urfan.id/logo/beinsports.png",Bein Sports 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=126&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=126&type=drm&token=CZuuTtVXrSY9Z3S7nWakY3ZbnOMwcI9y
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://terabit.web.id/media.mpd?id=126&type=dash
+
+
 
 
 
