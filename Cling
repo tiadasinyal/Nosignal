@@ -1499,6 +1499,61 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" group-title="TV Arabic",Abu Dhabi Emirates (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 
+#EXTINF:-1 group-title="TV Arabic" tvg-logo="https://makkahtv.tv/assets/images/0.png-714x367.png",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/chunklist_w1800146176.m3u8
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",Alhadith
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",Al Ekhbariya
+https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/al_ekhbariya-avc1_250000=15-mp4a_97200_eng=17.m3u8
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",Al khalij
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",Al Saudiya
+https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/saudi_tv-avc1_250000=1-mp4a_97200_ara=3.m3u8
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",Alquran Alkareem
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_9.m3u8
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",Alsunnah Nabawi
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/saudi_sunnah-avc1_250000=1-mp4a_97200_ara=3.m3u8
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",Nida Alislam Radio
+https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/chunks.m3u8
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",Quran Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/chunks.m3u8
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",Saudi Thaqafiya Radio
+https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_9.m3u8
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",Saudia Radio
+https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/chunks.m3u8
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",Iqra Arabic
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",Iqra Quran
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist/4.m3u8
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",Thikrayat TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_8.m3u8
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/smc1publish/smc1tvhd_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",MBC Loud
+https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index_10.m3u8
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_720p/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-name="1" tvg-logo="https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg" group-title="TV Arabic",Asharq Documentary
+Alhttps://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_720p/chunks_dvr.m3u8
+
 #EXTINF:-1 tvg-name="1" tvg-logo="http://rb.gy/woaipx" group-title="TV Arabic", AL EMARAT TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://adtv.ae
@@ -2814,7 +2869,7 @@ https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 
 #EXTINF:-1 tvg-id="Sharjah Sports HD.ps" tvg-logo="https://i.ibb.co.com/840TCH2j/sjsports.png" group-title="Olahraga 1", SHARJAH SPORTS 🇦🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/fNMWBhJ/skysprtmx.png" group-title="Olahraga 1", SKY SPORTS 🇲🇽
@@ -5390,13 +5445,13 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 
 
 #EXTINF:-1 tvg-logo="https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/011019/logo.png" group-title="Olahraga 2",Dubai Sports
-https://dmitnthfrta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b9000000.m3u8
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/011019/logo.png" group-title="Olahraga 2",Dubai Sports 2
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/011019/logo.png" group-title="Olahraga 2",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
 
 =========================================== Olahraga 3 ===========================================
@@ -5444,15 +5499,15 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/accf1391/dms3rep/multi/Dxb_Racing_C-1417x591.jpg" group-title="Olahraga 3",Dubai Racing
-https://dmitwlvvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b700000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-g5kxWrkTxzg/WxHWbSiaaQI/AAAAAAAATjE/N7pEyjlZmQYiw_J0ZdCZLYdZz-jLlopCQCLcBGAs/s1600/dubai_ae_racing_2.png" group-title="Olahraga 3",Dubai Racing 2
-https://dmitwlvvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b300000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.94061278628a654e847a7adeb899771d?rik=hWB2hA%2fKPP1IIw&riu=http%3a%2f%2fadmango.cdn.mangomolo.com%2fanalytics%2fuploads%2f71%2f5bfea86c98.png&ehk=UeMSkBMPWZGs6eNCXGf29qYjq7AlUiMnO%2bsRvi4bNbs%3d&risl=&pid=ImgRaw&r=0" group-title="Olahraga 3",Dubai Racing 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBoZzLb5zBTVbhenOIvhsPcuezHodLfT4y9g&usqp=CAU" group-title="Olahraga 3",ARRYADIA 3
