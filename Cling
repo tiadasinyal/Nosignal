@@ -4455,27 +4455,21 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 #https://fadhillah.serv00.net/vidiomadebyemtekuntukdash.php?id=18190
 
 #EXTINF:-1 tvg-id="Juara  1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="Olahraga 2",Juara 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0
-Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=drm
-https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 
 #EXTINF:-1 tvg-id="Juara  2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="Olahraga 2",Juara 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0
-Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=drm
-https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
 
 #EXTINF:-1 tvg-id="Juara  3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="Olahraga 2",Juara 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0
-Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4483,43 +4477,35 @@ Safari/537.36
 https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
 
 #EXTINF:-1 tvg-id="Juara  5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="Olahraga 2",Juara 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0
-Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=drm
 https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
 #EXTINF:-1 tvg-id="Juara  6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="Olahraga 2",Juara 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0
-Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=drm
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lcANT3yiJsmLoqJq5Ck_nCAbL4w=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-c968f8.jpg" group-title="Olahraga 2",Golf 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0
-Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18189&type=drm
 https://sweet-night-1d1d.worst.workers.dev/?id=18189&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/y5p-tEzFYLfvX_zxqJXIsH4nxTU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-5c9462.jpg" group-title="Olahraga 2",Golf 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0
-Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=drm
 https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
 #EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/epl.png" group-title="Olahraga 2", EPL TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphas
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=drm 
@@ -4604,7 +4590,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=122&type=drm&token=CZuuTtVXrSY9Z3S7nWakY3ZbnOMwcI9y
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://terabit.web.id/media.mpd?id=122&type=dash
+#https://terabit.web.id/media.mpd?id=122&type=dash
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="beinsports2.id" tvg-logo="https://urfan.id/logo/beinsports.png",Bein Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
