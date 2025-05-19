@@ -305,9 +305,11 @@ https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd
 #http://202.147.193.244/live/eds/rcti-2/sa_dash/rcti-2.mpd
 
 #EXTINF:-1 group-title="TV National" group-logo="https://static.vecteezy.com/system/resources/thumbnails/015/309/654/small_2x/indonesia-waving-flag-realistic-transparent-background-free-png.png" tvg-id="RCTI.id" tvg-logo="https://urfan.id/logo/rcti.png",RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=1
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
 #EXTINF:-1 group-title="TV National" group-logo="https://w1.pngwing.com/pngs/627/602/png-transparent-indonesia-flag-flag-of-indonesia-flag-of-belgium-alamy-red-thumbnail.png" tvg-id="RCTI.id" tvg-logo="https://cdn.urfan.id/logo/rcti.png",RCTI
@@ -338,9 +340,11 @@ https://phdown.serv00.net/Smartv.php?id=Rcti
 #http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-id="GTV.id" tvg-logo="https://urfan.id/logo/gtv.png",GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=3
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-id="GTV.id" tvg-logo="https://cdn.urfan.id/logo/gtv.png",GTV R+
 #EXTVLCOPT:http-user-agent=android-R+
@@ -363,9 +367,11 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #http://202.147.193.244/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-id="MNCTV.id" tvg-logo="https://urfan.id/logo/mnctv.png",MNCTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=2
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 
 #EXTINF:-1 group-title="TV National" tvg-id="MNCTV.id" tvg-logo="https://cdn.urfan.id/logo/mnctv.png",MNCTV R+
@@ -388,9 +394,11 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #http://202.147.193.244/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-id="iNews.id" tvg-logo="https://urfan.id/logo/inews.png",iNews
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=4
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-id="iNews.id" tvg-logo="https://cdn.urfan.id/logo/inews.png",iNews R+
 #EXTVLCOPT:http-user-agent=android-R+
