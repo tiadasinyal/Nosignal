@@ -41,17 +41,16 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 1
-https://v4-17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pullhw.zhaoyangyang.cn/live/8788056_lud.m3u8?edge_slice=true&sub_m3u8=true&auth_info=spi%2FakTwxnnue6nWKld%2BLrkX1XYbyQduasv4mrCK2Z1GKRisMkqyYCAZb4IAta4X.58593241644d486f56576d657a746e35&user_session_id=745dbcba56c695e75f32a74ec15734a6
+https://hlslive-tx-cdn.ysp.cctv.cn/eastmantv/2027304101.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 2
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+https://hlslive-tx-cdn.ysp.cctv.cn/eastmantv/2027304301.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 3
-https://santai.serv00.net/tera/bit1.php?id=astrobadminton
+https://hlslive-tx-cdn.ysp.cctv.cn/2027304501.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 4
-#https://89eef889586de52fd5caceec0e167ca8.v.smtcdns.net/203.205.136.13/play.cbalive.weibisai.com/live/3861531810936061_AiSD.m3u8?txSecret=656da9380742a4a3f3fbc2b2b67319a9&txTime=67F86990
-
+https://hlslive-tx-cdn.ysp.cctv.cn/2027304601.m3u8
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
