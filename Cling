@@ -498,10 +498,17 @@ https://sweet-night-1d1d.worst.workers.dev/?id=8237&type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="TV National" tvg-logo="https://cdn.urfan.id/logo/transtv.png",Trans TV
+EXTINF:-1 group-title="TV National" tvg-logo="https://cdn.urfan.id/logo/transtv.png",Trans TV
 http://202.147.193.244/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 
-#EXTINF:-1 group-title="TV National" tvg-id="TransTV.id" tvg-logo="https://cdn.urfan.id/logo/transtv.png",Trans TV (C)
+
+#EXTINF:-1 group-title="TV National" tvg-logo="https://cdn.urfan.id/logo/transtv.png",Trans TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
+
+EXTINF:-1 group-title="TV National" tvg-id="TransTV.id" tvg-logo="https://cdn.urfan.id/logo/transtv.png",Trans TV (C)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -519,8 +526,14 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="TV National" tvg-logo="https://cdn.urfan.id/logo/trans7.png",Trans 7
+EXTINF:-1 group-title="TV National" tvg-logo="https://cdn.urfan.id/logo/trans7.png",Trans 7
 http://202.147.193.244/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
+
+#EXTINF:-1 group-title="TV National" tvg-logo="https://cdn.urfan.id/logo/trans7.png",Trans 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=203388a3ab9b4e0b99552f6669c4eea9:e43bc84dc73ee0e78b533dec7cd7b715
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemeshield1-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -528,7 +541,7 @@ http://202.147.193.244/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
 #EXTVLCOPT:http-user-agent=CubMu/1.5.9 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://cubmu.com
-#EXTINF:-1 group-title="TV National" tvg-logo="https://cdn.urfan.id/logo/trans7.png",Trans 7 (C)
+EXTINF:-1 group-title="TV National" tvg-logo="https://cdn.urfan.id/logo/trans7.png",Trans 7 (C)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-id="Trans7.id" tvg-logo="https://urfan.id/logo/trans7.png",Trans 7 (Detik)
