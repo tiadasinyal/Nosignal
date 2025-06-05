@@ -130,11 +130,11 @@ https://csm-e-cetubiausw2live-0454b42cc435a781e.csm.tubi.video/csm/extlive/tubip
 https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 1
-https://ecfc3cde48e2bb818cde2ffa8262e58d.v.smtcdns.net/play.cbalive.weibisai.com/live/3915975529972061_AiHD.m3u8?txSecret=6b3e188e3c61378e948977731c3e2e9c&txTime=6840DE00
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3915976663419061_AiHD.m3u8?txSecret=5fea089cda10d692506d580a732856ba&txTime=68422F80
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 1
-https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/2027453201.m3u8
-
+https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/2027454001.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -143,18 +143,18 @@ https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cc
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 2
-https://3be4be19ef6d73cd744383f2da36c93f.v.smtcdns.net/play.cbalive.weibisai.com/live/3915975706139061_AiHD.m3u8?txSecret=a0491bca408bd65e3fc02c9d429bda3a&txTime=6840DE00
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3915976832858061_AiHD.m3u8?txSecret=effe4300a6e93326111cf7db4c6b2363&txTime=68422F80
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 2
-https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/2027452701.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 3
-https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/2027453301.m3u8
-
+https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/2027454101.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 3
-https://677c74065edbda568d0d054872c9f16b.v.smtcdns.net/play.cbalive.weibisai.com/live/3915975892031061_AiHD.m3u8?txSecret=aedaae77c4b79b77ef1eaa962a162076&txTime=6840DE00
+https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/2027454301.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 3
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3915977934014061_AiHD.m3u8?txSecret=f46032dae1e8d6a8ae2d0ebb32f1aa25&txTime=68422F80
+
 
 
 #EXTINF:-1 group-logo="http://api.skorkilat1.com/statics/img/logo-a.d7a3d514.png" tvg-logo="https://qinniu.skorkilat1.com/FiZuT-uP9rjcA0pXcBP9ltY7xpmd.jpg" group-title="LIVE EVENT",BWF Court 1
