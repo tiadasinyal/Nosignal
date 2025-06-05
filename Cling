@@ -11024,6 +11024,50 @@ https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml"
 #EXTM3U url-tvg="https://azimabid00.github.io/epg/astro_epg.xml"
 
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" group-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkQepEfQVJfYbzZCu3dxGngFmlZDtiARvDItxCCAWGG-w.png" group-title="Channel Astro (USE VPN MY)",ASTRO ARENA 1
+http://ghost.play-gachor.online:25461/FREE_AKUN/2J9BgZ1krS/466
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkX9kGyCusUV3KGXbqmzl7cHvysdLB47PotvpqDgnuADg.png" group-title="Channel Astro (USE VPN MY)",ASTRO ARENA 2
+http://ghost.play-gachor.online:25461/FREE_AKUN/2J9BgZ1krS/467
+#EXTINF:-1 xui-id="321" tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkZPhpG79ZtUDnyCtLyMCCKRkbresesuxjYVX_ASgMPYQ.png" group-title="Channel Astro (USE VPN MY)",ASTRO CRICKET
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWecACdW-kZ8PjLgXEI_Ips1w
+#EXTINF:-1 xui-id="334" tvg-id="" tvg-name="ASTRO FOOTBALL" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkZBEBuVYFrkJiR5q1jHVGLd1R0tX48kjHAx4HF95l1yk.png" group-title="Channel Astro (USE VPN MY)",ASTRO FOOTBALL
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWecEEINwYC6d8mAHUbo8ERL4
+#EXTINF:-1 xui-id="335" tvg-id="" tvg-name="ASTRO GRANDSTAND" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3SfWQd7_feJ4afcaCZnst-eOd3rNlYwdCzYzLOAg0Ro.png" group-title="Channel Astro (USE VPN MY)",ASTRO GRANDSTAND
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeZSXwEdtijKFNXWZBkXMbOA
+#EXTINF:-1 xui-id="6206" tvg-id="" tvg-name="ASTRO SPORTS +" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk51Cq_UpecR3yLC1aV7PZYYeLs12PwQRiRi_VdKWEFuQ.png" group-title="Channel Astro (USE VPN MY)",ASTRO SPORTS +
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWebtKYznA_JqjAwVo_RfICrA
+#EXTINF:-1 xui-id="10901" tvg-id="" tvg-name="ASTRO BADMINTON 2" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkmL7cnb4Y9pGa_NvYCEIPB7NWpQgJAuY-r61kzip2Jdo.png" group-title="Channel Astro (USE VPN MY)",ASTRO BADMINTON 2
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeboQzZBL_r5mDJzEMANgyX4
+#EXTINF:-1 xui-id="336" tvg-id="" tvg-name="ARENA BOLA 1" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkQepEfQVJfYbzZCu3dxGngFmlZDtiARvDItxCCAWGG-w.png" group-title="Channel Astro (USE VPN MY)",ARENA BOLA 1
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeffsnM1rOgf_pBvoAj0iAeo
+#EXTINF:-1 xui-id="337" tvg-id="" tvg-name="ARENA BOLA 2" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkX9kGyCusUV3KGXbqmzl7cHvysdLB47PotvpqDgnuADg.png" group-title="Channel Astro (USE VPN MY)",ARENA BOLA 2
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaZFA4G-KkfgITSMaYTcl-U
+#EXTINF:-1 xui-id="5470" tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkZPhpG79ZtUDnyCtLyMCCKRkbresesuxjYVX_ASgMPYQ.png" group-title="Channel Astro (USE VPN MY)",ASTRO CRICKET
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeV4i76hbsd39K_-rm_3Esbc
+#EXTINF:-1 xui-id="338" tvg-id="" tvg-name="beIN SPORTS 1 MY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCMhAgUm-RCjxQ5jOV1XZQQ.png" group-title="Channel Astro (USE VPN MY)",beIN SPORTS 1 MY
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWefOnwGJGcqsXEG7FXRksT_I
+#EXTINF:-1 xui-id="339" tvg-id="" tvg-name="beIN SPORTS 2 MY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCMhAgUm-RCjxQ5jOV1XZQQ.png" group-title="Channel Astro (USE VPN MY)",beIN SPORTS 2 MY
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWed54FtI2OcLt4YJaqWhjwAo
+#EXTINF:-1 xui-id="340" tvg-id="" tvg-name="beIN SPORTS 3 MY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCMhAgUm-RCjxQ5jOV1XZQQ.png" group-title="Channel Astro (USE VPN MY)",beIN SPORTS 3 MY
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeShUw9oXoFmUNcN_wXJXVEU
+#EXTINF:-1 xui-id="341" tvg-id="" tvg-name="SPO TV 1 MY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkc_kGc4Zurs3J6OMCJZu-WQ.png" group-title="Channel Astro (USE VPN MY)",SPO TV 1 MY
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeeMIm5vxGR1VM8KhsWo89hA
+#EXTINF:-1 xui-id="342" tvg-id="" tvg-name="SPO TV 2 MY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIHwMZyAVBpAdMJNcaj7mvQ.png" group-title="Channel Astro (USE VPN MY)",SPO TV 2 MY
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWebDLlgLEzdYTIJxrW1aOZRk
+#EXTINF:-1 xui-id="3763" tvg-id="" tvg-name="ASTRO RUGBY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk2ubKacQgvtFbrl4ZaOEW5flumsLJ235uVhDnZ7pBz_E.png" group-title="Channel Astro (USE VPN MY)",ASTRO RUGBY
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWee4ISUU0N8O78deyIOvh2ew
+#EXTINF:-1 xui-id="334" tvg-id="" tvg-name="ASTRO FOOTBALL" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkZBEBuVYFrkJiR5q1jHVGLd1R0tX48kjHAx4HF95l1yk.png" group-title="Channel Astro (USE VPN MY)",ASTRO FOOTBALL
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWecEEINwYC6d8mAHUbo8ERL4
+#EXTINF:-1 xui-id="335" tvg-id="" tvg-name="ASTRO GRANDSTAND" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3SfWQd7_feJ4afcaCZnst-eOd3rNlYwdCzYzLOAg0Ro.png" group-title="Channel Astro (USE VPN MY)",ASTRO GRANDSTAND
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeZSXwEdtijKFNXWZBkXMbOA
+#EXTINF:-1 xui-id="6206" tvg-id="" tvg-name="ASTRO SPORTS +" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk51Cq_UpecR3yLC1aV7PZYYeLs12PwQRiRi_VdKWEFuQ.png" group-title="Channel Astro (USE VPN MY)",ASTRO SPORTS +
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWebtKYznA_JqjAwVo_RfICrA
+#EXTINF:-1 xui-id="10901" tvg-id="" tvg-name="ASTRO BADMINTON 2" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkmL7cnb4Y9pGa_NvYCEIPB7NWpQgJAuY-r61kzip2Jdo.png" group-title="Channel Astro (USE VPN MY)",ASTRO BADMINTON 2
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeboQzZBL_r5mDJzEMANgyX4
+#EXTINF:-1 xui-id="336" tvg-id="" tvg-name="ARENA BOLA 1" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkQepEfQVJfYbzZCu3dxGngFmlZDtiARvDItxCCAWGG-w.png" group-title="Channel Astro (USE VPN MY)",ARENA BOLA 1
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeffsnM1rOgf_pBvoAj0iAeo
+#EXTINF:-1 xui-id="337" tvg-id="" tvg-name="ARENA BOLA 2" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkX9kGyCusUV3KGXbqmzl7cHvysdLB47PotvpqDgnuADg.png" group-title="Channel Astro (USE VPN MY)",ARENA BOLA 2
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaZFA4G-KkfgITSMaYTcl-U
 
 
 #EXTINF:-1 group-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="Channel Astro (USE VPN MY)"tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 
