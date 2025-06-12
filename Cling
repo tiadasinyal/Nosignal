@@ -543,7 +543,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=8237&type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://cdn.urfan.id/logo/transtv.png",Trans TV
@@ -570,7 +570,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://cdn.urfan.id/logo/trans7.png",Trans 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -627,10 +627,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://av-ch-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
-
-
-#EXTINF:0 tvg-logo="https://cdn.urfan.id/logo/psjtv.png" group-title="TV National",PSJ TV
-https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="TV National" tvg-id="vtv.id" tvg-logo="https://i.ibb.co.com/bR4XfVJ/20241225-180426.jpg",VTV
@@ -3111,6 +3107,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDoma
 #EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/FLTCyGTt/raisprot.png" group-title="Olahraga 1", RAI SPORT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
@@ -4442,25 +4439,26 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=119
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vis/scc01.php?id=119
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=120
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vis/scc01.php?id=120
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
 #EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-logo="https://ambontv.my.id/logotv/spotv.png" group-title="Olahraga 2",SPOTV ᴴᴰ
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
  
 #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-logo="https://ambontv.my.id/logotv/spotv2.png" group-title="Olahraga 2",SPOTV 2 ᴴᴰ
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -4570,7 +4568,17 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="Olahraga 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSportsUHD_2024.png",Astro Supersport UHD
 #http://whatareyoudoing.ddns.net/corsproxy.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+#EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" group-title="Olahraga 2" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
+#EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" group-title="Olahraga 2" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="Olahraga 2",Juara 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -5481,61 +5489,61 @@ https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9002ec8c3dbc55c5bccdcd6871d80fd0": "7099325123bae7810db508727bb0bc7d", "c43c83acda60593d8e3607efd5010d7d": "526f4a760ef52ab85056fbc10ea27584", "712090aae2065c21951b170bc3002330": "a97774e4175b80205c3cf104e9574208"}
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
+#https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-02.png",Arena Sport 2 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c5e5ac1b3cc15fe790f1bc96535fe329": "3defe59c38079ccad25a436200ad3bd7", "b2f22f5d7ca35910a73fbabc524954de": "d87d08fbe6505ad7099b8c258f396d15", "d256b403efcc5c3db701fc696885e102": "d46e4215e279b224e9d2a772db9c74a1"}
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd
+#https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-03.png",Arena Sport 3 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3bedf4a896695958907e0984165090f0": "a58317ffddf318f1540f31f67d95b5fb", "25c3df3202005cc98c47700295be59ca": "073f5a39d84dd14a9debd1a72bb1f055", "ccebefcba0a3546ba34d3fc587651708": "18f2b2027ce26867c23dcd7f57faa245"}
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd
+#https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-04.png",Arena Sport 4 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"77ce6938c781526e999b688992f27764": "bf1178841770fdba74f8629f0f06d2c0", "68cd661dbc8352fda000c532840f6340": "0255fb620f4f707ea7ba090058718306", "89d1dc54692e5b4fb5995fc0953bf5bf": "31b8953ab60b90fefc93d9bd1b806fbc"}
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd
+#https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-05.png",Arena Sport 5 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"34a709bbeac052f293c778c0770829fd": "2b801fde1ad4839d4080d6ec6b0ec4ce", "e473ec5d96f45a9f9a22eb665b5b1ea9": "ace54ce15b69d249b00395c9e6b85b90", "18d3fba08f3152c38f14151219fa9792": "78b0c5b961351e482be81287466ecb08"}
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd
+#https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-06.png",Arena Sport 6 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b3b60e79989a5b2799fa3a2394b8749f": "a25d21e333dad3d131f126b7b57730be", "bfd8ff04a3625fcea8335c9575401697": "769d61a2d6fd7030a5088df2e70c2654", "5a86e42c58cf5d008546861c0f0fb22a": "67b1172a05bcb38a91a304d7098ce7f5"}
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
+#https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-07.png",Arena Sport 7 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5998265ef8fc5748822fef96229831aa": "9110b6be31b4bbdce67374bae3395269", "5d4b5005dbd355559b3c7fe4dae1fb05": "10e65a5b74158216190e654cdf05b584", "5244c72f4f5d5e1a8778fc93906c9cb3": "4c14a6a924ef7fb32534dd590d99d499"}
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena7/default/index.mpd
+#https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena7/default/index.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-08.png",Arena Sport 8 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c6fc5b27b74e5b8e82ca19da484eb174": "51f8fd5eef736dccaea9235b621731e7", "b9e9546bc9ba52d1a75fba9222efa7f5": "2cec65c6b79be6c2d4481c6e0ef79bfc", "ca202ac1353a5c6b9960bdbb82f88efc": "7ef86abd9a62042858370852836c50b4"}
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena8/default/index.mpd
+#https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena8/default/index.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-09.png",Arena Sport 9 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"91a56f5aab4c56cb88fbf787187acafe": "0000816079a5ec4f093e3274bda26f2a", "a2ff372a21b35653a88592abfec3f9a7": "d5bc25088d1fda12849aad90716de750", "7ecfd12eb26258c381afadac16ac8fc9": "b4f351533d633abf76cda47fe75d579b"}
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
+#https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-10.png",Arena Sport 10 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ee6860a6bf7a5f6c89bcf1794d16e25f": "b573f718f1551d2cf2a335ca778f5604", "03ed75ef7e4c56cb8f81cc17952fc554": "2be3b8e9f4756601e5b263beb14c5908", "ea5736047df25edbb48bd055d48eb3dd": "8b40d3a415517224245a79e907cb8ef0"}
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd
+#https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd
 
 
 
@@ -5649,11 +5657,13 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunk
 
 =========================================== Olahraga 3 ===========================================
 #EXTINF:-1 group-title="Olahraga 3" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
-#EXTVLCOPT:http-referrer=https://visionplus.id/
 https://av-ch-cdn.mncnow.id/live/eds/FightSports/sa_dash/FightSports.mpd
 
-
+#EXTINF:-1 group-title="Olahraga 3" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h05/01.m3u8
@@ -5751,7 +5761,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d4
 #EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwZH2XjBSCfecA6Cd_Q4jqCIEamnEfUu-f-A&usqp=CAU",BILLIARD TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iZ1rMGW.png" group-title="Olahraga 3",Motorvision TV
+#EXTINF:-1 group-title="Olahraga 3" tvg-id="motorvisiontv.de" tvg-logo="https://urfan.id/logo/motorvision.png",Motorvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
