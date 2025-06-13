@@ -90,42 +90,42 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18853&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a913faeecaac4813a55240bea0c68858:05b7d7eaba8d6410dbe234336d9b235a
-#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",AVC live 1
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/AVC_Logo.png",AVC live 1
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
-#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",AVC live 2
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/AVC_Logo.png",AVC live 2
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_sdi2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
-#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",AVC live 3
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/AVC_Logo.png",AVC live 3
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
-#EXTINF:-1 group-title="AVC live" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",AVC live 4
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/AVC_Logo.png",AVC live 4
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/pl_sdi4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
-#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",AVC live 5
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/AVC_Logo.png",AVC live 5
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi5.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
-#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",AVC live 6
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/AVC_Logo.png",AVC live 6
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi6.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
-#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",AVC live 7
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/AVC_Logo.png",AVC live 7
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pl_sdi7.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
-#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",AVC live 8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/AVC_Logo.png",AVC live 8
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/pl_sdi8.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj99i8GR3EOdzK3-Tnveef61w5PjBJT6Kb6w&s" group-title="LIVE EVENT", VOLLY ORF 
@@ -2609,7 +2609,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",Sportstars 3
+#EXTINF:-1 group-title="Olahraga 1" tvg-id="" tvg-logo="https://urfan.id/logo/sportstars3.png",Sportstars 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=114&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -4500,25 +4500,25 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
-#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-logo="https://ambontv.my.id/logotv/spotv.png" group-title="Olahraga 2",SPOTV ᴴᴰ
+#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="Olahraga 2",SPOTV ᴴᴰ
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
  
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-logo="https://ambontv.my.id/logotv/spotv2.png" group-title="Olahraga 2",SPOTV 2 ᴴᴰ
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="Olahraga 2",SPOTV 2 ᴴᴰ
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",SPOTV PH
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV PH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",SPOTV2 PH
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2 PH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
@@ -4752,6 +4752,17 @@ https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
 
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="beinSports1indonesia.id" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-1-1.png",beIN F1 vid
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphas
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=drm
+#KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
+https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash	
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Olahraga 2", beIN SPORTS 1 ID
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4867,17 +4878,6 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6717&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd  
-
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="beinSports1indonesia.id" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-1-1.png",beIN F1 vid
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphas
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=drm
-#KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
-https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash	
 	
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="sonyten1.in" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png",Sony Sports 1 
@@ -5029,27 +5029,27 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/wjg
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 #https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/yasjqprt7n/out/v1/8086df78d3ce479e8e375147f72942c6/cenc.mpd
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",DAZN ELEVEN 1 PT
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://media.engage.it/2023/10/dazn-_thumb_789495.png",DAZN ELEVEN 1 PT
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
 http://kstv.us:8080/tH300gvHff/8606073792/48443
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",DAZN ELEVEN 2 PT
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://media.engage.it/2023/10/dazn-_thumb_789495.png",DAZN ELEVEN 2 PT
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
 http://kstv.us:8080/tH300gvHff/8606073792/48444
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",DAZN ELEVEN 3 PT
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://media.engage.it/2023/10/dazn-_thumb_789495.png",DAZN ELEVEN 3 PT
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
 http://kstv.us:8080/tH300gvHff/8606073792/48445
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",DAZN ELEVEN 4 PT
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://media.engage.it/2023/10/dazn-_thumb_789495.png",DAZN ELEVEN 4 PT
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
 http://kstv.us:8080/tH300gvHff/8606073792/48446
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",DAZN ELEVEN 5 PT
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://media.engage.it/2023/10/dazn-_thumb_789495.png",DAZN ELEVEN 5 PT
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
 http://kstv.us:8080/tH300gvHff/8606073792/48447
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://langit46.sattir.top/logo/payung.png",DAZN ELEVEN 6 PT
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://media.engage.it/2023/10/dazn-_thumb_789495.png",DAZN ELEVEN 6 PT
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
 http://kstv.us:8080/tH300gvHff/8606073792/48448
 
