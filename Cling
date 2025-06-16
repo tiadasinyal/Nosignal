@@ -4813,10 +4813,15 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="Olahraga 2" , DAZN F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
 
 #EXTINF:-1 channel-id="GB26000118T" tvg-id="GB26000118T" tvg-name="DFB Play TV" tvg-logo="https://i.ibb.co.com/BGSvPQ8/dfbplay.png" group-title="Olahraga 2", DFB Play TV
 https://jmp2.uk/sam-GB26000118T.m3u8
@@ -4992,40 +4997,6 @@ https://jmp2.uk/sam-GB26000118T.m3u8
 ###dazn alternatif,https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-520/stream.mpd
 
 
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="Olahraga 2", ESPN 🔵 🇦🇷
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
-https://csc-arr-edge02.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
-
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-logo="https://i.ibb.co.com/K0XRbdr/espn2cl.png" group-title="Olahraga 2",ESPN 2 🔵 🇦🇷
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
-https://csc-arr-edge02.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
-
-#EXTINF:-1 tvg-id="ESPN3.ar" tvg-logo="https://i.ibb.co.com/LNQtJjG/espn3cl.png" group-title="Olahraga 2", ESPN 3 🔵 🇦🇷
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
-https://csc-arr-edge02.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
-
-#EXTINF:-1 tvg-id="ESPN4.ar" tvg-logo="https://i.ibb.co.com/QkzBxW3/espn4.png" group-title="Olahraga 2", ESPN 4 🔵 🇦🇷
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
-https://csc-arr-edge02.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd
-
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://i.ibb.co.com/19yDN4B/espnpremium.png" group-title="Olahraga 2", ESPN PREMIUM 🔵 🇦🇷
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
-https://csc-arr-edge02.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd
-
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://i.ibb.co.com/19yDN4B/espnpremium.png" group-title="Olahraga 2", ESPN PREMIUM 🇦🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52e0602c49014474a7d6612276a1ac39:cf6840bedd42c69bd284303bc075ba6c
-https://cdn.trimi.com.ar/live/sm-live/ESPN_Prem_BkP/sa_live_dash_ll/ESPN_Prem_BkP.mpd
 
 
 #EXTINF:-1 tvg-ID="" tvg-name=""  tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-1-sa.png" group-title="Olahraga 2" ,SSC 1
