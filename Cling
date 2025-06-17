@@ -43,7 +43,11 @@ https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 https://dto4p9su9kcif.cloudfront.net/out/v1/9215529a621947689739a7671e6dd0d3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/1200px-2025_FIFA_Club_World_Cup.svg.png" group-title="LIVE EVENT", Piala Dunia Antar Klub
-https://dca-co-live-gcr.gcdn.co/ovzpab9n1sf413ndj390zul2l/web/stream.mpd?channel=1660&outlet=dazn-mena&plang=ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+#EXTVLCOPT:http-header=Origin=https://www.dazn.com
+https://dai.google.com/linear/dash/pb/event/fk4UDHbZQies_l3bEWurJA/stream/8ca8bd67-e971-44d3-b082-c8705ad2d600:SIN2/manifest.mpd
+#####https://dca-co-live-gcr.gcdn.co/ovzpab9n1sf413ndj390zul2l/web/stream.mpd?channel=1660&outlet=dazn-mena&plang=ar
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/1200px-2025_FIFA_Club_World_Cup.svg.png" group-title="LIVE EVENT", Piala Dunia Antar Klub
 https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
