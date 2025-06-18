@@ -5716,6 +5716,37 @@ https://linear015-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/c
 https://linear033-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportstennis)/manifest_720-120.mpd
 
 
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-logo="tebakhuruf.com" group-title="Olahraga 4 (VPN ITALI)",Polsat Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=590abbe92e6e470a9e355d58ec910709:0af2b5f2450474207f6761adc9dc635e
+https://lb2-e1-81.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd
+
+#EXTINF:-1 tvg-id="PolsatSport2.pl" tvg-logo="tekateki.com" group-title="Olahraga 4 (VPN ITALI)",Polsat Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
+https://lb2-e1-81.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
+
+#EXTINF:-1 tvg-id="PolsatSport3.pl" tvg-logo="kuissiapaberani.com" group-title="Olahraga 4 (VPN ITALI)",Polsat Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03ddf71c8dae4e8d8b171fb81ecfe609:fc80cf8969cf1b3c2c061eadb94e1330
+https://lb2-e1-81.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd
+
+#EXTINF:-1 tvg-id="PolsatSportprem.pl" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat%20sportPrem1.png" group-title="Olahraga 4 (VPN ITALI)",Polsat Sport Premium 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8eb4a9586edf4b0cade4b5725fd55209:54caa4e2142cf691af9bb6028545afc6
+https://lb2-e1-81.pluscdn.pl/ch/1459449/266/dash/edb3b20d/live.mpd
+
+#EXTINF:-1 tvg-id="PolsatSportprem2.pl" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat%20sportPrem2.png" group-title="Olahraga 4 (VPN ITALI)",Polsat Sport Premium 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a20b49be4db4f328e4bb48853124109:f32c1c3c983354bcafb0f2ccb8a59835
+https://lb2-e1-81.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd
+
+
 =================== Movies ========================
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
