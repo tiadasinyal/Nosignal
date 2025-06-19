@@ -46,27 +46,6 @@ https://proji.glitch.me/https://tennischannel-int-samsunguk.amagi.tv/playlist720
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Concacaf_Gold_Cup_2021.svg/2560px-Concacaf_Gold_Cup_2021.svg.png" group-title="LIVE EVENT", Concacaf
 https://dto4p9su9kcif.cloudfront.net/out/v1/9215529a621947689739a7671e6dd0d3/index.m3u8
 
-#EXTINF:-1 tvg-id="Band Sports.br" tvg-logo="https://i.ibb.co.com/XJjvSbx/f1.png" group-title="LIVE EVENT" , F1 GP 🇧🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74481194bf32774e0cb44a1d71d6cc19:4bfd25bc9419f1c71e3ee8e6bf5ccf2a
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XJjvSbx/f1.png" group-title="LIVE EVENT" , F1 GP 🇦🇹
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/XJjvSbx/f1.png" group-title="LIVE EVENT",  F1 TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s.id/oneftv
-
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx" tvg-logo="https://i.ibb.co.com/XJjvSbx/f1.png" group-title="LIVE EVENT" , F1 GP 🇲🇽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0fefd5d94a8cb5b40c057ab182f7dc27:5548c4823ff7f1ea61bafb7cbc19e005
-https://live-atv-cdn.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
@@ -299,7 +278,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18853&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18853&type=dash
 
-#EXTINF:-1 group-title="AVC live" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRHwz-zVv1pE9TT4onS57XVVq1Ju-TAP_0wLrKPHPvleRNfJXrhtb0lVDKPTMdA__XcA",VOLI TV
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRHwz-zVv1pE9TT4onS57XVVq1Ju-TAP_0wLrKPHPvleRNfJXrhtb0lVDKPTMdA__XcA",VOLI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 
 http://killer.play-gachor.online/live/larasati8734w%40/M%40nw%40e123/305.ts 
@@ -2864,12 +2843,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
 
-EXTINF:-1 tvg-id="Fox Sports 1 HDTV.us" tvg-logo="https://iili.io/JmoIn99.png" group-title="Olahraga 1",FS1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
- 
-EXTINF:-1 tvg-id="Fox Sports 2.us" tvg-logo="https://iili.io/Jmozgv1.png" group-title="Olahraga 1",FS2
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-
 #EXTINF:-1 tvg-id="FOX SPORTS.mx"  tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png" group-title="Olahraga 1", FOX SPORTS 🇲🇽
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2929,6 +2902,34 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wybgz0orr8/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#EXTINF:-1 tvg-id="FOX SPORTS.mx" tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png" group-title="Olahraga 1", FOX SPORTS 🇲🇽 🟢
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250118
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e276bd34034a2c4dcf61d74e1242fbf:4b466a4affb61d2672a4194b14e10ef2
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/FOX-SPORTS-HD/default.mpd
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2.mx" tvg-logo="https://i.ibb.co.com/fvP8vKX/fxsp2mx.png" group-title="Olahraga 1", FOX SPORTS 2 🇲🇽 🟢
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=23986dae03fa883ed8e489cbf70f9ec3:6a42c42732a9dd1da1205971b2c5c535
+https://live-atv-cdn.izzigo.tv/4/out/u/dash/FOX-SPORTS-2-HD/default.mpd
+
+#EXTINF:-1 tvg-id="FOX SPORTS 3.mx" tvg-logo="https://i.ibb.co.com/7CNg8HK/fxsp3mx.png" group-title="Olahraga 1", FOX SPORTS 3 🇲🇽 🟢
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed8dd7562fd9f9064bed8d52fa42cc11:d65a22cfe5bfbd33d8d25b183649e44f
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/FOX-SPORTS-3-HD/default.mpd
+
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx" tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="Olahraga 1", FS PREMIUM 🇲🇽 🟢
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0fefd5d94a8cb5b40c057ab182f7dc27:5548c4823ff7f1ea61bafb7cbc19e005
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="Olahraga 1", FUBO SPORTS 1
@@ -4240,16 +4241,9 @@ https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="beinSports1indonesia.id" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-1-1.png",beIN F1 vid
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphas
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=drm
-#KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
-https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash	
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="beinSports1indonesia.id" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-1-1.png",F1 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://s.id/oneftv
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Olahraga 2", beIN SPORTS 1 ID
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -4724,23 +4718,13 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="dazn2spain.es" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2511.png",DAZN 2 España
 #https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-038/stream.mpd|user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="daznf1.es" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png",DAZN F1
+EXTINF:-1 group-title="Olahraga 2" tvg-id="daznf1.es" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png",DAZN F1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769 
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd|user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="Olahraga 2" , DAZN F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
 
 #EXTINF:-1 channel-id="GB26000118T" tvg-id="GB26000118T" tvg-name="DFB Play TV" tvg-logo="https://i.ibb.co.com/BGSvPQ8/dfbplay.png" group-title="Olahraga 2", DFB Play TV
 https://jmp2.uk/sam-GB26000118T.m3u8
