@@ -5831,10 +5831,12 @@ http://atemecdnbalancer-voe.sysln.id/live/eds/WarnerHD/mpd/WarnerHD.mpd
 #EXTINF:-1 group-title="Movies" tvg-id="warner.id" tvg-logo="https://cdn.urfan.id/logo/warner.png",Warner TV
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
+#EXTINF:-1 tvg-name="CINEMA WORLD" tvg-logo="https://hometv.pw/logo/movies/cinema_world.png" group-title="Movies",CINEMA WORLD
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-name="CINEMA WORLD" tvg-logo="https://hometv.pw/logo/movies/cinema_world.png" group-title="Movies",CINEMA WORLD (Indi)
-https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=4420d0abce624fb98b4064cf6ad6e121:68d859f983f350d11023559e40e9117c
+https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaWorldHD/mpd/CinemaWorldHD.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-id="cinemaworld.my" tvg-logo="https://cdn.urfan.id/logo/cw.png",Cinema World
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
@@ -5849,10 +5851,12 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b
 #EXTINF:-1 tvg-name="FLIK" tvg-logo="https://hometv.pw/logo/movies/flik.png" group-title="Movies",FLIK (Indi)
 https://cdnbal1.indihometv.com/joss/133/flik/chunklist_w1529913620_b1544100_sleng.m3u8
 
-#EXTINF:-1 tvg-name="IMC" tvg-logo="https://hometv.pw/logo/movies/imc.png" group-title="Movies",IMC (V+)
+#EXTINF:-1 tvg-name="IMC" tvg-logo="https://hometv.pw/logo/movies/imc.png" group-title="Movies",IMC
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://legacy-global-cdn.visionplus.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-name="" group-title="Movies" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFtctbjnECdTrPKZPWZn5biQDHlqONSTYEDpI7YkLt&s",Citra Bioskop 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -9252,49 +9256,49 @@ https://atemeshield1-voe.sysln.id/live/eds/BalaiKota/mpd/BalaiKota.mpd
 
 =======================Channel Vision=================================
 
-#EXTINF:-1 tvg-id="rcti" group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/1d/56/5c135d3be1df35c891185c15bf57-bcp.jpg?x-oss-process=style/mq200" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | RCTI
+#EXTINF:-1 tvg-id="rcti" group-logo="https://upload.wikimedia.org/wikipedia/id/6/62/Logo_Vision%2B_App.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e0cae84fe54d477f97b400b1e04646c7:dba64cb36b8ed1e759744efa93b00498
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 tvg-id="mnctv" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | MNCTV
+#EXTINF:-1 tvg-id="mnctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffeae3e2e72a432e8709db3d662d037c:749f37937dafce8dfeef9a8bceb8eab5
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-#EXTINF:-1 tvg-id="gtv" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | GTV
+#EXTINF:-1 tvg-id="gtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=504a66e68b0249f497fa77de3ed89105:4aef61856f9ffbba1295b8dd47358b87
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 tvg-id="inews" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | INEWS
+#EXTINF:-1 tvg-id="inews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | INEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
-#EXTINF:-1 tvg-id="trans7" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | TRANS TV
+#EXTINF:-1 tvg-id="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTINF:-1 tvg-id="transtv" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | TRANS 7
+#EXTINF:-1 tvg-id="transtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTINF:-1 tvg-id="antv" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | ANTV
+#EXTINF:-1 tvg-id="antv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9302,49 +9306,49 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 https://poc-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 
-#EXTINF:-1 tvg-id="rtv" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | RTV
+#EXTINF:-1 tvg-id="rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
 
-#EXTINF:-1 tvg-id="tvone" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | TVONE
+#EXTINF:-1 tvg-id="tvone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
-#EXTINF:-1 tvg-id="kompas tv" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | KOMPAS TV
+#EXTINF:-1 tvg-id="kompas tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
-#EXTINF:-1 tvg-id="metro tv" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | METRO TV
+#EXTINF:-1 tvg-id="metro tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
-#EXTINF:-1 tvg-id="tvri" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | TVRI
+#EXTINF:-1 tvg-id="tvri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 https://d84q7nw4qf3j3.cloudfront.net:443/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
 
-#EXTINF:-1 tvg-id="daai tv" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | DAAI TV
+#EXTINF:-1 tvg-id="daai tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2fdc5d5def7460a8dfb78492b66dd4f:a99645e65ce190e9556dda93be172cd4
 https://d2tjypxxy769fn.cloudfront.net/out/v1/744044c3985142399fbd466f9f3fd8fa/index.mpd
 
-#EXTINF:-1 tvg-id="net tv" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | MD TV
+#EXTINF:-1 tvg-id="net tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | MD TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9352,91 +9356,91 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/744044c3985142399fbd466f9f3fd8fa/in
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
 
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | JTV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=994121840707471a920b2e65bdf21b7e:0033ae3118a0153ad05fc9a066a8805c
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | JAK TV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | JAK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5dfa046b3bf14866a143470d9c8dd74d:97e354284ee7a67e5dafbce04e17c4c0
 https://d2tjypxxy769fn.cloudfront.net/out/v1/1f05c642353a4a778d8a544837e1b49c/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | BALI TV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | BALI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | BANDUNG TV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | BANDUNG TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86e50e1506af46c780233c0091b67159:549788738d10df77094a0d4efaf0d567
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | BEIN SPORTS 1
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | BEIN SPORTS 2
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | BEIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | BEIN SPORTS 3
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | BEIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | BEIN SPORTS 4
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | BEIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uVyRlAjux2YyFKmmevgxug", "kid":"rvGCMXetQBmd5EBQTZkq1Q" } ], "type":"temporary" }
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | BEIN SPORTS 5
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | BEIN SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2q0K6xZbmia3BvKiYbj6/g", "kid":"xIyOSNuiRCC13O+fW4R7Eg" } ], "type":"temporary" }
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | ANIMAX
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | ANIMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
 https://sinkqshavfso-pull.bpmedialive.com/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | FOOD TRAVEL
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | FOOD TRAVEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | ENT
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | ENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | TVN
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | TVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9444,182 +9448,182 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/in
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | ONE
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | KIX
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | HITS
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | AXN
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | LIFE TIME
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | LIFE TIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59de57168ce94a96bed1606f10c65f67:459fdec6262975e03adc82d62b749f44
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | VISION PRIME
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | VISION PRIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | ROCK ENTERTAINMENT
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | ROCK ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | MUSIC TV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | MUSIC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | ANHUI TV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | ANHUI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=36a73e886f584bbb959821fd97eaaa31:357e360c301c4f67862c46588545067d
 https://d2tjypxxy769fn.cloudfront.net/out/v1/39a34211e80145678ce1616b52368f99/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | XING KONG TV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | XING KONG TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04fb6c48c6b4498cb9d3b9ede0d48db7:94253cf1df2659c3ea253ba1091eca4d
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | SHANGHAI DRAGON TV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | SHANGHAI DRAGON TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24312e82bb4d44d3a94f98c0a1bb4443:7f4272e8205159a54a1ec5db818b8576
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2c21b0f4792a42a09a7ed5fee3f010c0/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | HUNAN TV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | HUNAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf09955f788c43349b677e15bbbc287f:74c70dbe1c0a3d367aab3356d54ccb64
 https://d2tjypxxy769fn.cloudfront.net/out/v1/63e4d9f383cb4ca59317c7be9407e228/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | JIANGSU TV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | JIANGSU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ee5f4313ab54bce9f93cb166ea9d685:010f5ee14b27407c3691f73356ff32b1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/ccc51c0317284496b6cde9f7bd670b80/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | NHK WORLD
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | NHK WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=989c2b64799145f3bbf19fade7f20380:6eb7e7a29e6e633a82a2af4449b93535
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | TV 5 MONDE
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | TV 5 MONDE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94f0b3d645c64f0dbe2e0990ec290cdf:ef251d3e88bb38de2d939743ca405e86
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | CELEBRITIES TV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | CELEBRITIES TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | HANACARAKA TV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | HANACARAKA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 https://bp-cdn-poc.visionplus.id/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | SINDONEWS TV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | SINDONEWS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | BTV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/36d936f64cd2482ebc077567dbcf0919/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | SEA TODAY
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | SEA TODAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32561781a900465090842cc5a763d7ef:6262baf9a44118036bc206641f5b202b
 https://d2tjypxxy769fn.cloudfront.net/out/v1/9cebfb76975f470d8d3dff0b3d27bdd9/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | BBC WORLD NEWS
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | BBC WORLD NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e7c10b448444c53904de46d1a30f427:d638c2cb75ff93d38b5ec8b6f5098dea
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | DW
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | DW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44003e0bf3cc4cfa8a35cead51e34d42:a46e0bee874435aeb96fcac1177275a1
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c64eec3b1594ec98aa758ed334fa6a0/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | FRANCE 24
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | FRANCE 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0750d198f4824ea7bbb82beede8f55d3:352108d6c83c5ea32c42b4f7465ad3ee
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/498b57e974a843d28ea1a393603e5318/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | TRT WORLD
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | TRT WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4b5eab488e149e68f3e421615ffd0d2:2556a421a56e53ab9b6ccefdf464581e
 https://d2tjypxxy769fn.cloudfront.net/out/v1/be2bcc4b75e348e5b331fc5f99aa3daf/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | AL JAZEERA
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | AL JAZEERA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5c2df5b13c04708a89de814f5b73f8e:0a2678dca36ec3e46e223bb3aafdaf37
 https://sinkqshavfso-pull.bpmedialive.com/out/v1/b1d58fabf2764d52aa1e130f4a45d2af/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | RT
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | RT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9627,182 +9631,182 @@ https://sinkqshavfso-pull.bpmedialive.com/out/v1/b1d58fabf2764d52aa1e130f4a45d2a
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/451249e7e3004f5aba228da284c2a649/index.mpd
 
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | CNA
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb0dd5a64a3c45e086cb23f7f9649fbc:d68ee78a9b1703da869a983b57d95c60
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7295b950a9b44dd2bf622a7d7d25dbd3/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | CGTN
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c2c7834abd740669637bc4b029c9aee:2f7808671f1a6f63ebd86850d8d7cc5f
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c3e6d7241fbf404082087774d7221635/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | CRIME INVESTIGATION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | OUTDOOR CHANNEL
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | OUTDOOR CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | BBC EARTH
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | BBC EARTH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | HISTORY
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | HISTORY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | LOVE NATURE
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | LOVE NATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | CGTN DOCUMENTARY
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | CGTN DOCUMENTARY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=349ac1b8d5f2493d97ffd88d364de38c:92e769c36e60dcd8573c08fd9c27b9bf
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | MOONBUG
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | MOONBUG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b62ae389f0944d4a55daaad52de1f9d:ba145a1426491316010da87bfd69de05
 https://sinkqshavfso-pull.bpmedialive.com/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | KIDS TV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | KIDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | CBEEBIES
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | CBEEBIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | NICK JR
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | NICK JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | ZOOMOO
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | ZOOMOO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | NICKELODEON
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | NICKELODEON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | MY KIDZ
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | MY KIDZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=35bfaeb1bb9f4481a1db8fa2aca2747d:263a8c2e3a37ffb9d6b218fb610172f7
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/a241815698e84bc68f1bb6c4996ee92a/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | DREAMWORKS
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | DREAMWORKS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=not availabe
 https://d2tjypxxy769fn.cloudfront.net/out/v1/8045a839c1da4a1da49e77c8f7063989/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | ORIGINALS
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | ORIGINALS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | BUDDY STAR
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | BUDDY STAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | UNIQUES
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | UNIQUES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | SUPERRIX
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | SUPERRIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | CINEEDGE
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | CINEEDGE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | HITS MOVIES
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | HITS MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | CELESTIAL MOVIES
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | CELESTIAL MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | TVN MOVIES
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | TVN MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | MY FAMILY CHANNEL
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | MY FAMILY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=197d66b18a164417853988963c5cff5f:26d3aecba6ac4d8838e1c9790562c2fc
 https://d2tjypxxy769fn.cloudfront.net/out/v1/6c4cc0ea7bd2454eb9a42ee7b6da9c28/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | MY CINEMA
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | MY CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9810,91 +9814,91 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/6c4cc0ea7bd2454eb9a42ee7b6da9c28/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/797ea46c6d3c4d8cac25f69cb1bc3d5c/index.mpd
 
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | MY CINEMA ASIA
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | MY CINEMA ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9ec474742854a9c95bdc93682eadb87:c74ecc2bac2876d4b709c0ec01eaa6c2
 https://d2tjypxxy769fn.cloudfront.net/out/v1/d54b3c66f88b43478a35732b902b7194/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | ROCK ACTION
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | ROCK ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | MUSIC TV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | MUSIC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | MTV LIVE
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | MTV LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92acc43956cf494fb989d30fe087364f:73bb4869e9f1e2cb9995ee225dda4b7a
 https://poc-cdn-flr.visionplus.id/out/v1/b26eb25311954fcb8ece0c1923c6cce2/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | MTV 90S
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | MTV 90S
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1c47039932145ee82ffd5ba663fdf3f:b11a040f74a5e81b06b5f771cf1f7567
 https://poc-cdn-flr.visionplus.id/out/v1/dd9cfc9ae76a4f8abbaa89708a915e38/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | TV9
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | TV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=730bf9b6641f4ca597fd0d2903ffc574:293446fd53697862b165984b860fd7b0
 https://bp-cdn-poc.visionplus.id/out/v1/9688c51b534d4165bf4b0b328e53b980/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | TAWAF TV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | TAWAF TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf8d36bbfa904cb8a1c714dd74217cf2:97c0f4b08a496f8ab05e46f29a71c7c8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/7819c09ece974a7582eed4770bf60e65/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | TVMU
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | TVMU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94f0b3d645c64f0dbe2e0990ec290cdf:0dc311915f9decffaf7dfee30c4d8482
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | MUSLIM TV
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | MUSLIM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2e6de6943ef47d08c2634a2df4bcece:badf619476b3bf0889ab545e8d3926f6
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | LIFE
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | LIFE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=08e5cf90e8c04a7fa90f5c126768b239:b9406a99b9ea4b07149ecc582faf2613
 https://d2tjypxxy769fn.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | REFORMED 21
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | REFORMED 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=729e39db83984d58a23e16f2c05f915f:0d3871bf01b6d871c9882265fb78e8fa
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/623c771560e443f2920ea5be99016b7e/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | AL QURAN AL KAREEM
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | AL QURAN AL KAREEM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d856bf85229c4a42a7b0de45e4c91a31:5633e069ef585f73ccfe2dd6a85a6f48
 https://sinkqshavfso-pull.bpmedialive.com/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | EWTN
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | EWTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9902,49 +9906,49 @@ https://sinkqshavfso-pull.bpmedialive.com/out/v1/099aba2d60b44679915cd56f303b975
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/96e20532df53449ab254f765073ec866/index.mpd
 
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | GLOBAL TREKKER
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | GLOBAL TREKKER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b826a2e05a5a4922b64019c17345a020:a532aa3aaf1b2f32daa66b4d165056c6
 https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | CCM
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | IMC
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | IMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | THRILL
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | THRILL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | ZEE BIOSKOP
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | ZEE BIOSKOP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | IDX CHANNEL
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | IDX CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
 https://d2tjypxxy769fn.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | ARIRANG
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | ARIRANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9952,7 +9956,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/in
 #KODIPROP:inputstream.adaptive.license_key=d83df80b9af34e219404dea6bf7efd41:46dbfee377ea972b3e5914cbf6aa6122
 https://d2tjypxxy769fn.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/index.mpd
 
-#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://i.ibb.co.com/026gHRK/test-channel.png" group-title="Channel Vision",ID | ABC AUSTRALIA
+#EXTINF:-1 tvg-id="testingchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_Vision%2B.svg/640px-Logo_Vision%2B.svg.png" group-title="Channel Vision",ID | ABC AUSTRALIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
