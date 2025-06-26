@@ -3199,7 +3199,7 @@ https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=cf9689067bc0465593084d7832982fd1:07454bafd70413ab57a3eb25de2c79c3
 ##https://cdn31.tvplayhome.lt/live/eds2/Setanta_2_HD_LV/GO3_LIVE_DASH/Setanta_2_HD_LV.mpd
 
-#EXTINF:-1 tvg-id="Sharjah Sports HD.ps" tvg-logo="https://i.ibb.co.com/840TCH2j/sjsports.png" group-title="Olahraga 1", SHARJAH SPORTS 🇦🇪
+#EXTINF:-1 tvg-id="Sharjah Sports HD.ps" tvg-logo="https://i.ibb.co.com/840TCH2j/sjsports.png" group-title="Olahraga 1", SHARJAH SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/playlist.m3u8
 
@@ -5328,45 +5328,46 @@ https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general1/ch
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="Olahraga 2", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/f1Gtx5j/3bbsports1.png" group-title="Olahraga 2", 3BB SPORT 1 🇹🇭
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/f1Gtx5j/3bbsports1.png" group-title="Olahraga 2", 3BB SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 
-#EXTINF:-1 tvg-id="AD Sports 1 HD.ps" tvg-logo="https://i.ibb.co.com/7GJnHMX/adsport1.png" group-title="Olahraga 2", ABU DHABI SPORTS 1 🇦🇪
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/DD31pjJN/starzplsp.png" group-title="Olahraga 2", Starzplay Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
+https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/jJxgSC6/adsports1premium.png" group-title="Olahraga 2", ABU DHABI SPORTS PREMIUM 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/gP8cdjt/adsports2premium.png" group-title="Olahraga 2", ABU DHABI SPORTS PREMIUM 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="AD Sports 1 HD.ps" tvg-logo="https://i.ibb.co.com/7GJnHMX/adsport1.png" group-title="Olahraga 2", ABU DHABI SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=814deb15646b03b1d144627676d89842:474a09fb608c62b1eb1cc04e03b57c1a
 https://neacdnpop3-edge02.aws.playco.com/live/eds/Abu_Dhabi_Sports_1_HD/DASH/Abu_Dhabi_Sports_1_HD.mpd
 
-#EXTINF:-1 tvg-id="AD Sports 2 HD.ps" tvg-logo="https://i.ibb.co.com/9vLdWtm/adsport2.png" group-title="Olahraga 2", ABU DHABI SPORTS 2 🇦🇪
+#EXTINF:-1 tvg-id="AD Sports 2 HD.ps" tvg-logo="https://i.ibb.co.com/9vLdWtm/adsport2.png" group-title="Olahraga 2", ABU DHABI SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=814deb15646b03b1d144627676d89842:474a09fb608c62b1eb1cc04e03b57c1a
 https://neacdnpop3-edge02.aws.playco.com/live/eds/Abu_Dhabi_Sports_2_HD/DASH/Abu_Dhabi_Sports_2_HD.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/jJxgSC6/adsports1premium.png" group-title="Olahraga 2", ABU DHABI SPORTS PREMIUM 1 🇦🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/gP8cdjt/adsports2premium.png" group-title="Olahraga 2", ABU DHABI SPORTS PREMIUM 2 🇦🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
-https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/DD31pjJN/starzplsp.png" group-title="Olahraga 2", Starzplay Sports 🇦🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
-https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="AD Sports 1 HD.ps" tvg-logo="https://i.ibb.co.com/7GJnHMX/adsport1.png" group-title="Olahraga 2", ABU DHABI SPORTS 1 🇦🇪
+#EXTINF:-1 tvg-id="AD Sports 1 HD.ps" tvg-logo="https://i.ibb.co.com/7GJnHMX/adsport1.png" group-title="Olahraga 2", ABU DHABI SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://adtv.ae
 #EXTVLCOPT:http-referrer=https://adtv.ae/
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
-#EXTINF:-1 tvg-id="AD Sports 2 HD.ps" tvg-logo="https://i.ibb.co.com/9vLdWtm/adsport2.png" group-title="Olahraga 2", ABU DHABI SPORTS 2 🇦🇪
+#EXTINF:-1 tvg-id="AD Sports 2 HD.ps" tvg-logo="https://i.ibb.co.com/9vLdWtm/adsport2.png" group-title="Olahraga 2", ABU DHABI SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://adtv.ae
 #EXTVLCOPT:http-referrer=https://adtv.ae/
@@ -6033,15 +6034,15 @@ https://uselector.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
 https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HTprVVTK/starzcom.png" group-title="Movies", Starz Comedy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e799d091a775e320fe991ac1157e54c:3905edab045510aa8e16a036dfdcbad4
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/kwj9ebjr2v/out/v1/e4240c0b0310427fa7c04bbece7689f4/cenc.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvKfx1TL/strworld.png" group-title="Movies",Star World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
 https://uselector.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HTprVVTK/starzcom.png" group-title="Movies", Starz Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e799d091a775e320fe991ac1157e54c:3905edab045510aa8e16a036dfdcbad4
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/kwj9ebjr2v/out/v1/e4240c0b0310427fa7c04bbece7689f4/cenc.mpd
 
 #EXTINF:-1   tvg-logo="https://i.ibb.co.com/kghFwG44/starzply.png" group-title="Movies", STARZPLAY ACTION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6118,27 +6119,27 @@ https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
 #EXTINF:-1  group-title="Movies" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max 
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
-#EXTINF:-1 tvg-id="SET HD" tvg-logo="https://i.ibb.co.com/fCJmbjK/sonyet.png" group-title="Movies", SET 🇮🇳
+#EXTINF:-1 tvg-id="SET HD" tvg-logo="https://i.ibb.co.com/fCJmbjK/sonyet.png" group-title="Movies", SET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 
-#EXTINF:-1 tvg-id="SONY AATH" tvg-logo="https://i.ibb.co.com/25CtZG9/sonyaath.png" group-title="Movies", Sony AATH 🇮🇳
+#EXTINF:-1 tvg-id="SONY AATH" tvg-logo="https://i.ibb.co.com/25CtZG9/sonyaath.png" group-title="Movies", Sony AATH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
-#EXTINF:-1 tvg-id="SONY KAL" tvg-logo="https://i.ibb.co.com/8D5xp09/sonykal.png" group-title="Movies", Sony KAL 🇮🇳
+#EXTINF:-1 tvg-id="SONY KAL" tvg-logo="https://i.ibb.co.com/8D5xp09/sonykal.png" group-title="Movies", Sony KAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sony Pal" tvg-logo="https://i.ibb.co.com/d444yyS/sonypal.png" group-title="Movies", Sony PAL 🇮🇳
+#EXTINF:-1 tvg-id="Sony Pal" tvg-logo="https://i.ibb.co.com/d444yyS/sonypal.png" group-title="Movies", Sony PAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 
-#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://i.ibb.co.com/HTJj03G/sonysab.png" group-title="Movies", Sony SAB 🇮🇳
+#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://i.ibb.co.com/HTJj03G/sonysab.png" group-title="Movies", Sony SAB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 
-#EXTINF:-1 tvg-id="Sony Wah" tvg-logo="https://i.ibb.co.com/rsZmpHD/sonywah.png" group-title="Movies", Sony WAH 🇮🇳
+#EXTINF:-1 tvg-id="Sony Wah" tvg-logo="https://i.ibb.co.com/rsZmpHD/sonywah.png" group-title="Movies", Sony WAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 
@@ -7799,7 +7800,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 #KODIPROP:inputstream.adaptive.license_key=1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c
 https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="NationalGeographicWest.us"  tvg-logo="https://i.ibb.co.com/DYsDT6K/natgeo.png" group-title="Knowledge", NATGEO 🇺🇸 🇦🇪
+#EXTINF:-1 tvg-id="NationalGeographicWest.us"  tvg-logo="https://i.ibb.co.com/DYsDT6K/natgeo.png" group-title="Knowledge", NATGEO 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1e2ae3754ced9e9258a8df46d261390:bc42486b5253920abdd0cb3e727852f5
 https://uselector.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd
