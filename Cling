@@ -382,7 +382,7 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-
 https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF JP 1
-https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com/live/3948835449758061_AiHD.m3u8?txSecret=58060e93ff61090e97b5ffbf2e854957&txTime=6876CF60
+https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/play.cbalive.weibisai.com/live/3948836938904061_AiHD.m3u8?txSecret=2714278d60e39e09297fbf15c7a7a30d&txTime=68797260
 
 
 
@@ -393,15 +393,15 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF JP 2
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3948835932504061_AiHD.m3u8?txSecret=a7147822dda581684c067adcaf93a640&txTime=6876CF60
+https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/play.cbalive.weibisai.com/live/3948837153285061_AiHD.m3u8?txSecret=ab699222115a5d332ca6aae508491fb4&txTime=68797260
+
 
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 3
 https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/2027454301.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF JP 3
-https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com/live/3948836117608061_AiHD.m3u8?txSecret=4b75768453e0123d221dc7530008fe91&txTime=6876CF60
-
+https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/quicktlivecloud-cdn.ysp.cctv.cn/2027786601.m3u8
 
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 4
