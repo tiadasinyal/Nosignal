@@ -64,13 +64,11 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-
 https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF JP 1
-https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/play.cbalive.weibisai.com/live/3948837985143061_AiHD.m3u8?txSecret=8ad995778515e4c4c3ab0b92bd62d976&txTime=687AD1F0
+https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com/live/3954873980230061_AiHD.m3u8?txSecret=343552d1189687a0ab4cd3d78b6abb83&txTime=688017F0
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF JP 1
-https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/quicktlivecloud-cdn.ysp.cctv.cn/2027799901.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF JP 1
-https://www.radartv.in/4987/eltasport3_twn/playlist.m3u8?t=1752805501&token=bb99b3cc5ff3118957aa723077a258f7
+https://v4-15ff02a6a92b215bcd25dc26d4be48bc.livehwc4.com/pullhw.zhaoyangyang.cn/live/8811918_lud.m3u8?sub_m3u8=true&auth_info=2z%2F6dHSLmfALqb0Y2X32k2Se0KJ9pfwoSTfV5JLF%2B%2F4kQDuh6m50yP%2FLl4mXm0NL.416265307344526765413975366f5231&edge_slice=true&user_session_id=1ceca40435db839307bb474b80818c4a
 
 
 
