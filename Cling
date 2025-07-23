@@ -4366,13 +4366,13 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://s.id/oneftv
 
-#EXTINF:-1 tvg-name="Astro Grandstand" tvg-id="Astro Grandstand" tvg-logo="https://livecdn.zbds.top/logo/Astro Grandstand.png" group-title="Olahraga 2", Astro Grandstand
+#EXTINF:-1 tvg-name="Astro Grandstand" tvg-id="Astro Grandstand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="Olahraga 2", Astro Grandstand
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
 
-#EXTINF:-1 tvg-name="Astro Football" tvg-id="Astro Football" tvg-logo="https://livecdn.zbds.top/logo/Astro Football.png" group-title="Olahraga 2", Astro Football
+#EXTINF:-1 tvg-name="Astro Football" tvg-id="Astro Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="Olahraga 2", Astro Football
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
 
-#EXTINF:-1 tvg-name="Astro Premier League 1" tvg-id="Astro Premier League 1" tvg-logo="https://livecdn.zbds.top/logo/Astro Premier League 1.png" group-title="Olahraga 2", Astro Premier League 1
+#EXTINF:-1 tvg-name="Astro Premier League 1" tvg-id="Astro Premier League 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="Olahraga 2", Astro Premier League 1
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
