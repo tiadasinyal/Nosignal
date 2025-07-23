@@ -23,6 +23,12 @@
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="LIVE EVENT",cinemax (avc1.4d401f/1280x720/2.43Mbps)
+https://cdnjktbpid22.transvision.co.id/trv-ocibx/Cinemax-my/index.m3u8
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="LIVE EVENT",Trans TV (avc1.640029/1280x720/3.55Mbps)
+https://cdnjktbpid13.transvision.co.id/cubmu/22.m3u8
+
 
 #EXTINF:-1 tvg-name="" group-title="LIVE EVENT" tvg-logo="https://cdn1-production-images-kly.akamaized.net/k_IXNhEefd-D9ly3W2KXHW7FzS4=/1x250:1080x858/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4610061/original/098944100_1697206423-Timnas_Indonesia_-_Kerasnya_Persaingan_Kualifikasi_Piala_Duniapsd_copy.jpg", TIMNAS INDONESIA DAY 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
