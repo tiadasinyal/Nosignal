@@ -4212,15 +4212,16 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=114
+#KODIPROP:inputstream.adaptive.license_key=https://mastertv.tech/mastertv/topxxxxxxxxxx.php
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
+
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://cdn.urfan.id/logo/sportstars3.png",Sportstars 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://cdn.urfan.id/logo/sportstars3.png",Sportstars 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=114&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://mastertv.tech/mastertv/topxxxxxxxxxx.php
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
@@ -4676,70 +4677,35 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://media.engage.it/2023/10/dazn-_thumb_789495.png",DAZN ELEVEN 1 PT
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://kstv.us:8080/tH300gvHff/8606073792/48443
-
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://media.engage.it/2023/10/dazn-_thumb_789495.png",DAZN ELEVEN 2 PT
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://kstv.us:8080/tH300gvHff/8606073792/48444
-
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://media.engage.it/2023/10/dazn-_thumb_789495.png",DAZN ELEVEN 3 PT
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://kstv.us:8080/tH300gvHff/8606073792/48445
-
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://media.engage.it/2023/10/dazn-_thumb_789495.png",DAZN ELEVEN 4 PT
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://kstv.us:8080/tH300gvHff/8606073792/48446
-
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://media.engage.it/2023/10/dazn-_thumb_789495.png",DAZN ELEVEN 5 PT
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://kstv.us:8080/tH300gvHff/8606073792/48447
-
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://media.engage.it/2023/10/dazn-_thumb_789495.png",DAZN ELEVEN 6 PT
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://kstv.us:8080/tH300gvHff/8606073792/48448
-
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 1 PT" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="Olahraga 2",DAZN ELEVEN 1 PT
-http://ghost.play-gachor.online:25461/FREE_AKUN/2J9BgZ1krS/483
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 2 PT" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="Olahraga 2",DAZN ELEVEN 2 PT
-http://ghost.play-gachor.online:25461/FREE_AKUN/2J9BgZ1krS/484
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 3 PT" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="Olahraga 2",DAZN ELEVEN 3 PT
-http://ghost.play-gachor.online:25461/FREE_AKUN/2J9BgZ1krS/485
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 4 PT" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="Olahraga 2",DAZN ELEVEN 4 PT
-http://ghost.play-gachor.online:25461/FREE_AKUN/2J9BgZ1krS/486
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 5 PT" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="Olahraga 2",DAZN ELEVEN 5 PT
-http://ghost.play-gachor.online:25461/FREE_AKUN/2J9BgZ1krS/487
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 6 PT" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="Olahraga 2",DAZN ELEVEN 6 PT
-http://ghost.play-gachor.online:25461/FREE_AKUN/2J9BgZ1krS/488
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="Olahraga 2",SuperSport 1
 https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="Olahraga 2",SuperSport 1
+https://tvking6282.cloud/$k0detv9626/SuperSports/SuperSport1-HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="Olahraga 2",SuperSport 2
 https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="Olahraga 2",SuperSport 2
+https://tvking6282.cloud/$k0detv9626/SuperSports/SuperSport2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="Olahraga 2",SuperSport 2
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1312
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S3.png" group-title="Olahraga 2",SuperSport 3
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1319
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S3.png" group-title="Olahraga 2",SuperSport 3
 https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="Olahraga 2",SuperSport1
-https://tvking6282.cloud/$k0detv9626/SuperSports/SuperSport1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="Olahraga 2",SuperSport2
-https://tvking6282.cloud/$k0detv9626/SuperSports/SuperSport2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S3.png" group-title="Olahraga 2",SuperSport3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S3.png" group-title="Olahraga 2",SuperSport 3
 https://tvking6282.cloud/$k0detv9626/SuperSports/SuperSport3-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/SS4HD-Albania.png/revision/latest?cb=20160805103702" group-title="Olahraga 2",SuperSport4
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/e0c350049cb9584a4a13c63aaf405857.png" group-title="Olahraga 2",SuperSport4
 https://tvking6282.cloud/$k0detv9626/SuperSports/SuperSport4-HD.m3u8
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="AL: SuperSport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9519a058698941aadb6473f8721e58b1.png" group-title="Olahraga 2",SuperSport 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1312
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="AL: SuperSport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/dd3c9c967ec530a8b19978ca6aac4588.png" group-title="Olahraga 2",SuperSport 3
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1319
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="AL: SuperSport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/e0c350049cb9584a4a13c63aaf405857.png" group-title="Olahraga 2",SuperSport 4
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1318
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-id="" tvg-name="AL: SuperSport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/c6be34175b71784909e9493c29135344.png" group-title="Olahraga 2",SuperSport 5
@@ -5416,7 +5382,6 @@ https://neacdnpop3-edge02.aws.playco.com/live/eds/Abu_Dhabi_Sports_1_HD/DASH/Abu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=814deb15646b03b1d144627676d89842:474a09fb608c62b1eb1cc04e03b57c1a
 https://neacdnpop3-edge02.aws.playco.com/live/eds/Abu_Dhabi_Sports_2_HD/DASH/Abu_Dhabi_Sports_2_HD.mpd
-
 
 #EXTINF:-1 tvg-id="AD Sports 1 HD.ps" tvg-logo="https://i.ibb.co.com/7GJnHMX/adsport1.png" group-title="Olahraga 2", ABU DHABI SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
