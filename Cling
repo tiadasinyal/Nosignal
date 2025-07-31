@@ -40,12 +40,9 @@ https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://ejnorbs.co.uk/wp-content/uploads/2022/01/1E9C338F-017E-4986-A724-AE08D733A0CF.png" group-title="LIVE EVENT",LFCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://fstv.space/
-#EXTVLCOPT:http-origin=https://fstv.space
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2VkZWNhNDhmNWIyLWM1YzgtMTNjNC0zZjBjLTk4YWQwMGNh/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", MU VS Bournemouth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://edge14.xmediaget.com/hls-live/16808987/1/mediaplaylist.m3u8?s=0fbb92ef7e1af348fafb915b05c85713c709015b1eff1651e967bfdf842c7c12&t=1753928360371&ai=3&av=1025&ui=0
 
 #EXTINF:-1 tvg-id="LIVE 5.sg" group-title="LIVE EVENT" tvg-logo="https://rilis.id/image/2025/07/076ExDH1r_logopialaaffu23.png",AFF U23
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -72,6 +69,7 @@ https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/0300070
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF CN 1
 https://www.radartv.in/4987/eltasport3_twn/playlist.m3u8?t=1753416544&token=723d7385bd6434a4b977572909f2224d
+
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
