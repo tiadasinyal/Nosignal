@@ -60,16 +60,8 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF CN 1
-https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/play.cbalive.weibisai.com/live/3954876165875061_AiHD.m3u8?txSecret=b9dbf330405171193e7e00e2d8a9e514&txTime=68841A80
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF CN 1
-https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court1HB_sjb5720.m3u8?title=8196022&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=S%2FEJIVcECEsCAWX%2FeYL8LRMK&cdnQuality=h265-abr&quality=2&multi_raw_stream=YMQ-Court1HB&ccode=live05030101&expire=21600&psid=7A76D2922AA18A1772CBB3C646B8D021&ups_client_netip=101.255.121.130&ups_ts=1753416525&ups_userid=0&utid=S%2FEJIVcECEsCAWX%2FeYL8LRMK&vid=8196022_8121194&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa&cug=10&t=5d15e8d6fe76cfa&vkey=B211b45efa9358e01cc9557310118123d
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF CN 1
-https://www.radartv.in/4987/eltasport3_twn/playlist.m3u8?t=1753416544&token=723d7385bd6434a4b977572909f2224d
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Macau 1
+https://6016c12814103e2553f354492d71134e.v.smtcdns.net/play.cbalive.weibisai.com/live/3961779322443061_AiHD.m3u8?txSecret=6bcb52aaa39901075c30e2caa4989c92&txTime=688D7120
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -77,17 +69,12 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF CN 2
-https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/play.cbalive.weibisai.com/live/3954876367645061_AiHD.m3u8?txSecret=151be99b3744d90a31be4f8d15fc22e7&txTime=68841A80
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Macau 2
+https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/3961779503284061_AiHD.m3u8?txSecret=31d6978d549fa2d3bc1c171b0de02d09&txTime=688D7120
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF CN 2
-https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb5360.m3u8?title=8196023&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=S%2FEJIVcECEsCAWX%2FeYL8LRMK&cdnQuality=h265-abr&quality=2&multi_raw_stream=YMQ-Court2HB&ccode=live05030101&expire=21600&psid=0BE572A078DB8740E3A77588DE48D54F&ups_client_netip=101.255.121.130&ups_ts=1753417518&ups_userid=0&utid=S%2FEJIVcECEsCAWX%2FeYL8LRMK&vid=8196023_8121195&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa&cug=10&t=5d4c82db3b916ed&vkey=Bb7123613aadd4b329b5f1a0af12e2169
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF CN 2
-https://www.radartv.in/4987/eltasport2_twn/playlist.m3u8?t=1753417545&token=1f704f6ce8ce9e73aee853251d8c9776
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF CN 3
-https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com/live/3954875691873061_AiHD.m3u8?txSecret=0cc81b2eb38706ead369b45169782bc6&txTime=6882BAF0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Macau 3
+https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/3961779707354061_AiHD.m3u8?txSecret=0adfa2e7f8295c714a646f8ed3380a8d&txTime=688D7120
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
