@@ -3673,36 +3673,6 @@ http://csc-axs-edge01.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremiu
 http://csc-axs-edge01.sensa.com.ar/live/eds/ESPN-Bolivia/live_dash_cld/ESPN-Bolivia.mpd
 
 
-#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="Olahraga 1", ESPN 🇧🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e1779a585414fe9b785aa335fcaf245:48ee6954e3197985ce5fb843a48e8243
-https://cwtvbk.cdnwatchlabs.io/dash/channels/espn/index.mpd
-
-#EXTINF:-1 tvg-id="ESPN 2.br" tvg-logo="https://i.ibb.co.com/K0XRbdr/espn2cl.png" group-title="Olahraga 1", ESPN 2 🇧🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6785604657ba486f87c4e9b1a31be931:647e1b6de16f1d2e2f9509aceb68d90d
-https://cwtvbk.cdnwatchlabs.io/dash/channels/espn2/index.mpd
-
-#EXTINF:-1 tvg-id="ESPN 3.br" tvg-logo="https://i.ibb.co.com/LNQtJjG/espn3cl.png" group-title="Olahraga 1", ESPN 3 🇧🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1064359db3d4b269c63513b277950c9:fced21599b56e3ff82aaa75e2397a573
-https://cwtvbk.cdnwatchlabs.io/dash/channels/espn3/index.mpd
-
-#EXTINF:-1 tvg-id="ESPN 4.br" tvg-logo="https://i.ibb.co.com/QkzBxW3/espn4.png" group-title="Olahraga 1", ESPN 4 🇧🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=934e461042f6431f9bad32480652eb3e:fd41d776a8ae49dc9992fb853444f435
-https://cwtvbk.cdnwatchlabs.io/dash/channels/espn4/index.mpd
-
-#EXTINF:-1 tvg-id="ESPN 5.br" tvg-logo="https://i.ibb.co.com/4f70pMW/espn5.png" group-title="Olahraga 1", ESPN 5 🇧🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ba4f854eb6543c08e9512558779ec4a:ad61eb398d6746858944d439dfdaa5d0
-https://cwtvbk.cdnwatchlabs.io/dash/channels/espn5/index.mpd
-
-#EXTINF:-1 tvg-id="ESPN 6.br" tvg-logo="https://i.ibb.co.com/NpXGMH7/espn6.png" group-title="Olahraga 1", ESPN 6 🇧🇷
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c40d13b350ff4f91af87e5ea8ae6b2eb:c705f41b761388f5be23dd697eec9628
-https://cwtvbk.cdnwatchlabs.io/dash/channels/espn6/index.mpd
-
 #EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="Olahraga 1", ESPN 🇨🇴
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
