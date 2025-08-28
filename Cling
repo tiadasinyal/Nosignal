@@ -44,12 +44,12 @@ https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://fhlsport121.fgs37g8.xyz/token-LE95mOLFfaSGuWMuwvY6nj%2FRlJqDhnjjPSSrxfQfFjT047OXHUFdD44vrRRBWU9JBCeIwTxlkv4%3Da/cfall/s2001/v3b/qn58n2n4nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_611757.m3u8
 
-#EXTINF:-1 tvg-id="LIVE 5.sg" group-title="LIVE EVENT" tvg-logo="https://rilis.id/image/2025/07/076ExDH1r_logopialaaffu23.png",AFF U23
+#EXTINF:-1 tvg-id="LIVE 5.sg" group-title="LIVE EVENT" tvg-logo="https://www.badmintonparis2025.com/medias/articles/desktop-picture-20241018090704.jpg",BWF Paris Open 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-#EXTINF:-1  group-title="LIVE EVENT" tvg-logo="https://rilis.id/image/2025/07/076ExDH1r_logopialaaffu23.png",AFF U23
+#EXTINF:-1  group-title="LIVE EVENT" tvg-logo="https://www.badmintonparis2025.com/medias/articles/desktop-picture-20241018090704.jpg",BWF Paris Open 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
@@ -60,10 +60,10 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF  1
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF  1
 https://aae3e8111b7e62fa97499a11d53fc80a.v.smtcdns.net/play.cbalive.weibisai.com/live/3989468185621061_AiHD.m3u8?txSecret=7918c9c7427128020167a4b8d6d8f206&txTime=68AD3F50
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF  1
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF  1
 https://v4-15ff02a6a92b215bcd25dc26d4be48bc.livehwc4.com/pull-prod511.zczlxxkj.com/live/8466250_lud.m3u8?sub_m3u8=true&user_session_id=aa5c298077d2313073b86a58162c677b&auth_info=TDCx4XW%2FjHJIoQaz4ydi6xuBAahDCEdM5VGdRaKnJF9w2I62fg7ziVSv3OYal02f.696b66616377485a7435394f65364157&edge_slice=true
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 2
@@ -72,10 +72,10 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 2
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 2
 https://ecfc3cde48e2bb818cde2ffa8262e58d.v.smtcdns.net/play.cbalive.weibisai.com/live/3989468390466061_AiHD.m3u8?txSecret=7c337475b82cc1a512fdcb484e77f1bf&txTime=68AD3F50
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 2
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 2
 https://v4-15ff02a6a92b215bcd25dc26d4be48bc.livehwc4.com/pullhw.zhaoyangyang.cn/live/8821866_lud.m3u8?user_session_id=78614c885210f91e90b28b777c16e21d&auth_info=U6BHFU%2F%2BVShl8RZyvZAjfZsLGgvrhv9KvUhgECk44Pmr7vvwloXAc6duz%2F3w0AA8.316e41507943586a41367847695a724e&sub_m3u8=true&edge_slice=true
 
 
