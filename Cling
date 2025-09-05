@@ -40,6 +40,12 @@ https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn1-production-images-kly.akamaized.net/k_IXNhEefd-D9ly3W2KXHW7FzS4=/1x250:1080x858/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4610061/original/098944100_1697206423-Timnas_Indonesia_-_Kerasnya_Persaingan_Kualifikasi_Piala_Duniapsd_copy.jpg",TIMNAS INDONESIA VS Taipei
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbdeef219aff3d45955873788eca403e:2fa691b352b107152083ca3cf8244b0b
+https://d7pd9oqdl4d44.cloudfront.net/2025_09_04_14_42_58_1621ba90-af7f-49d6-be13-efa07d52c2cf/PROD_CMAF_CENC/index-dash.mpd
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BARCA VS DaeguFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://fhlsport121.fgs37g8.xyz/token-LE95mOLFfaSGuWMuwvY6nj%2FRlJqDhnjjPSSrxfQfFjT047OXHUFdD44vrRRBWU9JBCeIwTxlkv4%3Da/cfall/s2001/v3b/qn58n2n4nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_611757.m3u8
