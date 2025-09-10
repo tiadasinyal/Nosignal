@@ -54,10 +54,7 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-
 https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF  1
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/ikotv/2028336801.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF  1
-https://6016c12814103e2553f354492d71134e.v.smtcdns.net/play1nm.hnyongshun.cn/live/0ea59dfe4a85d072e45fc23a2df5932b.m3u8?txSecret=11da3b87e647d82d278359f33672d942&txTime=68bfb6ce
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/4000629344116061_AiHD.m3u8?txSecret=53c596cb6d394372284591ec48ee1251&txTime=68C202F0
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -66,20 +63,13 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 2
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/ikotv/2028338401.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 2
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play1nm.hnyongshun.cn/live/31f32bd6811bbe4749041b29949f5577.m3u8?txSecret=de5c8b8bcad4f1991780516cf28152df&txTime=68bfb789
-
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/4000629499465061_AiHD.m3u8?txSecret=3fe099e9e2cdc2b2887163e56cb0c19b&txTime=68C202F0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 3
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/ikotv/2028338501.m3u8
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/4000629631252061_AiHD.m3u8?txSecret=0f1d00c801cb6d3b12111ccb52eb91aa&txTime=68C202F0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 4
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/ikotv/2028338601.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 4
-https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play1nm.hnyongshun.cn/live/c0254ea178dbb884b4787e3cde5a2577.m3u8?txSecret=811ef1b3a0947d3f4e1489455d0b8dc7&txTime=68bfc329
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/4000629783901061_AiHD.m3u8?txSecret=fa4157f002d5e93f05549eb96e709bd3&txTime=68C202F0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
