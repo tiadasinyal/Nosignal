@@ -2699,10 +2699,19 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 ####https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(vc1021n07j)/master_2min.mpd
 
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-name="USA Network HDTV (East) (USAHD)" tvg-logo="" group-title="Olahraga 1",USA Network EAST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?043ba1b4a2823fc4a6033178f3560431&key=684358d80874b55f9335c73126e4d44e
+#KODIPROP:inputstream.adaptive.license_key=043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-name="USA Network HDTV (East) (USAHD)" tvg-logo="" group-title="Olahraga 1",USA Network West
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 tvg-id="NBC Sports Boston.us"  tvg-logo="https://i.ibb.co.com/T4dqdwR/nbcsp.png" group-title="Olahraga 1" ,  NBC SPORTS 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
