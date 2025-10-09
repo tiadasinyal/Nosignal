@@ -4422,26 +4422,24 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_key=https://mastertv.tech/mastertv/topxxxxxxxxxx.php
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+##https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://cdn.urfan.id/logo/sportstars3.png",Sportstars 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mastertv.tech/mastertv/topxxxxxxxxxx.php
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 
+#EXTINF:0 tvg-id="SS4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sportstars_4.png/640px-Sportstars_4.png" group-title="Olahraga 2",Sportstars 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 
 #EXTINF:0 tvg-id="SS4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sportstars_4.png/640px-Sportstars_4.png" group-title="Olahraga 2",Sportstars 4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
 #EXTINF:-1 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="Olahraga 2",Soccer Channel
@@ -4802,24 +4800,42 @@ https://tataplay.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8
 EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" tvg-id="sony-ten-5" tvg-name="Sony Sports Ten 5" , Sony Sports Ten 5
 https://tataplay.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8
 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD.in" tvg-logo="https://i.ibb.co.com/WxTTWtf/sonyten1.png" group-title="Olahraga 2", SONY SPORTS TEN 1 🇮🇳
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="Olahraga 2", SONY SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"7LiPAOUPZDMxI8eKR+p10A", "kid":"bnlM7DO+NG20VEGEwLZ9xg" }], "type":"temporary" }
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD.in" tvg-logo="https://i.ibb.co.com/yg0dPw7/sonyten2.png" group-title="Olahraga 2", SONY SPORTS TEN 2 🇮🇳
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="Olahraga 2", SONY SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"jAD2xTfkuHuvXWp9yYLkCQ", "kid":"N5A0RBI1N3ibSSX3niG21w" }], "type":"temporary" }
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD.in" tvg-logo="https://i.ibb.co.com/yXL2Kf8/sonyten3.png" group-title="Olahraga 2", SONY SPORTS TEN 3 🇮🇳
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="Olahraga 2", SONY SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"uyyZ12Txe3COfN1YeFNbTg", "kid":"7C0pjMWUPb+y_Rt11UxMmg" }], "type":"temporary" }
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 4 HD.in" tvg-logo="https://i.ibb.co.com/jZb3FYV/sonyten4.png" group-title="Olahraga 2", SONY SPORTS TEN 4 🇮🇳
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png" group-title="Olahraga 2", SONY SPORTS 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"wsWgKR28UltSdKbH08qaGA", "kid":"na_wVhrENBetPnW4mwjuNA" }], "type":"temporary" }
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" tvg-logo="https://i.ibb.co.com/3fFbkYj/sonyten5.png" group-title="Olahraga 2", SONY SPORTS TEN 5 🇮🇳
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png" group-title="Olahraga 2", SONY SPORTS 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"_iDkeNcdZ8JIxng3tGkhGA", "kid":"qgzEgKMWN7yoe87Vo848dQ" }], "type":"temporary" }
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://i.ytimg.com/vi/tyeszANVosw/maxresdefault.jpg", LaLiga TV 🇬🇧
@@ -5222,8 +5238,99 @@ https://jmp2.uk/sam-GB26000118T.m3u8
 
 ###dazn alternatif,https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-520/stream.mpd
 
+#EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
+https://bit.ly/DY_DAZN_PT_1
 
+#EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
+https://bit.ly/DY_DAZN_PT_2
 
+#EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
+https://bit.ly/DY_DAZN_PT_3
+
+#EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
+https://bit.ly/DY_DAZN_PT_4
+
+#EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
+https://bit.ly/DY_DAZN_PT_5
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="Olahraga 2", BEIN SPORTS 1 EN
+https://bit.ly/DY_BEINSPORTS1EN
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="Olahraga 2", BEIN SPORTS 2 EN
+https://bit.ly/DY_BEINSPORTS2EN
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="Olahraga 2", BEIN SPORTS 1
+https://bit.ly/DY_BEINSPORTS1
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="Olahraga 2", BEIN SPORTS 2
+https://bit.ly/DY_BEINSPORTS2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="Olahraga 2", BEIN SPORTS 3
+https://bit.ly/DY_BEINSPORTS3
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="Olahraga 2", BEIN SPORTS 4
+https://bit.ly/DY_BEINSPORTS4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="Olahraga 2", BEIN SPORTS 5
+https://bit.ly/DY_BEINSPORTS5
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="Olahraga 2", BEIN SPORTS 6
+https://bit.ly/DY_BEINSPORTS6
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="Olahraga 2", BEIN SPORTS 7
+https://bit.ly/DY_BEINSPORTS7
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="Olahraga 2", BEIN SPORTS 8
+https://bit.ly/DY_BEINSPORTS8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="Olahraga 2", BEIN SPORTS 9
+https://bit.ly/DY_BEINSPORTS9
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="Olahraga 2", ID: BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="Olahraga 2", ASTRO GRANDSTAND
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="Olahraga 2", ASTRO GRANDSTAND
+https://bit.ly/DY_ASTROGRANDSTAND
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="Olahraga 2", ASTRO PREMIER LEAGUE
+https://bit.ly/DY_ASTROPREMIERLEAGUE
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="Olahraga 2", ASTRO PREMIER LEAGUE 2
+https://bit.ly/DY_ASTROPREMIERLEAGUE2
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="Olahraga 2", ASTRO FOOTBALL
+https://bit.ly/DY_ASTROFOOTBALL
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="Olahraga 2", UK: SKY SPORTS MAIN EVENT
+https://bit.ly/DY_SKYSPORTSMAINEVENT
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="Olahraga 2", UK: SKY SPORTS PREMIER LEAGUE
+https://bit.ly/DY_SKYSPORTSPREMLEAGUE
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="Olahraga 2", UK: SKY SPORTS FOOTBALL
+https://bit.ly/DY_SKYSPORTSFOOTBALL
+
+#EXTINF:-1 group-title="Olahraga 2" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
+https://bit.ly/DY_SKYSPORTSF1
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="Olahraga 2", CCTV 5+
+http://smart.cityq.xyz:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=20241&tsum=61c5791ef7caa6174ca8935662423098
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="Olahraga 2", CCTV 16
+http://smart.cityq.xyz:8278/cctv16/playlist.m3u8?tid=MEAE5753509557535095&ct=20241&tsum=0100e5f18715743c267a04fd5efa2920
 
 #EXTINF:-1 tvg-ID="" tvg-name=""  tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-1-sa.png" group-title="Olahraga 2" ,SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
