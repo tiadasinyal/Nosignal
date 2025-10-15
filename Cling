@@ -136,7 +136,7 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-
 https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF  1
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/4000629344116061_AiHD.m3u8?txSecret=53c596cb6d394372284591ec48ee1251&txTime=68C202F0
+https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com/live/4030021968519061_AiHD.m3u8?txSecret=7ded9fb914ced414c874480fc87355ef&txTime=68F07BD0
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF Court 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -145,13 +145,13 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 2
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/4000629499465061_AiHD.m3u8?txSecret=3fe099e9e2cdc2b2887163e56cb0c19b&txTime=68C202F0
+https://b414242ef41ad30e8c2963221cbfa0c3.v.smtcdns.net/play.cbalive.weibisai.com/live/4030022159162061_AiHD.m3u8?txSecret=ee98fc49b91a144dcb34e2284da20b4d&txTime=68F07BD0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 3
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/4000629631252061_AiHD.m3u8?txSecret=0f1d00c801cb6d3b12111ccb52eb91aa&txTime=68C202F0
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4030022543927061_AiHD.m3u8?txSecret=f5a8c3194fc1f151acd19b9433195f4f&txTime=68F07BD0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LIVE EVENT", BWF 4
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/4000629783901061_AiHD.m3u8?txSecret=fa4157f002d5e93f05549eb96e709bd3&txTime=68C202F0
+#https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/4000629783901061_AiHD.m3u8?txSecret=fa4157f002d5e93f05549eb96e709bd3&txTime=68C202F0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
