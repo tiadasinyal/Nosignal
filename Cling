@@ -4834,9 +4834,6 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="Olahraga 2", AstroBadminton2
-https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="Olahraga 2",SuperSport 1
 https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
 
@@ -5301,8 +5298,11 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="Olahraga 2", ASTRO GRANDSTAND
-https://bit.ly/DY_ASTROGRANDSTAND
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="Olahraga 2", AstroBadminton
+https://wahyu1ptv.pages.dev/AstroBadminton1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="Olahraga 2", AstroBadminton 2
+https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="Olahraga 2", ASTRO PREMIER LEAGUE
 https://bit.ly/DY_ASTROPREMIERLEAGUE
