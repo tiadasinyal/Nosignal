@@ -4164,27 +4164,27 @@ https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
 
 ########################## Olahraga 2 ##########################
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU" group-title="Olahraga 2",TNT Sports 1
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-logo="https://i.pinimg.com/736x/55/6c/67/556c6711116f1395cabfc62edf61c55b.jpg" group-title="Olahraga 2",TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="TNT Sports 2.uk" tvg-logo="https://i.ibb.co.com/ftMYw1j/tntsp2.png",TNT SPORTS 2 🇬🇧
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="TNT Sports 2.uk" tvg-logo="https://i.pinimg.com/736x/55/6c/67/556c6711116f1395cabfc62edf61c55b.jpg",TNT SPORTS 2 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9efa8287a52a2497a281f7a9012211:e4f832d372943014fe5c30928a90e547
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="TNT Sports 3.uk" tvg-logo="https://i.ibb.co.com/sQwLrNy/tntsp3.png",TNT SPORTS 3 🇬🇧
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="TNT Sports 3.uk" tvg-logo="https://i.pinimg.com/736x/55/6c/67/556c6711116f1395cabfc62edf61c55b.jpg",TNT SPORTS 3 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=08efc7fb107981608f7b64db5ea62469:3a6844bc9f0d9d9fd962639d7e4eb76a
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="TNT Sports 4.uk" tvg-logo="https://i.ibb.co.com/cwc9MzW/tntsp4.png",TNT SPORTS 4 🇬🇧
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="TNT Sports 4.uk" tvg-logo="https://i.pinimg.com/736x/55/6c/67/556c6711116f1395cabfc62edf61c55b.jpg",TNT SPORTS 4 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ccdccf0818d3d9ff6c26076fc1153ac:f8d7fda7e3f11a29b346a37e98f749d4
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="TNT Sports 5.uk" tvg-logo="https://i.ibb.co.com/z7Vg6tQ/tntsp5.png",TNT SPORTS 5 🇬🇧
+#EXTINF:-1 group-title="Olahraga 2" tvg-id="TNT Sports 5.uk" tvg-logo="https://i.pinimg.com/736x/55/6c/67/556c6711116f1395cabfc62edf61c55b.jpg",TNT SPORTS 5 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 #https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
@@ -4867,25 +4867,25 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport2.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports3.sg" tvg-name="SG | Hub Sports 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-3.png" group-title="Olahraga 2", Hub Sports 3
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport3.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports4.sg" tvg-name="SG | Hub Sports 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-4.png" group-title="🔴SPORT VIP", Hub Sports 4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports4.sg" tvg-name="SG | Hub Sports 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-4.png" group-title="Olahraga 2", Hub Sports 4
 http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/501590
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports5.sg" tvg-name="SG | Hub Sports 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-5.png" group-title="🔴SPORT VIP", Hub Sports 5
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports5.sg" tvg-name="SG | Hub Sports 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-5.png" group-title="Olahraga 2", Hub Sports 5
 http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/501589
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="🔴SPORT VIP",Hub Premier 1 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="Olahraga 2",Hub Premier 1 FHD
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="🔴SPORT VIP",Hub Premier 2 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="Olahraga 2",Hub Premier 2 FHD
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" group-title="🔴SPORT VIP",Hub Premier 3 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" group-title="Olahraga 2",Hub Premier 3 FHD
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL3.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" group-title="🔴SPORT VIP",Hub Premier 4 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" group-title="Olahraga 2",Hub Premier 4 FHD
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="🔴SPORT VIP",Hub Premier 5 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="Olahraga 2",Hub Premier 5 FHD
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="Olahraga 2",Now Sports 1
@@ -7694,46 +7694,46 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63426f3ed940521074b
 
 
 
-======================VOD MOVIE HOROR 2025======================================
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" group-logo="https://s.kaskus.id/images/2019/01/15/1099326_20190115020636.jpg" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/iD0iWNrqlfffm81BKP5IGzrMofq-152x228.jpg",Waktu Maghrib 2 (2025)
+======================VOD Movie Horor 2025======================================
+#EXTINF:-1 group-title="VOD Movie Horor 2025" group-logo="https://s.kaskus.id/images/2019/01/15/1099326_20190115020636.jpg" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/iD0iWNrqlfffm81BKP5IGzrMofq-152x228.jpg",Waktu Maghrib 2 (2025)
 https://playerngefilm21.rpmlive.online/hls/zGGIpd8x_PqEvGti7wB_Rg/pp/6sprig6z/czjvag/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/8OFtlBJxQetafD8ZXaTtqlEp352-152x228.jpg",Keluarga Super Irit (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/8OFtlBJxQetafD8ZXaTtqlEp352-152x228.jpg",Keluarga Super Irit (2025)
 https://playerngefilm21.rpmlive.online/hls/oVnYpx6YEkGOG5_Qr1pxmQ/ck/6sprig6z/xsfgj5/tt/index-f1-v1-a1.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/dfsyhvGdOMs5FbA3mgEwSgaqC4a-152x228.jpg",Gowok: Javanese Kamasutra (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/dfsyhvGdOMs5FbA3mgEwSgaqC4a-152x228.jpg",Gowok: Javanese Kamasutra (2025)
 https://playerngefilm21.rpmlive.online/hls/z9o2gM69UHwhbyVF9EtNJA/np/qt5y8p1c/vbo65f/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/eichIZLd7e9AgYltckEwWgrFQcq-152x228.jpg",Dendam Malam Kelam (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/eichIZLd7e9AgYltckEwWgrFQcq-152x228.jpg",Dendam Malam Kelam (2025)
 https://playerngefilm21.rpmlive.online/hls/2rRhWXn58qKUi_-rI_JS9w/3vi/qt5y8p1c/gltfni/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/x1mSlLW4pkfPGcya9xXYGLFhrXZ-152x228.jpg",Pembantaian Dukun Santet (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/x1mSlLW4pkfPGcya9xXYGLFhrXZ-152x228.jpg",Pembantaian Dukun Santet (2025)
 https://playerngefilm21.rpmlive.online/hls/rf-dscZqhjRTf8ElIuZ14A/s93/qt5y8p1c/vburif/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/cueny6yXHv2BXSjvIO1wKr4WJU2-152x228.jpg",Sampai Jumpa, Selamat Tinggal (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/cueny6yXHv2BXSjvIO1wKr4WJU2-152x228.jpg",Sampai Jumpa, Selamat Tinggal (2025)
 https://playerngefilm21.rpmlive.online/hls/NzhSufSmCQq7Pc5I3YSPJg/np/sku8pvep/8wgb3n/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/31HRhQyllgSRGU7M9xHBKWRsY5F-152x228.jpg",Utusan Iblis: Dia Yang Berada di Antara Kita (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/31HRhQyllgSRGU7M9xHBKWRsY5F-152x228.jpg",Utusan Iblis: Dia Yang Berada di Antara Kita (2025)
 https://playerngefilm21.rpmlive.online/hls/XUduEXQmr1FAqVGmJF3WvQ/ox/h9kqslgi/ikqqqz/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/v9Z2ilf5G61tknc8AIfjJWQtzt8-152x228.jpg",Godaan Setan Yang Terkutuk (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/v9Z2ilf5G61tknc8AIfjJWQtzt8-152x228.jpg",Godaan Setan Yang Terkutuk (2025)
 https://playerngefilm21.rpmlive.online/hls/44Yu7LEqOS6uCRssQFDieg/luy/h9kqslgi/69jup9/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/bi7e8dhSlHvi5AdrwJDMw0GqN1w-152x228.jpg",Gundik (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/bi7e8dhSlHvi5AdrwJDMw0GqN1w-152x228.jpg",Gundik (2025)
 https://playerngefilm21.rpmlive.online/hls/GGqV-KVMxQSKOiIL8NiCAA/mik/h9kqslgi/ho8h6y/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/7yQhm9SYZ6FXpc88VjdLYKALZD9-152x228.jpg",Angkara Murka (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/7yQhm9SYZ6FXpc88VjdLYKALZD9-152x228.jpg",Angkara Murka (2025)
 https://playerngefilm21.rpmlive.online/hls/ENVFjtQpi3t8kGxMxOkdVQ/s93/85vbczxn/iku9mm/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/6HiAwrnFUTqxQeY700GJ7trtVvE-152x228.jpg",Qodrat 2 (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/6HiAwrnFUTqxQeY700GJ7trtVvE-152x228.jpg",Qodrat 2 (2025)
 https://playerngefilm21.rpmlive.online/hls/t0Dg3QYvzstheQ-8hcBI4w/mik/85vbczxn/vbxydu/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/AvT3GUVHbdf5ai3ZPLV6L4r7Rzg-152x228.jpg",Sayap-Sayap Patah 2: Olivia (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/AvT3GUVHbdf5ai3ZPLV6L4r7Rzg-152x228.jpg",Sayap-Sayap Patah 2: Olivia (2025)
 https://playerngefilm21.rpmlive.online/hls/iUakkgGiukbOckxCYWXs7A/djx/nc31j51c/8a8uff/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/ulKWRfIn4okrZTNgFFLaayAYcEX-152x228.jpg",Dasim (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/ulKWRfIn4okrZTNgFFLaayAYcEX-152x228.jpg",Dasim (2025)
 https://playerngefilm21.rpmlive.online/hls/Fg63hXXeyjjsKZOR2EeGcw/3vi/nc31j51c/5f5uxg/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/jM3GDA1ULTujSkbMVShVpL0rYLP-152x228.jpg",Tabayyun (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/jM3GDA1ULTujSkbMVShVpL0rYLP-152x228.jpg",Tabayyun (2025)
 https://playerngefilm21.rpmlive.online/hls/Uo5uG3E-iY7ED2rJS_WUEA/8q/r8cznln3/9ng83o/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/sBANlmgOdrCEYMeXJLyh3qJ6URn-152x228.webp",Perang Kota (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/sBANlmgOdrCEYMeXJLyh3qJ6URn-152x228.webp",Perang Kota (2025)
 https://playerngefilm21.rpmlive.online/hls/Z27x-x5hID0rwKEDyxFUaw/hld/xieumls5/qvialp/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/dPyw0j7oD7ihYCROgYFRpv8ywv1-152x228.jpg",Rumah Untuk Alie (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/dPyw0j7oD7ihYCROgYFRpv8ywv1-152x228.jpg",Rumah Untuk Alie (2025)
 https://playerngefilm21.rpmlive.online/hls/XxeZ58UymdlB-V0Ysqjx6A/epu/xieumls5/qv6uu5/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/tx2toda5HijndqRZXDuoGkSud8L-152x228.webp",Pengepungan di Bukit Duri (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/tx2toda5HijndqRZXDuoGkSud8L-152x228.webp",Pengepungan di Bukit Duri (2025)
 https://playerngefilm21.rpmlive.online/hls/JP8Hvgw4citq_s_ezO_tKg/gee/dq8wrwe6/t1bvkc/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/oEWtL2Rr5AuufFq57BjB7YZvLKv-152x228.jpg",Norma: Antara Mertua dan Menantu (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/oEWtL2Rr5AuufFq57BjB7YZvLKv-152x228.jpg",Norma: Antara Mertua dan Menantu (2025)
 https://playerngefilm21.rpmlive.online/hls/rpFguSvta9B7bG7YZoVZ_Q/hld/iplnen83/pdn3sh/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/nwmR5EL5m8tcPBud6OwUyt8p5z1-152x228.jpg",Pabrik Gula (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/nwmR5EL5m8tcPBud6OwUyt8p5z1-152x228.jpg",Pabrik Gula (2025)
 https://playerngefilm21.rpmlive.online/hls/hVnlyw6QwrBYWf4Y3sG5vw/mik/mehogopx/8atdxm/tt/index-f1-v1-a1.m3u8?v=1758651105
-#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/07/2RWweAPdSSFzsCtxvjydldneUM6-152x228.jpg",Komang (2025)
+#EXTINF:-1 group-title="VOD Movie Horor 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/07/2RWweAPdSSFzsCtxvjydldneUM6-152x228.jpg",Komang (2025)
 https://playerngefilm21.rpmlive.online/hls/0nesXSXISbAj8lkHZzip7Q/sc/v1fiafnev/vftxwd/tt/master.m3u8?v=1758651105
 
 ======================VOD MOVIE 2024======================================
