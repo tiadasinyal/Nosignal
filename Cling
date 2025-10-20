@@ -4166,23 +4166,23 @@ https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU" group-title="Olahraga 2",TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-#https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="TNT Sports 2.uk" tvg-logo="https://i.ibb.co.com/ftMYw1j/tntsp2.png",TNT SPORTS 2 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-#https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0d9efa8287a52a2497a281f7a9012211:e4f832d372943014fe5c30928a90e547
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="TNT Sports 3.uk" tvg-logo="https://i.ibb.co.com/sQwLrNy/tntsp3.png",TNT SPORTS 3 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-#https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=08efc7fb107981608f7b64db5ea62469:3a6844bc9f0d9d9fd962639d7e4eb76a
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="TNT Sports 4.uk" tvg-logo="https://i.ibb.co.com/cwc9MzW/tntsp4.png",TNT SPORTS 4 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-#https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5ccdccf0818d3d9ff6c26076fc1153ac:f8d7fda7e3f11a29b346a37e98f749d4
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="TNT Sports 5.uk" tvg-logo="https://i.ibb.co.com/z7Vg6tQ/tntsp5.png",TNT SPORTS 5 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4201,29 +4201,28 @@ https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-https://abfir3paaaaaaaamhjoygqo7c66dt.ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/xv6agajweg/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
+#https://abfir3paaaaaaaamhjoygqo7c66dt.ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/xv6agajweg/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/55/6c/67/556c6711116f1395cabfc62edf61c55b.jpg" group-title="Olahraga 2",TNT Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/55/6c/67/556c6711116f1395cabfc62edf61c55b.jpg" group-title="Olahraga 2",TNT Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/55/6c/67/556c6711116f1395cabfc62edf61c55b.jpg" group-title="Olahraga 2",TNT Sports 4 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="btsport5.uk" tvg-logo="https://i.pinimg.com/736x/55/6c/67/556c6711116f1395cabfc62edf61c55b.jpg",TNT Sports 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4248,12 +4247,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/91
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #https://uselector.cdn.intigral-ott.net:443/STC/STC.isml/manifest.mpd
 
-
-
-#EXTINF:-1 group-title="Olahraga 2" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
-#EXTVLCOPT:http-referrer=https://dens.tv/
-https://stream.urfan.id/tvrisport
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -4506,6 +4499,37 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="Olahraga 2", Juara 1 BU
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=6685&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="Olahraga 2", Juara 2 BU
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=17939&type=drm 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=17939&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="Olahraga 2", Juara 3 BU
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=6786&type=drm 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="Olahraga 2", Juara 5 BU
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=drm 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="Olahraga 2", Juara 6 BU
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=drm 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
+
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lcANT3yiJsmLoqJq5Ck_nCAbL4w=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-c968f8.jpg" group-title="Olahraga 2",Golf 1
@@ -4833,6 +4857,65 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports1.sg" tvg-name="SG | Hub Sports 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-1.png" group-title="Olahraga 2", Hub Sports 1
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport1.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports2.sg" tvg-name="SG | Hub Sports 2" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" group-title="Olahraga 2",  Hub Sports 2
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport2.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports3.sg" tvg-name="SG | Hub Sports 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-3.png" group-title="Olahraga 2", Hub Sports 3
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport3.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports4.sg" tvg-name="SG | Hub Sports 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-4.png" group-title="🔴SPORT VIP", Hub Sports 4
+http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/501590
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports5.sg" tvg-name="SG | Hub Sports 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-5.png" group-title="🔴SPORT VIP", Hub Sports 5
+http://websafety101.net:5050/wskjuice@yahoo.com/He6sruJe5B/501589
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="🔴SPORT VIP",Hub Premier 1 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="🔴SPORT VIP",Hub Premier 2 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" group-title="🔴SPORT VIP",Hub Premier 3 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL3.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" group-title="🔴SPORT VIP",Hub Premier 4 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="🔴SPORT VIP",Hub Premier 5 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="Olahraga 2",Now Sports 1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/nowsports1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305" group-title="Olahraga 2",Now Sports 2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/nowsports2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305" group-title="Olahraga 2",Now Sports 3
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/nowsports3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305" group-title="Olahraga 2",Now Sports 4
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/nowsports4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_425_305" group-title="Olahraga 2",Now Sports 5
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/nowsports5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305" group-title="Olahraga 2",Now Sports 6
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/nowsports6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305" group-title="Olahraga 2",Now Sports 7
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/nowsports7.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="Olahraga 2",SuperSport 1
 https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
@@ -5352,6 +5435,7 @@ http://smart.cityq.xyz:8278/cctv16/playlist.m3u8?tid=MEAE5753509557535095&ct=202
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
   
 #EXTINF:-1 tvg-ID="" tvg-name=""  tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-2-sa.png" group-title="Olahraga 2" ,SSC 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6020,41 +6104,58 @@ https://lb2-e1-81.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="Movies",HBO Hits
+#EXTINF:0 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Movies",HBO TRV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:0 tvg-id="414.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="Movies",HBO Family
+
+#EXTINF:-1 group-title="Movies" tvg-id="hbohitsasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/n7pewdemieoz3zbs39tbx/hbohits.png?rlkey=e748k2slpje7h5xy2q9pos5a3&dl=0", HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="Movies",HBO Signature
+
+#EXTINF:-1 group-title="Movies" tvg-id="hbofamilyasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/huvb654fboyfnebvnzghn/hbo_family.png?rlkey=sr0deor1pxp0bxgm3x6wve1cz&dl=0",HBO family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" group-title="Movies",Cinemax
+#EXTINF:-1 group-title="Movies" tvg-id="hbosignatureasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/rpfe8l6bizfcn3hkvkow6/hbo-signature.png?rlkey=dano4jnm0214i6163flo4akb6&dl=0",HBO Signature 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+
+#EXTINF:-1 group-title="Movies" tvg-id="cinemaxasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/zsbacg5t7lorej9vx5lsa/Cinemax-hometv.png?rlkey=pe3s86fk2p7k4q9w0eoij7jzl&dl=0",CINEMAX 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b3/TAP_Action_Flix_Logo_2021.png" group-title="Movies",Tap Action Flix
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
 #EXTINF:-1 tvg-id="HBO" group-logo="https://c8.alamy.com/comp/2P82968/cinema-movie-time-3d-vector-directors-chair-camera-lighting-and-megaphone-2P82968.jpg" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfguXCrrRxsqWxVxUqe-SEEv-mhg9ehi0Rw&s" group-title="Movies",HBO-DT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -6357,6 +6458,19 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212
 https://uselector.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/8kWnyqn.png",STAR MOVIES
+https://live.dinesh29.com.np/stream/jiotvplus/starmovies/master.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Dpu3pd2.png",STAR MOVIES SELECT
+https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselect/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjTnP9vP/images-2.jpg" group-title="Movies",STAR GOLD SELECT
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldselect/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkmjtWyt/images-3.jpg" group-title="Movies",STAR GOLD THRILLS
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
+
 
 #EXTINF:-1 tvg-name="arab" group-logo="" tvg-logo="" group-title="Movies",STAR Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7578,11 +7692,55 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62038b3ed9405210749
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rOjEp/rhGUgVrTb1hHvoXA","kid":"/dEg8ce598a5m2Ym3cH9FA"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63426f3ed940521074b740d4_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
+
+
+======================VOD MOVIE HOROR 2025======================================
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" group-logo="https://s.kaskus.id/images/2019/01/15/1099326_20190115020636.jpg" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/iD0iWNrqlfffm81BKP5IGzrMofq-152x228.jpg",Waktu Maghrib 2 (2025)
+https://playerngefilm21.rpmlive.online/hls/zGGIpd8x_PqEvGti7wB_Rg/pp/6sprig6z/czjvag/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/8OFtlBJxQetafD8ZXaTtqlEp352-152x228.jpg",Keluarga Super Irit (2025)
+https://playerngefilm21.rpmlive.online/hls/oVnYpx6YEkGOG5_Qr1pxmQ/ck/6sprig6z/xsfgj5/tt/index-f1-v1-a1.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/dfsyhvGdOMs5FbA3mgEwSgaqC4a-152x228.jpg",Gowok: Javanese Kamasutra (2025)
+https://playerngefilm21.rpmlive.online/hls/z9o2gM69UHwhbyVF9EtNJA/np/qt5y8p1c/vbo65f/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/eichIZLd7e9AgYltckEwWgrFQcq-152x228.jpg",Dendam Malam Kelam (2025)
+https://playerngefilm21.rpmlive.online/hls/2rRhWXn58qKUi_-rI_JS9w/3vi/qt5y8p1c/gltfni/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/x1mSlLW4pkfPGcya9xXYGLFhrXZ-152x228.jpg",Pembantaian Dukun Santet (2025)
+https://playerngefilm21.rpmlive.online/hls/rf-dscZqhjRTf8ElIuZ14A/s93/qt5y8p1c/vburif/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/cueny6yXHv2BXSjvIO1wKr4WJU2-152x228.jpg",Sampai Jumpa, Selamat Tinggal (2025)
+https://playerngefilm21.rpmlive.online/hls/NzhSufSmCQq7Pc5I3YSPJg/np/sku8pvep/8wgb3n/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/31HRhQyllgSRGU7M9xHBKWRsY5F-152x228.jpg",Utusan Iblis: Dia Yang Berada di Antara Kita (2025)
+https://playerngefilm21.rpmlive.online/hls/XUduEXQmr1FAqVGmJF3WvQ/ox/h9kqslgi/ikqqqz/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/v9Z2ilf5G61tknc8AIfjJWQtzt8-152x228.jpg",Godaan Setan Yang Terkutuk (2025)
+https://playerngefilm21.rpmlive.online/hls/44Yu7LEqOS6uCRssQFDieg/luy/h9kqslgi/69jup9/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/bi7e8dhSlHvi5AdrwJDMw0GqN1w-152x228.jpg",Gundik (2025)
+https://playerngefilm21.rpmlive.online/hls/GGqV-KVMxQSKOiIL8NiCAA/mik/h9kqslgi/ho8h6y/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/7yQhm9SYZ6FXpc88VjdLYKALZD9-152x228.jpg",Angkara Murka (2025)
+https://playerngefilm21.rpmlive.online/hls/ENVFjtQpi3t8kGxMxOkdVQ/s93/85vbczxn/iku9mm/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/6HiAwrnFUTqxQeY700GJ7trtVvE-152x228.jpg",Qodrat 2 (2025)
+https://playerngefilm21.rpmlive.online/hls/t0Dg3QYvzstheQ-8hcBI4w/mik/85vbczxn/vbxydu/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/AvT3GUVHbdf5ai3ZPLV6L4r7Rzg-152x228.jpg",Sayap-Sayap Patah 2: Olivia (2025)
+https://playerngefilm21.rpmlive.online/hls/iUakkgGiukbOckxCYWXs7A/djx/nc31j51c/8a8uff/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/ulKWRfIn4okrZTNgFFLaayAYcEX-152x228.jpg",Dasim (2025)
+https://playerngefilm21.rpmlive.online/hls/Fg63hXXeyjjsKZOR2EeGcw/3vi/nc31j51c/5f5uxg/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/jM3GDA1ULTujSkbMVShVpL0rYLP-152x228.jpg",Tabayyun (2025)
+https://playerngefilm21.rpmlive.online/hls/Uo5uG3E-iY7ED2rJS_WUEA/8q/r8cznln3/9ng83o/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/sBANlmgOdrCEYMeXJLyh3qJ6URn-152x228.webp",Perang Kota (2025)
+https://playerngefilm21.rpmlive.online/hls/Z27x-x5hID0rwKEDyxFUaw/hld/xieumls5/qvialp/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/dPyw0j7oD7ihYCROgYFRpv8ywv1-152x228.jpg",Rumah Untuk Alie (2025)
+https://playerngefilm21.rpmlive.online/hls/XxeZ58UymdlB-V0Ysqjx6A/epu/xieumls5/qv6uu5/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/tx2toda5HijndqRZXDuoGkSud8L-152x228.webp",Pengepungan di Bukit Duri (2025)
+https://playerngefilm21.rpmlive.online/hls/JP8Hvgw4citq_s_ezO_tKg/gee/dq8wrwe6/t1bvkc/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/oEWtL2Rr5AuufFq57BjB7YZvLKv-152x228.jpg",Norma: Antara Mertua dan Menantu (2025)
+https://playerngefilm21.rpmlive.online/hls/rpFguSvta9B7bG7YZoVZ_Q/hld/iplnen83/pdn3sh/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/nwmR5EL5m8tcPBud6OwUyt8p5z1-152x228.jpg",Pabrik Gula (2025)
+https://playerngefilm21.rpmlive.online/hls/hVnlyw6QwrBYWf4Y3sG5vw/mik/mehogopx/8atdxm/tt/index-f1-v1-a1.m3u8?v=1758651105
+#EXTINF:-1 group-title="VOD MOVIE HOROR 2025" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/07/2RWweAPdSSFzsCtxvjydldneUM6-152x228.jpg",Komang (2025)
+https://playerngefilm21.rpmlive.online/hls/0nesXSXISbAj8lkHZzip7Q/sc/v1fiafnev/vftxwd/tt/master.m3u8?v=1758651105
+
 ======================VOD MOVIE 2024======================================
 
 #EXTINF:-1 group-title="VOD Movie 2024" group-logo="https://s.kaskus.id/images/2019/01/15/1099326_20190115020636.jpg" tvg-logo="https://i.imgur.com/pK67EmR.png",1.INFO-GABUNG GROUP
 https://dl.dropboxusercontent.com/scl/fi/loibzh31apysr3gtv0qm3/Gabung-GroupTele.mp4?rlkey=vfezlgwrcrz4oyv4puvtf5i0u&st=wkpofibh&dl=0       
-  
+
 #EXTINF:-1 tvg-name="Carry-On" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/sjMN7DRi4sGiledsmllEw5HJjPy.jpg" group-title="VOD Movie 2024", Carry-On
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/07/Carry.On.2024.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Girl Haunts Boy" tvg-logo="https://i0.wp.com/neverstopgrindin.com/wp-content/uploads/2024/12/3sqPy0QzJGEYcpxLaV2w3BJyH04.jpg" group-title="VOD Movie 2024", Girl Haunts Boy
