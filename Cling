@@ -2672,6 +2672,8 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 ####https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(vc1021n07j)/master_2min.mpd
 
+
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8V4iJK-XB-HRo05H6NrwPQqL6Ij4vgCGIQrJQy4wzQfDN2hc7lTBK7CZ&s=10" group-title="Olahraga 1", USA NETWORK  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
@@ -2683,7 +2685,8 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
+
 
 #EXTINF:-1 tvg-id="NBC Sports Boston.us"  tvg-logo="https://i.ibb.co.com/T4dqdwR/nbcsp.png" group-title="Olahraga 1" ,  NBC SPORTS 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
