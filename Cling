@@ -4653,13 +4653,26 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphas
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6717&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=6717&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/?id=6717&type=dash
 
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", group-title="Olahraga 2", NBA Philippines Full HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/s9NDZSK/nbatv.png" group-title="Olahraga 2", NBA TV 🇺🇸 🇲🇽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5cd47bba986b233d3731297cb62fdf9:0d067e22a727ae9f264478f5c2ed903a
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/NBA-HD/default.mpd
+
+#EXTINF:-1 tvg-id="NBA TV.us" tvg-logo="https://i.ibb.co.com/s9NDZSK/nbatv.png" group-title="Olahraga 2", NBA TV 🇺🇸 🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd  
+
+#EXTINF:-1 tvg-id="NBA TV.us" tvg-logo="https://i.ibb.co.com/s9NDZSK/nbatv.png" group-title="Olahraga 2", NBA TV 🇺🇸 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=834ec3cbface4fe992e995a32d35f587:e0a97198d9f2dfcb0a0483cd4b04414b
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 	
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="Olahraga 2" ,Prima Sport 1 
 #EXTVLCOPT:http-referrer=https://hulky116.lokix1.cfd/000/
