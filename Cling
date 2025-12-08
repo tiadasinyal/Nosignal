@@ -6251,6 +6251,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSER00FnJAi_l3_yLNVUkjzNeeFhm0lZp-0tQ&s",&Flix
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
+
 #EXTINF:-1 tvg-id="HBO" group-logo="https://c8.alamy.com/comp/2P82968/cinema-movie-time-3d-vector-directors-chair-camera-lighting-and-megaphone-2P82968.jpg" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfguXCrrRxsqWxVxUqe-SEEv-mhg9ehi0Rw&s" group-title="Movies",HBO-DT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -6531,6 +6534,9 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://i.ibb.co.com/gjngsyf/20241225-200647.jpg",Studio Universal
 https://cdnbal1.indihometv.com/atm/DASH/studiouniversal/manifest.mpd
+
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
