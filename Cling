@@ -618,6 +618,14 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png" group-title="TV National", SindoNews
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Uj3cD2zvKeJV4bBN4Z7SepFf9a58Au2xDNPBsWi4Shi66Kn20X7wVxo&s=10" group-title="TV National" ,SINPO TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
+
 #EXTINF:-1 group-title="TV National" tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/wzccBbC/SMI-TV2023-jpg.jpg",Sukabumi TV
 https://livesubitv.com:5443/LiveApp/streams/cekas123AB.m3u8
 
@@ -671,6 +679,13 @@ https://atemeshield1-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
 #EXTINF:-1 group-title="TV National" tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/1K6Q4RY.png",Indosiar HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
+https://d2tjypxxy769fn.cloudfront.net/out/v1/bb2b6e6606cb417f807fa017c1a2aa7f/index.mpd
+
+#EXTINF:-1 group-title="TV National" tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/1K6Q4RY.png",Indosiar HD
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -681,24 +696,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mediampd/IndosiarHD.mpd
 
-
-#EXTINF:-1 group-title="TV National" tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/1K6Q4RY.png",Indosiar HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
-https://d2tjypxxy769fn.cloudfront.net/out/v1/bb2b6e6606cb417f807fa017c1a2aa7f/index.mpd
-
 #EXTINF:-1 group-title="TV National" tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/1K6Q4RY.png",Indosiar HD DIGITAL
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
-
-
-#EXTINF:-1 group-title="TV National" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/xYtZ3ll.png",SCTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mediampd/SCTVHD.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/xYtZ3ll.png",SCTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -706,6 +706,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mediampd/SCTVHD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+
+#EXTINF:-1 group-title="TV National" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/xYtZ3ll.png",SCTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mediampd/SCTVHD.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/xYtZ3ll.png",SCTV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -746,7 +752,7 @@ http://103.46.10.145:9981/stream/channelid/1687232794?ticket=263AE984B3012396027
 http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 
 
-#EXTINF:-1 group-title="TV National" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/1200px-Mentari_TV.svg.png",Mentari TV
+#EXTINF:-1 group-title="TV National" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mentari_TV_Logo.svg/250px-Mentari_TV_Logo.svg.png",Mentari TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -818,26 +824,24 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #EXTVLCOPT:http-referrer=https://dens.tv/
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
-#EXTINF:-1 group-title="TV National" tvg-id="Jowo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png",Jowo Channel
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+#EXTINF:-1 tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c685910daca60191a8636d706700/9de75a26d8dc40abbe73993699da1a3e.jpg" group-title="TV National" tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id", Jowo TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
-#EXTINF:-1 tvg-id="hanacaraka TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_90.png" group-title="TV National", hanacaraka TV
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=89
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=89
-https://legacy-global-cdn.visionplus.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEIqiNP_vC2rYguT1LCtr-LbfkBWrBiP_poCAVHf9tIwEfVlKMs_AkI4E&s=10" group-title="TV National",Hanacaraka TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd|Referer=https://www.visionplus.id/
 
 
 #EXTINF:-1 group-title="TV National" tvg-id="vtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #https://elitestreamid.xyz/scripts/oxygen.php?id=vtv
 
-#EXTINF:-1 group-title="TV National" tvg-id="vtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=vtv  
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="TV National",VTV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
 
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/k1fXaHe.png",Metro TV
@@ -2628,7 +2632,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 http://whatareyoudoing.ddns.net/corsproxy.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
 
-#EXTINF:-1 tvg-name="MENTARI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/1200px-Mentari_TV.svg.png" group-title="Anak",MENTARI TV
+#EXTINF:-1 tvg-name="MENTARI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mentari_TV_Logo.svg/250px-Mentari_TV_Logo.svg.png" group-title="Anak",MENTARI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
 https://sweet-night-1d1d.worst.workers.dev/?id=8237&type=hls
 
@@ -4493,13 +4497,37 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbg6RNClVzA9EouEpYVdndfdshwLFGphqLWg&s",Sukan TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
+#KODIPROP:network-caching=2000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="Olahraga 2",Juara TV 1
+http://202.169.224.202:8800/udp/239.9.1.9:1234
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
+#KODIPROP:network-caching=2000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg" group-title="Olahraga 2",Juara TV 2
+http://202.169.224.202:8800/udp/239.9.1.10:1234
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
+#KODIPROP:network-caching=2000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg" group-title="Olahraga 2",Juara TV 3
+http://202.169.224.202:8800/udp/239.9.1.11:1234
+
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="Olahraga 2",Juara 1
-https://bitter-boa-67.deno.dev/play.mpd?id=17938&type=dash
+#https://bitter-boa-67.deno.dev/play.mpd?id=17938&type=dash
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/57am7QmrfqIjFvGdg9jikDKOtKI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="Olahraga 2",Juara 2 
@@ -4507,7 +4535,7 @@ https://bitter-boa-67.deno.dev/play.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=6686&type=drm
-https://vidd.semar.my.id/vidreq.php?id=6686&type=dash
+#https://vidd.semar.my.id/vidreq.php?id=6686&type=dash
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/iJMuLDOoWxwxsc7BMjwtBrEowqg=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="Olahraga 2",Juara 3
@@ -4515,21 +4543,21 @@ https://vidd.semar.my.id/vidreq.php?id=6686&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
-https://bitter-boa-67.deno.dev/play.mpd?id=6786&type=dash
+#https://bitter-boa-67.deno.dev/play.mpd?id=6786&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/ADccuVLRN9T0yU12s2oZ9BWg91w=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="Olahraga 2",Juara 5
-https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
+#https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/n37MZbQ9O0LKIvHF5ufqGTpDIUI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="Olahraga 2",Juara 6
-https://bitter-boa-67.deno.dev/play.mpd?id=9183&type=dash
+#https://bitter-boa-67.deno.dev/play.mpd?id=9183&type=dash
 
 
 
