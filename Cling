@@ -801,11 +801,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/Trans7HD/mediampd/Trans7HD.mpd
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/1200px-CNN_Indonesia_logo.svg.png",CNN Indonesia
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://20.detik.com/
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="TV National" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/16/CNBC_Indonesia_logo.svg/2422px-CNBC_Indonesia_logo.svg.png",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#EXTVLCOPT:http-referrer=https://20.detik.com/
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 
