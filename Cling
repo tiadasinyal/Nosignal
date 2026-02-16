@@ -6070,43 +6070,29 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 ==================================Olahraga 4 (VPN ITALI)==============================================
 
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
+#KODIPROP:network-caching=2000
 #EXTINF:-1 tvg-id="Champions TV 1.id" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFOCNVqGbw0yOQYrN639SsVd9enPWASNGBw&usqp=CAU" group-title="Olahraga 4 (VPN ITALI)", Champions 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6685&type=drm
-https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6685&type=dash
+http://202.169.224.202:8800/udp/239.9.1.9:1234
 
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIqV5mZXlbysaGnJwG9-4ecMqGmLyFoSXRkw&usqp=CAU" group-title="Olahraga 4 (VPN ITALI)",Champions 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6686&type=drm
-https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6686&type=dash
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
+#KODIPROP:network-caching=2000
+#EXTINF:-1 tvg-id="Champions.TV.2.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg" group-title="Olahraga 4 (VPN ITALI)",CHAMPIONS TV 2 (UDP)
+http://202.169.224.202:8800/udp/239.9.1.10:1234
 
-
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRDZQ5_thqRm5Dr46bK08uPuTGmErmuwVmuQ&usqp=CAU" group-title="Olahraga 4 (VPN ITALI)",Champions 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6786&type=drm
-https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6786&type=dash
-
-
-
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_JgK6sF833VoC2rS74aDyGRswgzb9juEfQ&usqp=CAU" group-title="Olahraga 4 (VPN ITALI)",Champions 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=9182&type=drm
-https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=9182&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_JgK6sF833VoC2rS74aDyGRswgzb9juEfQ&usqp=CAU" group-title="Olahraga 4 (VPN ITALI)",Champions 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=9183&type=drm
-https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=9183&type=dash
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
+#KODIPROP:network-caching=2000
+#EXTINF:-1 tvg-id="Champions.TV.3.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg" group-title="Olahraga 4 (VPN ITALI)",CHAMPIONS TV 3 (UDP)
+http://202.169.224.202:8800/udp/239.9.1.11:1234
 
 #EXTINF:-1 tvg-id="Sky Sport Arena.it" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png" group-title="Olahraga 4 (VPN ITALI)", Sky Sport Calcio
 #KODIPROP:inputstreamaddon=inputstream.adaptive
