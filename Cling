@@ -2807,46 +2807,51 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 ####https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(vc1021n07j)/master_2min.mpd
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8V4iJK-XB-HRo05H6NrwPQqL6Ij4vgCGIQrJQy4wzQfDN2hc7lTBK7CZ&s=10" group-title="Olahraga 1", EPL 1  
-http://208.87.242.55/livehttpplay?channel_id=13302
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8V4iJK-XB-HRo05H6NrwPQqL6Ij4vgCGIQrJQy4wzQfDN2hc7lTBK7CZ&s=10" group-title="Olahraga 1", EPL 2
-http://208.87.242.55/livehttpplay?channel_id=13303
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8V4iJK-XB-HRo05H6NrwPQqL6Ij4vgCGIQrJQy4wzQfDN2hc7lTBK7CZ&s=10" group-title="Olahraga 1", EPL 3
-https://dl.dropboxusercontent.com/scl/fi/hhevgde5jvg66280w8cmo/asspplus.m3u8?rlkey=div8u41kg3kexdjpc7d95821d&dl=1
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8V4iJK-XB-HRo05H6NrwPQqL6Ij4vgCGIQrJQy4wzQfDN2hc7lTBK7CZ&s=10" group-title="Olahraga 1", EPL 4
-https://dl.dropboxusercontent.com/scl/fi/w3jo081tmwfa13a7v57sp/asspgrand.m3u8?rlkey=tlfwevxk1un8okrf6whrlantx&dl=1
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8V4iJK-XB-HRo05H6NrwPQqL6Ij4vgCGIQrJQy4wzQfDN2hc7lTBK7CZ&s=10" group-title="Olahraga 1", EPL 5
+#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 1
 #EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8V4iJK-XB-HRo05H6NrwPQqL6Ij4vgCGIQrJQy4wzQfDN2hc7lTBK7CZ&s=10" group-title="Olahraga 1", EPL 6
+#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 2
 #EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8V4iJK-XB-HRo05H6NrwPQqL6Ij4vgCGIQrJQy4wzQfDN2hc7lTBK7CZ&s=10" group-title="Olahraga 1", EPL 7
+#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 3
 #EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8V4iJK-XB-HRo05H6NrwPQqL6Ij4vgCGIQrJQy4wzQfDN2hc7lTBK7CZ&s=10" group-title="Olahraga 1", EPL 8
+#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 4
 #EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://eventcdn02-nowe.akamaized.net/hls/CH624/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8V4iJK-XB-HRo05H6NrwPQqL6Ij4vgCGIQrJQy4wzQfDN2hc7lTBK7CZ&s=10" group-title="Olahraga 1", EPL 9
+#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 5
 #EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://eventcdn02-nowe.akamaized.net/hls/CH625/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8V4iJK-XB-HRo05H6NrwPQqL6Ij4vgCGIQrJQy4wzQfDN2hc7lTBK7CZ&s=10" group-title="Olahraga 1", EPL 10
+#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 6
 #EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://eventcdn02-nowe.akamaized.net/hls/CH626/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8V4iJK-XB-HRo05H6NrwPQqL6Ij4vgCGIQrJQy4wzQfDN2hc7lTBK7CZ&s=10" group-title="Olahraga 1", EPL 11
+#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 7
 #EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://eventcdn02-nowe.akamaized.net/hls/CH627/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 8
+#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://eventcdn02-nowe.akamaized.net/hls/CH611/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 9
+#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://eventcdn02-nowe.akamaized.net/hls/CH612/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 10
+#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://eventcdn02-nowe.akamaized.net/hls/CH613/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 11
+#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://eventcdn02-nowe.akamaized.net/hls/CH680/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8V4iJK-XB-HRo05H6NrwPQqL6Ij4vgCGIQrJQy4wzQfDN2hc7lTBK7CZ&s=10" group-title="Olahraga 1",Juara 1
 #EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2859,32 +2864,6 @@ http://202.169.224.202:8800/udp/239.9.1.10:1234
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8V4iJK-XB-HRo05H6NrwPQqL6Ij4vgCGIQrJQy4wzQfDN2hc7lTBK7CZ&s=10" group-title="Olahraga 1",Juara 3
 #EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 http://202.169.224.202:8800/udp/239.9.1.11:1234
-
-#EXTINF:-1 tvg-id="Juara 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="Olahraga 1",Juara EPL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratu77.adptv.workers.dev/index.mpd?id=9353&type=drm
-https://ratu77.adptv.workers.dev/index.mpd?id=9353&type=dash
-
-#EXTINF:-1 tvg-id="Juara 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="Olahraga 1",Juara 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratu77.adptv.workers.dev/index.mpd?id=9182&type=drm
-https://ratu77.adptv.workers.dev/index.mpd?id=9182&type=dash
-
-#EXTINF:-1 tvg-id="Juara 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="Olahraga 1",Juara 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratu77.adptv.workers.dev/index.mpd?id=9183&type=drm
-https://ratu77.adptv.workers.dev/index.mpd?id=9183&type=dash
-
-
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8V4iJK-XB-HRo05H6NrwPQqL6Ij4vgCGIQrJQy4wzQfDN2hc7lTBK7CZ&s=10" group-title="Olahraga 1", USA NETWORK  
