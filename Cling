@@ -6032,152 +6032,184 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
 
-==================================Olahraga 4 (VPN ITALI)==============================================
+==================================Olahraga 4==============================================
 
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
-#KODIPROP:network-caching=2000
-#EXTINF:-1 tvg-id="Juara 1.id" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFOCNVqGbw0yOQYrN639SsVd9enPWASNGBw&usqp=CAU" group-title="Olahraga 4 (VPN ITALI)", Champions 1
-http://202.169.224.202:8800/udp/239.9.1.9:1234
 
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
-#KODIPROP:network-caching=2000
-#EXTINF:-1 tvg-id="Champions.TV.2.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg" group-title="Olahraga 4 (VPN ITALI)",Juara 2 (UDP)
-http://202.169.224.202:8800/udp/239.9.1.10:1234
+#EXTINF:-1 group-title="Olahraga 4", group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-1-id.png",CHAMPIONS TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=6685&type=drm
+https://pipit.barjagaul.workers.dev/play.mpd?id=6685&type=dash
 
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
-#KODIPROP:network-caching=2000
-#EXTINF:-1 tvg-id="Champions.TV.3.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg" group-title="Olahraga 4 (VPN ITALI)",Juara 3 (UDP)
-http://202.169.224.202:8800/udp/239.9.1.11:1234
+#EXTINF:-1 group-title="Olahraga 4", tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-2-id.png",CHAMPIONS TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=6686&type=drm
+https://pipit.barjagaul.workers.dev/play.mpd?id=6686&type=dash
 
-#EXTINF:-1 tvg-id="Sky Sport Arena.it" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png" group-title="Olahraga 4 (VPN ITALI)", Sky Sport Calcio
+#EXTINF:-1 group-title="Olahraga 4", tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png",CHAMPIONS TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=6786&type=drm
+https://pipit.barjagaul.workers.dev/play.mpd?id=6786&type=dash
+
+#EXTINF:-1 group-title="Olahraga 4", tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-5-id.png",CHAMPIONS TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=9182&type=drm
+https://pipit.barjagaul.workers.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 group-title="Olahraga 4", tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-6-id.png",CHAMPIONS TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=9183&type=drm
+https://pipit.barjagaul.workers.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-id="Sky Sport Arena.it" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png" group-title="Olahraga 4", Sky Sport Calcio
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00362f95db61eba0e6f14acee3f71e01:fb74cd84b53c7557e18424a3356c4665
 https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd
 
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport Uno  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport Uno  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036aaa1d68c6b487e29a5cb080a8a28:a3e8db3ff3c876f7b43a961b64a63474
 https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master.mpd
  
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport Arena  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport Arena  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00368f2bf10736c9c2c02ab0fa694d00:92eec9d841ac0c1ff16b90a0db82c792
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd
 
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport F1  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport F1  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd
  
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport Golf  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport Golf  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00360b7729f74bf56a0a4eb0eda15ec5:f8a5f4723c71ac84c2f1ff6f55939a63
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32768/FHD/skysportgolf/master.mpd
  
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport Max  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport Max  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036f13bca1c5603b9f3bb28ec28fa80:f01403bcb5a02c61153d297fb0c4395f
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31248/FHD/skysportmax/master.mpd
  
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport MotoGP  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport MotoGP  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
 https://linear306-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31483/FHD/skysportmotogp/master.mpd
  
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport NBA  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport NBA  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00364eac2ffee337640e39682439b540:0960172d9000c470ade0658bd36c1d53
 https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31764/FHD/skysportnba/master.mpd
  
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport Tennis  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport Tennis  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036fb7c564c4eb99e310f5fa82ab2f2:647f07b6858a669456e73ca103b4c2c0
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/master.mpd
 
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 251  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 251  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036384f59a2b80ed142f82250c79f77:2e6507cb779a28739b0bb1564f418823
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd
 
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 252  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 252  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=003610b4ce44ba838c199b6636cf7431:8369cbbccf0c1ff6bdbacbdae9252a04
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master.mpd
 
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 253  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 253  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036d3b63b421abd69d9f0d3b6bdcf19:0725c3162d5aefbf9c6d144f06ea0c92
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32233/FHD/skysport253/master.mpd
 
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 254  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 254  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31234/FHD/skysport254/master.mpd
 
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 255  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 255  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd
 
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 256  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 256  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd
 
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 257  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 257  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master.mpd
 
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 258  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 258  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd
 
-#EXTINF:-1 group-title="Olahraga 4 (VPN ITALI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 259  
+#EXTINF:-1 group-title="Olahraga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png", Sky Sport 259  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6185,31 +6217,31 @@ https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mp
 https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31613/skysport259/master.mpd
 
 
-#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-logo="tebakhuruf.com" group-title="Olahraga 4 (VPN ITALI)",Polsat Sport 1
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-logo="tebakhuruf.com" group-title="Olahraga 4",Polsat Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=590abbe92e6e470a9e355d58ec910709:0af2b5f2450474207f6761adc9dc635e
 https://lb2-e1-81.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd
 
-#EXTINF:-1 tvg-id="PolsatSport2.pl" tvg-logo="tekateki.com" group-title="Olahraga 4 (VPN ITALI)",Polsat Sport 2
+#EXTINF:-1 tvg-id="PolsatSport2.pl" tvg-logo="tekateki.com" group-title="Olahraga 4",Polsat Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
 https://lb2-e1-81.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
 
-#EXTINF:-1 tvg-id="PolsatSport3.pl" tvg-logo="kuissiapaberani.com" group-title="Olahraga 4 (VPN ITALI)",Polsat Sport 3
+#EXTINF:-1 tvg-id="PolsatSport3.pl" tvg-logo="kuissiapaberani.com" group-title="Olahraga 4",Polsat Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=03ddf71c8dae4e8d8b171fb81ecfe609:fc80cf8969cf1b3c2c061eadb94e1330
 https://lb2-e1-81.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd
 
-#EXTINF:-1 tvg-id="PolsatSportprem.pl" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat%20sportPrem1.png" group-title="Olahraga 4 (VPN ITALI)",Polsat Sport Premium 1
+#EXTINF:-1 tvg-id="PolsatSportprem.pl" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat%20sportPrem1.png" group-title="Olahraga 4",Polsat Sport Premium 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8eb4a9586edf4b0cade4b5725fd55209:54caa4e2142cf691af9bb6028545afc6
 https://lb2-e1-81.pluscdn.pl/ch/1459449/266/dash/edb3b20d/live.mpd
 
-#EXTINF:-1 tvg-id="PolsatSportprem2.pl" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat%20sportPrem2.png" group-title="Olahraga 4 (VPN ITALI)",Polsat Sport Premium 2
+#EXTINF:-1 tvg-id="PolsatSportprem2.pl" tvg-logo="https://go4.pw/EUROPE/POLONIA/_polsat%20sportPrem2.png" group-title="Olahraga 4",Polsat Sport Premium 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a20b49be4db4f328e4bb48853124109:f32c1c3c983354bcafb0f2ccb8a59835
