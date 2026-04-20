@@ -526,7 +526,15 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
 ====================================TRANSVISION===================================================
+
+#EXTINF:-1 tvg-id="106" tvg-name="adptv-106" tvg-logo="https://i.ibb.co.com/n8Dd4LYX/nsert.png" group-title="TRANSVISION", CNN Indonesia
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=424bc210ccf54246a14576629c60e738:36679071603a4f15a90438f8701f3d3f
+https://udinlaw.serv00.net/transvision/player-token.php?id=212
+
 #EXTINF:-1 tvg-id="106" tvg-name="adptv-106" tvg-logo="https://i.ibb.co.com/n8Dd4LYX/nsert.png" group-title="TRANSVISION",!nsert
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
