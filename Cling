@@ -9908,36 +9908,6 @@ https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
 
 #############################################Channel Astro dan SOOKA (VPN)############################################
 
-###EXTINF:-1 tvg-id="100.astro"  group-title="Channel Astro dan SOOKA (VPN)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Xilele.png",100 XiLele
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=58ce03fd70bac9f61eadf9d762ce8e10:9b27d4fac3292cf7cfca3312cb409343
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_primary.mpd
-
-###EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png"  group-title="Channel Astro dan SOOKA (VPN)",100 Scream
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_primary.mpd
-
-###EXTINF:-1 tvg-id="100.astro"  group-title="Channel Astro dan SOOKA (VPN)" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png",100 Heroes
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=bd73177f7e40014751cb76167bee3c10:45b75b07b7cf3b0f52c8663c2cb51555
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_primary.mpd
-
-###EXTINF:-1 tvg-id="100.astro"  group-title="Channel Astro dan SOOKA (VPN)" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KITA.png",100 KITA
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=794848d878e10fab209059c0e6942010:961c77438e111f20abd3db96f88cdfd2
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd
-
-###EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/LOL.png"  group-title="Channel Astro dan SOOKA (VPN)",100 LOL 
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=122c84bc130940586c961bae652b3610:1153586a1a453e03402714a299964564
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/5167/default_primary.mpd
-
 
 #EXTINF:-1 tvg-id="100.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Kudada_26.png"  group-title="Channel Astro dan SOOKA (VPN)" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogoNew.png",100 KUDADA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9945,6 +9915,18 @@ https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"AdSM6gNr0-ts75PtRJbX_Q","kid":"erqRUKLNEz4wKEbNq1UVEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5185/default_primary.mpd
+
+#EXTINF:-1 tvg-id="801.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_sports.png" group-title="Channel Astro dan SOOKA (VPN)",801 Astro Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+
+#EXTINF:-1 tvg-id="802.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="Channel Astro dan SOOKA (VPN)",802 Astro Arena 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #EXTINF:-1 tvg-id="101.astro"  group-title="Channel Astro dan SOOKA (VPN)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
