@@ -25,9 +25,9 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey.transvision.workers.dev/
-#EXTINF:-1 tvg-id:"4028c6856c3db2cc016d054fbf67379f" group-logo="https://www.transvision.co.id/img/icons/favico-64x64.png" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="LIVE EVENT", HBO Hits (Transvision)
-https://proxy-global.transvision.workers.dev/play.mpd?id=HBO_Hits
+#KODIPROP:inputstream.adaptive.license_key=e48a682b976e4155be8faea47f3b632c:bc47d6b9a9d0478a80d7eada933bcb92
+#EXTINF:-1 tvg-id:"4028c6856c3db2cc016d054fbf67379f" group-logo="https://www.transvision.co.id/img/icons/favico-64x64.png" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="LIVE EVENT", HBO Hits (TRV)
+https://cdnjkt913.transvision.co.id:1003/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
