@@ -13,6 +13,12 @@
 
 --------------trial---------------------
 
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"72756c54344d61596945784947784d58":"796755734f45324642357a416c794e61"}
+#EXTINF:-1 tvg-id:"4028c68595d0c2ed01961380bf580430" group-logo="https://i.ibb.co.com/bgJYPncz/cubmu-hd.png" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68595d0c2ed01961380bf580430/4cef5ac3018147a891c112685352da95.jpg" group-title="TEST", tvN Movies
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68595d0c2ed01961380bf580430/manifest.mpd
+
 =======================LIVE EVENT===========================================
 
 #EXTINF:-1  group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://cdn1-production-images-kly.akamaized.net/k_IXNhEefd-D9ly3W2KXHW7FzS4=/1x250:1080x858/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4610061/original/098944100_1697206423-Timnas_Indonesia_-_Kerasnya_Persaingan_Kualifikasi_Piala_Duniapsd_copy.jpg" group-title="LIVE EVENT",DRQ Legend VS Barcelona Legends
