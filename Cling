@@ -13,11 +13,17 @@
 
 --------------trial---------------------
 
-##KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"72756c54344d61596945784947784d58":"796755734f45324642357a416c794e61"}
-#EXTINF:-1 tvg-id:"4028c68595d0c2ed01961380bf580430" group-logo="https://i.ibb.co.com/bgJYPncz/cubmu-hd.png" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68595d0c2ed01961380bf580430/4cef5ac3018147a891c112685352da95.jpg" group-title="TEST", tvN Movies
+#EXTINF:-1 tvg-id:"4028c68595d0c2ed01961380bf580430" group-logo="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68595d0c2ed01961380bf580430/4cef5ac3018147a891c112685352da95.jpg" group-title="TEST", tvN Movies
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68595d0c2ed01961380bf580430/manifest.mpd
+
+#EXTINF:-1 tvg-id="801.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6afc356b-aad6-4856-b996-cf4f12f7265a.jpg" tvg-name="Trans 7" group-title="TEST", SBY Cup
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4f1a636b93240d88fa17c089a30db50:52d05ac325974bcd93966be2faf88f3a
+https://cdnjktbpid02.transvision.co.id/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/bGl2ZV9ldmVudF9jaGFubmVsMQ/manifest.mpd
 
 =======================LIVE EVENT===========================================
 
