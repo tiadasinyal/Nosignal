@@ -100,28 +100,22 @@ https://cwtvbk.cdnwatchlabs.io/dash/channels/espn4/index.mpd
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-2-HD/default.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png" group-title="LIVE EVENT", BWF  1 (A)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png" group-title="LIVE EVENT", BWF  C1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4187456845445061_AiSD.m3u8?txSecret=8505064bdc1e16a540252183ccd73302&txTime=69F030C0
+https://mobilelive-test.ysp.cctv.cn/ysp/2030924801.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png" group-title="LIVE EVENT", BWF  1 (B)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png" group-title="LIVE EVENT", BWF C2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8
+https://mobilelive-test.ysp.cctv.cn/ysp/2030924901.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png" group-title="LIVE EVENT", BWF 2 (A)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png" group-title="LIVE EVENT", BWF C3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4187457014385061_AiSD.m3u8?txSecret=6b010204dc276d8f7ef8d602caf18087&txTime=69F030C0
+https://mobilelive-test.ysp.cctv.cn/eastman/2030925001.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png" group-title="LIVE EVENT", BWF 2 (B)
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png" group-title="LIVE EVENT", BWF C4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png" group-title="LIVE EVENT", BWF 3 (A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4192698907249061_AiSD.m3u8?txSecret=c26dc90e8cc3b55a626bfe15c2df0393&txTime=69F030C0
-
+https://mobilelive-test.ysp.cctv.cn/eastman/2030917901.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" group-title="LIVE EVENT", SeaGames 1
