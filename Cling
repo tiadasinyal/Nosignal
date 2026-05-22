@@ -4809,7 +4809,9 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1 
 #KODIPROP:mimetype=application/dash+xml #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=9182&type=drm https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=9182&type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=9182&type=drm 
+https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=9182&type=dash 
 
 #EXTINF:-1 tvg-id="9183" tvg-logo="https://thumbor.prod.vidiocdn.com/YPVCaRhTAIjP2Bql56wNeWFhTDQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="Olahraga 3", Champions TV 6 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
@@ -4817,7 +4819,9 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1 
 #KODIPROP:mimetype=application/dash+xml 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=9183&type=drm https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=9183&type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=9183&type=drm 
+https://streamvidio.asismuhammad8888.workers.dev/index.mpd?id=9183&type=dash 
 
 
 #EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.ibb.co.com/2tBx8pR/TNT1.png",TNT SPORTS 1 
@@ -4826,10 +4830,11 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd 
 
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="Olahraga 3",HUB PREMIER 1 http://myxpanel.pro/live/Melo/Melo/288375.ts 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="Olahraga 3",HUB PREMIER 1 
+http://myxpanel.pro/live/Melo/Melo/288375.ts 
 
 
-#EXTINF:-1 group-title="Olahraga 3" tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/h15sfn1659623141.png",Now HK Premier Sports 1 FHD 
+#EXTINF:-1 group-title="Olahraga 3" tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/h15sfn1659623141.png",Now HK Premier Sports 1 FHD
 http://myxpanel.pro/live/Melo/Melo/715574.ts 
 
 
@@ -4842,17 +4847,18 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="Olahraga 3", FUBO SPORTS 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f 
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd 
-
-#https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="Olahraga 3", FUBO SPORTS 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135 
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd 
 
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-premier-league-uk.png",SKY SPORTS Premier League DE https://restream-live.realiptv.to/MotherOfPins3/8746645/2182 
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-premier-league-uk.png",SKY SPORTS Premier League DE 
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2182 
 
 #https://cdn-2.ttvb.eu.org/api/Sky-Sports-EPL/index.m3u8 #http://lunar.pm:8080/live/Mrdon/4782314540/100773.ts 
 #EXTINF:-1 tvg-id="" group-title="Olahraga 3" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/espn-brazil.png",ESPN 1 Brazil HD 
@@ -4863,9 +4869,6 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
 
 #EXTINF:-1 tvg-chno="501" tvg-id="504" tvg-name="KANTIPUR MAX 2 HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C190-1763958788.png" group-title="Olahraga 3",KANTIPUR MAX 2 HD 
 http://maxotts.maxdigitaltv.com/x-media/C190/master.m3u8
-
-
-
 
 =================== Movies ========================
 
