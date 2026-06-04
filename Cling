@@ -5095,11 +5095,13 @@ http://myxpanel.pro/live/Melo/Melo/288375.ts
 http://myxpanel.pro/live/Melo/Melo/715574.ts 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mos.cms.futurecdn.net/FrEy3h36FSjTRxaGkFzsUe-650-80.jpg" group-title="Olahraga 3",NBC UNIVERSO #KODIPROP:inputstream.adaptive.license_type=clearkey 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mos.cms.futurecdn.net/FrEy3h36FSjTRxaGkFzsUe-650-80.jpg" group-title="Olahraga 3",NBC UNIVERSO 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f 
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4bz4tc1659618659.png" group-title="Olahraga 3",NOVA SPORTS PL #KODIPROP:inputstream.adaptive.license_type=clearkey 
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4bz4tc1659618659.png" group-title="Olahraga 3",NOVA SPORTS PL 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0:0 
 https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd 
 
@@ -5126,6 +5128,170 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
 
 #EXTINF:-1 tvg-chno="501" tvg-id="504" tvg-name="KANTIPUR MAX 2 HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C190-1763958788.png" group-title="Olahraga 3",KANTIPUR MAX 2 HD 
 http://maxotts.maxdigitaltv.com/x-media/C190/master.m3u8
+
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.ibb.co.com/3mrKDXMH/shdsports.png", SHAHID SPORTS 🌍
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd
+
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.ibb.co.com/3mrKDXMH/shdsports.png", SHAHID SPORTS 2 🌍
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714
+https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd
+
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.ibb.co.com/3mrKDXMH/shdsports.png", SHAHID SPORTS 3 🌍
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b6f6b340aa8467785e4e82f9320fb5a:8889701d704078c4d910ed1409413d9b
+https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd
+
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.ibb.co.com/3mrKDXMH/shdsports.png", SHAHID SPORTS 4 🌍
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb
+https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd
+
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.ibb.co.com/3mrKDXMH/shdsports.png", SHAHID SPORTS 5 🌍
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78
+https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HTfygc5m/skspat1.png" group-title="Olahraga 3", Sky SPORT 🇦🇹 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"725d9e0d8544596a92de41d42f2dc2f9":"de4e7e6d9bac3c2d72c58a3dbf732068","32b74c0f2f6553f884ddaac24d8d5fa6":"cf18c1ff1fdd422263c6d459374567a4"}
+https://at-live-6.tentcdn.eu/bpk-tv/Sky_Sport_Austria_HD/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HTfygc5m/skspat1.png" group-title="Olahraga 3", Sky SPORT 🇦🇹 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8f0663ec8283ca0aef8f12a7868afbc:ec674895f8a0021dc0ba02da95c7fab1
+https://simplitv-live.mdn.ors.at/live/eds/sky_sport_1_hd/dash/sky_sport_1_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WpyBpSgg/skspat2.png" group-title="Olahraga 3", Sky SPORT 2 🇦🇹 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ade9637c7c73ce2a9ff418fea41d8d6:e9e9d8af5a476a08749541071326a954
+https://simplitv-live.mdn.ors.at/live/eds/sky_sport_2_hd/dash/sky_sport_2_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WpyBpSgg/skspat2.png" group-title="Olahraga 3", Sky SPORT 3 🇦🇹 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+##https://simplitv-live.mdn.ors.at/live/eds/sky_sport_3_hd/dash/sky_sport_3_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/20NBxByC/skspat4.png" group-title="Olahraga 3", Sky SPORT 4 🇦🇹 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf96ff7fd56d39beb072d01dfe5cfdec:10e5a0f3d923d55128021d1e706d1a21
+https://simplitv-live.mdn.ors.at/live/eds/sky_sport_4_hd/dash/sky_sport_4_hd.mpd
+
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.ibb.co.com/4Jd3RWS/skysportf1.png",Sky Sport F1 🇦🇹
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9
+https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd
+
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.ibb.co.com/my2yBKk/skysportgolf.png",Sky Sport GOLF 🇦🇹
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e571f67594c530f8a4b861ca41004a4f:9156d299e8ced2f112ab58706a8bf5b2
+https://simplitv-live.mdn.ors.at/live/eds/sky_sport_golf_hd/dash/sky_sport_golf_hd.mpd
+
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.ibb.co.com/CrvrWjC/skyspmix.png",Sky Sport Mix 🇦🇹
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df41cd757f7033d3add1d5d7cc34b95a:9cf69ec5ff03809f65c5d7ef73aa538c
+https://simplitv-live.mdn.ors.at/live/eds/sky_sport_mix_hd/dash/sky_sport_mix_hd.mpd
+
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.ibb.co.com/yNTjWRp/skyspnews.png",Sky Sport NEWS 🇦🇹
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66b11332364e3a45a2328fc24a075e28:a8968f08b78f992005498d9377d9de06
+https://simplitv-live.mdn.ors.at/live/eds/sky_sport_news_hd/dash/sky_sport_news_hd.mpd
+
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.ibb.co.com/brXCRq3/skysportplde.png",Sky Sport PL 🇦🇹
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=446af6dd9ec0395eaf5ab6adac2b8234:a70a5944e51312f5a045b1e81651d033
+https://simplitv-live.mdn.ors.at/live/eds/sky_sport_premier_league_hd/dash/sky_sport_premier_league_hd.mpd
+
+#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://i.ibb.co.com/c6K7jnb/skysportennis.png",Sky Sport Tennis 🇦🇹
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b29b2b7da32e33b08fe391d25d00b3f1:dc7f4b1c6c63838a60182d9a72c563dd
+https://simplitv-live.mdn.ors.at/live/eds/sky_sport_tennis_hd/dash/sky_sport_tennis_hd.mpd
+
+#EXTINF:-1  tvg-logo="" group-title="Olahraga 3", SKY SPORTS 24 🇲🇽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5494e422f215a993ba5da713a010682d:5259e63611ef21b26d5078b3469bdd10
+https://hfc-tlx-live-atv-cdn.izzigo.tv/8/out/u/dash/SKY-SPORTS-24-HD-H265/default.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/fNMWBhJ/skysprtmx.png" group-title="Olahraga 3", SKY SPORTS 🇲🇽
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0bbabbc46e61e860f4e6154e01f665a:d6fabef689130cf0283e577a72f67b4d
+https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/SKYSPORTSHD/default.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/MV1TkCX/skysprtlalgmx.png" group-title="Olahraga 3", SKY SPORTS LALIGA  🇲🇽
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b3fc9e698876b1c299358de6e0a332:e541c87b83ce28e68d785b8129b74217
+https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/SKYSPORTS16HD/default.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/fNMWBhJ/skysprtmx.png" group-title="Olahraga 3", SKY SPORTS 21 🇲🇽
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34afdb891bf9df68d899a42ea36f8924:c438d1bfeed38a0ff9986499e48357d5
+https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/SKYSPORTS21HD/default.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/fNMWBhJ/skysprtmx.png" group-title="Olahraga 3", SKY SPORTS 24 🇲🇽
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88571639c642228c29b4247c9f7a12e4:d21b30dd319f875ab7f880a9c6a9688d
+https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/SKYSPORTS24HD/default.mpd
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/fNMWBhJ/skysprtmx.png" group-title="Olahraga 3", SKY SPORTS 🇲🇽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+https://live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-HD/default.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/fNMWBhJ/skysprtmx.png" group-title="Olahraga 3", SKY SPORTS 21 🇲🇽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
+https://live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/MV1TkCX/skysprtlalgmx.png" group-title="Olahraga 3", SKY SPORTS LALIGA  🇲🇽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+https://live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bXGdPSf/skspbndmx.png" group-title="Olahraga 3", SKY SPORTS BUNDESLIGA 🇲🇽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+https://live1-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/fNMWBhJ/skysprtmx.png" group-title="Olahraga 3", SKY LIVE 1 🇲🇽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
+https://live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/fNMWBhJ/skysprtmx.png" group-title="Olahraga 3", SKY LIVE 2 🇲🇽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
+https://live1-ott.izzigo.tv/15/out/u/dash/SKY-LIVE-EVENT-2-HD/default.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/fNMWBhJ/skysprtmx.png" group-title="Olahraga 3", SKY LIVE 4 🇲🇽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
+https://live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/fNMWBhJ/skysprtmx.png" group-title="Olahraga 3", SKY LIVE 5 🇲🇽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
+https://live1-ott.izzigo.tv/12/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd
+
 
 =================== Movies ========================
 
