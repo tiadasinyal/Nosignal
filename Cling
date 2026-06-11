@@ -48,22 +48,25 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://d1211whpimeups.cloudfront.net/smil:rtb2/master.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="World Cup", Channel 5 (Singapore)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c3fc8d79e4d32489a0c7e99921def01:955648a653d3cf4c7c223e9992a594f9
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=203.117.83.181
-#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="World Cup", Channel 5 (Singapore)
 https://mwlsmpn01.akamaized.net/out/v1/mwlsmpn01/ll_fta_ch5/ll_fta_ch5_cmaf_dash06/cmafdash1s.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="World Cup", Channel 5 2 (Singapore)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c3fc8d79e4d32489a0c7e99921def01:955648a653d3cf4c7c223e9992a594f9
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=203.117.83.181
-#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="World Cup", Mewatch (Singapore)
+https://mwlsmpn01.akamaized.net/out/v1/mwlsmpn01/ll_fta_ch5/ll_fta_ch5_cmaf_dash06/cmafdash1s.mpd|X-Forwarded-For=203.117.83.181
+
+#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="World Cup", Channel 5 (Singapore)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c3fc8d79e4d32489a0c7e99921def01:955648a653d3cf4c7c223e9992a594f9
+#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=203.117.83.181
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/10938150/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/HanifanCool/If/refs/heads/main/Renit/LEPL1.png" tvg-name="SG: Hub Premier 1" tvg-id="HubPremier1.sg" group-title="World Cup" tvg-logo="https://ottotv.my.id/logo/starhub/hubpremier1.jpg",STARHUB PREMIER 1 HD
