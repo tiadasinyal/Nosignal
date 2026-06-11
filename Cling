@@ -52,9 +52,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/master.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
+#KODIPROP:inputstream.adaptive.license_key=6c3fc8d79e4d32489a0c7e99921def01:955648a653d3cf4c7c223e9992a594f9
 #EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="World Cup", Channel 5 (Singapore)
-https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
+https://mwlsmpn01.akamaized.net/out/v1/mwlsmpn01/ll_fta_ch5/ll_fta_ch5_cmaf_dash06/cmafdash1s.mpd|X-Forwarded-For: 203.117.83.181
 
 #EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/3840px-Mewatch_2023.svg.png" group-title="World Cup", M-Live 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
