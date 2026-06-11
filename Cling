@@ -40,6 +40,10 @@ https://flv.play.folaplay.com/live/grupa_mexicovssouthafrica_12062026_HD.flv?hwS
 #EXTINF:-1 tvg-name="TVRI Nasional" group-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co/JcTZMLX/image.png" group-title="World Cup", SUKAN TV
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
 
+#EXTINF:-1 tvg-name="Brunei" tvg-logo="https://i.imgur.com/0yTHI0e.jpeg" tvg-id="itzreisa.id" group-title="World Cup",RTB Go Live
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
