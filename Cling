@@ -34,6 +34,15 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 http://202.169.224.202:8800/udp/239.1.2.3:1234
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
 
+
+
+#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="" group-title="World Cup", Maxstream wc2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad
+https://tencent-css.byteplaycdn.com/1dff2708d53a6a6ab3d23241b3d70c1d/6A2BA4E3/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+
+
 #EXTINF:-1 tvg-name="TVRI Nasional" group-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="World Cup", Fola Play
 https://flv.play.folaplay.com/live/grupa_mexicovssouthafrica_12062026_HD.flv?hwSecret=64f325380e2cc56f53d2d9909a1aefd53a2f68dd583b56846f46f4dbf2f3015b&hwTime=6a2af0c5
 
