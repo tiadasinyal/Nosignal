@@ -13,11 +13,6 @@
 
 --------------trial---------------------
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"72756c54344d61596945784947784d58":"796755734f45324642357a416c794e61"}
-#EXTINF:-1 tvg-id:"4028c68595d0c2ed01961380bf580430" group-logo="" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68595d0c2ed01961380bf580430/4cef5ac3018147a891c112685352da95.jpg" group-title="TEST", tvN Movies
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68595d0c2ed01961380bf580430/manifest.mpd
 
 ------------------------------------------- World Cup 2026 ------------------------
 
@@ -26,6 +21,11 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68595d0c2ed01961380b
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1  tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="World Cup", TVRI Maxstream
+https://tencent-css.byteplaycdn.com/1dff2708d53a6a6ab3d23241b3d70c1d/6A2BA4E3/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
@@ -33,6 +33,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 http://202.169.224.202:8800/udp/239.1.2.3:1234
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
+
 
 
 #EXTINF:-1 tvg-name="TVRI Nasional"  tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="World Cup",Fola Play
@@ -70,11 +71,6 @@ https://mwlsmpn01.akamaized.net/out/v1/mwlsmpn01/ll_fta_ch5/ll_fta_ch5_cmaf_dash
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=203.117.83.181
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/10938150/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1  tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="World Cup", TVRI Sport
-https://tencent-css.byteplaycdn.com/1dff2708d53a6a6ab3d23241b3d70c1d/6A2BA4E3/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/HanifanCool/If/refs/heads/main/Renit/LEPL1.png" tvg-name="SG: Hub Premier 1" tvg-id="HubPremier1.sg" group-title="World Cup" tvg-logo="https://ottotv.my.id/logo/starhub/hubpremier1.jpg",STARHUB PREMIER 1 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -86,7 +82,7 @@ https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
 #EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="" group-title="World Cup", DSPORTS ᴰᴳᴼ
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=54.240.184.122
 #KODIPROP:inputstream.adaptive.license_key=13129171e9303da3a31dd7b583f7f41c:dc4844c309c47baf996f267cda324d61
---#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/t/dsports.json|User-Agent=okhttp/4.12.0
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/t/dsports.json|User-Agent=okhttp/4.12.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/manifest_dgo.php?uri=https://1057-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1057/1057_DIRECTV_SPORTS_ARG_DASH/manifest.mpd
