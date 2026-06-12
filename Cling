@@ -38,7 +38,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=l
 https://flv.play.folaplay.com/live/grupa_mexicovssouthafrica_12062026_HD.flv?hwSecret=64f325380e2cc56f53d2d9909a1aefd53a2f68dd583b56846f46f4dbf2f3015b&hwTime=6a2af0c5
 
 #EXTINF:-1 tvg-name="TVRI Nasional" group-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co/JcTZMLX/image.png" group-title="World Cup", SUKAN TV
-https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd|x-forwarded-for=203.117.83.181
 
 #EXTINF:-1 tvg-name="Brunei" tvg-logo="https://i.imgur.com/0yTHI0e.jpeg" tvg-id="itzreisa.id" group-title="World Cup",RTB Go Live
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
