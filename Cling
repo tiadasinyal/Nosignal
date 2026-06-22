@@ -248,8 +248,7 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 
 =============================== world cup 2026====================
 
-```  WORLD CUP 2026 ```
-#EXTINF:-1 group-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png",
+#EXTINF:-1 group-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png",
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="World Cup 2026", WC2026 🇦🇹 `UHD50
 #KODIPROP:inputstream.adaptive.license_type=clearkey
