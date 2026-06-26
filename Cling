@@ -125,25 +125,20 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e017168410
 ------------------------------------------- World Cup 2026 ------------------------
 
 #EXTINF:-1 tvg-name="TVRI Nasional" group-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" tvg-id="TVRINasional.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxNrvC51vqJF-17uZVsW1fRVFjeGmFq3Fn--tLNGG0uA&s=10" group-title="World Cup",VTV6
-http://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
+https://live-vt.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title=group-title="World Cup",TNT Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title=group-title="World Cup",TNT Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#EXTINF:-1 tvg-name="TVRI Nasional" group-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" tvg-id="TVRINasional.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxNrvC51vqJF-17uZVsW1fRVFjeGmFq3Fn--tLNGG0uA&s=10" group-title="World Cup",VTV6
+https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv6tt-manifest.m3u8
 
 #EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://www.unontent/u/07/digi-sport.jpg" group-title="World Cup" , BBC ONE KILATLIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kilat-live.com/
 #EXTVLCOPT:http-origin=https://kilat-live.com
 https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Qazsport HD" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/66c4caab8bc078dff5a7_360x640.jpg" group-title="World Cup", Qazsport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
 
 #EXTINF:-1 group-title="World Cup" tvg-logo="https://i.ibb.co.com/7tFY7tC/rtbaneka.png", RTB ANEKA 🇧🇳
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
@@ -182,69 +177,95 @@ http://202.169.224.202:8800/udp/239.1.2.3:1234
 #KODIPROP:inputstream.adaptive.license_key=2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711
 https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
 
-
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="World Cup",LIVE ONLY TVRI MAXSTREAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-
-
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="World Cup",LIVE ONLY TVRI MAXSTREAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="World Cup",LIVE ONLY TVRI MAXSTREAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-
-
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="World Cup",LIVE ONLY TVRI MAXSTREAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="World Cup",LIVE ONLY TVRI MAXSTREAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-
-
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="World Cup",LIVE ONLY TVRI MAXSTREAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-
-
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" tvg-logo="httpult.jpg" group-title="World Cup",LIVE ONLY TVRI MAXSTREAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-
-#EXTINF:-1 group-title="World Cup" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5ca85501a4694_01x0-480x320.jpg", RTM SPORTS HD 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
-
 #EXTINF:-1 tvg-id="" tvg-name="OKEY TV" tvg-logo="https://tv.cic.net.id/uploads/TV_OKEY_MY.png" group-title="World Cup",OKEY TV
 http://iptv.kilas7.com:80/kaukia/asdfrewq/32
 
 #EXTINF:-1 tvg-id="" tvg-name="RTM SPORT" tvg-logo="https://tv.cic.net.id/uploads/RTM_SPORT_MY.png" group-title="World Cup",RTM SPORT(K7)
 http://iptv.kilas7.com:80/kaukia/asdfrewq/31
+
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title=group-title="World Cup",TSN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title=group-title="World Cup",TSN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd"
+
+#EXTINF:-1 group-title="World Cup",TSN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title=group-title="World Cup",TSN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title=group-title="World Cup",WC2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd"
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="World Cup", MUNDIAL 90
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9592bace945e0abd16edd5c731b1d55f:5393eac446380bea86b8ab6ffaaf21fe
+https://live-atv-cdn.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-BR-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="World Cup", MUNDIAL 91
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dca28e60e7ba452a5c14d7118bd044d:3a2bca72940d073c3fc8f0913a416fcb
+https://live-atv-cdn.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-91-BR-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="World Cup", MUNDIAL 92
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85749989ff466e48dd8916189edbd67:8bfc5797d3c1e727690223c8a3bda056
+https://live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-92-BR-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="World Cup", MUNDIAL 93
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfec037a8e842d8f37e45f79660c3deb:c5498e5865784e2b32fb67d704074682
+https://live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-93-BR-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="World Cup", MUNDIAL 94
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1055a56630932e96836cd761b14133e:7c2e0ead2a7a3b623ec624b9bda3dbd8
+https://live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-94-BR-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="World Cup", MUNDIAL 95
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db640f41df5b7ee7dc753f39e38140b5:d26223d33645262a005bb570a1a7a024
+https://live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-95-BR-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="World Cup", MUNDIAL 90
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33de7dd485a32d42d2addcaea99b0ee7:bce6267cc2328b52a85776d0e85b257e
+https://live-atv-cdn.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="World Cup", MUNDIAL 91
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abd11aa3519cffafcfed11413af829a0:d84eb3a71e76d0740aa8ceea4ac22602
+https://live-atv-cdn.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-91-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="World Cup", MUNDIAL 92
+#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f7123a82732cea530ff8f1f77f09220d:956e22f0f22da19da8751966e7ad0ff8
+https://live-atv-cdn.izzigo.tv/12/out/u/dash/VIX-MUNDIAL-92-HD/default.mpd
+
 
 #EXTINF:-1 group-title="World Cup" tvg-id="Aneka" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",Fussball
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
@@ -276,7 +297,6 @@ https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/defau
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="World Cup", TUDN 2 🇲🇽
 #KODIPROP:inputstream.adaptive.license_type=clearkey
