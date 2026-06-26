@@ -14,115 +14,22 @@
 --------------trial---------------------
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 group-title="Trial" tvg-id="hboasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e70965da05b338bca4091186785e5c12:56be08f19c398976fcaf55ed716b87a3
-#EXTINF:-1 tvg-id="" group-title="Trial" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",HBO Family
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=64d73e01c0b7476b89914fd9b4df38dc:28eb553384c940158bd3f0d0c9b38e0f
-#EXTINF:-1 tvg-id="" group-title="Trial" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",Warner TV
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
-#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="HBO.HD.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="Trial",HBO
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/kids/cartoontvpremium.jpg?raw=true" group-title="Trial",CARTOON TV PREMIUM
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/kids/cartoontv.jpg?raw=true" group-title="Trial",CARTOON TV
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/kids/cartoontvclassic.jpg?raw=true" group-title="Trial",CARTOON TV CLASSICS
-https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bioskopindo.png" group-title="Trial", Bioskop Indonesia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/19A98713-0CA9-4509-BDA3-AA652B2329A3/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-title="Trial" ,Test
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/19A98713-0CA9-4509-BDA3-AA652B2329A3/0-16x9.png?width=190&amp;updatedTime=0&amp;dt=Web" group-title="Trial" ,CARTOON NETWORK TR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b64d0742be1/e00b58b6aaa1455c82d8980c3f90c98c.jpg" group-title="Trial",Cartoon TV Premium
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
-
-#EXTINF:-1 tvg-id="803.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/0cc347d7-f3dc-49e8-ac20-53f4c3257019.jpg" tvg-name="CNN Indonesia" group-title="Trial", CNN Indonesia CBM
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8879bb25d82a404fbb63011f77df910b:4fcfd6e5a09b4ee7b1889ffa215f8370
-https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/Q05OaS1teQ/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="Tvnmovies.id" tvg-name="Warner" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68595d0c2ed01961380bf580430/4cef5ac3018147a891c112685352da95.jpg" group-title="Trial",tvN Movies CBM
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8879bb25d82a404fbb63011f77df910b:4fcfd6e5a09b4ee7b1889ffa215f8370
-https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VFZOIE1vdmllcw/manifest.mpd
-
-#EXTINF:-1 tvg-id="Tvnmovies.id" tvg-name="Warner" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68595d0c2ed01961380bf580430/4cef5ac3018147a891c112685352da95.jpg" group-title="Trial",tvN Movies CDNJKT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id/live/master/2/4028c68595d0c2ed01961380bf580430/manifest.mpd
-
-#EXTINF:-1 tvg-id="ID.210" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="Trial", Trans TV CBM
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8879bb25d82a404fbb63011f77df910b:4fcfd6e5a09b4ee7b1889ffa215f8370
-https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VHJhbnNUVg/manifest.mpd
-
-#EXTINF:-1 tvg-id="ID.201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="Trial", Trans 7 CBM
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8879bb25d82a404fbb63011f77df910b:4fcfd6e5a09b4ee7b1889ffa215f8370
-https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/VFJBTlM3LW15/manifest.mpd
-
-#EXTINF:-1 tvg-id="807.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f86ac7c8-ed6b-4d19-9be2-1d3fdf3e97a3.png" tvg-name="Indosiar" group-title="Trial", Indosiar CBM
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8879bb25d82a404fbb63011f77df910b:4fcfd6e5a09b4ee7b1889ffa215f8370
-https://cdnjktidc01.transvision.co.id/riutx01-7f0f6ca237db1b31cb48a7ec1067ae6c/dash/SW5kb3NpYXI/manifest.mpd
-
-#EXTINF:-1 tvg-id="4028c68570f25e2e01716841059b3e25" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68570f25e2e01716841059b3e25/b21aeb6f2c1d4bf6a3a47c5094080666.png" group-title="Trial", TVRI CDNJKT
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ambil-drm-cub.disini.workers.dev/|User-Agent=Xstream%20XGO%2F1.22%20(Linux%3BAndroid%209)%20ExoPlayerLib%2F2.10.5&Referer=https%3A%2F%2Fwww.cubmu.com%2F&dt-custom-data=eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0%3D|R{SSM}|
-#EXTVLCOPT:http-user-agent=Xstream%20XGO%2F1.22%20(Linux%3BAndroid%209)%20ExoPlayerLib%2F2.10.5&Referer=https%3A%2F%2Fwww.cubmu.com%2F&dt-custom-data=eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0%3D
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 ------------------------------------------- World Cup 2026 ------------------------
 #EXTINF:-1 tvg-name="TVRI Nasional" group-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" tvg-id="TVRINasional.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxNrvC51vqJF-17uZVsW1fRVFjeGmFq3Fn--tLNGG0uA&s=10" group-title="World Cup",VTV6
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv6tt-manifest.m3u8
