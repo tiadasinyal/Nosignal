@@ -19,6 +19,13 @@
 #KODIPROP:inputstream.adaptive.license_key=009561c44dde4c5481e69657601c3d06:9a95967ac69a40e98c3fbe7a8f358140
 https://cdnjktidc01.transvision.co.id/riutx01-ec0c84b1dd93843d113ede6826859b01/dash/anR2LUNoYW5uZWw/manifest.mpd
 
+#EXTINF:-1 tvg-id="4028c68572841ba301729ce8f25d3c1a" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce8f25d3c1a/51d7344a49cd4aed8d31e75b0ce234f2.jpg" group-title="Trial", tv Mu
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ambil-drm-cub.disini.workers.dev/|User-Agent=Xstream%20XGO%2F1.22%20(Linux%3BAndroid%209)%20ExoPlayerLib%2F2.10.5&Referer=https%3A%2F%2Fwww.cubmu.com%2F&dt-custom-data=eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0%3D|R{SSM}|
+#EXTVLCOPT:http-user-agent=Xstream%20XGO%2F1.22%20(Linux%3BAndroid%209)%20ExoPlayerLib%2F2.10.5&Referer=https%3A%2F%2Fwww.cubmu.com%2F&dt-custom-data=eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0%3D
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
