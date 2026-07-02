@@ -82,6 +82,15 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
+#EXTINF:-1 tvg-id="106" tvg-name="adptv-106" tvg-logo="https://i.ibb.co.com/n8Dd4LYX/nsert.png" group-title="Trial",!nsert
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5fari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
+
+
 ------------------------------------------- World Cup 2026 ------------------------
 #EXTINF:-1 tvg-name="TVRI Nasional" group-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" tvg-id="TVRINasional.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxNrvC51vqJF-17uZVsW1fRVFjeGmFq3Fn--tLNGG0uA&s=10" group-title="World Cup",VTV6
 https://vtvgolive-vtv.vtvdigital.vn/vtvgo/vtv6tt-manifest.m3u8
