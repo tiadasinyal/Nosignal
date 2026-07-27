@@ -1366,12 +1366,14 @@ https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="World Cup 2026", WC2026 🇲🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://cdn.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
+
+
 =======================LIVE EVENT===========================================
 
-#EXTINF:-1  group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://cdn1-production-images-kly.akamaized.net/k_IXNhEefd-D9ly3W2KXHW7FzS4=/1x250:1080x858/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4610061/original/098944100_1697206423-Timnas_Indonesia_-_Kerasnya_Persaingan_Kualifikasi_Piala_Duniapsd_copy.jpg" group-title="LIVE EVENT",DRQ Legend VS Barcelona Legends
+#EXTINF:-1  group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://cdn1-production-images-kly.akamaized.net/k_IXNhEefd-D9ly3W2KXHW7FzS4=/1x250:1080x858/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4610061/original/098944100_1697206423-Timnas_Indonesia_-_Kerasnya_Persaingan_Kualifikasi_Piala_Duniapsd_copy.jpg" group-title="LIVE EVENT",TIMNAS INDO VS KAMBOJA AFF
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://linier-nt.rctiplus.id/backup2-avc1_2500000=11-mp4a_128000=2.m3u8
+https://streaming7.aboozayed.web.id/mewatch6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="" group-title="LIVE EVENT" tvg-logo="https://cdn1-production-images-kly.akamaized.net/k_IXNhEefd-D9ly3W2KXHW7FzS4=/1x250:1080x858/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4610061/original/098944100_1697206423-Timnas_Indonesia_-_Kerasnya_Persaingan_Kualifikasi_Piala_Duniapsd_copy.jpg", TIMNAS INDONESIA VS BULGARIA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
