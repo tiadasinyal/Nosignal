@@ -1369,13 +1369,8 @@ https://cdn.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 
 
 =======================LIVE EVENT===========================================
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-#EXTINF:-1  group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/Logo_Piala_Asean_2026.svg.png" group-title="LIVE EVENT",AFF ch 1
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-#EXTINF:-1 tvg-id="113" tvg-name="Sportstars 2" group-logo="https://www.rctiplus.com/assets-embed/image/elements/svgv3/logo-nav-rcti.svg" tvg-logo="https://airsheet-nocodb.s3.ap-southeast-3.amazonaws.com/nc/uploads/noco/p8ig65xwxm0rajq/m6iuq4wc9hdwnik/cju6zex584dg51t/SPORTSTARS 2_duHj1.png" group-title="LIVE EVENT", Sportstars 2
+Mewatch live5 
+#EXTINF:-1 tvg-id="113" group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-name="Sportstars 2" group-logo="https://www.rctiplus.com/assets-embed/image/elements/svgv3/logo-nav-rcti.svg" tvg-logo="https://airsheet-nocodb.s3.ap-southeast-3.amazonaws.com/nc/uploads/noco/p8ig65xwxm0rajq/m6iuq4wc9hdwnik/cju6zex584dg51t/SPORTSTARS 2_duHj1.png" group-title="LIVE EVENT", Sportstars 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1383,13 +1378,14 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://stream.vplus72.workers.dev/?id=113&type=drm
 https://stream.vplus72.workers.dev/?id=113&type=dash
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-id="98202" tvg-logo="https://i.ibb.co.com/Tqw1DV9f/livevnt.png",Asean Championship cup 2026 EVENT 5 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c61d6aacd14b46d0832c76081ab2877b:7d77094f1e7d835083134e60eed9dcdd
+#KODIPROP:inputstream.adaptive.license_key=50c6039b44e5412290968affbe4575b0:08d36fa7dafe5dc55114845d0b73b9e4
+#EXTINF:-1  group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/Logo_Piala_Asean_2026.svg.png" group-title="LIVE EVENT",AFF ch 1
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c6039b44e5412290968affbe4575b0:08d36fa7dafe5dc55114845d0b73b9e4
 #EXTINF:-1  group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/Logo_Piala_Asean_2026.svg.png" group-title="LIVE EVENT",AFF ch 2
 https://tglmp02.akamaized.net/out/v1/94904b87bd2b434c8859ef6c13405466/manifest.mpd
 
