@@ -25,6 +25,70 @@
 #EXTINF:-1 tvg-id="4028c6856b6088c3016b87d64b970b53" tvg-logo="https://cdnjkt913..co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="Trial", HBO 913 WV
 https://cdnjkt913..co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
+#EXTINF:-1 tvg-id="TVOne" tvg-name="TVOne" group-logo="https://cdn-icons-png.flaticon.com/512/14936/14936031.png" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/930c8097-dc6b-4161-b414-d7a70b0b8b98.png" group-title="LIVE EVENT", TVOne pve-idc3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+https://pve-idc3.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/VFZPTkU/manifest.mpd
+
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" group-logo="https://cdn-icons-png.flaticon.com/512/14936/14936031.png" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/419ddbb6-dc83-4e1a-89e6-13c6c9422577.png" group-title="LIVE EVENT", GTV pve-idc3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+https://pve-idc3.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/R1RWLUNIQU5ORUw/manifest.mpd
+
+#EXTINF:-1 tvg-id="MDTV" tvg-name="MDTV" group-logo="https://cdn-icons-png.flaticon.com/512/14936/14936031.png" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/b717b7b9-4dab-4e80-8221-9bd42d3f26f1.png" group-title="LIVE EVENT", MDTV pve-idc3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+https://pve-idc3.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/TURUVg/manifest.mpd
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-logo="https://cdn-icons-png.flaticon.com/512/14936/14936031.png" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/15c10f90-4304-4410-a418-67891b5c185d.png" group-title="LIVE EVENT", RCTI pve-idc3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+https://pve-idc3.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/UkNUSS1DaGFubmVs/manifest.mpd
+
+#EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV" group-logo="https://cdn-icons-png.flaticon.com/512/14936/14936031.png" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="LIVE EVENT", Trans TV pve-idc3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+https://pve-idc3.transvision.co.id/riutx01-fea82134df35bbf3a5ab20fa4f2a1dc1/dash/VHJhbnNUVg/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/e1d6bd56-4209-4337-b0f7-553fb6fdec9a.png" group-title="LIVE EVENT", BTV cdnjktcyber05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers={"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HTfweZELSfCLQN61R1FMdg==","k":"xOrZuM4SQqOLuwjrpdKvSg=="}],"type":"temporary"}
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/QlRWIENoYW5uZWw/manifest.mpd?signature=MzYyOGYxNzA3ZjM1YmQ1NjU4M2JkN2NjNDYzMWExYmQ=&time=15226144604
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f0771c7b-d473-4fa4-ad0f-cdffd4bc0ac5.jpg" group-title="LIVE EVENT", Kompas TV cdnjktcyber05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers={"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HTfweZELSfCLQN61R1FMdg==","k":"xOrZuM4SQqOLuwjrpdKvSg=="}],"type":"temporary"}
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/S29tcGFzIFRW/manifest.mpd?signature=NjAwYTU3NDYyZGFmMjllN2JmZmQyNWU2ZWU1NTI4MTc=&time=15226144604
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/b717b7b9-4dab-4e80-8221-9bd42d3f26f1.png" group-title="LIVE EVENT", MDTV cdnjktcyber05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers={"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HTfweZELSfCLQN61R1FMdg==","k":"xOrZuM4SQqOLuwjrpdKvSg=="}],"type":"temporary"}
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/TURUVg/manifest.mpd?signature=YzdkYzVlNWYyZWI0ZGJkNGZiYzZjN2Q3M2JlZmY4MDE=&time=15226144604
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f4bd6cd9-d8a5-4f42-8dce-7f332ec55940.jpg" group-title="LIVE EVENT", rtv cdnjktcyber05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers={"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HTfweZELSfCLQN61R1FMdg==","k":"xOrZuM4SQqOLuwjrpdKvSg=="}],"type":"temporary"}
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/cnR2IENobmw/manifest.mpd?signature=MDhhYzk4Yjk0ODBhYTJkZTkxOGVhYzM1MmYxMGVhY2Y=&time=15226144604
+
+
 #EXTINF:-1 tvg-id="ID.194" tvg-logo="https://servicebuss..co.id/hospitality/v1/files/channel_image/274d8780-8a11-4f25-8468-7c8da630484f.png" group-title="Trial", tVN jkkidc ck
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
