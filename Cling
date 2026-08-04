@@ -80,7 +80,7 @@ https://cdnjktidc01.transvision.co.id/riutx01-ec0c84b1dd93843d113ede6826859b01/d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e48a682b976e4155be8faea47f3b632c:bc47d6b9a9d0478a80d7eada933bcb92
+#KODIPROP:inputstream.adaptive.license_key=a6f12d46d5a33a8e99a789253695e26e:deaf86ab9eddc7a66f847c90df18d88f,d97b72e204a630bb95e9cc1195987497:54da72e21759a68ff3b460dd5ba8cf06,416b74507661346f6164737379443668:47743358367765396437354b30774244,cc9eef1edf5e35c88235204d56f224f2:46d472f09a32899c125a2c3069492db0,065b9f97b770306e9d53dcd616b2709a:b2cebcdad29c9fa1a3613046b5651f08,1e873d43a4f130b4acab144567b48314:7743afdbda0232e153e9806138d7377d
 #EXTINF:-1 tvg-id="" group-title="Trial" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",HBO 913 ck
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
@@ -88,7 +88,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=315376494d5743594544753665377134:6b435a6b5479634a6b3871625a596838
+#KODIPROP:inputstream.adaptive.license_key=504f446b524b384b7679675773743236:70743451594d576e5a4c65506569426e
 #EXTINF:-1 tvg-id="" group-title="Trial" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",HBO Signature 913 ck
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
@@ -96,7 +96,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5454376b416177365674647773333752:34304a6a4e6172557444676557737650
+#KODIPROP:inputstream.adaptive.license_key=724d694c5262504d707839354672584d:457342484b5851736564487130397a56
 #EXTINF:-1 tvg-id="" group-title="Trial" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",HBO Hits 913 ck
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
@@ -104,7 +104,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e70965da05b338bca4091186785e5c12:56be08f19c398976fcaf55ed716b87a3
+#KODIPROP:inputstream.adaptive.license_key=eda586791b53388ab5fb29b67bd5ceb8:f21a7c68b5a41554003d0207f3cac354,7737475074686773477770687a637442:545965514575566765686f5375484136,53ea747ec3f33ea58a96365e6495e2ea:a67dbaf16d058611e1717d50bd9d8234,c07c97ac15be3979a26e6b5d37ef1107:2450434f26936dca521938c107fc6672,18dfd383307738468f2e04a19f9b903b:188236c0df858354c55f9e1f509819dc,e70965da05b338bca4091186785e5c12:56be08f19c398976fcaf55ed716b87a3
 #EXTINF:-1 tvg-id="" group-title="Trial" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",HBO Family 913 ck
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
@@ -112,9 +112,9 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d05592
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e70965da05b338bca4091186785e5c12:56be08f19c398976fcaf55ed716b87a3
-#EXTINF:-1 tvg-id="" group-title="Trial" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",HBO Family 913 CK
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=614a74726d6a4e50483547704f746979:39556563333039445762455a77587642
+#EXTINF:-1 tvg-id="" group-title="Trial" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",Cinemax 913 CK
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
