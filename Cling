@@ -77,7 +77,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-00bbafa39c5c37d8acb69411685a48af
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/0cc347d7-f3dc-49e8-ac20-53f4c3257019.jpg" tvg-name="" group-title="Trial", CNN Indonesia cyber05 udin
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://udinlaw.serv00.net/cubmu-new/play-new-update.php?id=212-cnn-indonesia&type=drm
 https://udinlaw.serv00.net/cubmu-new/play-new-update.php?id=212-cnn-indonesia&type=dash
 
