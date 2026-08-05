@@ -13,6 +13,29 @@
 
 --------------trial---------------------
 
+#EXTINF:-1 tvg-id="321.trans" ch-number="321" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017e9052a68542f9/d6d16992f4d34a1e929cb40c1403dfd3.jpg" group-title="Trial",tvN [xgo]
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmugay.ambatukan.workers.dev
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
+
+#EXTINF:-1 tvg-id="323.trans" ch-number="323" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f5589608831bb/c011a5ac2c854d768242c1d8bdbb0bda.png" group-title="Trial",KBS World [xgo]
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmugay.ambatukan.workers.dev
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f5589608831bb/manifest.mpd
+
+#EXTINF:-1 tvg-id="324.trans" ch-number="324" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cf0b78ee573e4/86b0e0ba565f4201a125338d37695196.png" group-title="Trial",ONE [xgo]
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmugay.ambatukan.workers.dev
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cf0b78ee573e4/manifest.mpd
+
+#EXTINF:-1 tvg-id="327.trans" ch-number="327" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685910daca60191a29de97f443a/e3f6f5e28b8d4846a93ece320fe8ad8d.jpg" group-title="Trial",Channel Jowo [xgo]
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmugay.ambatukan.workers.dev
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685910daca60191a29de97f443a/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="ID.194" tvg-logo="https://servicebuss..co.id/hospitality/v1/files/channel_image/274d8780-8a11-4f25-8468-7c8da630484f.png" group-title="Trial", tVN jkkidc ck
