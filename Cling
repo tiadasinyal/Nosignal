@@ -12,6 +12,38 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
 =====================TV=========================
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d01e8ab3d1259b40287779c48a9012a:46f67e93a322c11e8160358e93c04998
+#EXTINF:-1 tvg-id="" group-title="TV" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",TVN CK
+https://cdnjktbpid02.transvision.co.id/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/dHZOQ2hhbm5lbA/vx9-mdrmprt02/manifest.mpd?signature=YTNjMDExZmE0ZGFkZDg3YzNjZGU2YWI5ZGE5Yjg1MGM=&time=15243745161
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0ad1a0375c1df0b3eebb615666c98e4:7d51405475c41399feab70cd372ac0db
+#EXTINF:-1 tvg-id="" group-title="TV" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",TVN Mov CK
+https://cdnjktbpid02.transvision.co.id/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/VFZOIE1vdmllcw/vx9-mdrmprt02/manifest.mpd?signature=ZGM1Y2FiZDFkOGQ0MjdjNmY5Yjg1ZTE4MDY3Zjc5MDE=&time=15243746340
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4422578c6d08be6228d0d6d6c79ce98e:5cf3f6f24fae7cae6eefaad81db30baf
+#EXTINF:-1 tvg-id="" group-title="TV" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",NHK Pre CK
+https://cdnjktbpid02.transvision.co.id/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/TkhLIFdvcmxkIFByZW1pdW0/vx9-mdrmprt02/manifest.mpd?signature=NmRiY2JkNDRlMGJhNTRlMzkxMDY1MjY5MDAwNTNlODM=&time=15243745536
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34fe96d2dc914673f817529b2643026e:956534bcce9933ab317d48a6fd37b8ae
+#EXTINF:-1 tvg-id="" group-title="TV" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",Cooking TV CK
+https://cdnjktbpid02.transvision.co.id/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/Q29va2luZyBUVg/vx9-mdrmprt02/manifest.mpd?signature=YmRmNDEyODEwYTE2Y2YzYWNmODZlZjUwYmY4NDAwNTc=&time=15243746062
 
 #EXTINF:-1 tvg-id="" group-title="TV" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",Bioskop indo test
 http://192.168.1.125:8088/live/manifest.mpd
