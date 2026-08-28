@@ -41,7 +41,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
-
 #EXTINF:-1 tvg-id="210" tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="TV",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -74,113 +73,88 @@ https://cdnjktcyber05.transvision.co.id/riutx01-53db3d0d98993956b8461f4e424179db
 
 --------------trial---------------------
 
-#EXTINF:-1 tvg-id="105.trans" ch-number="105" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="Trial",HBO [andi]
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
+#EXTINF:-1 tvg-id="105.trans" ch-number="105" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="Trial",HBO 2
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 tvg-id="106.trans" ch-number="106" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="Trial",HBO Signature [andi]
+#EXTINF:-1 tvg-id="106.trans" ch-number="106" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="Trial",HBO Signature 2
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1 tvg-id="107.trans" ch-number="107" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="Trial",HBO Hits [andi]
+#EXTINF:-1 tvg-id="107.trans" ch-number="107" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="Trial",HBO Hits 2
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 tvg-id="108.trans" ch-number="108" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="Trial",HBO Family [andi]
+#EXTINF:-1 tvg-id="108.trans" ch-number="108" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="Trial",HBO Family 2
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 tvg-id="109.trans" ch-number="109" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="Trial",Cinemax [andi]
+#EXTINF:-1 tvg-id="109.trans" ch-number="109" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="Trial",Cinemax 2
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="321.trans" ch-number="321" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017e9052a68542f9/d6d16992f4d34a1e929cb40c1403dfd3.jpg" group-title="Trial",tvN [andi]
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
 
-#EXTINF:-1 tvg-id="323.trans" ch-number="323" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f5589608831bb/c011a5ac2c854d768242c1d8bdbb0bda.png" group-title="Trial",KBS World [andi]
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f5589608831bb/manifest.mpd
-
-#EXTINF:-1 tvg-id="324.trans" ch-number="324" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cf0b78ee573e4/86b0e0ba565f4201a125338d37695196.png" group-title="Trial",ONE [andi]
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cf0b78ee573e4/manifest.mpd
-
-#EXTINF:-1 tvg-id="327.trans" ch-number="327" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685910daca60191a29de97f443a/e3f6f5e28b8d4846a93ece320fe8ad8d.jpg" group-title="Trial",Channel Jowo [andi]
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685910daca60191a29de97f443a/manifest.mpd
-
--------
-
-#EXTINF:-1 tvg-id="105.trans" ch-number="105" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="Trial",HBO [cau]
+#EXTINF:-1 tvg-id="105.trans" ch-number="105" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="Trial",HBO 3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://istriku.hennirusmayana.workers.dev/
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 tvg-id="106.trans" ch-number="106" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="Trial",HBO Signature [cau]
+#EXTINF:-1 tvg-id="106.trans" ch-number="106" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="Trial",HBO Signature 3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://istriku.hennirusmayana.workers.dev/
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1 tvg-id="107.trans" ch-number="107" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="Trial",HBO Hits [cau]
+#EXTINF:-1 tvg-id="107.trans" ch-number="107" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="Trial",HBO Hits 3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://istriku.hennirusmayana.workers.dev/
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 tvg-id="108.trans" ch-number="108" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="Trial",HBO Family [cau]
+#EXTINF:-1 tvg-id="108.trans" ch-number="108" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="Trial",HBO Family 3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://istriku.hennirusmayana.workers.dev/
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 tvg-id="109.trans" ch-number="109" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="Trial",Cinemax [cau]
+#EXTINF:-1 tvg-id="109.trans" ch-number="109" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="Trial",Cinemax 3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://istriku.hennirusmayana.workers.dev/
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="321.trans" ch-number="321" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017e9052a68542f9/d6d16992f4d34a1e929cb40c1403dfd3.jpg" group-title="Trial",tvN [cau]
+#EXTINF:-1 tvg-id="321.trans" ch-number="321" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017e9052a68542f9/d6d16992f4d34a1e929cb40c1403dfd3.jpg" group-title="Trial",tvN 3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://istriku.hennirusmayana.workers.dev/
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
 
-#EXTINF:-1 tvg-id="323.trans" ch-number="323" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f5589608831bb/c011a5ac2c854d768242c1d8bdbb0bda.png" group-title="Trial",KBS World [cau]
+#EXTINF:-1 tvg-id="323.trans" ch-number="323" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f5589608831bb/c011a5ac2c854d768242c1d8bdbb0bda.png" group-title="Trial",KBS World 3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://istriku.hennirusmayana.workers.dev/
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f5589608831bb/manifest.mpd
 
-#EXTINF:-1 tvg-id="324.trans" ch-number="324" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cf0b78ee573e4/86b0e0ba565f4201a125338d37695196.png" group-title="Trial",ONE [cau]
+#EXTINF:-1 tvg-id="324.trans" ch-number="324" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cf0b78ee573e4/86b0e0ba565f4201a125338d37695196.png" group-title="Trial",ONE 3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://istriku.hennirusmayana.workers.dev/
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cf0b78ee573e4/manifest.mpd
 
-#EXTINF:-1 tvg-id="327.trans" ch-number="327" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685910daca60191a29de97f443a/e3f6f5e28b8d4846a93ece320fe8ad8d.jpg" group-title="Trial",Channel Jowo [cau]
+#EXTINF:-1 tvg-id="327.trans" ch-number="327" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685910daca60191a29de97f443a/e3f6f5e28b8d4846a93ece320fe8ad8d.jpg" group-title="Trial",Channel Jowo 3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://istriku.hennirusmayana.workers.dev/
@@ -188,25 +162,25 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685910daca60191a29
 
 -----------------------------
 
-#EXTINF:-1 tvg-id="105.trans" ch-number="105" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="Trial",HBO [tvnid]
+#EXTINF:-1 tvg-id="105.trans" ch-number="105" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="Trial",HBO 4
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://stviptv.tvnid.workers.dev/
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 tvg-id="106.trans" ch-number="106" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="Trial",HBO Signature [tvnid]
+#EXTINF:-1 tvg-id="106.trans" ch-number="106" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="Trial",HBO Signature 4
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://stviptv.tvnid.workers.dev/
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1 tvg-id="107.trans" ch-number="107" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="Trial",HBO Hits [tvnid]
+#EXTINF:-1 tvg-id="107.trans" ch-number="107" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="Trial",HBO Hits 4
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://stviptv.tvnid.workers.dev/
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 tvg-id="108.trans" ch-number="108" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="Trial",HBO Family [tvnid]
+#EXTINF:-1 tvg-id="108.trans" ch-number="108" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="Trial",HBO Family 4
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://stviptv.tvnid.workers.dev/
@@ -1754,6 +1728,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=6&type=fitnah
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/g50Vt1H.png",Trans TV detik
 #EXTVLCOPT:http-referer=https://20.detik.com
