@@ -20,6 +20,13 @@
 #EXTINF:-1 tvg-id="" group-title="TV" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",TVN CK
 https://cdnjktbpid02.transvision.co.id/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/dHZOQ2hhbm5lbA/vx9-mdrmprt02/manifest.mpd?signature=YTNjMDExZmE0ZGFkZDg3YzNjZGU2YWI5ZGE5Yjg1MGM=&time=15243745161
 
+#EXTINF:-1 tvg-id="9182" tvg-logo="https://thumbor.prod.vidiocdn.com/TRXqsPqp4vYy2IV5LyM7TFC9_N8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg" group-title="TV", Champions TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gangbangbonetv.lampasioagus.workers.dev/index.mpd?id=9182&type=drm
+https://gangbangbonetv.lampasioagus.workers.dev/index.mpd?id=9182&type=dash
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
