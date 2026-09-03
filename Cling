@@ -178,6 +178,14 @@ https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016d054fb
 #KODIPROP:inputstream.adaptive.license_key=696774797a547057556d64556d343641:5a345079514842637565624b376a4657
 https://cdnjkt913.transvision.co.id:1003/live/master/5/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
+#EXTINF:-1 group-logo="https://www.cubmu.com/sidebar/cubmu.svg" tvg-id="201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/59e42ba7-a1d7-45af-a69e-8ca05ca51029.jpg" tvg-name="Trans 7" group-title="TV", Trans 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.sytes.net/drm-cubmu-web.php?id=trans7
+https://cdnjktbpid02.transvision.co.id/riutx01-59f0b6f76f1cb1e9e91193420c564d38/dash/VFJBTlM3LW15/vx9-mdrmprt02/manifest.mpd
+
 
 --------------trial---------------------
 
