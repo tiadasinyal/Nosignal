@@ -1082,6 +1082,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdJh5T9mjR_khHytH1Fj3gOToJf2L18dcAzPZmrvJaA&s=10" group-title="LIVE EVENT",PIALA PRESIDEN
 http://filex.me:8080/live/3114654477/5787654467/302264.ts
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="97078" tvg-logo="https://i.ibb.co.com/Tqw1DV9f/livevnt.png",U20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf2bc98934d365f8d433fa300d3fd022:06ee25c43bf72b1467015975968d420e,1af8aa56af16ad7b0bc7347c5f0d1b8c:61a1d2e5bfae14466d995edb1e379d6e
+https://tencent-1.vidiostream.com/wmt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NUb2tlblNlc3Npb25JZCI6IiIsImV4cCI6MTc4OTAyOTI3OCwiZnJhZ2R1cmF0aW9uIjoyMDAwLCJpYXQiOjE3ODg0MjQ0NzgsIm5iZiI6MTc4ODQyNDQ3OCwidHh3bXZlciI6MSwid21wYXQiOiJvTThmNXd3PSIsIndtcGF0Zm10IjoiYmFzZTY0Iiwid21wYXRsZW4iOjQwfQ.98XXG5WJ8TdS7IRhbT-KEtAXR_GOIOQxZaVNgAfrw-A/live/tencent-1-drm-dash/main.mpd
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="97078" tvg-logo="https://i.ibb.co.com/Tqw1DV9f/livevnt.png",EVENT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
@@ -3701,50 +3706,65 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 ####https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(vc1021n07j)/master_2min.mpd
 
-#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 1
-#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",PREMIER_LEAGUE_TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://cdn.stmify.com/peacock/stream/PREMIER_LEAGUE_TV/master.mpd
 
-#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 2
-#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",NBC_SPORTS_NOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+https://cdn.stmify.com/peacock/stream/NBC_SPORTS_NOW/master.mpd
 
-#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 3
-#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",NBC_SPORTS_BAY_AREA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=20b593e9bee43324a8b1d830eaa82d78:a87dba51bd2dd7f7879730ac2bd4005b
+https://cdn.stmify.com/peacock/stream/NBC_SPORTS_BAY_AREA/master.mpd
 
-#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 4
-#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://eventcdn02-nowe.akamaized.net/hls/CH624/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",NBC_SPORTS_BOSTON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f73521c174532e59711ccb4462ac770:f06c7f95319c0386b4fc5fa3d58ab504
+https://cdn.stmify.com/peacock/stream/NBC_SPORTS_BOSTON/master.mpd
 
-#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 5
-#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://eventcdn02-nowe.akamaized.net/hls/CH625/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",NBC_SPORTS_PHILADELPHIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e07a6dfad8333a388f2a931a743621b9:638ff7ec62eeee611927f1d6d5baa146
+https://cdn.stmify.com/peacock/stream/NBC_SPORTS_PHILADELPHIA/master.mpd
 
-#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 6
-#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://eventcdn02-nowe.akamaized.net/hls/CH626/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",TELEMUNDO_DEPORTES_AHORA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=300b58dfdaf35e8537ce25c39e99aec7:6fc107a6f62f39da27b36ff079d7f937
+https://cdn.stmify.com/peacock/stream/TELEMUNDO_DEPORTES_AHORA/master_2min.mpd
 
-#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 7
-#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://eventcdn02-nowe.akamaized.net/hls/CH627/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",TELEMUNDO_CHICAGO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+https://cdn.stmify.com/peacock/stream/TELEMUNDO_CHICAGO/master.mpd
 
-#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 8
-#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://eventcdn02-nowe.akamaized.net/hls/CH611/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",NFL_CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
+https://cdn.stmify.com/peacock/stream/NFL_CHANNEL/master.mpd
 
-#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 9
-#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://eventcdn02-nowe.akamaized.net/hls/CH612/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",TEAM_USA_TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020caf877f76b8c7775ffc47f189832:dcab0c4bd6e6982d736c93d737e181da
+https://cdn.stmify.com/peacock/stream/TEAM_USA_TV/master.mpd
 
-#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 10
-#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://eventcdn02-nowe.akamaized.net/hls/CH613/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="Olahraga 1", EPL 11
-#EXTVLCOPT:Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://eventcdn02-nowe.akamaized.net/hls/CH680/index.m3u8
-
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",TOP_GEAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020a49a0d48d25362f30057e72f0b4a:86abf8c2a6f693a958c6492bef11ee81
+https://cdn.stmify.com/peacock/stream/TOP_GEAR/master.mpd12:27
 #EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1", FS1 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5860,6 +5880,24 @@ https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-327770703
 
 #EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79IMN.png" group-title="Premium Movies",HBO Signature
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="1104" tvg-name="Star Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="Premium Movies",Star Movies HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fb29e5825b4554090de8d60674e4bd1:4234d56f45d2dc89f80e6d4d30b765be
+#EXTVLCOPT:http-user-agent=Droovy
+#EXTHTTP:{"cookie": "__hdnea__=st=1787887815~exp=1787909415~acl=/*~hmac=2271781696ad153ef787e3f76c46ab66296eef02a3ff9c57f5cb179d07774d51"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_MOB/WDVLive/index.mpd
+
+#EXTINF:-1 tvg-id="1110" tvg-name="Star Movies Select HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="Premium Movies",Star Movies Select HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
+#EXTVLCOPT:http-user-agent=Droovy
+#EXTHTTP:{"cookie": "__hdnea__=st=1787887815~exp=1787909415~acl=/*~hmac=2271781696ad153ef787e3f76c46ab66296eef02a3ff9c57f5cb179d07774d51"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_MOB/WDVLive/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
