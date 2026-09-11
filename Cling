@@ -1663,6 +1663,12 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #EXTHTTP:{"Referer":"https://www.dens.tv/","referrer":"https://www.dens.tv/","Origin":"https://www.dens.tv","User-Agent":"DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1","user-agent":"DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"}
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 
+#EXTINF:-1 group-title="TV National" tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/1K6Q4RY.png",Indosiar HD Digi
+https://ogietv.biz.id:443/Livetv/234/1325.m3u8
+https://filex.me:8080/live/3114654477/5787654467/302264.ts
+https://bigdickgital.semar26.xyz/fetch?id=idigital.m3u8&auth=idgtlsemar25
+http://013tv.com:8080/F33848/cbd9779b/162138
+
 
 #EXTINF:-1 group-title="TV National" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/xYtZ3ll.png",SCTV HD
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -1672,7 +1678,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=2048&type=drm
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 
-
 #EXTINF:-1 group-title="TV National" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/xYtZ3ll.png",SCTV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -1681,6 +1686,11 @@ https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=9&type=fitnah
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+
+#EXTINF:-1 group-title="TV National" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/xYtZ3ll.png",SCTV HD Digi
+http://filex.me:8080/live/3114654477/5787654467/302264.ts
+https://bigdickgital.semar26.xyz/fetch?id=sdigital.m3u8&auth=sdgtlsemar25
+http://013tv.com:8080/F33848/cbd9779b/162141
 
 #EXTINF:-1 group-title="TV National" tvg-id="MOJI.id" tvg-logo="https://i.imgur.com/8KN5BFs.png",Moji HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -1707,7 +1717,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTVLCOPT:http-referer=https://20.detik.com
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://20.detik.com/watch/livestreaming-transtv
+https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1789094656652&wowzatokenhash=j5eIMsp1fDc1UuWij4a-FNiRO9J3ZX1GJ0AjHki9uxQ%3D
 
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/wWvZ5in.png",Trans 7
@@ -1721,7 +1731,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTVLCOPT:http-referer=https://20.detik.com
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://20.detik.com/watch/livestreaming-trans7
+https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1789094656599&wowzatokenhash=lrPCfoDZxj8xzNd2FOl2e1Cj1yXmnIVsdenuV6coG68%3D
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1731,6 +1741,18 @@ http://20.detik.com/watch/livestreaming-trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="TV National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png?_=20251220212259",CNBC Indonesia
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
+
+#EXTINF:-1 group-title="TV National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png?_=20251220212259",CNBC Indonesia
+#EXTVLCOPT:http-referer=https://20.detik.com
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1789094656751&wowzatokenhash=OR6yqc_ZgkolOPajZLpkNRtKzHK73j--kLtvr96gruQ%3D
+
+#EXTINF:-1 group-title="TV National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/330px-CNN_Indonesia_logo.svg.png",CNN Indonesia
+#EXTVLCOPT:http-referer=https://20.detik.com
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1789094656701&wowzatokenhash=pfSHtAlRWNG3osz0FNPoDVItUXDvMhSxp5Q5P-oeXXY%3D
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
