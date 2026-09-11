@@ -1714,7 +1714,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/g50Vt1H.png",Trans TV detik
-#EXTVLCOPT:http-referer=https://20.detik.com
+#EXTVLCOPT:http-referer=https://20.detik.com/live/trans-tv
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1789094656652&wowzatokenhash=j5eIMsp1fDc1UuWij4a-FNiRO9J3ZX1GJ0AjHki9uxQ%3D
@@ -1728,7 +1728,7 @@ https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenst
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/wWvZ5in.png",Trans 7 detik
-#EXTVLCOPT:http-referer=https://20.detik.com
+#EXTVLCOPT:http-referer=https://20.detik.com/live/trans-7
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1789094656599&wowzatokenhash=lrPCfoDZxj8xzNd2FOl2e1Cj1yXmnIVsdenuV6coG68%3D
@@ -1743,16 +1743,10 @@ https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8?wowzatokenstar
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png?_=20251220212259",CNBC Indonesia
-#EXTVLCOPT:http-referer=https://20.detik.com
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1789094656751&wowzatokenhash=OR6yqc_ZgkolOPajZLpkNRtKzHK73j--kLtvr96gruQ%3D
-
-#EXTINF:-1 group-title="TV National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/330px-CNN_Indonesia_logo.svg.png",CNN Indonesia
-#EXTVLCOPT:http-referer=https://20.detik.com
-#EXTVLCOPT:http-origin=https://20.detik.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1789094656701&wowzatokenhash=pfSHtAlRWNG3osz0FNPoDVItUXDvMhSxp5Q5P-oeXXY%3D
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1761,6 +1755,12 @@ https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/playlist.m3u8?wowzatok
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="TV National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/330px-CNN_Indonesia_logo.svg.png",CNN Indonesia
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
+
+#EXTINF:-1 group-title="TV National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/330px-CNN_Indonesia_logo.svg.png",CNN Indonesia
+#EXTVLCOPT:http-referer=https://www.cnnindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1789094656701&wowzatokenhash=pfSHtAlRWNG3osz0FNPoDVItUXDvMhSxp5Q5P-oeXXY%3D
 
 
 #EXTINF:-1 group-title="TV National" tvg-id="NET TV.id" tvg-logo="https://i.imgur.com/apTPT8k.png",MDTV HD
