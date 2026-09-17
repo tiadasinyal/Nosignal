@@ -1646,6 +1646,12 @@ https://stream.urfan.id/tvone
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=8&type=fitnah
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTINF:-1 group-title="TV National" tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/1K6Q4RY.png",Indosiar HD
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
+
 
 #EXTINF:-1 group-title="TV National" tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/1K6Q4RY.png",Indosiar HD
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -1678,6 +1684,12 @@ http://013tv.com:8080/F33848/cbd9779b/162138
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=2048&type=drm
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTINF:-1 group-title="TV National" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/xYtZ3ll.png",SCTV HD
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=204
+
 #EXTINF:-1 group-title="TV National" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/xYtZ3ll.png",SCTV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -1696,6 +1708,12 @@ http://013tv.com:8080/F33848/cbd9779b/162141
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://dens.tv/
 https://stream.urfan.id/moji
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTINF:-1 group-title="TV National" tvg-id="MOJI.id" tvg-logo="https://i.imgur.com/8KN5BFs.png",Moji HD
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=206
 
 #EXTINF:-1 group-title="TV National" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mentari_TV_Logo.svg/250px-Mentari_TV_Logo.svg.png",Mentari TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
