@@ -1414,18 +1414,17 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=6&type=drm&token=alf-store
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/g50Vt1H.png",Trans TV
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=733
-
-
 #EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/g50Vt1H.png",Trans TV detik
 #EXTVLCOPT:http-referer=https://20.detik.com/live/trans-tv
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/g50Vt1H.png",Trans TV
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=733
 
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/wWvZ5in.png",Trans 7
@@ -1437,17 +1436,22 @@ https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=7&type=drm&token=alf-store
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
+#EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/wWvZ5in.png",Trans 7 detik
+#EXTVLCOPT:http-referer=https://20.detik.com/live/trans-7
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/wWvZ5in.png",Trans 7
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=734
 
-#EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/wWvZ5in.png",Trans 7 detik
-#EXTVLCOPT:http-referer=https://20.detik.com/live/trans-7
-#EXTVLCOPT:http-origin=https://20.detik.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+
+#EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/wWvZ5in.png",Trans 7 Oxy
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240610 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://cikgusuraya.tech/oxygen/index.m3u8?id=trans7
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
