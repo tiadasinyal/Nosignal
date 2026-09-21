@@ -4355,6 +4355,15 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=115&type=drm&token=alf-store
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SoccerChannel2020.png/revision/latest?cb=20220810085741" group-title="Olahraga 2",Soccer Channel
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=115&type=drm&token=alf-store
+https://vision.hoe.my.id/play?ids=115&type=dash&token=alf-store
+
 #EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SoccerChannel2020.png/revision/latest?cb=20220810085741" group-title="Olahraga 2",Soccer Channel ION
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -4998,62 +5007,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 ====================================Olahraga 3===================================
 
-#EXTINF:-1 group-title="Olahraga 3" tvg-id="dlhd-445" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/dazn-1-be.png",DAZN 1 Spain
-https://deditest.jupex.workers.dev/445/playlist.m3u8
-#EXTINF:-1 group-title="Spain" tvg-id="dlhd-446" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/dazn-2-be.png",DAZN 2 Spain
-https://deditest.jupex.workers.dev/446/playlist.m3u8
-#EXTINF:-1 group-title="Spain" tvg-id="dlhd-447" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/dazn-3-be.png",DAZN 3 Spain
-https://deditest.jupex.workers.dev/447/playlist.m3u8
-#EXTINF:-1 group-title="Spain" tvg-id="dlhd-448" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/dazn-4-be.png",DAZN 4 Spain
-https://deditest.jupex.workers.dev/448/playlist.m3u8
-
-#EXTINF:-1 tvg-uid="3c9aa8870153724ecf770977e599dbbb" data-source="LiveTVluar" tvg-chno="71" tvg-id="DAZN1.DE" tvg-name="DAZN 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/dazn-1.webp" group-title="Olahraga 3",DAZN 1
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201&code=de&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201&code=de&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca0/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EwOjE3ODU5NDYzMDQwOTE6Y2RubGl2ZXR2LnR2Ojg4MDQ4NWY5NmI5MWIwODAuN2MxZmNlOTVjYjNiY2QxOGY0Njk2NTcwNWMwODdlZDdlMzBhNGY3MmU1ZWE5OTJhNmM3NzJjNmMzYjZmNjZhYw|x-forwarded-for:109.236.88.82
-#EXTINF:-1 tvg-uid="3c9aa8870153724ecf770977e599dbbb" data-source="LiveTVluar" tvg-chno="72" tvg-id="DAZN1.GB" tvg-name="DAZN 1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/dazn-1.webp" group-title="Olahraga 3",DAZN 1
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201&code=gb&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201&code=gb&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd447/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDQ3OjE3ODU5NDYzMDQzODE6Y2RubGl2ZXR2LnR2Ojg1OGQyZTUzM2Y5ZTExMTUuMDIzOGY2M2FmZjIxM2QyZTNhNWI2NjA0MjQ1OWI0ZjhjMTMwZThhODFiZjVmNjRmYWY1ZGZhNTM3ZTQwOGUzZA|x-forwarded-for:109.236.88.82
-#EXTINF:-1 tvg-uid="da01a4dc7813e0acfa2e1132fc3b27fa" data-source="LiveTVluar" tvg-chno="73" tvg-id="DAZN2.DE" tvg-name="DAZN 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/dazn-2.webp" group-title="Olahraga 3",DAZN 2
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202&code=de&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202&code=de&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca2/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EyOjE3ODU5NDYzMDQ2NjI6Y2RubGl2ZXR2LnR2OjgxODM4MTRhYjc5MTc5MjEuOTE2MmY5ZWZmMWUyOGZhMGFiZDI3MWRlZDkzMzBhNWM2M2M2YjM3MjgwNzI3NmQzYjhjZWVmZjI5Y2QwNWJiNg|x-forwarded-for:109.236.88.82
-#EXTINF:-1 tvg-uid="da01a4dc7813e0acfa2e1132fc3b27fa" data-source="LiveTVluar" tvg-chno="74" tvg-id="DAZN2.PT" tvg-name="DAZN 2" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/dazn-2.webp" group-title="Olahraga 3",DAZN 2
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202&code=pt&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202&code=pt&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd448/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDQ4OjE3ODU5NDYzMDQ5NDM6Y2RubGl2ZXR2LnR2OmFlYzk3NDQ2YjQ1ZmZjNjguZWY1MDFkODBjMGIyMjY2YWI5MmE5MjJkZGI3Yjk2MDJmOTA3ODFhMzJkY2IzNWY3MmE1YjNlNTVhMGJkYzE4Yw|x-forwarded-for:109.236.88.82
-#EXTINF:-1 tvg-uid="601837ae4a4296e11ac2aa479ccb2fa6" data-source="LiveTVluar" tvg-chno="75" tvg-id="DAZN3.PT" tvg-name="DAZN 3" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/dazn-3.webp" group-title="Olahraga 3",DAZN 3
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%203&code=pt&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%203&code=pt&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd449/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDQ5OjE3ODU5NDYzMDUyMjc6Y2RubGl2ZXR2LnR2OjE5ZTY1Y2E5MTRjMzFhMjUuMTdiMjA2MDNhODQxMjI2MTIyZjc4NGY5M2ZiM2FiMWY5ZDAxNTJkZTFmYmI2YmJjMzkzNTdlNWVjNWNkZTA2NA|x-forwarded-for:109.236.88.82
-#EXTINF:-1 tvg-uid="61d100a617303ff6d36a4f49273e8bd0" data-source="LiveTVluar" tvg-chno="76" tvg-id="DAZN4.PT" tvg-name="DAZN 4" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/dazn-4.webp" group-title="Olahraga 3",DAZN 4
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%204&code=pt&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%204&code=pt&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd44a/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDRhOjE3ODU5NDYzMDU1MTU6Y2RubGl2ZXR2LnR2OjYyMmYzOTI1NWZkNDhjOTcuNzE4NWNmNjg4NDgxYTUwNDdhOGU3YWEyNGMxNDk1ZTY2YzFkYjZmN2Y3OGNjZjZkMjg2ODgwYTU0NjgyZTBkMw|x-forwarded-for:109.236.88.82
-#EXTINF:-1 tvg-uid="639064aa4e70be29a50cff394924bf3b" data-source="LiveTVluar" tvg-chno="77" tvg-id="DAZN5.PT" tvg-name="DAZN 5" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/dazn-5.webp" group-title="Olahraga 3",DAZN 5
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%205&code=pt&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%205&code=pt&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd44b/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDRiOjE3ODU5NDYzMDU4MDQ6Y2RubGl2ZXR2LnR2OmFiZmU1NDc2ODYyZmNiMDguMDdlMGI2YmFiYTA2ZTBhYmUyMGNjN2Q4NTRjNDY0Mjk1MDI0OWIwYWE3NzRjOWJjNDNhYTRhNDg4MjljMzhlZA|x-forwarded-for:109.236.88.82
-#EXTINF:-1 tvg-uid="f52a23ea93649d2f59367c0d00fdd5ae" data-source="LiveTVluar" tvg-chno="78" tvg-id="DAZN6.PT" tvg-name="DAZN 6" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/dazn-6.webp" group-title="Olahraga 3",DAZN 6
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%206&code=pt&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%206&code=pt&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd44c/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDRjOjE3ODU5NDYzMDYxMDQ6Y2RubGl2ZXR2LnR2OjI3ZTZiZjZiOTM5MTkxNDMuYjk5YjJmZmNmYjQxMWM3NTU4MzEzOWJkMTc2NjE0NmE1YjY5ZWE2MjlkMTczMjQzMDFjY2QxMDMyNzIzNDZjNg|x-forwarded-for:109.236.88.82
-#EXTINF:-1 tvg-uid="67807ccc45b7e8114f4d2a8b70390ba4" data-source="LiveTVluar" tvg-chno="79" tvg-id="DAZNF1.ES" tvg-name="DAZN F1" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-f1.webp" group-title="Olahraga 3",DAZN F1
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=es&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=es&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc87a/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjODdhOjE3ODU5NDYzMDYzODI6Y2RubGl2ZXR2LnR2OmRjYWQ1Zjc3YzAxYWRkZWEuMTQzZGZiNjQxMmFkNzVhYmEzZjZkMWJmZWUyYWI5ZjY3YjIzNDdlMGFkYTBmODY2YTkxMDI4MWVmNGRmMTliMg|x-forwarded-for:109.236.88.82
-
-#EXTINF:-1 group-title="Olahraga 3" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/Spotv.png",SPOTV PH
+#EXTINF:-1 group-title="Olahraga 3"  group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUm4PP_y9jG7uwDwlyw6Pt3quCDTF1P0KRQ&s" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/Spotv.png",SPOTV PH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 #EXTVLCOPT:http-user-agent=TiviMate/4.7.0
