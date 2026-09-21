@@ -14,35 +14,35 @@
 =====================TV=========================
 
 
-#EXTINF:-1 group-type="TV" tvg-id="105.trans" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="| Transvision Cubmu", HBO [xgo]
+#EXTINF:-1 group-type="TV" tvg-id="105.trans" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="TV", HBO [xgo]
 #KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3575337a43565a74524d6b4f5a644f41:51794a4479324d6d5437674d45324f5a
 #EXTVLCOPT:http-user-agent=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 group-type="TV" tvg-id="106.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="| Transvision Cubmu", HBO Signature [xgo]
+#EXTINF:-1 group-type="TV" tvg-id="106.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="TV", HBO Signature [xgo]
 #KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c6f3639487571537a34374671755169:52583434694250615277634c6635757a
 #EXTVLCOPT:http-user-agent=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1 group-type="TV" tvg-id="107.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="| Transvision Cubmu", HBO Hits [xgo]
+#EXTINF:-1 group-type="TV" tvg-id="107.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="TV", HBO Hits [xgo]
 #KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7241396a514c61367337575157486d47:51644855636d6838307649755a37787a
 #EXTVLCOPT:http-user-agent=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 group-type="TV" tvg-id="108.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="| Transvision Cubmu", HBO Family [xgo]
+#EXTINF:-1 group-type="TV" tvg-id="108.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="TV", HBO Family [xgo]
 #KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=36627341726658795759766b36497963:6c4e484f336e724b7045536866684d39
 #EXTVLCOPT:http-user-agent=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 group-type="TV" tvg-id="109.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="| Transvision Cubmu", Cinemax [xgo]
+#EXTINF:-1 group-type="TV" tvg-id="109.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="TV", Cinemax [xgo]
 #KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=68516d6739344e466e39574749776874:53535134585a73547a63454c6d674c66
