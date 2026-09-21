@@ -1091,6 +1091,12 @@ https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.m
 https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Asian Games CH07" group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/6ren4wf.png" group-logo="https://iili.io/dIjMEdB.png", Asian Games 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd5881a779d148e18fb48d120bfb0056:5f7e80016181020e087586c4f7942929
+https://ls-mp02.eo-edgefunctions7.com/out/v1/ce69826a52c84c64ade5487a1e38f82d/manifest.mpd
+
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="97078" tvg-logo="https://i.ibb.co.com/Tqw1DV9f/livevnt.png",EVENT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
