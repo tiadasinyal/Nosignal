@@ -49,6 +49,20 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016d05592
 #EXTVLCOPT:http-user-agent=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="TV", FUBO SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tesplayer.tukang-colai.workers.dev/id=1
+https://tesplayer.tukang-colai.workers.dev/id=1
+
+#EXTINF:-1 type="live" tvg-id="105.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="TV", HBO [xgo]
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tesplayer.tukang-colai.workers.dev/id=2
+#EXTVLCOPT:http-user-agent=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+https://tesplayer.tukang-colai.workers.dev/id=2
+
 #EXTINF:-1 group-type="TV" tvg-id="105.trans" tvg-name="HBO" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/7cce0289-c742-4d11-a9b6-9be1db16ded6.jpg" group-title="TV",HBO Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
