@@ -1055,6 +1055,7 @@ https://cdn.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
 
+
 #EXTINF:-1 tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" group-title="LIVE EVENT", Asian Games 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
@@ -1095,6 +1096,9 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd5881a779d148e18fb48d120bfb0056:5f7e80016181020e087586c4f7942929
 https://ls-mp02.eo-edgefunctions7.com/out/v1/ce69826a52c84c64ade5487a1e38f82d/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Asian Games CH07" group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/6ren4wf.png" group-logo="https://iili.io/dIjMEdB.png", Asian Games 8 Badminton C1
+https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/332b71b2-71e4-4ee6-b755-1539513e9fd6/HLS_ENC/index.m3u8
 
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="97078" tvg-logo="https://i.ibb.co.com/Tqw1DV9f/livevnt.png",EVENT 1
