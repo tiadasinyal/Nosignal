@@ -1114,6 +1114,9 @@ https://ls-mp02.eo-edgefunctions7.com/out/v1/ce69826a52c84c64ade5487a1e38f82d/ma
 #EXTINF:-1 tvg-id="" tvg-name="Asian Games CH07" group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/6ren4wf.png" group-logo="https://iili.io/dIjMEdB.png", Asian Games 8 Badminton C1
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/b73d64f4-a528-4296-b051-5711e6a64f0e/HLS_ENC/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Asian Games CH07" group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/6ren4wf.png" group-logo="https://iili.io/dIjMEdB.png", Asian Games 8 Badminton C2
+https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/dba6af30-ebdd-4a92-a3b8-b8303d926188/HLS_ENC/index.m3u8
+
 
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="97078" tvg-logo="https://i.ibb.co.com/Tqw1DV9f/livevnt.png",EVENT 1
