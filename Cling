@@ -5604,6 +5604,12 @@ https://cdnjktbpid37.cubmu.com/riutx01-2f65b3d77c22543c5b585fb146ab3f3/dash/SEJP
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktbpid37.cubmu.com/riutx01-2f65b3d77c22543c5b585fb146ab3f3/dash/Q2luZW1heA/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0b6d210096/1965733f57cc4d10a8466d39ce0a1ec6.jpg" group-title="Premium Movies",Trans TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/VHJhbnNUVg.mpd?exp=1791364435&channel=VHJhbnNUVg&sig=5KzxwIBUbgRHkp93jwf1ioKw_ASh6Po0bL_4fTeXdr8
+
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="Premium Movies",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
