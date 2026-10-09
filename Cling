@@ -1238,6 +1238,252 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
+==========================Music Radio===========================================
+#EXTINF:-1 tvg-id="Dahlia FM Bandung" tvg-name="Dahlia FM Bandung" group-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg" tvg-logo="https://www.radiodahliafm.com/frontend/img/about/logo.png" group-title="Music Radio",Dahlia Fm Bandung
+https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=radiodahliafmbandung
+
+#EXTINF:-1 tvg-id="Rjm FM Pangandaran" tvg-name="Rjm FM Pangandaran" tvg-logo="https://radiorjm.com/logo.png" group-title="Music Radio",Rjm Fm Pangandaran
+https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=radiorjmpangandaran
+
+#EXTINF:-1 tvg-id="Radio Galunggung Tasikmalaya" tvg-name="Radio Galunggung Tasikmalaya" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwFrqUUi44KyPUTH7ZdxE4UJKCkr82hnDcjiW66pZlg&s" group-title="Music Radio",Radio Galunggung Tasikmalaya
+https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=radiogalunggung
+
+#EXTINF:-1 tvg-id="Kei Love FM Tasikmalaya" tvg-name="Kei Love FM Tasikmalaya" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/9448d0_c8f7961908ab420db1825de67c68e4eamv2-300x150.png" group-title="Music Radio",Kei Love Fm Tasikmalaya
+https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=keilove93fmtasikmalaya
+
+#EXTINF:-1 tvg-id="Maestro FM Bandung" tvg-name="Maestro FM Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/9448d0_313041f31d724fa395682239204b6f93mv2-300x300.png" group-title="Music Radio",Maestro Fm Bandung
+https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=maestroradiobandung
+
+#EXTINF:-1 tvg-id="Unasko FM Bandung" tvg-name="Unasko FM Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/unasko-3D-300x169.jpeg" group-title="Music Radio",Unasko Fm Bandung
+https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=UNASKO996FM
+
+#EXTINF:-1 tvg-id="Ardan Radio Bandung" tvg-name="Ardan Radio Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/Logo-Ardan-300x134.png" group-title="Music Radio",Ardan Radio Bandung
+https://stream.ardangroup.fm/ardan/_definst_/adaptive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B Radio Bandung" tvg-name="B Radio Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/LOGO-B-RADIO-2023_-01-300x136.png" group-title="Music Radio",B Radio Bandung
+https://stream.ardangroup.fm/bradio/_definst_/adaptive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cakra FM Bandung" tvg-name="Cakra FM Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/Logo-CAKRA-300x134.jpg" group-title="Music Radio",Cakra Fm Bandung
+https://stream.ardangroup.fm/cakra/_definst_/adaptive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MQ FM Bandung" tvg-name="MQ FM Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/MQFM-Bandung-Logo-300x101.png" group-title="Music Radio",Mq Fm Bandung
+https://restreamer.rajawali.web.id/memfs/5663bd44-272a-477b-9241-a6894949e2e1.m3u8
+
+#EXTINF:-1 tvg-id="Voks Fm Bandung" tvg-name="Voks Fm Bandung" tvg-logo="https://voksradio.com/wp-content/uploads/2025/04/LOGO-MEDPART_X7-1536x415.png" group-title="Music Radio",Voks Radio Bandung
+https://live.voksradio.com/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="Urban Radio Bandung" tvg-name="Urban Radio Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/Icon-White-1-300x300.png" group-title="Music Radio",Urban Radio Bandung
+https://urbanradio.siar.us/live/urbanradio.m3u8
+
+#EXTINF:-1 tvg-id="KLCBS Bandung" tvg-name="KLCBS Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/9448d0_2deffcad0a3d417aa3230546db0dfa34mv2-300x300.png" group-title="Music Radio",Klcbs Bandung
+https://video-stream.klcbsofficial.com/hls/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="Paramuda radio bandung" tvg-name="Paramuda Radio Bandung" tvg-logo="https://www.paramudaradio.com/img/paramuda_logo.png" group-title="Music Radio",Paramuda Radio Bandung
+https://playradio.my.id:8088/live/livestream.m3u8?hls_ctx=8047l64b
+
+#EXTINF:-1 tvg-id="Prambors Radio Jakarta" tvg-name="Prambors Radio Jakarta" tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4971849.jpg" group-title="Music Radio",Prambors Radio Jakarta
+https://stream.prambors-poc.ms-biznetgio.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="RRI PRO 4 JAKARTA" tvg-name="RRI PRO 4 JAKARTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzXoMTLI4pDeVEQh5M_BL6MiKGuxrjqZL6SdXWAWyYjw&s=10" group-title="Music Radio",Rri Pro 4 Jakarta
+https://private-streaming.rri.go.id/memfs/e0c52aa7-1db4-4a88-9ffa-7ddcb67baaa8_output_0.m3u8?session=SGBw8kyuS7CQtUrHbSgNsJ
+
+#EXTINF:-1 tvg-id="Suara Surabaya" tvg-name="Suara Surabaya" tvg-logo="https://www.suarasurabaya.net/wp-content/uploads/2026/09/cropped-LOGO-DEFAULT.jpg" group-title="Music Radio",Suara Surabaya
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="City Guide Visual Radio Malang" tvg-name="City Guide Visual Radio Malang" tvg-logo="https://cityguide911fm.com/uploads//2026/06/cgfm-header-e1782479551255.jpg" group-title="Music Radio",City Guide Visual Radio Malang
+https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=cityguidevisualradio
+
+#EXTINF:-1 tvg-id="S Radio Malang" tvg-name="S Radio Malang" tvg-logo="https://rammzorbrqgugtdxujvc.supabase.co/storage/v1/object/public/site/logo.webp" group-title="Music Radio",S Radio Malang
+https://sradio.siar.us/live/sradio.m3u8
+
+#EXTINF:-1 tvg-id="M Radio Surabaya" tvg-name="M Radio Surabaya" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHvbiDS4DeBa5BsLsuvU2w7Nucxo3TzzWSmnS-JBvm1A&s" group-title="Music Radio",M Radio Surabaya
+https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=mspaceappppp
+
+#EXTINF:-1 tvg-id="Bahana Radio Ngawi" tvg-name="Bahana Radio Ngawi" tvg-logo="https://cdn.radoxo.com/images/indonesia/radio-bahana-fm.webp?v=1790438401" group-title="Music Radio",Bahana Radio Ngawi
+https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rasi FM Magetan" tvg-name="Rasi FM Magetan" tvg-logo="https://rasifm.co.id/wp-content/uploads/2017/10/spanduk-logo-rasi-180x100-cm-scaled.jpg" group-title="Music Radio",Rasi Fm Magetan
+https://5bf7b725107e5.streamlock.net/rasifm/rasifm/chunklist_w323292704.m3u8
+
+#EXTINF:-1 tvg-id="RH Fm Lamongan" tvg-name="RH Fm Lamongan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKiBd0W_VEKjMyfVPPvmMnBxaOdGbb-21QeDEuCpImlw&s=10" group-title="Music Radio",Rh Fm Lamongan
+https://5bf7b725107e5.streamlock.net/ronggohadiradio/ronggohadiradio/chunklist_w1239244339.m3u8
+
+#EXTINF:-1 tvg-id="Prameswara Fm Lamongan" tvg-name="Prameswara Fm Lamongan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2S_NfeiK6Nua775HqiOLmos6LPflo8UhlNA5KA5nPlg&s=10" group-title="Music Radio",Prameswara Fm Lamongan
+https://5bf7b725107e5.streamlock.net/prameswararadio/prameswararadio/chunklist_w239783314.m3u8
+
+#EXTINF:-1 tvg-id="EL John Media Palembang" tvg-name="EL John Media Palembang" tvg-logo="https://www.eljohn.media/imgs/eljohn-media-logo.png" group-title="Music Radio",El John Media Radio Palembang
+https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive/chunklist_w2052447216.m3u8
+
+#EXTINF:-1 tvg-id="RRI PRO 4 PADANG" tvg-name="RRI PRO 4 PADANG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3JyRaUWxKevhq1mWLg_k9EFWIaPL2rD4_y9JsnpfAcBvuh9mB-_Enl_M&s=10" group-title="Music Radio",Rri Pro 4 Padang
+https://private-streaming.rri.go.id/memfs/433d1490-3940-4a09-b287-c881430cd6c6_output_0.m3u8?session=9RoB9WMK8EpaJAZRGPJLLW
+
+#EXTINF:-1 tvg-id="RRI PRO 4 PALEMBANG" tvg-name="RRI PRO 4 PALEMBANG" tvg-logo="https://radio.rctiplus.com/_next/image?url=https%3A%2F%2Fstatic-roov.rctiplus.id%2Fimages%2Fradio%2Frri-pro-4-palembang-1679026035.jpg&w=3840&q=75" group-title="Music Radio",Rri Pro 4 Palembang
+https://private-streaming.rri.go.id/memfs/c1631ec6-9e06-4b92-be1a-a540f1212e4e_output_0.m3u8?session=jtjdAxGUiiCTGu6berSkU6
+
+#EXTINF:-1 tvg-id="RRI PRO 4 PEKANBARU" tvg-name="RRI PRO 4 PEKANBARU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFJqSoakPeUuMQvIUQbnM3X4zm08O_OmaFsjco-BgUOA&s=10" group-title="Music Radio",Rri Pro 4 Pekanbaru
+https://private-streaming.rri.go.id/memfs/7f337b21-3d04-4751-a580-d7094630b401_output_0.m3u8?session=KiShzAWc7Kc5Ph2WU728X9
+
+#EXTINF:-1 tvg-id="RRI NET" tvg-name="RRI NET" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112023/rri_net.png?y4H5VrYqyu9tTxR2w0Y8rY2VJ9ZNWKs.&itok=MAQBRHXu" group-title="Music Radio",Rri Net
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m3u8
+
+#EXTINF:-1 tvg-id="Voice of Indonesia" tvg-name="Voice of Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLDDz6KuDSZULQsTcDPLoHXgOaN9aMMQed2uxrluCKA&s" group-title="Music Radio",Voice Of Indonesia
+https://private-streaming.rri.go.id/memfs/e0e00a08-db13-4b1e-adaa-70a2b2d9a737.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg" group-title="Music Radio",Prambors
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="Music Radio",Ardan FM
+http://listento.ardanradio.com:1059/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u09ERA9.png" group-title="Music Radio",Phoenix Radio Bali
+https://live.phoenixradiobali.com:8250/phoenixradio
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" group-title="Music Radio",MGTRADIO
+http://stream.radbdg.net:8000/mgtradio.mp3
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7166.jpg" group-title="Music Radio",Elshinta FM
+https://stream-ssl.arenastreaming.com:8000/jakarta
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7057.jpg" group-title="Music Radio",I Radio
+http://stream.radiojar.com/4ywdgup3bnzuv
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7055.jpg" group-title="Music Radio",Trax FM
+https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7056.jpg" group-title="Music Radio",Cosmopolitan FM
+http://n02.radiojar.com/u7d8heq3bnzuv
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png" group-title="Music Radio",V RADIO
+http://202.147.199.100:8000/;stream.nsv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VDOHWd0.png" group-title="Music Radio",Hitz FM
+https://s2.radio.co/s6929cb202/listen
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7054.jpg" group-title="Music Radio",Brava FM
+http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7053.jpg" group-title="Music Radio",Hard Rock FM
+http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vOliZ6Z.png" group-title="Music Radio",Hard Rock FM Bandung
+http://stream.radiojar.com/fnex9bkswk8uv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmFTrZK.png" group-title="Music Radio",Hard Rock FM Surabaya
+http://stream.radiojar.com/yg8ne2v80k8uv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BwULFUI.png" group-title="Music Radio",Hard Rock FM Bali
+http://stream.radiojar.com/9k28wsbu5k8uv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="Music Radio",Heartline Bali
+http://202.129.186.43:7028/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="Music Radio",Heartline Jakarta
+https://svara-stream.radioddns.net:8443/karawaci_heartline_stereo?ver=635710
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dpADolC.png" group-title="Music Radio",MNC Trijaya FM Jakarta
+http://202.147.199.101:8000/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Crxg4DR.png" group-title="Music Radio",Motion Radio Jakarta
+https://streamingv2.shoutcast.com/motion-jakarta
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="Music Radio",Female FM
+http://onlineradiobox.com/json/id/female/play
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="Music Radio",Delta FM
+http://live.masima.cloud:9002/deltafm
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="Music Radio",Bahana FM
+http://stream.bahanafm.co.id:8100/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xs4j9YI.png" group-title="Music Radio",EBS FM
+http://streaming.suzanafm.com:8100/;stream.nsv
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7169.jpg" group-title="Music Radio",Elgangga FM
+http://onlineradiobox.com/json/id/sushi/play
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7216.jpg" group-title="Music Radio",Geronimo FM
+http://live2.indostreamserver.com:8018/;
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7284.jpg" group-title="Music Radio",Gajah Mada FM
+https://server.radioimeldafm.co.id/radio/8020/gajahmadafm
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zj6og3B.png" group-title="Music Radio",OZ Radio Jakarta
+https://s3.vinhostmedia.com:10995/;stream/1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1XVJfE5.png" group-title="Music Radio",Magic 89.9
+https://stream.zeno.fm/fw1368t3vc9uv
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_14257686-118d-4a31-ac31-601075190c77" group-title="Music Radio", 95.9 smart FM jakarta
+http://cast2.my-control-panel.com/proxy/radioso3/stream
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_60cf8889-689e-49e5-8f0b-992c0fa3f567" group-title="Music Radio", Wawa Radio 101.2 FM
+http://xn--tmz.xn--6frz82g/streams
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_2d3a91e1-c7ed-4fbd-abd9-bd87893b874b" group-title="Music Radio", 105.1 AZUL POP FM
+http://azulpop.ozelip.com/8006/stream
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_1bdb7538-d6af-4c77-ab1e-d51185aa9384" group-title="Music Radio", 89.2 FM Jakarta, Campur sari
+http://a8.siar.us/listen/campursari/stream
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_a4e98f6e-e326-41eb-97a4-f5f477842fab" group-title="Music Radio", Alternatif radio jakarta
+http://void.idserverhost.com/8016/stream
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_3f168d4c-cb55-40e3-aa08-871a77b6ffa9" group-title="Music Radio", AXR Jakarta
+http://provisioning.streamtheworld.com/pls/AXR_JAKARTA.pls
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_b010bced-fa83-473b-9551-09602a7bc38e" group-title="Music Radio", Beat Radio Indonesia
+http://streaming.radio.co/sf61c46912/listen
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_f6343a04-468e-4bd2-995a-fbb05d6bd573" group-title="Music Radio", Classy FM
+http://c4.siar.us:10340/stream.mp3
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_44ce8cd2-158e-4def-be7a-49c45388a127" group-title="Music Radio", Dengerin Musik Indonesia
+http://stream.denger.in:8888/dmi
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_c223d279-e73c-43a0-aff2-4c61c780eb9e" group-title="Music Radio", Firza MPC Radio
+http://mpc1.mediacp.eu/stream/firzaradio
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_2abffaea-4080-466c-be51-c40acbbbd61a" group-title="Music Radio", Jiz 89.5 FM
+http://pu.klikhost.com/proxy/jizfm/stream
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_c67d843c-89d6-4cbe-912e-17327973f18f" group-title="Music Radio", KBR68H
+http://pu.klikhost.com:8056/kbr
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_35a9be4e-8082-4900-96fb-b54a9c0c6ecc" group-title="Music Radio", Loker Musik Indonesia
+http://stream.lokermusik.com/listen/lokermusik/lokermusik
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_583d1a05-1ae2-44ad-9c84-e29cfc819ebe" group-title="Music Radio", Megaswara Bogor
+http://live.mgstv.co.id:8002/1/;stream.mp3
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_87d75d90-3c0c-4d6b-8ad5-4e4d6f98a221" group-title="Music Radio", MTV Indonesia
+http://stream.zeno.fm/pvvz3mrtsf9uv
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png" group-title="Music Radio",SLOW FM
+http://onlineradiobox.com/json/id/slow/play
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png" group-title="Music Radio",KIS ROCK
+http://onlineradiobox.com/json/id/kisrock/play
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="Music Radio",Gen FM
+http://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="Music Radio",Gen FM SBY
+http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/chunklist_w742138711.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fqdznsunlxtcgzs/JAKFM.png?dl=1" group-title="Music Radio",JAK FM
+http://103.246.184.62:1935/noice_jakfm/jakfm/playlist.m3u8
+http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist.m3u8
+http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qq9n8ojtec3m9fa/KIS-95.1-FM.jpg?dl=1" group-title="Music Radio",KIS FM
+http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ehy1c45c2l8z543/MOSTRADIO.png?dl=1" group-title="Music Radio",MOST RADIO
+http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
+http://103.246.184.62:1935/noice_mostfm/mostfm/chunklist_w118038145.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="Music Radio",MUSTANG
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music Radio",Magic UK
+http://91.224.190.66:4263/bysid/26624
+
 =======================TV National=================================================================
 
 
@@ -6264,253 +6510,7 @@ http://202.150.161.212:5000/live/channel32/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="FashionTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg",Fashion TV
 https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
 
-==========================Radio===========================================
 
-#EXTM3U
-#EXTINF:-1 tvg-id="Dahlia FM Bandung" tvg-name="Dahlia FM Bandung" group-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg" tvg-logo="https://www.radiodahliafm.com/frontend/img/about/logo.png" group-title="Radio",Dahlia Fm Bandung
-https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=radiodahliafmbandung
-
-#EXTINF:-1 tvg-id="Rjm FM Pangandaran" tvg-name="Rjm FM Pangandaran" tvg-logo="https://radiorjm.com/logo.png" group-title="Radio",Rjm Fm Pangandaran
-https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=radiorjmpangandaran
-
-#EXTINF:-1 tvg-id="Radio Galunggung Tasikmalaya" tvg-name="Radio Galunggung Tasikmalaya" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwFrqUUi44KyPUTH7ZdxE4UJKCkr82hnDcjiW66pZlg&s" group-title="Radio",Radio Galunggung Tasikmalaya
-https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=radiogalunggung
-
-#EXTINF:-1 tvg-id="Kei Love FM Tasikmalaya" tvg-name="Kei Love FM Tasikmalaya" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/9448d0_c8f7961908ab420db1825de67c68e4eamv2-300x150.png" group-title="Radio",Kei Love Fm Tasikmalaya
-https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=keilove93fmtasikmalaya
-
-#EXTINF:-1 tvg-id="Maestro FM Bandung" tvg-name="Maestro FM Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/9448d0_313041f31d724fa395682239204b6f93mv2-300x300.png" group-title="Radio",Maestro Fm Bandung
-https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=maestroradiobandung
-
-#EXTINF:-1 tvg-id="Unasko FM Bandung" tvg-name="Unasko FM Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/unasko-3D-300x169.jpeg" group-title="Radio",Unasko Fm Bandung
-https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=UNASKO996FM
-
-#EXTINF:-1 tvg-id="Ardan Radio Bandung" tvg-name="Ardan Radio Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/Logo-Ardan-300x134.png" group-title="Radio",Ardan Radio Bandung
-https://stream.ardangroup.fm/ardan/_definst_/adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="B Radio Bandung" tvg-name="B Radio Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/LOGO-B-RADIO-2023_-01-300x136.png" group-title="Radio",B Radio Bandung
-https://stream.ardangroup.fm/bradio/_definst_/adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cakra FM Bandung" tvg-name="Cakra FM Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/Logo-CAKRA-300x134.jpg" group-title="Radio",Cakra Fm Bandung
-https://stream.ardangroup.fm/cakra/_definst_/adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MQ FM Bandung" tvg-name="MQ FM Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/MQFM-Bandung-Logo-300x101.png" group-title="Radio",Mq Fm Bandung
-https://restreamer.rajawali.web.id/memfs/5663bd44-272a-477b-9241-a6894949e2e1.m3u8
-
-#EXTINF:-1 tvg-id="Voks Fm Bandung" tvg-name="Voks Fm Bandung" tvg-logo="https://voksradio.com/wp-content/uploads/2025/04/LOGO-MEDPART_X7-1536x415.png" group-title="Radio",Voks Radio Bandung
-https://live.voksradio.com/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-id="Urban Radio Bandung" tvg-name="Urban Radio Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/Icon-White-1-300x300.png" group-title="Radio",Urban Radio Bandung
-https://urbanradio.siar.us/live/urbanradio.m3u8
-
-#EXTINF:-1 tvg-id="KLCBS Bandung" tvg-name="KLCBS Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/9448d0_2deffcad0a3d417aa3230546db0dfa34mv2-300x300.png" group-title="Radio",Klcbs Bandung
-https://video-stream.klcbsofficial.com/hls/1080p/index.m3u8
-
-#EXTINF:-1 tvg-id="Paramuda radio bandung" tvg-name="Paramuda Radio Bandung" tvg-logo="https://www.paramudaradio.com/img/paramuda_logo.png" group-title="Radio",Paramuda Radio Bandung
-https://playradio.my.id:8088/live/livestream.m3u8?hls_ctx=8047l64b
-
-#EXTINF:-1 tvg-id="Prambors Radio Jakarta" tvg-name="Prambors Radio Jakarta" tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4971849.jpg" group-title="Radio",Prambors Radio Jakarta
-https://stream.prambors-poc.ms-biznetgio.net/hls/live.m3u8
-
-#EXTINF:-1 tvg-id="RRI PRO 4 JAKARTA" tvg-name="RRI PRO 4 JAKARTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzXoMTLI4pDeVEQh5M_BL6MiKGuxrjqZL6SdXWAWyYjw&s=10" group-title="Radio",Rri Pro 4 Jakarta
-https://private-streaming.rri.go.id/memfs/e0c52aa7-1db4-4a88-9ffa-7ddcb67baaa8_output_0.m3u8?session=SGBw8kyuS7CQtUrHbSgNsJ
-
-#EXTINF:-1 tvg-id="Suara Surabaya" tvg-name="Suara Surabaya" tvg-logo="https://www.suarasurabaya.net/wp-content/uploads/2026/09/cropped-LOGO-DEFAULT.jpg" group-title="Radio",Suara Surabaya
-https://ssfm.siar.us/ssfm/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="City Guide Visual Radio Malang" tvg-name="City Guide Visual Radio Malang" tvg-logo="https://cityguide911fm.com/uploads//2026/06/cgfm-header-e1782479551255.jpg" group-title="Radio",City Guide Visual Radio Malang
-https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=cityguidevisualradio
-
-#EXTINF:-1 tvg-id="S Radio Malang" tvg-name="S Radio Malang" tvg-logo="https://rammzorbrqgugtdxujvc.supabase.co/storage/v1/object/public/site/logo.webp" group-title="Radio",S Radio Malang
-https://sradio.siar.us/live/sradio.m3u8
-
-#EXTINF:-1 tvg-id="M Radio Surabaya" tvg-name="M Radio Surabaya" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHvbiDS4DeBa5BsLsuvU2w7Nucxo3TzzWSmnS-JBvm1A&s" group-title="Radio",M Radio Surabaya
-https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=mspaceappppp
-
-#EXTINF:-1 tvg-id="Bahana Radio Ngawi" tvg-name="Bahana Radio Ngawi" tvg-logo="https://cdn.radoxo.com/images/indonesia/radio-bahana-fm.webp?v=1790438401" group-title="Radio",Bahana Radio Ngawi
-https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rasi FM Magetan" tvg-name="Rasi FM Magetan" tvg-logo="https://rasifm.co.id/wp-content/uploads/2017/10/spanduk-logo-rasi-180x100-cm-scaled.jpg" group-title="Radio",Rasi Fm Magetan
-https://5bf7b725107e5.streamlock.net/rasifm/rasifm/chunklist_w323292704.m3u8
-
-#EXTINF:-1 tvg-id="RH Fm Lamongan" tvg-name="RH Fm Lamongan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKiBd0W_VEKjMyfVPPvmMnBxaOdGbb-21QeDEuCpImlw&s=10" group-title="Radio",Rh Fm Lamongan
-https://5bf7b725107e5.streamlock.net/ronggohadiradio/ronggohadiradio/chunklist_w1239244339.m3u8
-
-#EXTINF:-1 tvg-id="Prameswara Fm Lamongan" tvg-name="Prameswara Fm Lamongan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2S_NfeiK6Nua775HqiOLmos6LPflo8UhlNA5KA5nPlg&s=10" group-title="Radio",Prameswara Fm Lamongan
-https://5bf7b725107e5.streamlock.net/prameswararadio/prameswararadio/chunklist_w239783314.m3u8
-
-#EXTINF:-1 tvg-id="EL John Media Palembang" tvg-name="EL John Media Palembang" tvg-logo="https://www.eljohn.media/imgs/eljohn-media-logo.png" group-title="Radio",El John Media Radio Palembang
-https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive/chunklist_w2052447216.m3u8
-
-#EXTINF:-1 tvg-id="RRI PRO 4 PADANG" tvg-name="RRI PRO 4 PADANG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3JyRaUWxKevhq1mWLg_k9EFWIaPL2rD4_y9JsnpfAcBvuh9mB-_Enl_M&s=10" group-title="Radio",Rri Pro 4 Padang
-https://private-streaming.rri.go.id/memfs/433d1490-3940-4a09-b287-c881430cd6c6_output_0.m3u8?session=9RoB9WMK8EpaJAZRGPJLLW
-
-#EXTINF:-1 tvg-id="RRI PRO 4 PALEMBANG" tvg-name="RRI PRO 4 PALEMBANG" tvg-logo="https://radio.rctiplus.com/_next/image?url=https%3A%2F%2Fstatic-roov.rctiplus.id%2Fimages%2Fradio%2Frri-pro-4-palembang-1679026035.jpg&w=3840&q=75" group-title="Radio",Rri Pro 4 Palembang
-https://private-streaming.rri.go.id/memfs/c1631ec6-9e06-4b92-be1a-a540f1212e4e_output_0.m3u8?session=jtjdAxGUiiCTGu6berSkU6
-
-#EXTINF:-1 tvg-id="RRI PRO 4 PEKANBARU" tvg-name="RRI PRO 4 PEKANBARU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFJqSoakPeUuMQvIUQbnM3X4zm08O_OmaFsjco-BgUOA&s=10" group-title="Radio",Rri Pro 4 Pekanbaru
-https://private-streaming.rri.go.id/memfs/7f337b21-3d04-4751-a580-d7094630b401_output_0.m3u8?session=KiShzAWc7Kc5Ph2WU728X9
-
-#EXTINF:-1 tvg-id="RRI NET" tvg-name="RRI NET" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112023/rri_net.png?y4H5VrYqyu9tTxR2w0Y8rY2VJ9ZNWKs.&itok=MAQBRHXu" group-title="Radio",Rri Net
-https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m3u8
-
-#EXTINF:-1 tvg-id="Voice of Indonesia" tvg-name="Voice of Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLDDz6KuDSZULQsTcDPLoHXgOaN9aMMQed2uxrluCKA&s" group-title="Radio",Voice Of Indonesia
-https://private-streaming.rri.go.id/memfs/e0e00a08-db13-4b1e-adaa-70a2b2d9a737.m3u8
-
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg" group-title="Radio",Prambors
-https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
-
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="Radio",Ardan FM
-http://listento.ardanradio.com:1059/;
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u09ERA9.png" group-title="Radio",Phoenix Radio Bali
-https://live.phoenixradiobali.com:8250/phoenixradio
-
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" group-title="Radio",MGTRADIO
-http://stream.radbdg.net:8000/mgtradio.mp3
-
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7166.jpg" group-title="Radio",Elshinta FM
-https://stream-ssl.arenastreaming.com:8000/jakarta
-
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7057.jpg" group-title="Radio",I Radio
-http://stream.radiojar.com/4ywdgup3bnzuv
-
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7055.jpg" group-title="Radio",Trax FM
-https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
-
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7056.jpg" group-title="Radio",Cosmopolitan FM
-http://n02.radiojar.com/u7d8heq3bnzuv
-
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png" group-title="Radio",V RADIO
-http://202.147.199.100:8000/;stream.nsv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VDOHWd0.png" group-title="Radio",Hitz FM
-https://s2.radio.co/s6929cb202/listen
-
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7054.jpg" group-title="Radio",Brava FM
-http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
-
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7053.jpg" group-title="Radio",Hard Rock FM
-http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vOliZ6Z.png" group-title="Radio",Hard Rock FM Bandung
-http://stream.radiojar.com/fnex9bkswk8uv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmFTrZK.png" group-title="Radio",Hard Rock FM Surabaya
-http://stream.radiojar.com/yg8ne2v80k8uv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BwULFUI.png" group-title="Radio",Hard Rock FM Bali
-http://stream.radiojar.com/9k28wsbu5k8uv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="Radio",Heartline Bali
-http://202.129.186.43:7028/stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="Radio",Heartline Jakarta
-https://svara-stream.radioddns.net:8443/karawaci_heartline_stereo?ver=635710
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dpADolC.png" group-title="Radio",MNC Trijaya FM Jakarta
-http://202.147.199.101:8000/;
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Crxg4DR.png" group-title="Radio",Motion Radio Jakarta
-https://streamingv2.shoutcast.com/motion-jakarta
-
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="Radio",Female FM
-http://onlineradiobox.com/json/id/female/play
-
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="Radio",Delta FM
-http://live.masima.cloud:9002/deltafm
-
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="Radio",Bahana FM
-http://stream.bahanafm.co.id:8100/;
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xs4j9YI.png" group-title="Radio",EBS FM
-http://streaming.suzanafm.com:8100/;stream.nsv
-
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7169.jpg" group-title="Radio",Elgangga FM
-http://onlineradiobox.com/json/id/sushi/play
-
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7216.jpg" group-title="Radio",Geronimo FM
-http://live2.indostreamserver.com:8018/;
-
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7284.jpg" group-title="Radio",Gajah Mada FM
-https://server.radioimeldafm.co.id/radio/8020/gajahmadafm
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zj6og3B.png" group-title="Radio",OZ Radio Jakarta
-https://s3.vinhostmedia.com:10995/;stream/1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1XVJfE5.png" group-title="Radio",Magic 89.9
-https://stream.zeno.fm/fw1368t3vc9uv
-
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_14257686-118d-4a31-ac31-601075190c77" group-title="Radio", 95.9 smart FM jakarta
-http://cast2.my-control-panel.com/proxy/radioso3/stream
-
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_60cf8889-689e-49e5-8f0b-992c0fa3f567" group-title="Radio", Wawa Radio 101.2 FM
-http://xn--tmz.xn--6frz82g/streams
-
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_2d3a91e1-c7ed-4fbd-abd9-bd87893b874b" group-title="Radio", 105.1 AZUL POP FM
-http://azulpop.ozelip.com/8006/stream
-
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_1bdb7538-d6af-4c77-ab1e-d51185aa9384" group-title="Radio", 89.2 FM Jakarta, Campur sari
-http://a8.siar.us/listen/campursari/stream
-
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_a4e98f6e-e326-41eb-97a4-f5f477842fab" group-title="Radio", Alternatif radio jakarta
-http://void.idserverhost.com/8016/stream
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_3f168d4c-cb55-40e3-aa08-871a77b6ffa9" group-title="Radio", AXR Jakarta
-http://provisioning.streamtheworld.com/pls/AXR_JAKARTA.pls
-
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_b010bced-fa83-473b-9551-09602a7bc38e" group-title="Radio", Beat Radio Indonesia
-http://streaming.radio.co/sf61c46912/listen
-
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_f6343a04-468e-4bd2-995a-fbb05d6bd573" group-title="Radio", Classy FM
-http://c4.siar.us:10340/stream.mp3
-
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_44ce8cd2-158e-4def-be7a-49c45388a127" group-title="Radio", Dengerin Musik Indonesia
-http://stream.denger.in:8888/dmi
-
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_c223d279-e73c-43a0-aff2-4c61c780eb9e" group-title="Radio", Firza MPC Radio
-http://mpc1.mediacp.eu/stream/firzaradio
-
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_2abffaea-4080-466c-be51-c40acbbbd61a" group-title="Radio", Jiz 89.5 FM
-http://pu.klikhost.com/proxy/jizfm/stream
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_c67d843c-89d6-4cbe-912e-17327973f18f" group-title="Radio", KBR68H
-http://pu.klikhost.com:8056/kbr
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_35a9be4e-8082-4900-96fb-b54a9c0c6ecc" group-title="Radio", Loker Musik Indonesia
-http://stream.lokermusik.com/listen/lokermusik/lokermusik
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_583d1a05-1ae2-44ad-9c84-e29cfc819ebe" group-title="Radio", Megaswara Bogor
-http://live.mgstv.co.id:8002/1/;stream.mp3
-#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_87d75d90-3c0c-4d6b-8ad5-4e4d6f98a221" group-title="Radio", MTV Indonesia
-http://stream.zeno.fm/pvvz3mrtsf9uv
-
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png" group-title="Radio",SLOW FM
-http://onlineradiobox.com/json/id/slow/play
-
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png" group-title="Radio",KIS ROCK
-http://onlineradiobox.com/json/id/kisrock/play
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="Radio",Gen FM
-http://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="Radio",Gen FM SBY
-http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/chunklist_w742138711.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fqdznsunlxtcgzs/JAKFM.png?dl=1" group-title="Radio",JAK FM
-http://103.246.184.62:1935/noice_jakfm/jakfm/playlist.m3u8
-http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist.m3u8
-http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qq9n8ojtec3m9fa/KIS-95.1-FM.jpg?dl=1" group-title="Radio",KIS FM
-http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ehy1c45c2l8z543/MOSTRADIO.png?dl=1" group-title="Radio",MOST RADIO
-http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
-http://103.246.184.62:1935/noice_mostfm/mostfm/chunklist_w118038145.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="Radio",MUSTANG
-http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
-http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Radio",Magic UK
-http://91.224.190.66:4263/bysid/26624
 
 ===============================================MUSIC=========================================================
 
