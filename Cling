@@ -13,155 +13,101 @@
 
 =====================TV=========================
 
-
-#EXTINF:-1 group-type="TV" tvg-id="105.trans" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="TV", HBO [xgo]
-#KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0b6d210096/1965733f57cc4d10a8466d39ce0a1ec6.jpg" group-title="TV",Trans TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3575337a43565a74524d6b4f5a644f41:51794a4479324d6d5437674d45324f5a
-#EXTVLCOPT:http-user-agent=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/VHJhbnNUVg.mpd?exp=1791877866&channel=VHJhbnNUVg&sig=-YZqwy0-qxA5SC8Qz9AeVkC3AYEshl3hx2xJ9gjl2l4
 
-#EXTINF:-1 group-type="TV" tvg-id="106.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="TV", HBO Signature [xgo]
-#KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0db0bf0097/d3c2d675a810405ba8f08fc469276954.jpg" group-title="TV",Trans 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c6f3639487571537a34374671755169:52583434694250615277634c6635757a
-#EXTVLCOPT:http-user-agent=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/VFJBTlM3LW15.mpd?exp=1791877866&channel=VFJBTlM3LW15&sig=SavEzRZV-perOMQdKalCgKDyoVdXOaeQfCQOOYW9U8E
 
-#EXTINF:-1 group-type="TV" tvg-id="107.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="TV", HBO Hits [xgo]
-#KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e548c62390/ccc63e74543d4562814b3af17aceb70c.png" group-title="TV",MetroTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7241396a514c61367337575157486d47:51644855636d6838307649755a37787a
-#EXTVLCOPT:http-user-agent=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/TWV0cm9UVg.mpd?exp=1791877866&channel=TWV0cm9UVg&sig=lDFG2fq7S6kpBVctdNhPnX2v4eNV4Czxgvyvmqd1BsA
 
-#EXTINF:-1 group-type="TV" tvg-id="108.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="TV", HBO Family [xgo]
-#KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg" group-title="TV",Kompas TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36627341726658795759766b36497963:6c4e484f336e724b7045536866684d39
-#EXTVLCOPT:http-user-agent=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/S29tcGFzIFRW.mpd?exp=1791877866&channel=S29tcGFzIFRW&sig=OQ3lJOwWEclJoH3FMIuE2HVl2TUq1cB58O6gJS4rVsY
 
-#EXTINF:-1 group-type="TV" tvg-id="109.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="TV", Cinemax [xgo]
-#KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0e4ce10098/b4f628f786104e68a12721f365af0238.jpg" group-title="TV",CNN Indonesia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68516d6739344e466e39574749776874:53535134585a73547a63454c6d674c66
-#EXTVLCOPT:http-user-agent=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/Q05OaS1teQ.mpd?exp=1791877866&channel=Q05OaS1teQ&sig=_iEzzIAdAoQhMJww7FY6PWT_wLsZQzHkmF3JCpaMuuM
 
-
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="TV", FUBO SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68565fa79ce01665868040a343f/2a44add8d2a74e1e8cddb29f6935cb92.jpg" group-title="TV",CNBC Indonesia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tesplayer.tukang-colai.workers.dev/id=1
-https://tesplayer.tukang-colai.workers.dev/id=1
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/Q05CQy1JbmRvbmVzaWE.mpd?exp=1791877866&channel=Q05CQy1JbmRvbmVzaWE&sig=aPgLKnQQ4Qr2TyZCbMDmHGAaX8BFEBany63ee4AuLvg
 
-#EXTINF:-1 type="live" tvg-id="105.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="TV", HBO [xgo]
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="TV",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tesplayer.tukang-colai.workers.dev/id=2
-#EXTVLCOPT:http-user-agent=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://tesplayer.tukang-colai.workers.dev/id=2
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/SEJPLW15.mpd?exp=1791877866&channel=SEJPLW15&sig=Rx_vqYbGHPdYWNqd9iouL-dA8lNJOWiK79lDWxo0Jhc
 
-#EXTINF:-1 group-type="TV" tvg-id="105.trans" tvg-name="HBO" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/7cce0289-c742-4d11-a9b6-9be1db16ded6.jpg" group-title="TV",HBO Mexico
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="TV",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5e43e324b6cd33b92c9ac8c398bb3c8:c8c7f804f0ecfc8fc0d53dff48d7ece1
-https://live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/SEJPLVNpZ25hdHVyZS1teQ.mpd?exp=1791877866&channel=SEJPLVNpZ25hdHVyZS1teQ&sig=UBM416gafWC5kQZG_eqBlnwZFPWLP7byPlGcanxen1c
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="TV",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=617465324f6378413233655168713164:4775644d4e5a47707769475164733245
-#EXTINF:-1 tvg-id="" group-title="TV" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",Wion TV
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/SEJPIEhpdHM.mpd?exp=1791877866&channel=SEJPIEhpdHM&sig=KvHn2g08OhqeYUQ-r3riun8tsoLy1zrimKjZP5v27Og
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="TV",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=325132566141626962434d5632456676:544d5a574b7159783538547935535674
-#EXTINF:-1 tvg-id="" group-title="TV" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",Nabawi TV
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/SEJPLUZhbWlseS1teQ.mpd?exp=1791877866&channel=SEJPLUZhbWlseS1teQ&sig=OLrwEi3coSkqsQXLFF6XfU5G-Vk-PrLBII2vd6VV6RI
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="TV",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=75634e56326f74646b48653569535758:566a74486b4c62445230686e50775875
-#EXTINF:-1 tvg-id="" group-title="TV" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",DAAI TV
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cbde4783c06/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/Q2luZW1heA.mpd?exp=1791877866&channel=Q2luZW1heA&sig=Uw_BP6KmBibvdC8Fm-l0u-jYA34xdi1Ob8OM1T_TxWA
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68595d0c2ed01961380bf580430/4cef5ac3018147a891c112685352da95.jpg" group-title="TV",TVN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4777656b615136705347626858506954:62637a7a754d414c356f4e3038534c77
-#EXTINF:-1 tvg-id="" group-title="TV" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",Pijar TV
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/VFZOIE1vdmllcw.mpd?exp=1791877866&channel=VFZOIE1vdmllcw&sig=8W6ABazYaR6Sit4XF6Cgi9HCPRK_0R-mUvhKo6UdIYg
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68587f789fe0188421147c760f4/55f3c4e4ca534705a4484d3d8a8cea5b.jpg" group-title="TV",Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5653796e486442567079724b5451624b:5868426d6137626e4a53706a5a674271
-#EXTINF:-1 tvg-id="" group-title="TV" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",Khazanah
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/Q2VsZXN0aWFsIE1vdmllcw.mpd?exp=1791877866&channel=Q2VsZXN0aWFsIE1vdmllcw&sig=ucoFQ5tAqeEXJxCh7dkD6GbrXVQmnsK_HN6mjeTnp9E
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68587f789fe0188421264d560f5/019575d15a9d42289942d0bdb576a404.jpg" group-title="TV",Thrill
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=609ee01ee0c7408e93d9096ca9752643:401a98e4abc546498e8a858b5f9f5670
-#EXTINF:-1 tvg-id="" group-title="TV" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",CNN Indonesia
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/VGhyaWxs.mpd?exp=1791877866&channel=VGhyaWxs&sig=S7OljPhHeUFiUTS8Ka1Vlory4_ZAchK40r9gtIxvX6A
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 10) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0555b83e37a3/567c27a4f559485f8db726ddc4951ee9.jpg" group-title="TV",Cinema World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7f3c9eff0194dc79ba044d214778a5e:d40c6fc2efcc429fb93959ec68a83742
-#EXTINF:-1 tvg-id="" group-title="TV" group-logo="https://baru.pw/lokal.png" tvg-logo="https://pic.xxxxxxx.my.id/tv.png",CNBC Indonesia
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/Q2luZW1hIFdvcmxk.mpd?exp=1791877866&channel=Q2luZW1hIFdvcmxk&sig=YxJHcX6L8NdboSVs8yo-kpUKKMi-Z5yo2ndNZ6WPqDY
 
-
-#EXTINF:-1 tvg-id="105.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="TV" ,HBO MULTI
-#EXTVLCOPT:http-user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856fd0d66d0170341bf1000905/ba08b0da8894400f8a907e1f24d17c28.png" group-title="TV",Bioskop Indonesia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Blufl7dwMG6dU9zWFrJwmg","k":"ss682tKcn6GjYTBGtWUfCA"},{"kty":"oct","kid":"pvEtRtWjOo6Zp4klNpXibg","k":"3q-Gq57dx6ZvhHyQ3xjYjw"},{"kty":"oct","kid":"zJ7vHt9eNciCNSBNVvIk8g","k":"RtRy8JoyiZwSWiwwaUktsA"},{"kty":"oct","kid":"VXZqdUw2bkEyNlJIdG5zcw","k":"c3RJM1pPMHZwMTRkUkFaUg"},{"kty":"oct","kid":"2Xty4gSmMLuV6cwRlZh0lw","k":"VNpy4hdZpo_ztGDdW6jPBg"},{"kty":"oct","kid":"Hoc9Q6TxMLSsqxRFZ7SDFA","k":"d0Ov29oCMuFT6YBhONc3fQ"}]}
-https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#EXTINF:-1 tvg-id="106.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="TV" ,HBO Signature
-#EXTVLCOPT:http-user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=726c37733858744c716356484a423571:636e6b4e4875543555696f4342505079
-https://cdnjkt913.transvision.co.id:1003/live/master/2/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#EXTINF:-1 tvg-id="107.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="TV" ,HBO Hits
-#EXTVLCOPT:http-user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65564567616c43786861664144697738:675559676e693650734b4d7155664667
-https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#EXTINF:-1 tvg-id="108.trans" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="TV" ,HBO Family
-#EXTVLCOPT:http-user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=696774797a547057556d64556d343641:5a345079514842637565624b376a4657
-https://cdnjkt913.transvision.co.id:1003/live/master/5/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTINF:-1 group-logo="https://www.cubmu.com/sidebar/cubmu.svg" tvg-id="201" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/59e42ba7-a1d7-45af-a69e-8ca05ca51029.jpg" tvg-name="Trans 7" group-title="TV", Trans 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udinlaw.sytes.net/drm-cubmu-web.php?id=trans7
-https://cdnjktbpid02.transvision.co.id/riutx01-59f0b6f76f1cb1e9e91193420c564d38/dash/VFJBTlM3LW15/vx9-mdrmprt02/manifest.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+https://cubmu.datamu.workers.dev/Qmlvc2tvcCBJbmRvbmVzaWE.mpd?exp=1791877866&channel=Qmlvc2tvcCBJbmRvbmVzaWE&sig=228gj3ao6xWfXdr8nH619jgFB2Ge8DlwPTQkxm5PW74
 
 --------------trial---------------------
 
