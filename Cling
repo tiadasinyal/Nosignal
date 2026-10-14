@@ -1909,6 +1909,16 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=8&type=drm&token=alf-store
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
+#EXTINF:-1 group-title="TV National" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/xYtZ3ll.png",SCTV HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=8&type=drm&token=apistech
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+
+
 
 #EXTINF:-1 group-title="TV National" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/xYtZ3ll.png",SCTV HD
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
