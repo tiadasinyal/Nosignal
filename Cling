@@ -3724,83 +3724,6 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 ####https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(vc1021n07j)/master_2min.mpd
 
-#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",PREMIER_LEAGUE_TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://cdn.stmify.com/peacock/stream/PREMIER_LEAGUE_TV/master.mpd
-
-#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",NBC_SPORTS_NOW
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
-https://cdn.stmify.com/peacock/stream/NBC_SPORTS_NOW/master.mpd
-
-#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",NBC_SPORTS_BAY_AREA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=20b593e9bee43324a8b1d830eaa82d78:a87dba51bd2dd7f7879730ac2bd4005b
-https://cdn.stmify.com/peacock/stream/NBC_SPORTS_BAY_AREA/master.mpd
-
-#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",NBC_SPORTS_BOSTON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f73521c174532e59711ccb4462ac770:f06c7f95319c0386b4fc5fa3d58ab504
-https://cdn.stmify.com/peacock/stream/NBC_SPORTS_BOSTON/master.mpd
-
-#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",NBC_SPORTS_PHILADELPHIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e07a6dfad8333a388f2a931a743621b9:638ff7ec62eeee611927f1d6d5baa146
-https://cdn.stmify.com/peacock/stream/NBC_SPORTS_PHILADELPHIA/master.mpd
-
-#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",TELEMUNDO_DEPORTES_AHORA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=300b58dfdaf35e8537ce25c39e99aec7:6fc107a6f62f39da27b36ff079d7f937
-https://cdn.stmify.com/peacock/stream/TELEMUNDO_DEPORTES_AHORA/master_2min.mpd
-
-#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",TELEMUNDO_CHICAGO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-https://cdn.stmify.com/peacock/stream/TELEMUNDO_CHICAGO/master.mpd
-
-#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",NFL_CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
-https://cdn.stmify.com/peacock/stream/NFL_CHANNEL/master.mpd
-
-#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",TEAM_USA_TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020caf877f76b8c7775ffc47f189832:dcab0c4bd6e6982d736c93d737e181da
-https://cdn.stmify.com/peacock/stream/TEAM_USA_TV/master.mpd
-
-#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1",TOP_GEAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020a49a0d48d25362f30057e72f0b4a:86abf8c2a6f693a958c6492bef11ee81
-https://cdn.stmify.com/peacock/stream/TOP_GEAR/master.mpd12:27
-
-#EXTINF:-1   tvg-logo="https://i.ibb.co.com/SBCm5M8/universo.png" group-title="Olahraga 1", UNIVERSO (EAST) 🇺🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
-
-#EXTINF:-1   tvg-logo="https://i.ibb.co.com/SBCm5M8/universo.png" group-title="Olahraga 1", UNIVERSO (WEST) 🇺🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
-
-
-#EXTINF:-1 tvg-id="USA NETWORK.mx"  tvg-logo="https://i.ibb.co.com/t841hhr/usa.png" group-title="Olahraga 1", USA 🇺🇸 🇲🇽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c760bcb13f83a8d66f4c676f04c23d81:e024f5099f059ce93607812e5b406360
-https://live1-ott.izzigo.tv/15/out/u/dash/USA-HD/default.mpd
-
 #EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="Olahraga 1", FS1 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3820,16 +3743,84 @@ https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/tmpzbb
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="Olahraga 1", FUBO SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="Olahraga 1", FUBO SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="Olahraga 1", ESPN 🇧🇴
+#EXTVLCOPT:http-referrer=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1ef5c825da48fbeeaa30e8f60ce44bd:982d1273c4a1cf6ddb8b2306a025d2f7
+https://lilac01.pontiscloud.com/live/eds/ESPN-Bolivia/live_dash_cld/ESPN-Bolivia.mpd
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="Olahraga 1", ESPN 🇧🇴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
+                
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.ibb.co.com/K0XRbdr/espn2cl.png" group-title="Olahraga 1", ESPN 2 🇧🇴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.ibb.co.com/LNQtJjG/espn3cl.png" group-title="Olahraga 1", ESPN 3 🇧🇴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.ibb.co.com/QkzBxW3/espn4.png" group-title="Olahraga 1", ESPN 4 🇧🇴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
+
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://i.ibb.co.com/4f70pMW/espn5.png" group-title="Olahraga 1", ESPN 5 🇧🇴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e126297fc7af35c736bdffe98eecaaa:fdb0091cf67d9c596dbfb07cf6f4c8f5
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/master.mpd
+
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://i.ibb.co.com/NpXGMH7/espn6.png" group-title="Olahraga 1", ESPN 6 🇧🇴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5836382452cdca1e1c8bf8b9a713534:7d261930c3309ed2b06d2abb34a64410
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/master.mpd
+
+#EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://i.ibb.co.com/2MJNnh2/espn7.png" group-title="Olahraga 1", ESPN 7 🇧🇴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98ea1e32227adcd3618baac2bbf36814:72a03a09d33e412f14a9bfa4ef24b542
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HfR4NXyg/tvnsp.png" group-title="Olahraga 1", TVN SPORTS
+https://jmp2.uk/stvp-KRBC800015MH
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/svK2qmG5/genericsports.png" group-title="Olahraga 1", UFC 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/svK2qmG5/genericsports.png" group-title="Olahraga 1",One Championship TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="GO3 Sport 1 (LT).lv" tvg-logo="https://i.ibb.co.com/fQSmk0y/go3sport1.png" group-title="Olahraga 1", GO3 Sport 1 🇱🇻
@@ -6088,31 +6079,95 @@ https://cubmu.datamu.workers.dev/SEJPIEhpdHM.mpd?exp=1791355933&channel=SEJPIEhp
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
 https://cubmu.datamu.workers.dev/SEJPLUZhbWlseS1teQ.mpd?exp=1791355933&channel=SEJPLUZhbWlseS1teQ&sig=d_hDENOc--W1qHsxcXT55KMRRnmkEYuXakHt_9ab62U
 
+#EXTINF:-1 tvg-id="Galaxy" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id" group-title="Premium Movies 🍿",Galaxy (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=49
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bvLSH6c/aswm.png" group-title="Premium Movies 🍿", [AS] 🇲🇽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=694fa2e355b31ac2c52d0a56d3d8da59:0d7eff2e4dc61d48489555068b0db46a
-https://live1-ott.izzigo.tv/15/out/u/dash/ADULT-SWIM-HD/default.mpd
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id" group-title="Premium Movies 🍿",Galaxy Premium (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=48
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bvLSH6c/aswm.png" group-title="Premium Movies 🍿", [AS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
-https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
+#EXTINF:-1 tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://images.indihometv.com/box/logo_thrill_small.png" group-title="Premium Movies 🍿",Thrill (VIS)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=41
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bvLSH6c/aswm.png" group-title="Premium Movies 🍿", [AS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a364f58ab1c4076780026409cf4c01d:f8a10d5feca4ba048e0b6218d7972eb5
-https://live.corusdigitaldev.com/groupc/live/ac4eecd5-825b-4148-9b8c-d5443b44bbff/corus-adultswim.isml/master.mpd
+#EXTINF:-1 tvg-id="HITS MOVIES" tvg-name="HITS MOVIES" tvg-logo="https://www.visionplus.id/images/repository/848/437848-SNAPSHOT-l.png" group-title="Premium Movies 🍿",Hits Movies (VIS)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=42
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bvLSH6c/aswm.png" group-title="Premium Movies 🍿", [AS]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:9739a3252d6862add482841c1445fee0
-https://lott-web-opus.cdn.avp.telus.net/232006004039/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+#EXTINF:-1 tvg-id="CELESTIAL MOVIES" tvg-name="CELESTIAL MOVIES" tvg-logo="https://www.visionplus.id/images/repository/849/437849-SNAPSHOT-l.png" group-title="Premium Movies 🍿",Celestial Movies (VIS)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=44
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+
+#EXTINF:-1 tvg-id="45" tvg-name="CCM" tvg-logo="https://i.ytimg.com/vi/E4RUQxYTZDQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAvcM_krIYfsyeovX_xPE94ok-shQ" group-title="Premium Movies 🍿",CCM (VIS)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=45
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+
+#EXTINF:-1 tvg-id="TVN MOVIES" tvg-name="TVN MOVIES" tvg-logo="https://www.visionplus.id/images/repository/847/437847-SNAPSHOT-l.png" group-title="Premium Movies 🍿",TVN Movies (VIS)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=46
+https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://www.visionplus.id/images/repository/150/438150-SNAPSHOT-l.png" group-title="Premium Movies 🍿",TVN (VIS)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=73
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://www.visionplus.id/images/repository/164/438164-SNAPSHOT-l.png" group-title="Premium Movies 🍿",Kix (VIS)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=75
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+
+#EXTINF:-1 tvg-id="ZEE BIOSKOP" tvg-name="ZEE BIOSKOP" tvg-logo="https://www.visionplus.id/images/repository/851/437851-SNAPSHOT-l.png" group-title="Premium Movies 🍿",Zee Bioskop (VIS)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=47
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
 #EXTINF:-1   tvg-logo="https://i.ibb.co.com/HTLXGzSy/addik.png" group-title="Premium Movies 🍿", ADDIK 🇨🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6241,30 +6296,6 @@ https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 https://live-channel3-cdn.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
-#EXTINF:-1 tvg-id="Galaxy - [Channel 13].id" tvg-name="Galaxy" tvg-logo="https://i.ibb.co.com/SmZJvSD/galaxy.png" group-title="Premium Movies 🍿", GALAXY 🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
-https://live-channel3-cdn.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
-
-#EXTINF:-1 tvg-id="Galaxy Premium - [Channel 12].id" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co.com/b52ZmzY/galaxyprem.png" group-title="Premium Movies 🍿", GALAXY PREMIUM 🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
-https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
-
-
-
-#EXTINF:-1 tvg-id="HITS - [Channel 160].id" tvg-name="HITS" tvg-logo="https://i.ibb.co.com/mX0d1qR/hits.png" group-title="Premium Movies 🍿", HITS 🇸🇬
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=77
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
 #EXTINF:-1 tvg-id="HITS MOVIES - [Channel 11].id" tvg-name="HITS MOVIES" tvg-logo="https://i.ibb.co.com/pvs4c09/hitsmovies.png" group-title="Premium Movies 🍿", HITS MOVIES 🇸🇬
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -6484,12 +6515,7 @@ https://live1-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
 https://live1-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd
 
-#EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co.com/Ch4MgFd/imc.png" group-title="Premium Movies 🍿", IMC 🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
-https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/thb3gcP/mnplus.png" group-title="Premium Movies 🍿" , MN+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6707,97 +6733,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 
-
-
-#EXTINF:-1 tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://images.indihometv.com/box/logo_thrill_small.png" group-title="Premium Movies 🍿",Thrill (VIS)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=41
-https://vision.hoe.my.id/play?ids=41&type=dash&token=alf-store
-
-#EXTINF:-1 tvg-id="HITS MOVIES" tvg-name="HITS MOVIES" tvg-logo="https://www.visionplus.id/images/repository/848/437848-SNAPSHOT-l.png" group-title="Premium Movies 🍿",Hits Movies (VIS)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=42
-https://vision.hoe.my.id/play?ids=42&type=dash&token=alf-store
-
-#EXTINF:-1 tvg-id="CELESTIAL MOVIES" tvg-name="CELESTIAL MOVIES" tvg-logo="https://www.visionplus.id/images/repository/849/437849-SNAPSHOT-l.png" group-title="Premium Movies 🍿",Celestial Movies (VIS)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=44
-https://vision.hoe.my.id/play?ids=44&type=dash&token=alf-store
-
-#EXTINF:-1 tvg-id="45" tvg-name="CCM" tvg-logo="https://i.ytimg.com/vi/E4RUQxYTZDQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAvcM_krIYfsyeovX_xPE94ok-shQ" group-title="Premium Movies 🍿",CCM (VIS)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=45
-https://vision.hoe.my.id/play?ids=45&type=dash&token=alf-store
-
-#EXTINF:-1 tvg-id="TVN MOVIES" tvg-name="TVN MOVIES" tvg-logo="https://www.visionplus.id/images/repository/847/437847-SNAPSHOT-l.png" group-title="Premium Movies 🍿",TVN Movies (VIS)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=46
-https://vision.hoe.my.id/play?ids=46&type=dash&token=alf-store
-
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://www.visionplus.id/images/repository/150/438150-SNAPSHOT-l.png" group-title="Premium Movies 🍿",TVN (VIS)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=73
-https://vision.hoe.my.id/play?ids=73&type=dash&token=alf-store
-
-#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://www.visionplus.id/images/repository/164/438164-SNAPSHOT-l.png" group-title="Premium Movies 🍿",Kix (VIS)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=75
-https://vision.hoe.my.id/play?ids=75&type=dash&token=alf-store
-
-#EXTINF:-1 tvg-id="ZEE BIOSKOP" tvg-name="ZEE BIOSKOP" tvg-logo="https://www.visionplus.id/images/repository/851/437851-SNAPSHOT-l.png" group-title="Premium Movies 🍿",Zee Bioskop (VIS)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=47
-https://vision.hoe.my.id/play?ids=47&type=dash&token=alf-store
-
-#EXTINF:-1 tvg-id="Galaxy" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id" group-title="Premium Movies 🍿",Galaxy (V+)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=49
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
-
-#EXTINF:-1 tvg-id="Galaxy Premium" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id" group-title="Premium Movies 🍿",Galaxy Premium (V+)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=48
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch@SD" group-title="Premium Movies 🍿" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/My_Cinema_Europe_HD_1.jpg",My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
