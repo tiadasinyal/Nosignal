@@ -7891,110 +7891,51 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/470px-Prambors.svg.png",PRAMBORS TV FHD
 https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd
 
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/470px-Prambors.svg.png",PRAMBORS TV HD
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97ff88352c574038b70e09642a90feec:66c062a920329c52fb446fac728c90d7
-https://cdn10jtedge.indihometv.com/atm/mpd-vo/pramborstv/manifest.mpd
+#EXTINF:-1 tvg-id="Prambors Live" tvg-name="Prambors Live" tvg-logo="https://prambors.live/logo-app-tile.png" group-title="Music",Prambors Live
+https://stream.prambors-poc.ms-biznetgio.net/hls/live.m3u8
+#EXTINF:-1 tvg-id="RRi Net" tvg-name="RRi Net" tvg-logo="https://rri.co.id/assets_frontend/images/logo/logo_blue.png" group-title="Music",RRI Net
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8?session=VTyJdzoqevdbYUKm4qVP9z
+
+#EXTINF:-1 tvg-id="usa.mtv" tvg-name="USA MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="Music",USA MTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://23.237.104.106:8080/USA_MTV/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Music" tvg-id="mictv.id" tvg-logo="https://iptv.urfan.web.id/logo/mictv.png",MIC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://v2.siar.us/mic/live/playlist.m3u8
+https://mic.siar.us/mic/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/SQTLjRnj/ezgif-4e840dec9df68523.png",MUSICA
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=7619
+https://ratu77.adptv.workers.dev/index.mpd?id=7619&type=dash
+
+#EXTINF:-1 tvg-id="Trace.urban" group-title="Music" tvg-logo="https://w7.pngwing.com/pngs/702/993/png-transparent-trace-urban-television-channel-free-to-air-urban-contemporary-others-television-text-rectangle.png",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" channel-id="USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-chno="4451" tvg-name="NEW KPOP" tvg-logo="https://i.ibb.co.com/xjwBb7V/musiclab.png" , NEW KPOP
+https://jmp2.uk/stvp-USAJ3000013FJ
 
 #EXTINF:-1 group-title="Music" tvg-id="tvkesehatan.id" tvg-logo="https://iptv.urfan.web.id/logo/imtv.png",IMTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
-#EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Logo-Citra-Dangdut.png/revision/latest?cb=20190513103951",Citra Dangdut
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
-
-#EXTINF:-1 group-title="Music" tvg-id="musicastudios.id" tvg-logo="https://i.ibb.co.com/HXL9xS3/20241230-010802.jpg", Musica Studios
-https://why.biz.id/Iptv/youtubehlschannelid.php?id=UCNlU3oSU8UnJ_V9uMB-cPOg
-  
-#EXTINF:-1 group-title="Music" tvg-id="officialnoahmusic.id" tvg-logo="https://i.ibb.co.com/CvSBQ6x/20241230-010908.jpg", Noah Live Stream
-https://why.biz.id/Iptv/youtubehlschannelid.php?id=UCXWOf2fdWef8tbv1X27JHzw
-
-#EXTINF:-1 group-title="Music" tvg-id="aquariusmusikindo.id" tvg-logo="https://i.ibb.co.com/HqDqz8W/20241230-011020.jpg", Aquarius Musik Indo Official 
-https://why.biz.id/Iptv/youtubehlschannelid.php?id=UCpJRmMTfdv0iPbnjo6qBw_g
-
-#EXTINF:-1 group-title="Music" tvg-id="aquariusmusikindo.id" tvg-logo="https://i.ibb.co.com/HqDqz8W/20241230-011020.jpg", Aquarius Musik Indo
-https://why.biz.id/Iptv/youtubehlsvideoid.php?id=dg5tyFRkyX8
-
-#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://hometv.pw/logo/music/mtv_live.png" group-title="Music",MTV LIVE
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mediampd/MTVLiveHD.mpd
-
-#EXTINF:-1 tvg-name="MTV 90s" tvg-logo="https://hometv.pw/logo/music/mtv90s.png" group-title="Music",MTV 90s 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mediampd/MTV90sHD.mpd
-
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="Music",IMTV
-https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="Music",K Pop Channel
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="Music",K Pop2 Channel
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FSiqLLSWQAIxK78?format=png&name=240x240" group-title="Music",K Pop
-https://marine2.miplay.cl/kpop/playlist.m3u8
-
-#EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-logo="https://pakar.co.id/storage/2019/08/Musica-Studio.png" group-title="Music" , MUSICA Klasik
-https://youtube-hls-m3u8.nixiehai263.repl.co/video/5WHIxOgGctQ.m3u8
-
-#EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-logo="https://pakar.co.id/storage/2019/08/Musica-Studio.png" group-title="Music" , MUSICA NOAH 
-https://youtube-hls-m3u8.nixiehai263.repl.co/video/jw55W0JCsnY.m3u8
-
-#EXTINF:-1  tvg-id="" group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcozyt-aU5CNk5mJ9JosMFISsSUqxkxPZ-w&usqp=CAU",Pop Nagaswara Radio
-http://jakarta.nagaswarafm.com:8100/stream
-
-#EXTINF:-1  tvg-id="" group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcozyt-aU5CNk5mJ9JosMFISsSUqxkxPZ-w&usqp=CAU",Nagaswara Dangdut Radio
-http://jakarta.nagaswarafm.com:8200/stream
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.imgur.com/qorKB3P.png" group-title="Music",1Music
 http://rtmp.one.by:1300
 
-#EXTINF:-1 group-title="Music" tvg-id="vh1east.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/640px-VH1_logonew.svg.png",VH1
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/1-mus.-tv/1MUS.TV.jpg" group-title="Music",First Channel
+http://hz1.teleport.cc/HLS/HD.m3u8
+
 
 #EXTINF:-1 tvg-id="Arabica" group-title="Music" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/14/d2/93/14d293ef-cdb5-c4cf-fe97-e60528e3c106/source/512x512bb.jpg",Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="Trace.urban" group-title="Music" tvg-logo="https://w7.pngwing.com/pngs/702/993/png-transparent-trace-urban-television-channel-free-to-air-urban-contemporary-others-television-text-rectangle.png",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/466211162627915777/9IN6xYTd_400x400.png" group-title="Music", VEVO Pop 
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png",Clubbing TV
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Music" tvg-id="mbcamerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/640px-Munhwa_Broadcasting_Company.svg.png",MBC America
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
-
-------
-
-#EXTINF:-1 tvg-id="BreezeTV.nz" tvg-country="NZ" tvg-language="English" tvg-logo="https://i.imgur.com/3dpH9XF.jpg" group-title="Music",Breeze TV
-https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
-
-#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.postimg.cc/C1JgLtGC/stingray.png" group-title="Music",Stingray Pop
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-
-#EXTINF:-1 tvg-id="Xite.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="Music",Xite
-https://xite-samsung-de.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TNTMusic.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.magticom.ge/images/channels/MjAxOC8wOS8xMC81M2IyOTljZi02MmUyLTRkZjYtYWQzNy1mNzgxYmFjZGZhMWQuanBn.jpg" group-title="Music",Ð¢ÐÐ¢ Music
-http://83.222.205.65:8080/tntmusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ckxdfn7jpz5gmal/reload.jpg?dl=1" group-title="Music", Reload
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
@@ -8003,27 +7944,12 @@ http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 #EXTINF:-1 tvg-id="SpiritTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jR24flK.png" group-title="Music",SpiritTV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
-#EXTINF:-1  tvg-id="" group-title="Music" tvg-logo="https://i.imgur.com/aTOVeZl.png",RETRO
-http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/xUO28jo.png",Hits 360
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.imgur.com/QoqcCyO.png" group-title="Music",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/TYx2hPRP/logo200.jpg" ,MUSIC TOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg",V2Beats
 https://abr.de1se01.v2beat.live/playlist.m3u8  
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Google_Play_Music_icon_%282016-2020%29.svg/918px-Google_Play_Music_icon_%282016-2020%29.svg.png" group-title="Music",Play Music
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png" group-title="Music",Q Music 
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13ZbSSWR/afrobeats.png" group-title="Music",Afro Beats
 https://stream.ecable.tv/afrobeats/playlist.m3u8
@@ -8031,53 +7957,9 @@ https://stream.ecable.tv/afrobeats/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/P5dE0k5wUTJg4MQUga2FfqITwqaHxlQtqWF4OSMb1qBAjatsr9II2O9Yn9t3XonVB1k" group-title="Music",Retro Music
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/1-mus.-tv/1MUS.TV.jpg" group-title="Music",First Channel
-http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kronehit_Logo2018_Nachtblau_rgb.svg/1200px-Kronehit_Logo2018_Nachtblau_rgb.svg.png" group-title="Music",KRONE HIT
 http://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0QV1tk9ZADbXF1Ep8FDY99s7jVpaZV8OlRKfwhOtKSYaDvWDr1KcLbbVyfq5XqcUtYkQ&usqp=CAU" group-title="Music",Music TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://loupeprint.com/Loupe2020.png" group-title="Music",LOUPE Channel
-https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",7S MUSIC (India)
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/Stream(01)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLzDtZMC/9XM.png" group-title="Music",9XM (India)
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",BOOGLE BOLLYWOOD (India)
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/booglebollywood/booglebolly1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F11YPtN/desi-channel.png" group-title="Music",DESI Channel (India)
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-id="boxhits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png",Box Hits 
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/ 
-
-#EXTINF:-1 group-title="Music" tvg-id="b4umusic.in" tvg-logo="https://i.postimg.cc/C1H0nHwV/1681710504042.png",B4U Music 
-http://37.49.230.161:8080/bigboss/dF2SUPPUwzmZ8prS/1368
-
-
-#EXTINF:-1 group-title="Music" tvg-id="vevo80s.us" tvg-logo="https://i.imgur.com/uxKQ7zI.png",Vevo '80s 
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8 
-
-
-#EXTINF:-1 group-title="Music" tvg-id="Mnet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png",Mnet Korean
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://everylive.online/live/mnet/livestream.m3u8
-
-#EXTINF:-1 channel-id="pluto-623a1b5188ecdc0007c9ef5a" tvg-id="623a1b5188ecdc0007c9ef5a" tvg-chno="2540" tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="Music" , XITE Rock
-https://i.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FSiqLLSWQAIxK78?format=png&name=240x240" group-title="Music",K Pop
-https://marine2.miplay.cl/kpop/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/887f87f5db4607fe06a5c084439cbf8c.jpg" group-title="Music",Persiana Korea
-http://51.210.199.14/hls/stream.m3u8
 
 ==============================Channel Transvision================================
 
