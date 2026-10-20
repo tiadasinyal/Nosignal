@@ -7893,6 +7893,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Prambors Live" tvg-name="Prambors Live" tvg-logo="https://prambors.live/logo-app-tile.png" group-title="Music",Prambors Live
 https://stream.prambors-poc.ms-biznetgio.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="Urban Radio Bandung" tvg-name="Urban Radio Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/Icon-White-1-300x300.png" group-title="Music",Urban Radio Bandung
+https://urbanradio.siar.us/live/urbanradio.m3u8
+
 #EXTINF:-1 tvg-id="RRi Net" tvg-name="RRi Net" tvg-logo="https://rri.co.id/assets_frontend/images/logo/logo_blue.png" group-title="Music",RRI Net
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8?session=VTyJdzoqevdbYUKm4qVP9z
 
