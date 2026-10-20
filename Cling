@@ -29,6 +29,90 @@ https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c685651d7bcc01651f0
 #EXTINF:-1 tvg-id:"4028c685651d7bcc01651f0b6d210096" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0b6d210096/1965733f57cc4d10a8466d39ce0a1ec6.jpg" group-title="TV", TransTV CBCS
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
+#EXTINF:-1 tvg-id="235" tvg-name="Warner TV" tvg-logo="" group-title="TV",HBO
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/SEJPLW15/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
+
+#EXTINF:-1 tvg-id="235" tvg-name="Warner TV" tvg-logo="" group-title="TV",HBO Hits
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/SEJPIEhpdHM/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
+
+#EXTINF:-1 tvg-id="235" tvg-name="Warner TV" tvg-logo="" group-title="TV",HBO Family
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/SEJPLUZhbWlseS1teQ/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
+
+#EXTINF:-1 tvg-id="235" tvg-name="Warner TV" tvg-logo="" group-title="TV",HBO Signature
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
+
+
+#EXTINF:-1 tvg-id="235" tvg-name="Warner TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/96ff5280-ad2a-4e90-989e-6b058765bd0a.png" group-title="TV",Warner TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-9e8ab19476b0b02236589b3e564e8658/dash/V2FybmVyIFRW/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
+
+
+#EXTINF:-1 tvg-id="190" tvg-name="Cinemax" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/4d09b6dd-5069-4da8-bf92-88ee4f3f3234.jpg" group-title="TV",Cinemax
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-9e8ab19476b0b02236589b3e564e8658/dash/Q2luZW1heA/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
+
+#EXTINF:-1 tvg-id="193" tvg-name="AXN" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/580931ac-8ed9-4481-bded-944e08720b80.jpg" group-title="TV",AXN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-9e8ab19476b0b02236589b3e564e8658/dash/QVhOLW15/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
+
+#EXTINF:-1 tvg-id="206" tvg-name="KBS World" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/f9c8f996-ec15-4c82-96fb-a3e986fadc58.png" group-title="TV",KBS World
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-9e8ab19476b0b02236589b3e564e8658/dash/S0JTIFdvcmxk/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
+
+
+#EXTINF:-1 tvg-id="194" tvg-name="tVN" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/858597ab-2fb4-4642-8977-37122b0e365b.png" group-title="TV",tVN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-9e8ab19476b0b02236589b3e564e8658/dash/dHZOQ2hhbm5lbA/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
+
+#EXTINF:-1 tvg-id="227" tvg-name="TVN Movies" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/d32d358f-6710-4be7-a7f6-c055349f5364.png" group-title="TV",TVN Movies
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-9e8ab19476b0b02236589b3e564e8658/dash/VFZOIE1vdmllcw/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
+
+#EXTINF:-1 tvg-id="229" tvg-name="Celestial Movies" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/fec79de9-3c34-4936-9ea7-cd370c310679.jpg" group-title="TV",Celestial Movies
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-9e8ab19476b0b02236589b3e564e8658/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
+
+
+#EXTINF:-1 tvg-id="232" tvg-name="Thrill" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/f4eac485-536d-4609-bb3b-1780802ab69c.jpg" group-title="TV",Thrill
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-9e8ab19476b0b02236589b3e564e8658/dash/VGhyaWxs/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
+
+
+#EXTINF:-1 tvg-id="230" tvg-name="Bioskop Indonesia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/ott_image/45f8c277-dbd4-4846-988c-a033322ab921.png" group-title="TV",Bioskop Indonesia
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-9e8ab19476b0b02236589b3e564e8658/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
+
+
 ------------------------------------------- World Cup 2026 ------------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026.7042846f.png" group-title="World Cup", FOX 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
