@@ -1248,8 +1248,10 @@ http://91.224.190.66:4263/bysid/26624
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=1&type=drm&token=KITKATTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+https://vision.mikrofast.web.id/license?id=10&type=drm&token=KITKATTV
 
 EXTINF:-1 group-title="TV National" group-logo="https://static.vecteezy.com/system/resources/thumbnails/015/309/654/small_2x/indonesia-waving-flag-realistic-transparent-background-free-png.png" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/pThdSD7.png",RCTI HD
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
@@ -1271,13 +1273,19 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
+#EXTINF:-1 group-title="TV National" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/pThdSD7.png",RCTI R+
+#EXTINF:-1 tvg-id="RCTI.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png" group-title="Indonesia Channels",RCTI (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+
 #EXTINF:-1 group-title="TV National" tvg-id="GTV.id" tvg-logo="https://i.imgur.com/bRgrQGI.png",GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=3&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=3&type=drm&token=KITKATTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 EXTINF:-1 group-title="TV National" tvg-id="GTV.id" tvg-logo="https://i.imgur.com/bRgrQGI.png",GTV TRV
@@ -1300,13 +1308,18 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
+#EXTINF:-1 group-title="TV National" tvg-id="GTV.id" tvg-logo="https://i.imgur.com/bRgrQGI.png",GTV R+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
+
 #EXTINF:-1 group-title="TV National" tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/FHFe1c2.png",MNCTV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=2&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=2&type=drm&token=KITKATTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/FHFe1c2.png",MNCTV HD
@@ -1331,6 +1344,10 @@ https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
+#EXTINF:-1 group-title="TV National" tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/FHFe1c2.png",MNCTV R+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
 
 #EXTINF:-1 group-title="TV National" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/I0L6H1W.png",iNews HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1338,7 +1355,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=4&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=4&type=drm&token=KITKATTV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/I0L6H1W.png",iNews HD
@@ -1355,6 +1372,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTINF:-1 group-title="TV National" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/I0L6H1W.png",iNews R+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png" group-title="TV National", SindoNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1392,7 +1414,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=10&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=10&type=drm&token=KITKATTV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/QWeAZ6j.png",ANTV
@@ -1404,6 +1426,12 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=10
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
+#EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/QWeAZ6j.png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
+
+
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/CgZ5lze.png",TVOne
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1411,7 +1439,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=12&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=12&type=drm&token=KITKATTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/CgZ5lze.png",TVOne
@@ -1453,7 +1481,7 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=9&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=9&type=drm&token=KITKATTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 
@@ -1504,7 +1532,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=8&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=8&type=drm&token=KITKATTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 
@@ -1535,7 +1563,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=19&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=19&type=drm&token=KITKATTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
 
 
@@ -1545,7 +1573,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=20&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=20&type=drm&token=KITKATTV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mentari_TV_Logo.svg/250px-Mentari_TV_Logo.svg.png",Mentari TV
@@ -1564,7 +1592,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=6&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=6&type=drm&token=KITKATTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/g50Vt1H.png",Trans TV
@@ -1589,7 +1617,7 @@ https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=7&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=7&type=drm&token=KITKATTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/wWvZ5in.png",Trans 7
@@ -1645,7 +1673,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=23&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=23&type=drm&token=KITKATTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
 #EXTINF:-1 group-title="TV National" tvg-id="NET TV.id" tvg-logo="https://i.imgur.com/apTPT8k.png",MDTV
@@ -3353,7 +3381,7 @@ https://flv.intechmedia.net/live/ch30.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=56&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=56&type=drm&token=KITKATTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 #EXTINF:-1 tvg-id="MOONBUG" tvg-name="MOONBUG" tvg-logo="https://www.visionplus.id/images/repository/863/437863-SNAPSHOT-l.png" group-title="Anak",Moonbug (VIS)
@@ -3362,8 +3390,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=57&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=57&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=57&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=57&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="CBEEBIES" tvg-name="CBEEBIES" tvg-logo="https://static.files.bbci.co.uk/core/website/assets/static/childrens-web/images/metadata/cbeebies-poster-1024x576.8eb27aa32e.png" group-title="Anak",Cbeebies (VIS)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3371,8 +3399,8 @@ https://vision.hoe.my.id/play?ids=57&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=58&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=58&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=58&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=58&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://www.visionplus.id/images/repository/860/437860-SNAPSHOT-l.png" group-title="Anak",Nick Jr (VIS)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3380,8 +3408,8 @@ https://vision.hoe.my.id/play?ids=58&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=60&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=60&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=60&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=60&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="ZOO MOO" tvg-name="ZOO MOO" tvg-logo="https://www.visionplus.id/images/repository/858/437858-SNAPSHOT-l.png" group-title="Anak",Zoo Moo (VIS)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3389,8 +3417,8 @@ https://vision.hoe.my.id/play?ids=60&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=63&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=63&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=63&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=63&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="NICK" tvg-name="NICK" tvg-logo="https://www.visionplus.id/images/repository/861/437861-SNAPSHOT-l.png" group-title="Anak",Nick (VIS)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3398,8 +3426,8 @@ https://vision.hoe.my.id/play?ids=63&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=64&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=64&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=64&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=64&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://www.visionplus.id/images/repository/153/438153-SNAPSHOT-l.png" group-title="Anak",Animax (VIS)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3407,8 +3435,8 @@ https://vision.hoe.my.id/play?ids=64&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=65&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=65&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=65&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=65&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="DREAM WORKS" tvg-name="DREAM WORKS" tvg-logo="https://www.visionplus.id/images/repository/857/437857-SNAPSHOT-l.png" group-title="Anak",Dream Works (VIS)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3416,8 +3444,8 @@ https://vision.hoe.my.id/play?ids=65&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=67&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=67&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=67&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=67&type=dash&token=alf-store
 
 
 #EXTINF:-1 tvg-id="mjh-abc-kids"  tvg-logo="https://i.ibb.co.com/2FGJLGg/abckids.png" group-title="Anak", ABC KIDS 🇦🇺
@@ -3672,8 +3700,8 @@ http://whatareyoudoing.ddns.net/corsproxy.php/https://linearjitp-playback.astro.
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=20&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=20&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=20&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=20&type=dash&token=alf-store
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
@@ -4622,7 +4650,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=119&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=119&type=drm&token=KITKATTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Olahraga 2",SPOTV (V+)
@@ -4641,7 +4669,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=120&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=120&type=drm&token=KITKATTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Olahraga 2",SPOTV 2 (V+)
@@ -4726,8 +4754,8 @@ https://otte.cache.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1002&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=1002&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=1002&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=1002&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="1008" tvg-name="R+ LIVE" tvg-logo="https://cdn.aptoide.com/imgs/d/9/7/d973147f79bbb40cd17183d0d63fa590_fgraphic.png" group-title="Olahraga 2",R+ LIVE (VIS)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4735,8 +4763,8 @@ https://vision.hoe.my.id/play?ids=1002&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1008&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=1008&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=1008&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=1008&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="1010" tvg-name="V+ LIVE 2" tvg-logo="https://cdn.aptoide.com/imgs/d/9/7/d973147f79bbb40cd17183d0d63fa590_fgraphic.png" group-title="Olahraga 2",V+ LIVE 2 (VIS)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4744,8 +4772,8 @@ https://vision.hoe.my.id/play?ids=1008&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1010&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=1010&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=1010&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=1010&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="1011" tvg-name="V+ Sports" tvg-logo="https://cdn.aptoide.com/imgs/d/9/7/d973147f79bbb40cd17183d0d63fa590_fgraphic.png" group-title="Olahraga 2",V+ Sports (VIS)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4753,8 +4781,8 @@ https://vision.hoe.my.id/play?ids=1010&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1011&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=1011&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=1011&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=1011&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="1012" tvg-name="V+ LIVE 3" tvg-logo="https://cdn.aptoide.com/imgs/d/9/7/d973147f79bbb40cd17183d0d63fa590_fgraphic.png" group-title="Olahraga 2",V+ LIVE 3 (VIS)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4762,8 +4790,8 @@ https://vision.hoe.my.id/play?ids=1011&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1012&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=1012&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=1012&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=1012&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="1013" tvg-name="V+ LIVE 4" tvg-logo="https://cdn.aptoide.com/imgs/d/9/7/d973147f79bbb40cd17183d0d63fa590_fgraphic.png" group-title="Olahraga 2",V+ LIVE 4 (VIS)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4771,8 +4799,8 @@ https://vision.hoe.my.id/play?ids=1012&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1013&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=1013&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=1013&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=1013&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="1014" tvg-name="V+ LIVE 5" tvg-logo="https://cdn.aptoide.com/imgs/d/9/7/d973147f79bbb40cd17183d0d63fa590_fgraphic.png" group-title="Olahraga 2",V+ LIVE 5 (VIS)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4780,8 +4808,8 @@ https://vision.hoe.my.id/play?ids=1013&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1014&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=1014&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=1014&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=1014&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="1015" tvg-name="V+ LIVE 6" tvg-logo="https://cdn.aptoide.com/imgs/d/9/7/d973147f79bbb40cd17183d0d63fa590_fgraphic.png" group-title="Olahraga 2",V+ LIVE 6 (VIS)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4789,8 +4817,8 @@ https://vision.hoe.my.id/play?ids=1014&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1015&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=1015&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=1015&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=1015&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="1016" tvg-name="V+ LIVE 7" tvg-logo="https://cdn.aptoide.com/imgs/d/9/7/d973147f79bbb40cd17183d0d63fa590_fgraphic.png" group-title="Olahraga 2",V+ LIVE 7 (VIS)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4798,8 +4826,8 @@ https://vision.hoe.my.id/play?ids=1015&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1016&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=1016&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=1016&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=1016&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="1017" tvg-name="V+ LIVE 8" tvg-logo="https://cdn.aptoide.com/imgs/d/9/7/d973147f79bbb40cd17183d0d63fa590_fgraphic.png" group-title="Olahraga 2",V+ LIVE 8 (VIS)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4807,8 +4835,8 @@ https://vision.hoe.my.id/play?ids=1016&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1017&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=1017&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=1017&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=1017&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="1018" tvg-name="V+ LIVE 9" tvg-logo="https://cdn.aptoide.com/imgs/d/9/7/d973147f79bbb40cd17183d0d63fa590_fgraphic.png" group-title="Olahraga 2",V+ LIVE 9 (VIS)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4816,8 +4844,8 @@ https://vision.hoe.my.id/play?ids=1017&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1018&type=drm&token=alf-store
-https://vision.hoe.my.id/play?ids=1018&type=dash&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=1018&type=drm&token=KITKATTV
+https://vision.mikrofast.web.id/license?ids=1018&type=dash&token=alf-store
 
 #EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEJWqtog6fYBeuNjXKtN3M8yZ03aarR2fVYWiPNcuTA&s" group-title="Olahraga 2",Sportstars 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4825,7 +4853,7 @@ https://vision.hoe.my.id/play?ids=1018&type=dash&token=alf-store
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=112&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=112&type=drm&token=KITKATTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEJWqtog6fYBeuNjXKtN3M8yZ03aarR2fVYWiPNcuTA&s" group-title="Olahraga 2",Sportstars 1
@@ -4844,7 +4872,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=113&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=113&type=drm&token=KITKATTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Olahraga 2",Sportstars 2
@@ -4863,7 +4891,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=114&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=114&type=drm&token=KITKATTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="" tvg-logo="https://cdn.urfan.id/logo/sportstars3.png",Sportstars 3
@@ -4881,7 +4909,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=205&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=205&type=drm&token=KITKATTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:0 tvg-id="SS4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sportstars_4.png/640px-Sportstars_4.png" group-title="Olahraga 2",Sportstars 4
@@ -4909,7 +4937,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=115&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=115&type=drm&token=KITKATTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 tvg-id="beInSports1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Olahraga 2",beIN Sports 1 (V+)
@@ -4918,7 +4946,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=122&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=122&type=drm&token=KITKATTV
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 #EXTINF:-1 tvg-id="beInSports1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Olahraga 2",beIN Sports 1 (V+)
@@ -4937,7 +4965,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=123&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=123&type=drm&token=KITKATTV
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
 #EXTINF:-1 tvg-id="beInSports2.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Olahraga 2",beIN Sports 2 (V+)
@@ -4957,7 +4985,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=124&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=124&type=drm&token=KITKATTV
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #EXTINF:-1 tvg-id="beInSports3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Olahraga 2",beIN Sports 3 (V+)
@@ -4977,7 +5005,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=125&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=125&type=drm&token=KITKATTV
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="beinsport4s.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",BEIN SPORTS 4 (V+)
@@ -4995,7 +5023,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=126&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=126&type=drm&token=KITKATTV
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 #EXTINF:-1 group-title="Olahraga 2" tvg-id="beinsport4s.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_313.png",BEIN SPORTS 5 (V+)
