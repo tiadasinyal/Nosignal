@@ -1500,7 +1500,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8
 #EXTVLCOPT:http-referrer=https://dens.tv/
 https://stream.urfan.id/tvone
 
-#EXTINF:-1 group-title="TV National" tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/1K6Q4RY.png",Indosiar HD
+EXTINF:-1 group-title="TV National" tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/1K6Q4RY.png",Indosiar HD
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
@@ -1530,8 +1530,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 
 #EXTINF:-1 group-title="TV National" tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/1K6Q4RY.png",Indosiar HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d3j13axdkrh9nh.cloudfront.net/indosiar/index.m3u8
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=205&type=dash
 
 
 EXTINF:-1 group-title="TV National" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/xYtZ3ll.png",SCTV HD
@@ -1569,8 +1568,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 
 #EXTINF:-1 group-title="TV National" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/xYtZ3ll.png",SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d3j13axdkrh9nh.cloudfront.net/sctv/index.m3u8
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=204&type=dash
 
 
 #EXTINF:-1 group-title="TV National" tvg-id="MOJI.id" tvg-logo="https://i.imgur.com/8KN5BFs.png",Moji HD
@@ -1605,7 +1603,7 @@ EXTINF:-1 group-title="TV National" tvg-id="MOJI.id" tvg-logo="https://i.imgur.c
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=19&type=drm&token=KITKATTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
 
-#EXTINF:-1 group-title="TV National" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mentari_TV_Logo.svg/250px-Mentari_TV_Logo.svg.png",Mentari TV
+EXTINF:-1 group-title="TV National" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mentari_TV_Logo.svg/250px-Mentari_TV_Logo.svg.png",Mentari TV
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 #EXTHTTP:{"Origin":"https://www.visionplus.id","Referer":"https://www.visionplus.id/"}
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1622,6 +1620,9 @@ EXTINF:-1 group-title="TV National" tvg-id="mentaritv.id" tvg-logo="https://uplo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=20&type=drm&token=KITKATTV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+
+#EXTINF:-1 tvg-id="MentariTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="TV National",Mentari TV 
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=8237&type=dash
 
 EXTINF:-1 group-title="TV National" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mentari_TV_Logo.svg/250px-Mentari_TV_Logo.svg.png",Mentari TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1651,7 +1652,7 @@ EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/g50Vt1H.png",T
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=6
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/g50Vt1H.png",Trans TV detik
+#EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/g50Vt1H.png",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://proxy-v.rctiplus.id/live/web/transtv/index.m3u8
@@ -1693,7 +1694,7 @@ https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
 https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="TV National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png?_=20251220212259",CNBC Indonesia
+#EXTINF:-1 group-title="TV National" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",CNBC Indonesia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -1706,7 +1707,7 @@ EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" group-title="TV National" tvg-logo="https
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd?signature=MzhkZjY1Y2EyMmE0MzM4MTVjOTZiNzVlZDljOGQ4YzU=&time=77777777777&device_id=TAb8c-9cSQPbVY8ExGo-E6ZsjYUISTPKwj0ieaXy5egGj0Yrsg
 
-#EXTINF:-1 group-title="TV National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/330px-CNN_Indonesia_logo.svg.png",CNN Indonesia
+#EXTINF:-1 group-title="TV National" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2",CNN Indonesia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -1755,7 +1756,7 @@ https://stream.urfan.id/mdtv
 #KODIPROP:inputstream.adaptive.license_key=https://brass.my.id/visionplus-brass-hybrid-v2/license.php?ids=23&exp=1795098338&sig=f6fdefd2340679dd8a2a387dda79995c521b03141c0849ccc7d3d739adc6ea1e
 https://brass.my.id/visionplus-brass-hybrid-v2/play.mpd?ids=23&exp=1795098338&sig=c91b0162fe4b9c940916f1c51fe6a44891e88e4c7184cded4af2e94d20a41cb5
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="TV National" tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id", Jowo TV
+#EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="TV National" tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id", Jowo TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
@@ -1774,7 +1775,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://brass.my.id/visionplus-brass-hybrid-v2/play.m3u8?ids=89&exp=1795098338&sig=06c1e2fd742166876e2ddfb8ecb22ddd28a5e5abb6b9e10403a6e221b1c65b5e
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="TV National",VTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" group-title="TV National",VTV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
