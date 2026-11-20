@@ -13,6 +13,14 @@
 
 
 =====================TV=========================
+
+#EXTINF:-1 tvg-name="RCTI" tvg-id="RCTI" group-title="TV" tvg-logo="https://www.visionplus.id/images/repository/373/437373-SNAPSHOT-l.png",RCTI (VIS)
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
+#EXTHTTP:{"Origin":"https://www.visionplus.id","Referer":"https://www.visionplus.id/"}
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://brass.my.id/visionplus-brass-hybrid-v2/play.m3u8?ids=1&exp=1795420709&sig=c579f4e03a0b1620e3199b10fe8ff4fc83a5e94422aa3e801a6b50ba959de337
+
 #EXTINF:-1 tvg-name="ANTV.id" tvg-logo="https://images.indihometv.com/logo_antvnew_big.png" group-title="TV",ANTV 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
