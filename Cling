@@ -1378,8 +1378,13 @@ EXTINF:-1 group-title="TV National" tvg-id="iNews.id" tvg-logo="https://i.imgur.
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=4
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
 
+#EXTINF:-1 group-title="TV National" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/I0L6H1W.png",iNews HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://linier-inews.rctiplus.id/inews-sdi-avc1_1000000=22-mp4a_96000=1.m3u8
 
-EXTINF:-1 group-title="TV National" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/I0L6H1W.png",iNews R+
+
+#EXTINF:-1 group-title="TV National" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/I0L6H1W.png",iNews R+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
@@ -1403,9 +1408,6 @@ https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/ind
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/sindonews/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/R7km87W/psjtv.png" group-title="TV National" , PSJ TV
-#EXTVLCOPT:http-user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="TVParlemen" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/410.png" group-title="TV National",TVParlemen
 http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
@@ -1450,8 +1452,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/QWeAZ6j.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/antv/index.m3u8
 
 #EXTINF:-1 group-title="TV National" tvg-logo="https://i.imgur.com/QWeAZ6j.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
