@@ -14,47 +14,6 @@
 
 =====================TV=========================
 
-#EXTINF:-1 tvg-name="RCTI" tvg-id="RCTI" group-title="TV" tvg-logo="https://www.visionplus.id/images/repository/373/437373-SNAPSHOT-l.png",RCTI (VIS)
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
-#EXTHTTP:{"Origin":"https://www.visionplus.id","Referer":"https://www.visionplus.id/"}
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://brass.my.id/visionplus-brass-hybrid-v2/play.m3u8?ids=1&exp=1795420709&sig=c579f4e03a0b1620e3199b10fe8ff4fc83a5e94422aa3e801a6b50ba959de337
-
-#EXTINF:-1 tvg-name="ANTV.id" tvg-logo="https://images.indihometv.com/logo_antvnew_big.png" group-title="TV",ANTV 
-#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://beetv.my.id/jabingan/vd.m3u8?ch=antv
-
-#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/2c9f9082998232e0019b35eb56725b65/3e89e8a72a0d4d88a4d7b927e62fc6fd.jpg" group-title="TV",ANTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.datamu.workers.dev/key
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
-https://cubmu.datamu.workers.dev/QU5UVg.mpd?exp=1795028836&channel=QU5UVg&sig=avC3Waq7-yHYBZOPFzgixVwH2tp_HPJ7K5Ml-QeiZjU
-
-#EXTINF:-1 tvg-name="RCTI.id" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="TV",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/jabingan/rcti.m3u8?id=1
-
-#EXTINF:-1 tvg-id="9183" tvg-logo="https://thumbor.prod.vidiocdn.com/YPVCaRhTAIjP2Bql56wNeWFhTDQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="TV", Champions TV 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gangbangbonetv.lampasioagus.workers.dev/index.mpd?id=9183&type=drm
-https://gangbangbonetv.lampasioagus.workers.dev/index.mpd?id=9183&type=dash
-
-
-#EXTINF:-1 tvg-id="nsert.id@SD" group-title="TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_insert.png",ga tw ch
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://maxstream.tv&Referer=https://maxstream.tv/&X-Forwarded-For=1.1.1.1&Client-IP=1.1.1.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TURUVg/manifest.mpd
-
 #EXTINF:-1 tvg-id="nsert.id@SD" group-title="TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_insert.png",!nsert
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1310,13 +1269,6 @@ EXTINF:-1 group-title="TV National" group-logo="https://static.vecteezy.com/syst
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?ids=1&type=drm&token=KITKATTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-
-EXTINF:-1 group-title="TV National" group-logo="https://static.vecteezy.com/system/resources/thumbnails/015/309/654/small_2x/indonesia-waving-flag-realistic-transparent-background-free-png.png" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/pThdSD7.png",RCTI HD
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/UkNUSS1DaGFubmVs/manifest.mpd?signature=M2E4Y2FjZWIxNWEwNmI1YjViYTc5MDAxM2UxYTg5MjM=&time=77777777777&device_id=hY5M2fmdSFTWh5tytanqPWbmxgnCzg5URb9Cgk5AB1RWkUWMtA
-
 EXTINF:-1 group-title="TV National" group-logo="https://static.vecteezy.com/system/resources/thumbnails/015/309/654/small_2x/indonesia-waving-flag-realistic-transparent-background-free-png.png" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/pThdSD7.png",RCTI HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1331,10 +1283,14 @@ EXTINF:-1 group-title="TV National" tvg-id="RCTI.id" tvg-logo="https://i.imgur.c
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 group-title="TV National" group-logo="https://static.vecteezy.com/system/resources/thumbnails/015/309/654/small_2x/indonesia-waving-flag-realistic-transparent-background-free-png.png" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/pThdSD7.png",RCTI R+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+#EXTINF:-1 group-title="TV National" group-logo="https://static.vecteezy.com/system/resources/thumbnails/015/309/654/small_2x/indonesia-waving-flag-realistic-transparent-background-free-png.png" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/pThdSD7.png",RCTI V+
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
+#EXTHTTP:{"Origin":"https://www.visionplus.id","Referer":"https://www.visionplus.id/"}
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://brass.my.id/visionplus-brass-hybrid-v2/license.php?ids=1&exp=1795659691&sig=e31ff4d06ecfbfcbe83963f55225a3524ec0e7ffc9d251443e116727442072c1
+https://brass.my.id/visionplus-brass-hybrid-v2/play.mpd?ids=1&exp=1795659691&sig=4f8ee9337542671879cef320085165844977551df6db12d332958fd95a90bcfd
 
 EXTINF:-1 group-title="TV National" tvg-id="GTV.id" tvg-logo="https://i.imgur.com/bRgrQGI.png",GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
