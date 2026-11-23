@@ -1284,9 +1284,10 @@ EXTINF:-1 group-title="TV National" tvg-id="RCTI.id" tvg-logo="https://i.imgur.c
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 group-title="TV National" group-logo="https://static.vecteezy.com/system/resources/thumbnails/015/309/654/small_2x/indonesia-waving-flag-realistic-transparent-background-free-png.png" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/pThdSD7.png",RCTI V+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/117916
-https://linier-rcti.rctiplus.id/rcti-sdi-avc1_1000000=17-mp4a_96000=1.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rplus.inisemar.my.id/rcti.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 EXTINF:-1 group-title="TV National" tvg-id="GTV.id" tvg-logo="https://i.imgur.com/bRgrQGI.png",GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
